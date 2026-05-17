@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-05-17T18:23:29.177499+00:00",
+  "generatedAt": "2026-05-17T18:45:44.801927+00:00",
   "totals": {
-    "items": 75,
+    "items": 91,
     "byBucket": {
       "data": 3,
-      "ai-agent": 19,
-      "ai-app": 20,
-      "ai-infra": 8,
-      "devtool": 7,
-      "other": 17,
-      "security": 1
+      "ai-agent": 20,
+      "ai-app": 23,
+      "ai-infra": 11,
+      "devtool": 8,
+      "other": 23,
+      "security": 2,
+      "web-framework": 1
     },
     "byAudience": {
-      "B": 14,
-      "dev": 30,
-      "both": 17,
-      "C": 14
+      "B": 15,
+      "dev": 38,
+      "both": 22,
+      "C": 16
     },
     "bySource": {
       "github_trending": 18,
-      "hn": 7,
+      "hn": 23,
       "product_hunt": 50
     }
   },
@@ -60,8 +61,8 @@
         "sdr"
       ],
       "rationale": "Aggregates many live OSINT telemetry feeds into a unified map, pointing to demand for packaged intelligence data layers.",
-      "stars": 6921,
-      "stars7dDelta": 1,
+      "stars": 6932,
+      "stars7dDelta": 12,
       "hnPoints": null
     },
     {
@@ -85,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 35444,
-      "stars7dDelta": 2,
+      "stars": 35458,
+      "stars7dDelta": 16,
       "hnPoints": null
     },
     {
@@ -127,8 +128,8 @@
         "workflow-automation"
       ],
       "rationale": "Packaged local AI suite bundling chat, voice, RAG, agents, and image gen as a no-cloud alternative.",
-      "stars": 1045,
-      "stars7dDelta": 2,
+      "stars": 1056,
+      "stars7dDelta": 13,
       "hnPoints": null
     },
     {
@@ -152,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 3153,
-      "stars7dDelta": 3,
+      "stars": 3171,
+      "stars7dDelta": 21,
       "hnPoints": null
     },
     {
@@ -185,8 +186,8 @@
         "skills"
       ],
       "rationale": "Validated skill registry for AI coding agents, addressing trust and safety in agent extension ecosystems.",
-      "stars": 3390,
-      "stars7dDelta": 2,
+      "stars": 3406,
+      "stars7dDelta": 18,
       "hnPoints": null
     },
     {
@@ -210,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 12591,
-      "stars7dDelta": 10,
+      "stars": 12645,
+      "stars7dDelta": 64,
       "hnPoints": null
     },
     {
@@ -235,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 25171,
-      "stars7dDelta": 0,
+      "stars": 25178,
+      "stars7dDelta": 7,
       "hnPoints": null
     },
     {
@@ -281,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 13453,
-      "stars7dDelta": 0,
+      "stars": 13477,
+      "stars7dDelta": 24,
       "hnPoints": null
     },
     {
@@ -319,8 +320,8 @@
         "skills"
       ],
       "rationale": "Curates reusable skills that extend Codex agents to take actions across dev and SaaS workflows.",
-      "stars": 10229,
-      "stars7dDelta": 0,
+      "stars": 10231,
+      "stars7dDelta": 2,
       "hnPoints": null
     },
     {
@@ -351,8 +352,8 @@
         "tui"
       ],
       "rationale": "Terminal coding agent that uses DeepSeek models to reason, edit workspaces, and automate dev tasks with approvals.",
-      "stars": 31155,
-      "stars7dDelta": 0,
+      "stars": 31162,
+      "stars7dDelta": 7,
       "hnPoints": null
     },
     {
@@ -383,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 42805,
-      "stars7dDelta": 0,
+      "stars": 42810,
+      "stars7dDelta": 5,
       "hnPoints": null
     },
     {
@@ -408,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 24261,
-      "stars7dDelta": 0,
+      "stars": 24269,
+      "stars7dDelta": 8,
       "hnPoints": null
     },
     {
@@ -454,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 11488,
-      "stars7dDelta": 0,
+      "stars": 11494,
+      "stars7dDelta": 6,
       "hnPoints": null
     },
     {
@@ -491,8 +492,8 @@
         "video"
       ],
       "rationale": "Developer framework for agents and coders to generate HTML/GSAP video compositions and render them via browser/FFmpeg.",
-      "stars": 18948,
-      "stars7dDelta": 0,
+      "stars": 18953,
+      "stars7dDelta": 5,
       "hnPoints": null
     },
     {
@@ -515,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 88552,
-      "stars7dDelta": 0,
+      "stars": 88583,
+      "stars7dDelta": 31,
       "hnPoints": null
     },
     {
@@ -546,8 +547,8 @@
         "skill"
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
-      "stars": 9899,
-      "stars7dDelta": 0,
+      "stars": 9902,
+      "stars7dDelta": 3,
       "hnPoints": null
     },
     {
@@ -570,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 133738,
-      "stars7dDelta": 0,
+      "stars": 133760,
+      "stars7dDelta": 22,
       "hnPoints": null
     },
     {
@@ -609,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 11085,
-      "stars7dDelta": 0,
+      "stars": 11096,
+      "stars7dDelta": 11,
       "hnPoints": null
     },
     {
@@ -635,7 +636,7 @@
       "rationale": "A business essay about AI’s impact on processes, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 343
+      "hnPoints": 355
     },
     {
       "id": 20,
@@ -659,7 +660,7 @@
       "rationale": "News about Meta account takedown policy, not a software project or AI startup opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 45
+      "hnPoints": 67
     },
     {
       "id": 21,
@@ -684,7 +685,7 @@
       "rationale": "Educational blog post teaching Prolog concepts, not a reusable tool, framework, or AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 148
+      "hnPoints": 152
     },
     {
       "id": 22,
@@ -708,7 +709,7 @@
       "rationale": "An enterprise-focused article on AI subscription risk, not a specific software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 286
+      "hnPoints": 299
     },
     {
       "id": 23,
@@ -732,7 +733,7 @@
       "rationale": "An opinion piece about AI as enabling technology rather than a standalone software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 175
+      "hnPoints": 184
     },
     {
       "id": 24,
@@ -756,7 +757,7 @@
       "rationale": "A Rust-based autonomous coding agent for developers, reflecting the rise of lightweight agentic dev workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 501
+      "hnPoints": 508
     },
     {
       "id": 25,
@@ -781,7 +782,7 @@
       "rationale": "News on AI geopolitics and dependence, not a specific software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 66
+      "hnPoints": 76
     },
     {
       "id": 26,
@@ -1998,6 +1999,393 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 76,
+      "source": "hn",
+      "sourceId": "48171826",
+      "title": "The AI water issue is fake",
+      "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+      "owner": "shepherdjerred",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:43:55+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-critique",
+        "sustainability",
+        "water-usage"
+      ],
+      "topics": [],
+      "rationale": "A commentary article about AI’s environmental claims, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 31
+    },
+    {
+      "id": 77,
+      "source": "hn",
+      "sourceId": "48168159",
+      "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "owner": "bushwart",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:03+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "healthcare",
+        "ptsd",
+        "psychedelics"
+      ],
+      "topics": [],
+      "rationale": "News article about ibogaine therapy for veterans, not a software project or AI startup pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 54
+    },
+    {
+      "id": 78,
+      "source": "hn",
+      "sourceId": "48168426",
+      "title": "Agentic Trading with Safe Guardrails",
+      "url": "https://github.com/ShurikenTrade/shuriken-skills",
+      "owner": "jgan0978",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:08+00:00",
+      "bucket": "ai-agent",
+      "audience": "both",
+      "tags": [
+        "trading-agent",
+        "guardrails",
+        "finance",
+        "automation"
+      ],
+      "topics": [],
+      "rationale": "Agentic trading skills with safety controls point to autonomous finance workflows needing robust guardrails.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 35
+    },
+    {
+      "id": 79,
+      "source": "hn",
+      "sourceId": "48158400",
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "owner": "mpweiher",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:12+00:00",
+      "bucket": "web-framework",
+      "audience": "dev",
+      "tags": [
+        "css",
+        "tailwind",
+        "frontend"
+      ],
+      "topics": [],
+      "rationale": "Developer-focused frontend/CSS architecture discussion, signaling demand for simpler styling patterns beyond utility frameworks.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 634
+    },
+    {
+      "id": 80,
+      "source": "hn",
+      "sourceId": "48163392",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "owner": "bookofjoe",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:16+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "chatgpt-plus",
+        "government",
+        "national-rollout"
+      ],
+      "topics": [],
+      "rationale": "A consumer AI assistant packaged as ChatGPT Plus is being distributed nationwide through a government partnership.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 288
+    },
+    {
+      "id": 81,
+      "source": "hn",
+      "sourceId": "48169874",
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "owner": "Bibabomas",
+      "language": null,
+      "description": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can&#x27;t find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:23+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "code-search",
+        "agent-tooling",
+        "embeddings",
+        "token-saving"
+      ],
+      "topics": [],
+      "rationale": "Lightweight retrieval layer helping coding agents find relevant code with far fewer context tokens than grep.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 82,
+      "source": "hn",
+      "sourceId": "48157559",
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "owner": "frays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:30+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "ctf",
+        "ai-solving",
+        "security-research"
+      ],
+      "topics": [],
+      "rationale": "Security article argues frontier AI breaks open CTFs, signaling need for AI-resistant challenge design.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 405
+    },
+    {
+      "id": 83,
+      "source": "hn",
+      "sourceId": "48164294",
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "owner": "Dachande663",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:35+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "mcp",
+        "agent-tools",
+        "protocol"
+      ],
+      "topics": [],
+      "rationale": "MCP-related developer piece points to the growing integration layer for agent tools and context.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 124
+    },
+    {
+      "id": 84,
+      "source": "hn",
+      "sourceId": "48169819",
+      "title": "AI license plate cameras tore this town apart and led to a state of emergency",
+      "url": "https://www.washingtonpost.com/nation/2026/05/17/citys-ai-license-plate-cameras-led-an-uproar-state-emergency/",
+      "owner": "greenburger",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:42+00:00",
+      "bucket": "ai-app",
+      "audience": "B",
+      "tags": [
+        "license-plate-recognition",
+        "surveillance",
+        "public-safety"
+      ],
+      "topics": [],
+      "rationale": "AI camera product for municipal policing highlights demand and backlash around surveillance automation.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 85,
+      "source": "hn",
+      "sourceId": "48153379",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "owner": "reasonableklout",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578</a><p><a href=\"https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130\" rel=\"nofollow\">https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;116580433508108130</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:48+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-hype",
+        "startup-culture",
+        "opinion"
+      ],
+      "topics": [],
+      "rationale": "A commentary post about AI industry behavior, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 2063
+    },
+    {
+      "id": 86,
+      "source": "hn",
+      "sourceId": "48160807",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "owner": "Brajeshwar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:53+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "steering-vectors",
+        "llm-control",
+        "interpretability"
+      ],
+      "topics": [],
+      "rationale": "Discusses model steering techniques that could become lightweight infrastructure for controllable LLM behavior.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 256
+    },
+    {
+      "id": 87,
+      "source": "hn",
+      "sourceId": "48155324",
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "url": "https://dynomight.net/p2p-meth/",
+      "owner": "tomjakubowski",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:44:59+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "blog-post",
+        "drug-policy",
+        "longform"
+      ],
+      "topics": [],
+      "rationale": "A non-software longform article, not a project or tool relevant to AI-agent startup opportunities.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 196
+    },
+    {
+      "id": 88,
+      "source": "hn",
+      "sourceId": "48162354",
+      "title": "US is starting to see heavy job losses in roles exposed to AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+      "owner": "elsewhen",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:45:04+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-jobs",
+        "labor-market",
+        "automation"
+      ],
+      "topics": [],
+      "rationale": "News on AI-exposed job losses, not a software project; useful signal for demand shifts in automation.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 160
+    },
+    {
+      "id": 89,
+      "source": "hn",
+      "sourceId": "48159227",
+      "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+      "url": "https://twitter.com/steipete/status/2055346265869721905",
+      "owner": "eamag",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:45:09+00:00",
+      "bucket": "ai-app",
+      "audience": "dev",
+      "tags": [
+        "openai",
+        "token-spend",
+        "unit-economics"
+      ],
+      "topics": [],
+      "rationale": "A developer-facing AI product story highlighting extreme LLM token costs and margin pressure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 155
+    },
+    {
+      "id": 90,
+      "source": "hn",
+      "sourceId": "48159790",
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "url": "https://george.mand.is/2026/05/my-favorite-bugs-invalid-surrogate-pairs/",
+      "owner": "meysamazad",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:45:20+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "unicode",
+        "surrogate-pairs",
+        "bug-writeup"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused bug writeup about Unicode edge cases, not a software project or startup-relevant tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 95
+    },
+    {
+      "id": 91,
+      "source": "hn",
+      "sourceId": "48155570",
+      "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+      "url": "https://ljtn.github.io/epiq/",
+      "owner": "jolaflow",
+      "language": null,
+      "description": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable event logs that converge in memory. Put my all into it. Let me know what you think.",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-17T18:45:26+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "issue-tracker",
+        "terminal-ui",
+        "git-based",
+        "collaboration"
+      ],
+      "topics": [],
+      "rationale": "Terminal-native issue tracking using Git event logs, keeping developer workflow local and versioned.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 88
     }
   ]
 }
