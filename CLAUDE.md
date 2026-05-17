@@ -6,6 +6,14 @@ When invoked here, your job is twofold:
 1. **Keep the pipeline healthy** (fetch, classify, report, schedule).
 2. **Help with ad-hoc analysis** — the owner will ask things like "what bucket grew fastest this week" or "find me consumer-facing agent products under 30 days old" — query `db.sqlite` directly with SQLite and answer.
 
+## Live dashboard
+
+- URL: https://gh-trending-radar.vercel.app/
+- Auth: HTTP Basic Auth via `dashboard/middleware.js`. Credentials live in
+  `~/.config/paigod/dashboard-credentials` locally and as `DASH_USER` / `DASH_PASS`
+  env vars on the Vercel project (`gongyibob-ctrls-projects/gh-trending-radar`).
+- Redeploy after dashboard changes: `cd dashboard && vercel --prod --yes`.
+
 ## Repo layout
 
 ```
