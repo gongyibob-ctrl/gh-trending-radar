@@ -1,0 +1,54 @@
+name: daily-radar
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 09:00 Asia/Shanghai
+    - cron: "0 13 * * *"  # 21:00 Asia/Shanghai
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      PAIGOD_API_KEY: ${{ secrets.PAIGOD_API_KEY }}
+      PAIGOD_BASE_URL: ${{ secrets.PAIGOD_BASE_URL }}
+      PAIGOD_DEFAULT_MODEL: ${{ secrets.PAIGOD_DEFAULT_MODEL }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Fetch GitHub trending
+        run: python scripts/fetch_github.py
+
+      - name: Generate report
+        run: python scripts/report.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "gh-trending-radar-bot"
+          git config user.email "bot@gh-trending-radar"
+          git add db.sqlite reports/
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          DATE=$(date -u +%Y-%m-%dT%H:%M)
+          git commit -m "chore: daily run $DATE"
+          git push

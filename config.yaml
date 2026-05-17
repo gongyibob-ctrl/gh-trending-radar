@@ -1,0 +1,40 @@
+filters:
+  new_repo_days: 180
+  min_stars: 100
+  superstar_daily_delta: 500
+
+sources:
+  github_trending:
+    enabled: true
+    windows: [daily, weekly, monthly]
+  hacker_news:
+    enabled: true
+    keywords_ai: [ai, agent, llm, gpt, claude, rag, embedding, fine-tune, prompt, mcp, transformer]
+  yc:
+    enabled: true
+    batches: [W26, S25]
+  product_hunt:
+    enabled: true
+    topics: [artificial-intelligence, developer-tools, productivity, saas, no-code]
+
+llm:
+  provider: paigod
+  model: pa/gpt-5.5
+  base_url_env: PAIGOD_BASE_URL
+  api_key_env: PAIGOD_API_KEY
+
+buckets:
+  - ai-agent
+  - ai-infra
+  - ai-app
+  - devtool
+  - web-framework
+  - data
+  - security
+  - other
+
+audience:
+  - B
+  - C
+  - both
+  - dev
