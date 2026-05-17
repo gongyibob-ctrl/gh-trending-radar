@@ -35,16 +35,27 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch GitHub trending
-        run: python scripts/fetch_github.py
+        run: python -u scripts/fetch_github.py
 
-      - name: Generate report
-        run: python scripts/report.py
+      - name: Fetch Hacker News
+        run: python -u scripts/fetch_hn.py
+        continue-on-error: true
+
+      - name: Fetch Product Hunt
+        run: python -u scripts/fetch_ph.py
+        continue-on-error: true
+
+      - name: Generate daily report
+        run: python -u scripts/report.py
+
+      - name: Export dashboard data
+        run: python -u scripts/export_dashboard.py
 
       - name: Commit & push
         run: |
           git config user.name "gh-trending-radar-bot"
           git config user.email "bot@gh-trending-radar"
-          git add db.sqlite reports/
+          git add db.sqlite reports/ dashboard/data.json
           if git diff --cached --quiet; then
             echo "no changes"
             exit 0

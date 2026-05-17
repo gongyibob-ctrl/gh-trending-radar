@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>Trending Radar</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Trending Radar</h1>
+    <div class="muted" id="meta">loading…</div>
+  </header>
+
+  <section class="filters">
+    <div class="control">
+      <label>source</label>
+      <select id="f-source">
+        <option value="">all</option>
+        <option value="github_trending">github</option>
+        <option value="hn">hacker news</option>
+        <option value="product_hunt">product hunt</option>
+      </select>
+    </div>
+    <div class="control">
+      <label>bucket</label>
+      <select id="f-bucket"></select>
+    </div>
+    <div class="control">
+      <label>audience</label>
+      <select id="f-audience">
+        <option value="">all</option>
+        <option value="B">B (business)</option>
+        <option value="C">C (consumer)</option>
+        <option value="both">both</option>
+        <option value="dev">dev</option>
+      </select>
+    </div>
+    <div class="control">
+      <label>sort</label>
+      <select id="f-sort">
+        <option value="delta7">Δ7d stars</option>
+        <option value="stars">total stars</option>
+        <option value="seen">most recently seen</option>
+      </select>
+    </div>
+    <div class="control">
+      <label>search</label>
+      <input type="search" id="f-q" placeholder="title / tag / desc" />
+    </div>
+  </section>
+
+  <section class="summary" id="summary"></section>
+  <main id="grid"></main>
+
+  <footer class="muted">
+    powered by github trending + hn + product hunt + paigod pa/gpt-5.5
+    · source &amp; SQL: <a href="https://github.com/gongyibob-ctrl/gh-trending-radar" target="_blank" rel="noopener">repo</a>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>
