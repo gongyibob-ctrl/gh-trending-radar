@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-18T16:21:33.697242+00:00",
+  "generatedAt": "2026-05-19T05:02:33.385312+00:00",
   "totals": {
-    "items": 136,
+    "items": 154,
     "byBucket": {
-      "data": 3,
-      "ai-agent": 27,
+      "data": 4,
+      "ai-agent": 30,
       "ai-app": 31,
-      "ai-infra": 14,
-      "devtool": 10,
-      "other": 45,
-      "security": 5,
+      "ai-infra": 16,
+      "devtool": 13,
+      "other": 53,
+      "security": 6,
       "web-framework": 1
     },
     "byAudience": {
-      "B": 26,
-      "dev": 51,
-      "both": 35,
-      "C": 24
+      "B": 27,
+      "dev": 61,
+      "both": 40,
+      "C": 26
     },
     "bySource": {
       "github_trending": 20,
-      "hn": 43,
+      "hn": 61,
       "product_hunt": 73
     }
   },
@@ -61,8 +61,8 @@
         "sdr"
       ],
       "rationale": "Aggregates many live OSINT telemetry feeds into a unified map, pointing to demand for packaged intelligence data layers.",
-      "stars": 7572,
-      "stars7dDelta": 652,
+      "stars": 7840,
+      "stars7dDelta": 920,
       "hnPoints": null
     },
     {
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 36422,
-      "stars7dDelta": 980,
+      "stars": 36884,
+      "stars7dDelta": 1442,
       "hnPoints": null
     },
     {
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 4401,
-      "stars7dDelta": 1251,
+      "stars": 5200,
+      "stars7dDelta": 2050,
       "hnPoints": null
     },
     {
@@ -186,8 +186,8 @@
         "skills"
       ],
       "rationale": "Validated skill registry for AI coding agents, addressing trust and safety in agent extension ecosystems.",
-      "stars": 3892,
-      "stars7dDelta": 504,
+      "stars": 4136,
+      "stars7dDelta": 748,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 16295,
-      "stars7dDelta": 3714,
+      "stars": 18063,
+      "stars7dDelta": 5482,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 25491,
-      "stars7dDelta": 320,
+      "stars": 25795,
+      "stars7dDelta": 624,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 14820,
-      "stars7dDelta": 1367,
+      "stars": 15500,
+      "stars7dDelta": 2047,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 43227,
-      "stars7dDelta": 422,
+      "stars": 43451,
+      "stars7dDelta": 646,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 25180,
-      "stars7dDelta": 919,
+      "stars": 25525,
+      "stars7dDelta": 1264,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 12061,
-      "stars7dDelta": 573,
+      "stars": 12247,
+      "stars7dDelta": 759,
       "hnPoints": null
     },
     {
@@ -492,8 +492,8 @@
         "video"
       ],
       "rationale": "Developer framework for agents and coders to generate HTML/GSAP video compositions and render them via browser/FFmpeg.",
-      "stars": 19290,
-      "stars7dDelta": 342,
+      "stars": 19424,
+      "stars7dDelta": 476,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 91309,
-      "stars7dDelta": 2757,
+      "stars": 92343,
+      "stars7dDelta": 3791,
       "hnPoints": null
     },
     {
@@ -547,8 +547,8 @@
         "skill"
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
-      "stars": 10111,
-      "stars7dDelta": 212,
+      "stars": 10206,
+      "stars7dDelta": 307,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 135592,
-      "stars7dDelta": 1854,
+      "stars": 136383,
+      "stars7dDelta": 2645,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 12202,
-      "stars7dDelta": 1117,
+      "stars": 13140,
+      "stars7dDelta": 2055,
       "hnPoints": null
     },
     {
@@ -636,7 +636,7 @@
       "rationale": "A business essay about AI’s impact on processes, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 640
+      "hnPoints": 657
     },
     {
       "id": 20,
@@ -660,7 +660,7 @@
       "rationale": "News about Meta account takedown policy, not a software project or AI startup opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 202
+      "hnPoints": 204
     },
     {
       "id": 21,
@@ -709,7 +709,7 @@
       "rationale": "An enterprise-focused article on AI subscription risk, not a specific software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 404
+      "hnPoints": 410
     },
     {
       "id": 23,
@@ -733,7 +733,7 @@
       "rationale": "An opinion piece about AI as enabling technology rather than a standalone software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 443
+      "hnPoints": 463
     },
     {
       "id": 24,
@@ -782,7 +782,7 @@
       "rationale": "News on AI geopolitics and dependence, not a specific software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 114
     },
     {
       "id": 26,
@@ -2046,7 +2046,7 @@
       "rationale": "News article about ibogaine therapy for veterans, not a software project or AI startup pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 112
     },
     {
       "id": 78,
@@ -2144,7 +2144,7 @@
       "rationale": "Lightweight retrieval layer helping coding agents find relevant code with far fewer context tokens than grep.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 400
+      "hnPoints": 429
     },
     {
       "id": 82,
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 11007,
-      "stars7dDelta": 1354,
+      "stars": 12371,
+      "stars7dDelta": 2718,
       "hnPoints": null
     },
     {
@@ -2443,7 +2443,7 @@
       "rationale": "A local news story about a fighter jet collision, not a software project or startup-relevant tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 237
+      "hnPoints": 242
     },
     {
       "id": 94,
@@ -2468,7 +2468,7 @@
       "rationale": "A low-level demoscene writeup showcasing tiny x86 code, not a product or reusable developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 177
+      "hnPoints": 190
     },
     {
       "id": 95,
@@ -2492,7 +2492,7 @@
       "rationale": "News on AI trust and governance sentiment, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 121
+      "hnPoints": 131
     },
     {
       "id": 96,
@@ -2516,7 +2516,7 @@
       "rationale": "A historical article about ThinkPad hardware, not a software project or AI-agent startup pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 110
     },
     {
       "id": 97,
@@ -2716,8 +2716,8 @@
         "quantitative-trading"
       ],
       "rationale": "Packaged LLM stock-analysis dashboard for retail investors with data aggregation, strategy Q&A, and automated alerts.",
-      "stars": 36907,
-      "stars7dDelta": 0,
+      "stars": 37358,
+      "stars7dDelta": 451,
       "hnPoints": null
     },
     {
@@ -2743,7 +2743,7 @@
       "rationale": "A developer-focused tactic for filtering AI bot spam in GitHub repos using commit author metadata.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 86
+      "hnPoints": 444
     },
     {
       "id": 106,
@@ -2768,7 +2768,7 @@
       "rationale": "Covers hidden adversarial audio risks in voice AI systems, relevant to security teams building or testing assistants.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 30
+      "hnPoints": 113
     },
     {
       "id": 107,
@@ -2792,7 +2792,7 @@
       "rationale": "Non-software story about growing furniture from trees, outside AI/dev/data categories.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 122
+      "hnPoints": 214
     },
     {
       "id": 108,
@@ -2817,7 +2817,7 @@
       "rationale": "AI-assisted bug hunters are flooding kernel security channels, signaling demand for triage and report-quality tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 130
+      "hnPoints": 202
     },
     {
       "id": 109,
@@ -2841,7 +2841,7 @@
       "rationale": "A business-oriented AI adoption commentary, not a specific software project or technical tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 152
     },
     {
       "id": 110,
@@ -2865,7 +2865,7 @@
       "rationale": "A strategy PDF about AI trends, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 133
+      "hnPoints": 190
     },
     {
       "id": 111,
@@ -3012,7 +3012,7 @@
       "rationale": "News about AI backlash at a graduation, not a software project or startup tooling signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 311
+      "hnPoints": 347
     },
     {
       "id": 117,
@@ -3036,7 +3036,7 @@
       "rationale": "News coverage of public reactions to AI comments, not a software project or startup tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 140
+      "hnPoints": 152
     },
     {
       "id": 118,
@@ -3499,6 +3499,447 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 137,
+      "source": "hn",
+      "sourceId": "48188183",
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "owner": "yakkomajuri",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:00:16+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "llm-trends",
+        "industry-analysis",
+        "blog"
+      ],
+      "topics": [],
+      "rationale": "A roundup article on recent LLM developments, useful context but not a software product or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 122
+    },
+    {
+      "id": 138,
+      "source": "hn",
+      "sourceId": "48182281",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "owner": "tomeraberbach",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:00:25+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "sdk-generation",
+        "api-clients",
+        "developer-experience"
+      ],
+      "topics": [],
+      "rationale": "Stainless automates API SDK generation, signaling demand for polished developer tooling around AI platforms.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 398
+    },
+    {
+      "id": 139,
+      "source": "hn",
+      "sourceId": "48183301",
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "owner": "lukaspetersson",
+      "language": null,
+      "description": "Hey HN!<p>I&#x27;m Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we&#x27;ve done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools they need to both broadcast radio shows live and handle all the business side of running a media company. The agents&#x27; revenue is so far terrible (you can try to strike a sponsor deal",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:00:31+00:00",
+      "bucket": "ai-agent",
+      "audience": "both",
+      "tags": [
+        "autonomous-agents",
+        "ai-radio",
+        "media-ops",
+        "humanless-company"
+      ],
+      "topics": [],
+      "rationale": "Autonomous agents run both live radio programming and business ops, showing media-company workflows without humans.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 212
+    },
+    {
+      "id": 140,
+      "source": "hn",
+      "sourceId": "48182754",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "owner": "nycdatasci",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:00:39+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-legal",
+        "openai",
+        "lawsuit"
+      ],
+      "topics": [],
+      "rationale": "AI industry legal news, not a software project or startup tooling category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 865
+    },
+    {
+      "id": 141,
+      "source": "hn",
+      "sourceId": "48183748",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "owner": "olivercameron",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:00:44+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "world-model",
+        "multi-agent",
+        "simulation",
+        "generative-ai"
+      ],
+      "topics": [],
+      "rationale": "A foundational world model for simulating multi-agent environments, closer to AI infra than a packaged end-user app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 94
+    },
+    {
+      "id": 142,
+      "source": "hn",
+      "sourceId": "48185938",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "owner": "anigbrowl",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:00:51+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "alignment",
+        "ai-safety",
+        "research",
+        "discourse"
+      ],
+      "topics": [],
+      "rationale": "AI alignment research paper, not a deployable app or infra tool; useful mainly to AI researchers and builders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
+    },
+    {
+      "id": 143,
+      "source": "hn",
+      "sourceId": "48188727",
+      "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+      "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+      "owner": "helpful_human",
+      "language": null,
+      "description": "Background: I was using Cursor to set up an OpenAI integration.The agent read my .env file, added the key to the config, and everything worked. What I didn&#x27;t think about: that key was now sitting in a plaintext SQLite database at ~&#x2F;Library&#x2F;ApplicationSupport&#x2F;Cursor&#x2F;User&#x2F;workspaceStorage&#x2F;..<p>AI coding tools (Cursor, Claude Code, Copilot, Cline) routinely read .env files as part of normal operation. Every secret they touch gets embedded in their local transcript",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:00+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "secret-scanning",
+        "ai-coding-tools",
+        "macos",
+        "local-first"
+      ],
+      "topics": [],
+      "rationale": "Scans AI coding assistant transcript stores for leaked secrets, covering a gap beyond repo-only scanners.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 144,
+      "source": "hn",
+      "sourceId": "48181342",
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "url": "https://github.com/InsForge/InsForge",
+      "owner": "mrcoldbrew",
+      "language": null,
+      "description": "Hi HN, I&#x27;m Hang, cofounder of InsForge (YC P26). InsForge is an open-source Heroku for AI coding agents: a backend platform designed for coding agents to deploy, operate, and debug end-to-end. Open source under Apache 2.0 (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;InsForge&#x2F;InsForge\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;InsForge&#x2F;InsForge</a>). Quick demo here (<a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;7Bax5qz0IfM\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;7Bax5qz0I",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:07+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "agent-deploy",
+        "paas",
+        "backend",
+        "open-source"
+      ],
+      "topics": [],
+      "rationale": "A Heroku-like PaaS tailored for AI coding agents to deploy, operate, and debug apps without manual infra work.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 41
+    },
+    {
+      "id": 145,
+      "source": "hn",
+      "sourceId": "48188310",
+      "title": "The American Rebellion Against AI Is Gaining Steam",
+      "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+      "owner": "JaakkoP",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:14+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-backlash",
+        "policy",
+        "labor",
+        "public-opinion"
+      ],
+      "topics": [],
+      "rationale": "A news article on societal resistance to AI, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 84
+    },
+    {
+      "id": 146,
+      "source": "hn",
+      "sourceId": "48182592",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "owner": "srameshc",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;crypto&#x2F;articles&#x2F;iran-starts-bitcoin-backed-shipping-122906039.html\" rel=\"nofollow\">https:&#x2F;&#x2F;finance.yahoo.com&#x2F;markets&#x2F;crypto&#x2F;articles&#x2F;iran-start...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:21+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "bitcoin",
+        "shipping-insurance",
+        "geopolitics"
+      ],
+      "topics": [],
+      "rationale": "A finance/geopolitics news item about Bitcoin-backed maritime insurance, not a software project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 293
+    },
+    {
+      "id": 147,
+      "source": "hn",
+      "sourceId": "48183038",
+      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+      "url": "https://modal.com/blog/truly-serverless-gpus",
+      "owner": "charles_irl",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:27+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "serverless-gpu",
+        "inference",
+        "cold-starts",
+        "checkpointing"
+      ],
+      "topics": [],
+      "rationale": "GPU inference infrastructure technique reducing serverless cold starts for model serving.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 79
+    },
+    {
+      "id": 148,
+      "source": "hn",
+      "sourceId": "48189225",
+      "title": "As of April 2026: Iran has destroyed 42 U.S. Military Aircraft in Op: Epic Fury",
+      "url": "https://nationalsecurityjournal.org/iran-destroyed-42-u-s-military-aircraft-in-operation-epic-fury-lessons-must-be-learned/",
+      "owner": "Gaishan",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:32+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "news-article",
+        "military",
+        "geopolitics"
+      ],
+      "topics": [],
+      "rationale": "A national security news/opinion article, not a software project or AI startup opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 149,
+      "source": "hn",
+      "sourceId": "48183579",
+      "title": "Haiku OS runs on M1 Macs now",
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "owner": "tekkertje",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:39+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "operating-system",
+        "arm64",
+        "m1-macs"
+      ],
+      "topics": [],
+      "rationale": "An alternative desktop OS gaining Apple Silicon support, mainly relevant to hobbyist users and OS enthusiasts.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 290
+    },
+    {
+      "id": 150,
+      "source": "hn",
+      "sourceId": "48187727",
+      "title": "AgentCRM – Headless CRM for Claude Code",
+      "url": "https://github.com/cluster-software/agent-crm",
+      "owner": "samuelstros",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:45+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "claude-code",
+        "headless-crm",
+        "agent-workflows"
+      ],
+      "topics": [],
+      "rationale": "Agent-oriented CRM context layer for Claude Code, pointing to tooling that lets coding agents manage structured business workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 151,
+      "source": "hn",
+      "sourceId": "48188469",
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://techxplore.com/news/2026-05-centers-nearby-temperatures-degrees-phoenix.html",
+      "owner": "limitedfrom",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:52+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "data-centers",
+        "urban-heat",
+        "phoenix",
+        "climate"
+      ],
+      "topics": [],
+      "rationale": "News on data center heat impact, not a software project; relevant to infra siting and climate concerns.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 152,
+      "source": "hn",
+      "sourceId": "48182220",
+      "title": "Aether: High-performance, formally-verified storage engine written in Rust",
+      "url": "https://codeberg.org/gregburd/aether",
+      "owner": "dboreham",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:01:58+00:00",
+      "bucket": "data",
+      "audience": "dev",
+      "tags": [
+        "storage-engine",
+        "rust",
+        "formal-verification"
+      ],
+      "topics": [],
+      "rationale": "A Rust storage engine with formal verification aimed at developers building reliable data systems.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 24
+    },
+    {
+      "id": 153,
+      "source": "hn",
+      "sourceId": "48187484",
+      "title": "ASMTP – SMTP for Agents",
+      "url": "https://www.asmtp.net/",
+      "owner": "nickcrews",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:02:03+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "agent-protocol",
+        "messaging",
+        "smtp",
+        "agent-communication"
+      ],
+      "topics": [],
+      "rationale": "SMTP-like messaging for agents points to emerging infrastructure for agent-to-agent communication.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 154,
+      "source": "hn",
+      "sourceId": "48185188",
+      "title": "No more JetBrains products for me",
+      "url": "https://matthewkosarek.xyz/posts/jetbrains/",
+      "owner": "matthewkosarek",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-19T05:02:15+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "jetbrains",
+        "ide",
+        "developer-tools"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused post about moving away from JetBrains IDEs, reflecting demand and churn in dev tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 123
     }
   ]
 }
