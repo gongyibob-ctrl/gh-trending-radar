@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-19T16:19:06.026260+00:00",
+  "generatedAt": "2026-05-20T05:06:19.375875+00:00",
   "totals": {
-    "items": 198,
+    "items": 210,
     "byBucket": {
-      "data": 5,
-      "ai-agent": 39,
-      "ai-app": 41,
-      "ai-infra": 20,
-      "devtool": 18,
-      "other": 65,
+      "data": 6,
+      "ai-agent": 41,
+      "ai-app": 45,
+      "ai-infra": 21,
+      "devtool": 21,
+      "other": 66,
       "security": 9,
       "web-framework": 1
     },
     "byAudience": {
-      "B": 38,
-      "dev": 81,
-      "both": 46,
+      "B": 40,
+      "dev": 88,
+      "both": 49,
       "C": 33
     },
     "bySource": {
       "github_trending": 22,
-      "hn": 74,
+      "hn": 86,
       "product_hunt": 102
     }
   },
@@ -61,8 +61,8 @@
         "sdr"
       ],
       "rationale": "Aggregates many live OSINT telemetry feeds into a unified map, pointing to demand for packaged intelligence data layers.",
-      "stars": 8150,
-      "stars7dDelta": 1230,
+      "stars": 8323,
+      "stars7dDelta": 1403,
       "hnPoints": null
     },
     {
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 37503,
-      "stars7dDelta": 2061,
+      "stars": 37911,
+      "stars7dDelta": 2469,
       "hnPoints": null
     },
     {
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 6068,
-      "stars7dDelta": 2918,
+      "stars": 6943,
+      "stars7dDelta": 3793,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 20269,
-      "stars7dDelta": 7688,
+      "stars": 21926,
+      "stars7dDelta": 9345,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 26099,
-      "stars7dDelta": 928,
+      "stars": 26477,
+      "stars7dDelta": 1306,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 16219,
-      "stars7dDelta": 2766,
+      "stars": 16849,
+      "stars7dDelta": 3396,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 43728,
-      "stars7dDelta": 923,
+      "stars": 43952,
+      "stars7dDelta": 1147,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 25831,
-      "stars7dDelta": 1570,
+      "stars": 26002,
+      "stars7dDelta": 1741,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 12439,
-      "stars7dDelta": 951,
+      "stars": 12630,
+      "stars7dDelta": 1142,
       "hnPoints": null
     },
     {
@@ -492,8 +492,8 @@
         "video"
       ],
       "rationale": "Developer framework for agents and coders to generate HTML/GSAP video compositions and render them via browser/FFmpeg.",
-      "stars": 19627,
-      "stars7dDelta": 679,
+      "stars": 19760,
+      "stars7dDelta": 812,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 93900,
-      "stars7dDelta": 5348,
+      "stars": 95106,
+      "stars7dDelta": 6554,
       "hnPoints": null
     },
     {
@@ -547,8 +547,8 @@
         "skill"
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
-      "stars": 10298,
-      "stars7dDelta": 399,
+      "stars": 10360,
+      "stars7dDelta": 461,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 137472,
-      "stars7dDelta": 3734,
+      "stars": 138715,
+      "stars7dDelta": 4977,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 13836,
-      "stars7dDelta": 2751,
+      "stars": 14366,
+      "stars7dDelta": 3281,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 13816,
-      "stars7dDelta": 4163,
+      "stars": 14446,
+      "stars7dDelta": 4793,
       "hnPoints": null
     },
     {
@@ -2743,7 +2743,7 @@
       "rationale": "A developer-focused tactic for filtering AI bot spam in GitHub repos using commit author metadata.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 482
+      "hnPoints": 490
     },
     {
       "id": 106,
@@ -2768,7 +2768,7 @@
       "rationale": "Covers hidden adversarial audio risks in voice AI systems, relevant to security teams building or testing assistants.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 132
+      "hnPoints": 135
     },
     {
       "id": 107,
@@ -2792,7 +2792,7 @@
       "rationale": "Non-software story about growing furniture from trees, outside AI/dev/data categories.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 225
+      "hnPoints": 227
     },
     {
       "id": 108,
@@ -2817,7 +2817,7 @@
       "rationale": "AI-assisted bug hunters are flooding kernel security channels, signaling demand for triage and report-quality tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 211
+      "hnPoints": 213
     },
     {
       "id": 109,
@@ -2865,7 +2865,7 @@
       "rationale": "A strategy PDF about AI trends, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 276
+      "hnPoints": 295
     },
     {
       "id": 111,
@@ -3012,7 +3012,7 @@
       "rationale": "News about AI backlash at a graduation, not a software project or startup tooling signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 361
+      "hnPoints": 367
     },
     {
       "id": 117,
@@ -3036,7 +3036,7 @@
       "rationale": "News coverage of public reactions to AI comments, not a software project or startup tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 159
+      "hnPoints": 162
     },
     {
       "id": 118,
@@ -3522,7 +3522,7 @@
       "rationale": "A roundup article on recent LLM developments, useful context but not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 614
+      "hnPoints": 743
     },
     {
       "id": 138,
@@ -3546,7 +3546,7 @@
       "rationale": "Stainless automates API SDK generation, signaling demand for polished developer tooling around AI platforms.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 505
+      "hnPoints": 525
     },
     {
       "id": 139,
@@ -3571,7 +3571,7 @@
       "rationale": "Autonomous agents run both live radio programming and business ops, showing media-company workflows without humans.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 333
+      "hnPoints": 358
     },
     {
       "id": 140,
@@ -3595,7 +3595,7 @@
       "rationale": "AI industry legal news, not a software project or startup tooling category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1038
+      "hnPoints": 1070
     },
     {
       "id": 141,
@@ -3620,7 +3620,7 @@
       "rationale": "A foundational world model for simulating multi-agent environments, closer to AI infra than a packaged end-user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 120
+      "hnPoints": 128
     },
     {
       "id": 142,
@@ -3744,7 +3744,7 @@
       "rationale": "A finance/geopolitics news item about Bitcoin-backed maritime insurance, not a software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 327
+      "hnPoints": 339
     },
     {
       "id": 147,
@@ -3817,7 +3817,7 @@
       "rationale": "An alternative desktop OS gaining Apple Silicon support, mainly relevant to hobbyist users and OS enthusiasts.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 315
+      "hnPoints": 320
     },
     {
       "id": 150,
@@ -3939,7 +3939,7 @@
       "rationale": "A developer-focused post about moving away from JetBrains IDEs, reflecting demand and churn in dev tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 143
+      "hnPoints": 149
     },
     {
       "id": 155,
@@ -3966,8 +3966,8 @@
         "skills"
       ],
       "rationale": "Curated plugin ecosystem extends Claude Code with tools and skills for agentic developer workflows.",
-      "stars": 19980,
-      "stars7dDelta": 0,
+      "stars": 20339,
+      "stars7dDelta": 359,
       "hnPoints": null
     },
     {
@@ -4005,8 +4005,8 @@
         "token-optimization"
       ],
       "rationale": "Developer CLI proxy that compresses command output to cut LLM context costs for coding agents.",
-      "stars": 50584,
-      "stars7dDelta": 0,
+      "stars": 51152,
+      "stars7dDelta": 568,
       "hnPoints": null
     },
     {
@@ -4017,7 +4017,7 @@
       "url": "https://twitter.com/karpathy/status/2056753169888334312",
       "owner": "dmarcos",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2056753169888334312\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;karpathy&#x2F;status&#x2F;2056753169888334312</a><p><a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;anthropic-openai-karpathy-andrej-claude\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;anthropic-openai-karpathy-a...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;h6T3X\" rel=\"nofollow\">https:&#x2F;&#x",
       "createdAt": null,
       "firstSeenAt": "2026-05-19T16:14:26+00:00",
       "bucket": "other",
@@ -4031,13 +4031,13 @@
       "rationale": "Personal career announcement, not a software project or product to categorize.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 351
+      "hnPoints": 1241
     },
     {
       "id": 158,
       "source": "hn",
       "sourceId": "48194614",
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
       "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
       "owner": "akhuettel",
       "language": null,
@@ -4055,7 +4055,7 @@
       "rationale": "A Gentoo security advisory covering Linux kernel vulnerabilities for technical operators and developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 17
+      "hnPoints": 116
     },
     {
       "id": 159,
@@ -4080,7 +4080,7 @@
       "rationale": "Autonomous observability agent that installs logging, investigates errors, and opens PRs to fix bugs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 8
+      "hnPoints": 60
     },
     {
       "id": 160,
@@ -4105,13 +4105,13 @@
       "rationale": "A developer-focused guide showing how LLMs can help write formal TLA+ specs, not a standalone AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 27
+      "hnPoints": 126
     },
     {
       "id": 161,
       "source": "hn",
       "sourceId": "48195100",
-      "title": "AI Is Too Expensive",
+      "title": "AI is too expensive",
       "url": "https://www.wheresyoured.at/ai-is-too-expensive/",
       "owner": "crescit_eundo",
       "language": null,
@@ -4129,7 +4129,7 @@
       "rationale": "A commentary article on AI economics rather than a software project or usable AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 15
+      "hnPoints": 135
     },
     {
       "id": 162,
@@ -4154,7 +4154,7 @@
       "rationale": "Reports a large npm supply-chain compromise, highlighting developer dependency risk and package malware exposure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 271
+      "hnPoints": 368
     },
     {
       "id": 163,
@@ -4203,7 +4203,7 @@
       "rationale": "Cursor Composer is a packaged AI coding assistant for developers, showing agentic IDE workflows becoming productized.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 237
+      "hnPoints": 279
     },
     {
       "id": 165,
@@ -5034,6 +5034,299 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 199,
+      "source": "hn",
+      "sourceId": "48201484",
+      "title": "Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "owner": "aarondf",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:04:31+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "paas",
+        "cloud-hosting",
+        "status-incident"
+      ],
+      "topics": [],
+      "rationale": "Railway is a developer deployment platform; this entry is an infrastructure/status incident rather than an AI project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 343
+    },
+    {
+      "id": 200,
+      "source": "hn",
+      "sourceId": "48196570",
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "owner": "spectraldrift",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flash\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flas...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:04:38+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-api",
+        "multimodal",
+        "google-gemini"
+      ],
+      "topics": [],
+      "rationale": "A frontier model/API release for developers building AI products rather than a packaged end-user app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 673
+    },
+    {
+      "id": 201,
+      "source": "hn",
+      "sourceId": "48200569",
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "owner": "janalsncm",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:04:43+00:00",
+      "bucket": "ai-app",
+      "audience": "dev",
+      "tags": [
+        "watermark-removal",
+        "image-processing",
+        "cli",
+        "provenance"
+      ],
+      "topics": [],
+      "rationale": "CLI/library for manipulating AI-generated images, pointing to demand around watermark removal and provenance gaps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 189
+    },
+    {
+      "id": 202,
+      "source": "hn",
+      "sourceId": "48197370",
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "owner": "berkeleyjunk",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;business&#x2F;google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;business&#x2F;google-seach-bar...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;XI1sQ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;XI1sQ</a><p><a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;05&#x2F;19&#x2F;google-sear",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:04:52+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "ai-search",
+        "gemini",
+        "search-ux"
+      ],
+      "topics": [],
+      "rationale": "Google is turning search into an AI answer/product surface, signaling opportunities around agentic discovery and vertical search.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 444
+    },
+    {
+      "id": 203,
+      "source": "hn",
+      "sourceId": "48192383",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "owner": "zambelli",
+      "language": null,
+      "description": "Hi HN, I&#x27;m Antoine Zambelli, AI Director at Texas Instruments.<p>I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.<p>What it does:<p>- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware<p>- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it<p>- Ships with an eval harness and ",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:00+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "tool-calling",
+        "guardrails",
+        "local-llm",
+        "evals"
+      ],
+      "topics": [],
+      "rationale": "Reliability layer for local tool-calling agents, addressing compounding failures in multi-step workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 350
+    },
+    {
+      "id": 204,
+      "source": "hn",
+      "sourceId": "48198291",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "owner": "smooke",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:06+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "content-provenance",
+        "watermarking",
+        "image-verification"
+      ],
+      "topics": [],
+      "rationale": "A user-facing AI image provenance and verification tool addressing trust and authenticity gaps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 237
+    },
+    {
+      "id": 205,
+      "source": "hn",
+      "sourceId": "48197995",
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "owner": "doener",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:12+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "enterprise-agents",
+        "mistral",
+        "acquisition"
+      ],
+      "topics": [],
+      "rationale": "Mistral acquiring Emmi signals demand for enterprise AI agents layered on frontier models.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 204
+    },
+    {
+      "id": 206,
+      "source": "hn",
+      "sourceId": "48169736",
+      "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+      "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
+      "owner": "lboquillon",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:29+00:00",
+      "bucket": "data",
+      "audience": "B",
+      "tags": [
+        "photonics",
+        "cpo",
+        "supply-chain",
+        "market-map"
+      ],
+      "topics": [],
+      "rationale": "A structured industry mapping/database for businesses tracking photonics and co-packaged optics suppliers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 35
+    },
+    {
+      "id": 207,
+      "source": "hn",
+      "sourceId": "48196303",
+      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+      "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
+      "owner": "stalfosknight",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:36+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-communication",
+        "public-perception",
+        "essay"
+      ],
+      "topics": [],
+      "rationale": "A communications essay about AI framing, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 45
+    },
+    {
+      "id": 208,
+      "source": "hn",
+      "sourceId": "48182856",
+      "title": "Show HN: Haystack – Review the PRs that need human attention",
+      "url": "https://haystackeditor.com/",
+      "owner": "akshaysg",
+      "language": null,
+      "description": "Hey HN! We&#x27;re building Haystack (<a href=\"https:&#x2F;&#x2F;haystackeditor.com&#x2F;\">https:&#x2F;&#x2F;haystackeditor.com&#x2F;</a>) to help teams deal with the explosion in the number of pull requests that need to be reviewed due to the rise of coding agents.<p>Haystack replaces the GitHub PR review system with a queue that triages each PR before a human has to read any diffs. It looks at the diffs, the codebase, and the coding-agent conversation that produced the PR. Haystack then routes",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:42+00:00",
+      "bucket": "ai-app",
+      "audience": "dev",
+      "tags": [
+        "pr-review",
+        "code-review",
+        "agent-code",
+        "triage"
+      ],
+      "topics": [],
+      "rationale": "AI product triaging agent-generated PRs so humans only review risky changes.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 34
+    },
+    {
+      "id": 209,
+      "source": "hn",
+      "sourceId": "48199138",
+      "title": "Java: Rethink Domain Primitives with Valhalla",
+      "url": "https://dfa1.github.io/articles/rethink-domain-primitives-with-valhalla.html",
+      "owner": "dfa11",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:49+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "java",
+        "valhalla",
+        "domain-primitives"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused Java Valhalla article about modeling domain primitives, not an AI or product project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 210,
+      "source": "hn",
+      "sourceId": "48201330",
+      "title": "Tell HN: Google banned Railway's account. Everything down",
+      "url": "https://news.ycombinator.com/item?id=48201330",
+      "owner": "sergiotapia",
+      "language": null,
+      "description": "Everything down including railway.com - this is a bad outage. :(",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-20T05:05:55+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "paas",
+        "hosting",
+        "outage",
+        "google-cloud"
+      ],
+      "topics": [],
+      "rationale": "Railway is a developer-focused deployment platform; this item highlights platform dependency and outage risk.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 21
     }
   ]
 }
