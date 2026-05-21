@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-20T16:27:25.408548+00:00",
+  "generatedAt": "2026-05-21T05:10:44.820554+00:00",
   "totals": {
-    "items": 252,
+    "items": 265,
     "byBucket": {
       "data": 6,
-      "ai-agent": 50,
-      "ai-app": 53,
-      "ai-infra": 27,
-      "devtool": 24,
-      "other": 80,
+      "ai-agent": 51,
+      "ai-app": 54,
+      "ai-infra": 30,
+      "devtool": 26,
+      "other": 86,
       "security": 11,
       "web-framework": 1
     },
     "byAudience": {
-      "B": 45,
-      "dev": 108,
-      "both": 59,
-      "C": 40
+      "B": 49,
+      "dev": 114,
+      "both": 61,
+      "C": 41
     },
     "bySource": {
       "github_trending": 27,
-      "hn": 100,
+      "hn": 113,
       "product_hunt": 125
     }
   },
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 38358,
-      "stars7dDelta": 2916,
+      "stars": 38656,
+      "stars7dDelta": 3214,
       "hnPoints": null
     },
     {
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 8495,
-      "stars7dDelta": 5345,
+      "stars": 10476,
+      "stars7dDelta": 7326,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 23297,
-      "stars7dDelta": 10716,
+      "stars": 23948,
+      "stars7dDelta": 11367,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 26823,
-      "stars7dDelta": 1652,
+      "stars": 27014,
+      "stars7dDelta": 1843,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 17407,
-      "stars7dDelta": 3954,
+      "stars": 17735,
+      "stars7dDelta": 4282,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 44144,
-      "stars7dDelta": 1339,
+      "stars": 44317,
+      "stars7dDelta": 1512,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 26175,
-      "stars7dDelta": 1914,
+      "stars": 26283,
+      "stars7dDelta": 2022,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 12801,
-      "stars7dDelta": 1313,
+      "stars": 12963,
+      "stars7dDelta": 1475,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 96480,
-      "stars7dDelta": 7928,
+      "stars": 97334,
+      "stars7dDelta": 8782,
       "hnPoints": null
     },
     {
@@ -547,8 +547,8 @@
         "skill"
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
-      "stars": 10413,
-      "stars7dDelta": 514,
+      "stars": 10497,
+      "stars7dDelta": 598,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 140194,
-      "stars7dDelta": 6456,
+      "stars": 141394,
+      "stars7dDelta": 7656,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 14879,
-      "stars7dDelta": 3794,
+      "stars": 15291,
+      "stars7dDelta": 4206,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 15594,
-      "stars7dDelta": 5941,
+      "stars": 16696,
+      "stars7dDelta": 7043,
       "hnPoints": null
     },
     {
@@ -4031,7 +4031,7 @@
       "rationale": "Personal career announcement, not a software project or product to categorize.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1384
+      "hnPoints": 1407
     },
     {
       "id": 158,
@@ -4055,7 +4055,7 @@
       "rationale": "A Gentoo security advisory covering Linux kernel vulnerabilities for technical operators and developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 130
+      "hnPoints": 132
     },
     {
       "id": 159,
@@ -4129,7 +4129,7 @@
       "rationale": "A commentary article on AI economics rather than a software project or usable AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 140
+      "hnPoints": 141
     },
     {
       "id": 162,
@@ -4154,7 +4154,7 @@
       "rationale": "Reports a large npm supply-chain compromise, highlighting developer dependency risk and package malware exposure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 381
+      "hnPoints": 386
     },
     {
       "id": 163,
@@ -5039,11 +5039,11 @@
       "id": 199,
       "source": "hn",
       "sourceId": "48201484",
-      "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
-      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "title": "Incident Report: Railway Blocked by Google Cloud [resolved]",
+      "url": "https://status.railway.com/incident/I23M92U0",
       "owner": "aarondf",
       "language": null,
-      "description": "<a href=\"https:&#x2F;&#x2F;status.railway.com&#x2F;incident&#x2F;I23M92U0\" rel=\"nofollow\">https:&#x2F;&#x2F;status.railway.com&#x2F;incident&#x2F;I23M92U0</a>",
+      "description": "Subsequent thread: <i>Incident Report: May 19, 2026 – GCP Account Suspension</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48204770\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48204770</a>",
       "createdAt": null,
       "firstSeenAt": "2026-05-20T05:04:31+00:00",
       "bucket": "devtool",
@@ -5057,7 +5057,7 @@
       "rationale": "Railway is a developer deployment platform; this entry is an infrastructure/status incident rather than an AI project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 525
+      "hnPoints": 549
     },
     {
       "id": 200,
@@ -5081,7 +5081,7 @@
       "rationale": "A frontier model/API release for developers building AI products rather than a packaged end-user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 904
+      "hnPoints": 937
     },
     {
       "id": 201,
@@ -5106,7 +5106,7 @@
       "rationale": "CLI/library for manipulating AI-generated images, pointing to demand around watermark removal and provenance gaps.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 354
+      "hnPoints": 377
     },
     {
       "id": 202,
@@ -5130,7 +5130,7 @@
       "rationale": "Google is turning search into an AI answer/product surface, signaling opportunities around agentic discovery and vertical search.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 639
+      "hnPoints": 673
     },
     {
       "id": 203,
@@ -5155,7 +5155,7 @@
       "rationale": "Reliability layer for local tool-calling agents, addressing compounding failures in multi-step workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 604
+      "hnPoints": 647
     },
     {
       "id": 204,
@@ -5179,7 +5179,7 @@
       "rationale": "A user-facing AI image provenance and verification tool addressing trust and authenticity gaps.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 321
+      "hnPoints": 327
     },
     {
       "id": 205,
@@ -5203,7 +5203,7 @@
       "rationale": "Mistral acquiring Emmi signals demand for enterprise AI agents layered on frontier models.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 312
+      "hnPoints": 332
     },
     {
       "id": 206,
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 5277,
-      "stars7dDelta": 0,
+      "stars": 5525,
+      "stars7dDelta": 248,
       "hnPoints": null
     },
     {
@@ -5411,8 +5411,8 @@
         "workflow"
       ],
       "rationale": "Beginner course teaching AI-assisted app building rather than a tool or deployable AI product.",
-      "stars": 13477,
-      "stars7dDelta": 0,
+      "stars": 13583,
+      "stars7dDelta": 106,
       "hnPoints": null
     },
     {
@@ -5440,8 +5440,8 @@
         "whatsapp"
       ],
       "rationale": "Self-hosted WhatsApp API gateway for developers wanting controllable messaging infrastructure without vendor lock-in.",
-      "stars": 4583,
-      "stars7dDelta": 0,
+      "stars": 4968,
+      "stars7dDelta": 385,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 9204,
-      "stars7dDelta": 0,
+      "stars": 9851,
+      "stars7dDelta": 647,
       "hnPoints": null
     },
     {
@@ -5526,8 +5526,8 @@
         "tv"
       ],
       "rationale": "Consumer desktop app for streaming/downloading media, not AI or developer infrastructure.",
-      "stars": 2656,
-      "stars7dDelta": 0,
+      "stars": 3234,
+      "stars7dDelta": 578,
       "hnPoints": null
     },
     {
@@ -5553,7 +5553,7 @@
       "rationale": "A frontier LLM release aimed at stronger agentic workflows, serving developers building AI-agent products.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 333
+      "hnPoints": 644
     },
     {
       "id": 217,
@@ -5577,13 +5577,13 @@
       "rationale": "Uses AI agents to automate distributed-system testing, pointing to agentic QA for complex infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 27
+      "hnPoints": 79
     },
     {
       "id": 218,
       "source": "hn",
       "sourceId": "48208502",
-      "title": "Victory: Tennessee man jailed 37 days for Trump meme wins $835,000 settlement",
+      "title": "Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit",
       "url": "https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment",
       "owner": "ceejayoz",
       "language": null,
@@ -5601,7 +5601,7 @@
       "rationale": "A legal news article about a free-speech settlement, not a software project or AI startup signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 237
+      "hnPoints": 699
     },
     {
       "id": 219,
@@ -5626,7 +5626,7 @@
       "rationale": "Covers manipulation of AI search answers, signaling demand for monitoring and defense against AI-era SEO abuse.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 287
     },
     {
       "id": 220,
@@ -5651,7 +5651,7 @@
       "rationale": "Research model combining FFT and transformers for image restoration, useful to AI researchers building vision pipelines.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 44
+      "hnPoints": 77
     },
     {
       "id": 221,
@@ -5699,7 +5699,7 @@
       "rationale": "Explains transformer inference mechanics and KV caching, useful for developers optimizing LLM serving.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 22
+      "hnPoints": 54
     },
     {
       "id": 223,
@@ -5724,7 +5724,7 @@
       "rationale": "Proposes verification backpressure for AI coding agents, highlighting demand for reliable agentic dev workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 8
+      "hnPoints": 115
     },
     {
       "id": 224,
@@ -5749,13 +5749,13 @@
       "rationale": "Discusses fragmentation across code hosting forges, a developer tooling ecosystem concern rather than an AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 3
+      "hnPoints": 41
     },
     {
       "id": 225,
       "source": "hn",
       "sourceId": "48206640",
-      "title": "Anna's Archive Hit with $19.5M Default Judgment and Global Domain Takedown Order",
+      "title": "Anna's Archive hit with $19.5M default judgment and global domain takedown order",
       "url": "https://torrentfreak.com/annas-archive-hit-with-19-5m-default-judgment-and-global-domain-takedown-order/",
       "owner": "iamnothere",
       "language": null,
@@ -5773,7 +5773,7 @@
       "rationale": "Legal action against a consumer-facing archive, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 176
+      "hnPoints": 256
     },
     {
       "id": 226,
@@ -5797,7 +5797,7 @@
       "rationale": "News about student resistance to AI rhetoric, useful as market sentiment rather than a software opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 278
+      "hnPoints": 360
     },
     {
       "id": 227,
@@ -5822,7 +5822,7 @@
       "rationale": "A developer blog post sharing AI-assisted Rust engineering lessons, not a reusable tool or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 128
     },
     {
       "id": 228,
@@ -6099,7 +6099,7 @@
       "url": "https://www.producthunt.com/products/tether-10",
       "owner": null,
       "language": null,
-      "description": "The companion who comes to life in your messages Discussion | Link",
+      "description": "The presence who comes to life in your messages Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-20T16:25:36+00:00",
       "bucket": "ai-app",
@@ -6172,7 +6172,7 @@
       "url": "https://www.producthunt.com/products/ghostsnap",
       "owner": null,
       "language": null,
-      "description": "Take multiple screenshots that are auto compressed for AI Discussion | Link",
+      "description": "Multiple screenshots - Single paste - Auto compressed for AI Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-20T16:25:55+00:00",
       "bucket": "other",
@@ -6431,6 +6431,323 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 253,
+      "source": "hn",
+      "sourceId": "48212493",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "owner": "tedsanders",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912</a>, <a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:10+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-research",
+        "math-reasoning",
+        "discrete-geometry"
+      ],
+      "topics": [],
+      "rationale": "Research announcement showing frontier model reasoning, not a reusable agent, app, or infra project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 904
+    },
+    {
+      "id": 254,
+      "source": "hn",
+      "sourceId": "48214017",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+      "owner": "aurareturn",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nottombrown&#x2F;status&#x2F;2057194829986300375</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:19+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "gpu-cluster",
+        "gb200",
+        "model-training"
+      ],
+      "topics": [],
+      "rationale": "Hyperscaler-scale GPU expansion signals continued demand for training and inference infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 102
+    },
+    {
+      "id": 255,
+      "source": "hn",
+      "sourceId": "48217052",
+      "title": "OpenAI to confidentially file for IPO as soon as Friday",
+      "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+      "owner": "doppp",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:25+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "openai",
+        "ipo",
+        "foundation-models"
+      ],
+      "topics": [],
+      "rationale": "OpenAI is a major AI product company serving consumers, developers, and businesses; IPO signals market maturity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 74
+    },
+    {
+      "id": 256,
+      "source": "hn",
+      "sourceId": "48216278",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "owner": "wapasta",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:31+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-strategy",
+        "fintech",
+        "workforce"
+      ],
+      "topics": [],
+      "rationale": "Corporate AI refocus signal from a major fintech, not a specific software project or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 125
+    },
+    {
+      "id": 257,
+      "source": "hn",
+      "sourceId": "48211409",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "owner": "thnaks",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:37+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "history",
+        "aerospace",
+        "biography"
+      ],
+      "topics": [],
+      "rationale": "A historical magazine article about Qian Xuesen, not a software project or AI-agent-era tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 148
+    },
+    {
+      "id": 258,
+      "source": "hn",
+      "sourceId": "48204770",
+      "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "owner": "0xedb",
+      "language": null,
+      "description": "Previous thread: <i>Incident Report: Railway Blocked by Google Cloud [resolved]</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201484\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48201484</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:42+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "cloud-platform",
+        "paas",
+        "gcp-outage"
+      ],
+      "topics": [],
+      "rationale": "Railway’s incident report highlights developer PaaS dependence on hyperscaler account and suspension risk.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 408
+    },
+    {
+      "id": 259,
+      "source": "hn",
+      "sourceId": "48214188",
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "owner": "AMavorParker",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:47+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-training",
+        "self-play",
+        "reasoning",
+        "lora"
+      ],
+      "topics": [],
+      "rationale": "Research on co-evolving LLM populations for self-play reasoning, fitting model training infrastructure patterns.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 41
+    },
+    {
+      "id": 260,
+      "source": "hn",
+      "sourceId": "48212992",
+      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
+      "owner": "Timofeibu",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:53+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "biotech",
+        "drug-testing",
+        "brain-organoids"
+      ],
+      "topics": [],
+      "rationale": "A biotech research article about human brain tissue models for pharma testing, not a software or AI project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 170
+    },
+    {
+      "id": 261,
+      "source": "hn",
+      "sourceId": "48215654",
+      "title": "Deep – CLI/REPL for generating and iterating on codebases using DeepSeek",
+      "url": "https://github.com/cynchro/deepseekCLI",
+      "owner": "cynchro980",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:09:58+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "coding-cli",
+        "deepseek",
+        "repl",
+        "codegen"
+      ],
+      "topics": [],
+      "rationale": "LLM-powered CLI/REPL for developers to generate and iterate on codebases using DeepSeek.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 262,
+      "source": "hn",
+      "sourceId": "48173042",
+      "title": "Long-term editing of brain circuits using an engineered electrical synapse",
+      "url": "https://www.nature.com/articles/s41586-026-10501-y",
+      "owner": "bookofjoe",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:10:07+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "neurotech",
+        "bioengineering",
+        "research"
+      ],
+      "topics": [],
+      "rationale": "A neuroscience research paper on engineered synapses, not a software project or AI-agent startup pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 263,
+      "source": "hn",
+      "sourceId": "48209668",
+      "title": "Show HN: Lance – image/video generation and understanding in one model",
+      "url": "https://github.com/bytedance/Lance",
+      "owner": "cleardusk",
+      "language": null,
+      "description": "The model has 3B active parameters. We put the code, homepage, paper and model links here:<p>- Code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;bytedance&#x2F;Lance\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;bytedance&#x2F;Lance</a><p>- Homepage: <a href=\"https:&#x2F;&#x2F;lance-project.github.io&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lance-project.github.io&#x2F;</a><p>- Paper: <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2605.18678\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:10:13+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "multimodal",
+        "image-video",
+        "generation",
+        "research-model"
+      ],
+      "topics": [],
+      "rationale": "Open research model unifies visual generation and understanding, useful as a building block for AI products.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 57
+    },
+    {
+      "id": 264,
+      "source": "hn",
+      "sourceId": "48210615",
+      "title": "Show HN: Dari-docs – Optimize your docs using parallel coding agents",
+      "url": "https://github.com/mupt-ai/dari-docs",
+      "owner": "byhong03",
+      "language": null,
+      "description": "It’s well known at this point that documentation needs to be optimized for AI agents - we’re all pointing our Claude Code &#x2F; Codex &#x2F; Pi agents at documentation, and expecting the models to figure out how to implement a product.<p>This, however, changes the entire optimization problem when writing documentation. Good documentation now becomes more objective - you are solving the very concrete problem: can a dumb harness running the dumbest model implement this reliably?<p>Humans can typi",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:10:18+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "docs-optimization",
+        "coding-agents",
+        "eval-harness",
+        "cli"
+      ],
+      "topics": [],
+      "rationale": "Uses parallel coding agents to test whether docs are actionable, surfacing a new AI-era docs quality workflow.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 265,
+      "source": "hn",
+      "sourceId": "48210590",
+      "title": "Ask HN: Shouldn't Google need to give a public statement about Railway incident?",
+      "url": "https://news.ycombinator.com/item?id=48210590",
+      "owner": "srameshc",
+      "language": null,
+      "description": "https:&#x2F;&#x2F;blog.railway.com&#x2F;p&#x2F;incident-report-may-19-2026-gcp-account-outage<p>Everytime I read something like this , I get nervous about the cloud providers and Google. Since this is a relatively high profile customer standards, shouldn&#x27;t they explain what caused them to suspend the account ?",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-21T05:10:29+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "cloud-outage",
+        "gcp",
+        "railway",
+        "account-suspension"
+      ],
+      "topics": [],
+      "rationale": "Discussion of a cloud provider incident and vendor risk, not a software project or product category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 161
     }
   ]
 }
