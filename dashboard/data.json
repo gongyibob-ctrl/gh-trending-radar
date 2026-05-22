@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-21T16:16:06.361989+00:00",
+  "generatedAt": "2026-05-22T05:01:29.710648+00:00",
   "totals": {
-    "items": 298,
+    "items": 307,
     "byBucket": {
-      "data": 8,
-      "ai-agent": 58,
-      "ai-app": 64,
-      "ai-infra": 31,
-      "devtool": 27,
-      "other": 96,
+      "data": 10,
+      "ai-agent": 61,
+      "ai-app": 65,
+      "ai-infra": 32,
+      "devtool": 28,
+      "other": 97,
       "security": 13,
       "web-framework": 1
     },
     "byAudience": {
-      "B": 56,
-      "dev": 125,
+      "B": 58,
+      "dev": 130,
       "both": 69,
-      "C": 48
+      "C": 50
     },
     "bySource": {
       "github_trending": 32,
-      "hn": 122,
+      "hn": 131,
       "product_hunt": 144
     }
   },
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 38960,
-      "stars7dDelta": 3518,
+      "stars": 39246,
+      "stars7dDelta": 3804,
       "hnPoints": null
     },
     {
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 12554,
-      "stars7dDelta": 9404,
+      "stars": 14268,
+      "stars7dDelta": 11118,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 24593,
-      "stars7dDelta": 12012,
+      "stars": 25117,
+      "stars7dDelta": 12536,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 27268,
-      "stars7dDelta": 2097,
+      "stars": 27587,
+      "stars7dDelta": 2416,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 18074,
-      "stars7dDelta": 4621,
+      "stars": 18345,
+      "stars7dDelta": 4892,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 44497,
-      "stars7dDelta": 1692,
+      "stars": 44670,
+      "stars7dDelta": 1865,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 26434,
-      "stars7dDelta": 2173,
+      "stars": 26537,
+      "stars7dDelta": 2276,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 13146,
-      "stars7dDelta": 1658,
+      "stars": 13300,
+      "stars7dDelta": 1812,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 98570,
-      "stars7dDelta": 10018,
+      "stars": 99476,
+      "stars7dDelta": 10924,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 142655,
-      "stars7dDelta": 8917,
+      "stars": 143761,
+      "stars7dDelta": 10023,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 15642,
-      "stars7dDelta": 4557,
+      "stars": 15988,
+      "stars7dDelta": 4903,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 17906,
-      "stars7dDelta": 8253,
+      "stars": 18417,
+      "stars7dDelta": 8764,
       "hnPoints": null
     },
     {
@@ -4991,11 +4991,11 @@
       "id": 197,
       "source": "product_hunt",
       "sourceId": "1150344",
-      "title": "CLI Market",
+      "title": "CLI Market — Commerce APIs for AI Agents",
       "url": "https://www.producthunt.com/products/cli-market",
       "owner": null,
       "language": null,
-      "description": "3,760 retailers, one API for AI agents Discussion | Link",
+      "description": "15 MCP tools. 27 retailers. Search, compare, buy Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-19T16:18:46+00:00",
       "bucket": "ai-infra",
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 5745,
-      "stars7dDelta": 468,
+      "stars": 5950,
+      "stars7dDelta": 673,
       "hnPoints": null
     },
     {
@@ -5411,8 +5411,8 @@
         "workflow"
       ],
       "rationale": "Beginner course teaching AI-assisted app building rather than a tool or deployable AI product.",
-      "stars": 13736,
-      "stars7dDelta": 259,
+      "stars": 13826,
+      "stars7dDelta": 349,
       "hnPoints": null
     },
     {
@@ -5440,8 +5440,8 @@
         "whatsapp"
       ],
       "rationale": "Self-hosted WhatsApp API gateway for developers wanting controllable messaging infrastructure without vendor lock-in.",
-      "stars": 5264,
-      "stars7dDelta": 681,
+      "stars": 5506,
+      "stars7dDelta": 923,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 10483,
-      "stars7dDelta": 1279,
+      "stars": 10942,
+      "stars7dDelta": 1738,
       "hnPoints": null
     },
     {
@@ -5526,8 +5526,8 @@
         "tv"
       ],
       "rationale": "Consumer desktop app for streaming/downloading media, not AI or developer infrastructure.",
-      "stars": 3699,
-      "stars7dDelta": 1043,
+      "stars": 4168,
+      "stars7dDelta": 1512,
       "hnPoints": null
     },
     {
@@ -5553,7 +5553,7 @@
       "rationale": "A frontier LLM release aimed at stronger agentic workflows, serving developers building AI-agent products.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 681
+      "hnPoints": 698
     },
     {
       "id": 217,
@@ -5601,7 +5601,7 @@
       "rationale": "A legal news article about a free-speech settlement, not a software project or AI startup signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 749
+      "hnPoints": 758
     },
     {
       "id": 219,
@@ -5626,7 +5626,7 @@
       "rationale": "Covers manipulation of AI search answers, signaling demand for monitoring and defense against AI-era SEO abuse.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 329
+      "hnPoints": 331
     },
     {
       "id": 220,
@@ -5773,7 +5773,7 @@
       "rationale": "Legal action against a consumer-facing archive, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 269
+      "hnPoints": 276
     },
     {
       "id": 226,
@@ -5797,7 +5797,7 @@
       "rationale": "News about student resistance to AI rhetoric, useful as market sentiment rather than a software opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 366
+      "hnPoints": 371
     },
     {
       "id": 227,
@@ -5822,7 +5822,7 @@
       "rationale": "A developer blog post sharing AI-assisted Rust engineering lessons, not a reusable tool or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 165
+      "hnPoints": 175
     },
     {
       "id": 228,
@@ -6454,7 +6454,7 @@
       "rationale": "Research announcement showing frontier model reasoning, not a reusable agent, app, or infra project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1320
+      "hnPoints": 1382
     },
     {
       "id": 254,
@@ -6478,7 +6478,7 @@
       "rationale": "Hyperscaler-scale GPU expansion signals continued demand for training and inference infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 262
+      "hnPoints": 290
     },
     {
       "id": 255,
@@ -6526,7 +6526,7 @@
       "rationale": "Corporate AI refocus signal from a major fintech, not a specific software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 228
+      "hnPoints": 252
     },
     {
       "id": 257,
@@ -6550,7 +6550,7 @@
       "rationale": "A historical magazine article about Qian Xuesen, not a software project or AI-agent-era tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 187
+      "hnPoints": 194
     },
     {
       "id": 258,
@@ -6574,7 +6574,7 @@
       "rationale": "Railway’s incident report highlights developer PaaS dependence on hyperscaler account and suspension risk.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 439
+      "hnPoints": 443
     },
     {
       "id": 259,
@@ -6623,7 +6623,7 @@
       "rationale": "A biotech research article about human brain tissue models for pharma testing, not a software or AI project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 200
+      "hnPoints": 212
     },
     {
       "id": 261,
@@ -6747,7 +6747,7 @@
       "rationale": "Discussion of a cloud provider incident and vendor risk, not a software project or product category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 168
+      "hnPoints": 173
     },
     {
       "id": 266,
@@ -6788,8 +6788,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 16260,
-      "stars7dDelta": 0,
+      "stars": 16893,
+      "stars7dDelta": 633,
       "hnPoints": null
     },
     {
@@ -6825,8 +6825,8 @@
         "tool-calling"
       ],
       "rationale": "Framework for reliable self-hosted LLM tool-calling and multi-step agent workflows.",
-      "stars": 1397,
-      "stars7dDelta": 0,
+      "stars": 1542,
+      "stars7dDelta": 145,
       "hnPoints": null
     },
     {
@@ -6852,8 +6852,8 @@
         "agent-skills"
       ],
       "rationale": "Curated .NET skills and custom agents that extend AI coding agents for framework-specific development tasks.",
-      "stars": 2080,
-      "stars7dDelta": 0,
+      "stars": 2267,
+      "stars7dDelta": 187,
       "hnPoints": null
     },
     {
@@ -6877,8 +6877,8 @@
       ],
       "topics": [],
       "rationale": "Managed platform for autonomous coding agents that take issues, report progress, and act like engineering teammates.",
-      "stars": 30511,
-      "stars7dDelta": 0,
+      "stars": 30913,
+      "stars7dDelta": 402,
       "hnPoints": null
     },
     {
@@ -6917,15 +6917,15 @@
         "skills"
       ],
       "rationale": "Exposes NotebookLM as a Python/CLI skill for coding agents, showing demand for agent-accessible wrappers around AI apps.",
-      "stars": 14261,
-      "stars7dDelta": 0,
+      "stars": 14457,
+      "stars7dDelta": 196,
       "hnPoints": null
     },
     {
       "id": 271,
       "source": "hn",
       "sourceId": "48222529",
-      "title": "Google's Antigravity Bait and Switch",
+      "title": "Google's Antigravity bait and switch",
       "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
       "owner": "ssiddharth",
       "language": null,
@@ -6943,7 +6943,7 @@
       "rationale": "Critique of Google Antigravity, an agentic coding/dev environment aimed at developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 234
+      "hnPoints": 595
     },
     {
       "id": 272,
@@ -6967,7 +6967,7 @@
       "rationale": "Opinion piece on AI and plagiarism, not a software project or product category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 509
+      "hnPoints": 762
     },
     {
       "id": 273,
@@ -6992,7 +6992,7 @@
       "rationale": "Programmable tmux-like terminal automation with typed SDK, fitting developer workflow tooling rather than AI.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 136
+      "hnPoints": 168
     },
     {
       "id": 274,
@@ -7017,7 +7017,7 @@
       "rationale": "Technical guide to offline password cracking workflows, centered on Hashcat and evolving GPU-based attack methods.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 51
+      "hnPoints": 219
     },
     {
       "id": 275,
@@ -7041,7 +7041,7 @@
       "rationale": "AI market/business news rather than a software project or product opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 183
     },
     {
       "id": 276,
@@ -7065,7 +7065,7 @@
       "rationale": "An opinion essay about rejecting AI, not a software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 290
+      "hnPoints": 353
     },
     {
       "id": 277,
@@ -7114,7 +7114,7 @@
       "rationale": "Music gear legal news, not a software project or AI-agent-era startup signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 84
+      "hnPoints": 106
     },
     {
       "id": 279,
@@ -7198,7 +7198,7 @@
       "url": "https://www.producthunt.com/products/vivaldi",
       "owner": null,
       "language": null,
-      "description": "A bold new look for the browser that's all yours Discussion | Link",
+      "description": "New unified look for full customization Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-21T16:13:55+00:00",
       "bucket": "other",
@@ -7536,7 +7536,7 @@
       "url": "https://www.producthunt.com/products/instavm",
       "owner": null,
       "language": null,
-      "description": "Instant computers in isolated environments for AI agents Discussion | Link",
+      "description": "Instant computers for AI agents Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-21T16:15:39+00:00",
       "bucket": "ai-infra",
@@ -7599,6 +7599,229 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 299,
+      "source": "hn",
+      "sourceId": "48225297",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "owner": "speleo",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:07+00:00",
+      "bucket": "data",
+      "audience": "C",
+      "tags": [
+        "stellar-map",
+        "data-visualization",
+        "gaia",
+        "fan-project"
+      ],
+      "topics": [],
+      "rationale": "Consumer-facing interactive star chart visualizes Gaia data for Project Hail Mary fans.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 713
+    },
+    {
+      "id": 300,
+      "source": "hn",
+      "sourceId": "48230892",
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "owner": "carabiner",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:13+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "semiconductors",
+        "ai-demand",
+        "employee-bonus"
+      ],
+      "topics": [],
+      "rationale": "News about Samsung chip profits and bonuses, not a software project or usable AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 154
+    },
+    {
+      "id": 301,
+      "source": "hn",
+      "sourceId": "48223362",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
+      "owner": "sanity",
+      "language": null,
+      "description": "For the past 5 years or so I&#x27;ve been working on a ground-up redesign of Freenet, my peer-to-peer project from the early 2000s (now renamed Hyphanet).<p>The new Freenet has been up and running since December along with some early applications like River[1], our decentralized group chat and Delta - a decentralized CMS. Users have already started to build their own apps on Freenet including games, and we have some interesting apps in development like Atlas, a search&#x2F;recommendation engine.",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:19+00:00",
+      "bucket": "data",
+      "audience": "dev",
+      "tags": [
+        "p2p",
+        "decentralized-apps",
+        "key-value-store",
+        "wasm"
+      ],
+      "topics": [],
+      "rationale": "A decentralized key-value substrate for building P2P apps, pointing to demand for app platforms beyond blockchains.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 244
+    },
+    {
+      "id": 302,
+      "source": "hn",
+      "sourceId": "48225040",
+      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
+      "url": "https://www.runtm.com/",
+      "owner": "gustrigos",
+      "language": null,
+      "description": "Hey HN, We&#x27;re Gus and Carlos from Runtime (<a href=\"https:&#x2F;&#x2F;runtm.com\">https:&#x2F;&#x2F;runtm.com</a>). We&#x27;re building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session.<p>After Mentum (YC S21) was acquired, I personally shipped 4 full-stack products in 3 months using coding agents. When I tried to roll the same workflow out to the rest of the team, it fell apart: Most",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:28+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "coding-agents",
+        "sandboxing",
+        "team-workflows",
+        "codebases"
+      ],
+      "topics": [],
+      "rationale": "Sandboxed environments help teams safely use coding agents without local setup, secrets risk, or engineer handholding.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 75
+    },
+    {
+      "id": 303,
+      "source": "hn",
+      "sourceId": "48227923",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "owner": "atomicthumbs",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:35+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-architecture",
+        "parallel-inference",
+        "reasoning",
+        "research"
+      ],
+      "topics": [],
+      "rationale": "Research on separating and parallelizing LLM prompt, reasoning, and I/O streams points to new model/inference infra patterns.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 81
+    },
+    {
+      "id": 304,
+      "source": "hn",
+      "sourceId": "48231575",
+      "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+      "url": "https://news.ycombinator.com/item?id=48231575",
+      "owner": "sermakarevich",
+      "language": null,
+      "description": "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts:\n- decomposition across two dimensions. first you generate specs in multiple steps (requirements, code analysis, design), than you split task into multiple subtasks and implement them one by one\n- you clear context between every step - after spec generation and after subtask implementation. this helps keep cost low and context clear and focused which boost performance\n- specs written to disk ",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:41+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "claude-code",
+        "coding-agent",
+        "spec-driven",
+        "workflow"
+      ],
+      "topics": [],
+      "rationale": "A Claude Code workflow/plugin that structures multi-step coding-agent tasks via persistent specs and context resets.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 305,
+      "source": "hn",
+      "sourceId": "48219992",
+      "title": "Throwing AI-generated walls of text into conversations",
+      "url": "https://noslopgrenade.com/",
+      "owner": "napolux",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:46+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "text-generation",
+        "conversation-tool",
+        "ai-slop"
+      ],
+      "topics": [],
+      "rationale": "A consumer-facing AI text generator for dropping long generated replies into conversations.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 543
+    },
+    {
+      "id": 306,
+      "source": "hn",
+      "sourceId": "48225596",
+      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
+      "url": "https://news.ycombinator.com/item?id=48225596",
+      "owner": "adisingh13",
+      "language": null,
+      "description": "Hi HN! We&#x27;re Haakam, Michael, and Adi from AgentMail- a ycs25 company. We give AI agents their own email inboxes. Recently, we ran an experiment called Agent.Email. It&#x27;s a signup flow designed specifically for AI agents instead of humans.<p>The inspiration came from a few comments we received when we did our seed launch a few months back. They all came from the very apt observation that agents not being able to sign up to a product made for agents without human credentials was ironic a",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:00:53+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "agent-identity",
+        "email-inboxes",
+        "signup-flow",
+        "otp"
+      ],
+      "topics": [],
+      "rationale": "Email and signup primitives for AI agents expose a gap in human-centric SaaS onboarding.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 70
+    },
+    {
+      "id": 307,
+      "source": "hn",
+      "sourceId": "48221805",
+      "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
+      "url": "https://github.com/FredAntB/Spec-Driven-Development",
+      "owner": "NTRIXLM",
+      "language": null,
+      "description": "At my work they provided a single Claude subscription for everyone on the team. To be honest I like kiro better as it provides a way better SDD management. But the company can&#x27;t provide it and I can&#x27;t afford it yet. Turns out I had the skill creator skill in my claude instance so I made use of it to create this Skill. I made it fully by using Claude but I wanted to make it open source, so I asked it to help me make tests and preparations for it, even a CI to run python tests.<p>Well, w",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-22T05:01:04+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "claude-skill",
+        "spec-driven",
+        "sdd",
+        "code-workflow"
+      ],
+      "topics": [],
+      "rationale": "A Claude Skill that helps developers manage spec-driven development workflows inside existing AI coding tools.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
     }
   ]
 }
