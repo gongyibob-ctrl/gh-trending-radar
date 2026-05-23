@@ -1,26 +1,27 @@
 {
-  "generatedAt": "2026-05-22T15:49:41.694584+00:00",
+  "generatedAt": "2026-05-23T04:43:06.825148+00:00",
   "totals": {
-    "items": 347,
+    "items": 362,
     "byBucket": {
-      "data": 11,
-      "ai-agent": 66,
+      "data": 12,
+      "ai-agent": 68,
       "ai-app": 75,
-      "ai-infra": 35,
+      "ai-infra": 37,
       "devtool": 29,
-      "other": 112,
-      "security": 17,
+      "other": 119,
+      "security": 20,
       "web-framework": 2
     },
     "byAudience": {
-      "B": 66,
-      "dev": 143,
-      "both": 77,
-      "C": 61
+      "B": 69,
+      "dev": 148,
+      "both": 82,
+      "C": 62,
+      "?": 1
     },
     "bySource": {
       "github_trending": 33,
-      "hn": 143,
+      "hn": 158,
       "product_hunt": 171
     }
   },
@@ -140,7 +141,7 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "owner": "colbymchenry",
       "language": "TypeScript",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "createdAt": "2026-01-18T21:45:37Z",
       "firstSeenAt": "2026-05-17T18:10:13+00:00",
       "bucket": "ai-infra",
@@ -153,8 +154,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 15921,
-      "stars7dDelta": 12771,
+      "stars": 16938,
+      "stars7dDelta": 13788,
       "hnPoints": null
     },
     {
@@ -211,8 +212,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 25520,
-      "stars7dDelta": 12939,
+      "stars": 25791,
+      "stars7dDelta": 13210,
       "hnPoints": null
     },
     {
@@ -282,8 +283,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 18609,
-      "stars7dDelta": 5156,
+      "stars": 18823,
+      "stars7dDelta": 5370,
       "hnPoints": null
     },
     {
@@ -610,8 +611,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 16272,
-      "stars7dDelta": 5187,
+      "stars": 16475,
+      "stars7dDelta": 5390,
       "hnPoints": null
     },
     {
@@ -2417,8 +2418,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 18908,
-      "stars7dDelta": 9255,
+      "stars": 19143,
+      "stars7dDelta": 9490,
       "hnPoints": null
     },
     {
@@ -5365,8 +5366,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 6212,
-      "stars7dDelta": 935,
+      "stars": 6420,
+      "stars7dDelta": 1143,
       "hnPoints": null
     },
     {
@@ -5411,8 +5412,8 @@
         "workflow"
       ],
       "rationale": "Beginner course teaching AI-assisted app building rather than a tool or deployable AI product.",
-      "stars": 13961,
-      "stars7dDelta": 484,
+      "stars": 14051,
+      "stars7dDelta": 574,
       "hnPoints": null
     },
     {
@@ -5486,8 +5487,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 11429,
-      "stars7dDelta": 2225,
+      "stars": 12169,
+      "stars7dDelta": 2965,
       "hnPoints": null
     },
     {
@@ -6788,8 +6789,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 17839,
-      "stars7dDelta": 1579,
+      "stars": 18991,
+      "stars7dDelta": 2731,
       "hnPoints": null
     },
     {
@@ -6852,8 +6853,8 @@
         "agent-skills"
       ],
       "rationale": "Curated .NET skills and custom agents that extend AI coding agents for framework-specific development tasks.",
-      "stars": 2436,
-      "stars7dDelta": 356,
+      "stars": 2577,
+      "stars7dDelta": 497,
       "hnPoints": null
     },
     {
@@ -6943,7 +6944,7 @@
       "rationale": "Critique of Google Antigravity, an agentic coding/dev environment aimed at developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 728
+      "hnPoints": 747
     },
     {
       "id": 272,
@@ -6967,7 +6968,7 @@
       "rationale": "Opinion piece on AI and plagiarism, not a software project or product category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 802
+      "hnPoints": 810
     },
     {
       "id": 273,
@@ -6992,7 +6993,7 @@
       "rationale": "Programmable tmux-like terminal automation with typed SDK, fitting developer workflow tooling rather than AI.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 181
+      "hnPoints": 182
     },
     {
       "id": 274,
@@ -7017,7 +7018,7 @@
       "rationale": "Technical guide to offline password cracking workflows, centered on Hashcat and evolving GPU-based attack methods.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 252
+      "hnPoints": 257
     },
     {
       "id": 275,
@@ -7065,7 +7066,7 @@
       "rationale": "An opinion essay about rejecting AI, not a software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 362
+      "hnPoints": 366
     },
     {
       "id": 277,
@@ -7623,7 +7624,7 @@
       "rationale": "Consumer-facing interactive star chart visualizes Gaia data for Project Hail Mary fans.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1035
+      "hnPoints": 1149
     },
     {
       "id": 300,
@@ -7647,7 +7648,7 @@
       "rationale": "News about Samsung chip profits and bonuses, not a software project or usable AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 236
+      "hnPoints": 249
     },
     {
       "id": 301,
@@ -7672,7 +7673,7 @@
       "rationale": "A decentralized key-value substrate for building P2P apps, pointing to demand for app platforms beyond blockchains.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 325
+      "hnPoints": 354
     },
     {
       "id": 302,
@@ -7722,7 +7723,7 @@
       "rationale": "Research on separating and parallelizing LLM prompt, reasoning, and I/O streams points to new model/inference infra patterns.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 136
+      "hnPoints": 145
     },
     {
       "id": 304,
@@ -7771,7 +7772,7 @@
       "rationale": "A consumer-facing AI text generator for dropping long generated replies into conversations.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 661
+      "hnPoints": 678
     },
     {
       "id": 306,
@@ -7871,7 +7872,7 @@
       "rationale": "An LLM benchmark for OpenSCAD/CAD generation fits AI eval infrastructure for developers comparing model capabilities.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 200
+      "hnPoints": 366
     },
     {
       "id": 310,
@@ -7895,7 +7896,7 @@
       "rationale": "A blog/proposal about LLM-readable site metadata, not a standalone app or infra project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 444
+      "hnPoints": 750
     },
     {
       "id": 311,
@@ -7920,7 +7921,7 @@
       "rationale": "Open-source IDE that orchestrates multiple coding agents in parallel, pointing to demand for agent-native dev workspaces.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 17
+      "hnPoints": 86
     },
     {
       "id": 312,
@@ -7969,7 +7970,7 @@
       "rationale": "Research on optimizing transformer computation via GEMM epilogues, fitting the model serving and inference infra layer.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 92
+      "hnPoints": 101
     },
     {
       "id": 314,
@@ -8017,7 +8018,7 @@
       "rationale": "A developer-focused essay about AI amplifying technical skill, not a software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 105
+      "hnPoints": 295
     },
     {
       "id": 316,
@@ -8041,7 +8042,7 @@
       "rationale": "A news article about AI commentary, not a software project or startup-relevant tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 375
+      "hnPoints": 605
     },
     {
       "id": 317,
@@ -8137,7 +8138,7 @@
       "rationale": "A business strategy article about AI and staffing, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 182
+      "hnPoints": 198
     },
     {
       "id": 321,
@@ -8538,7 +8539,7 @@
       "url": "https://www.producthunt.com/products/zero-assist",
       "owner": null,
       "language": null,
-      "description": "Real-time AI cheating detection for technical interviews. Discussion | Link",
+      "description": "Real-time AI cheating detection for technical interviews Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-22T15:48:30+00:00",
       "bucket": "ai-app",
@@ -8799,6 +8800,366 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 348,
+      "source": "hn",
+      "sourceId": "48244434",
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "owner": "nreece",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:40:53+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "ai-costs",
+        "tokens",
+        "enterprise-ai"
+      ],
+      "topics": [],
+      "rationale": "News about enterprise AI unit economics, not a software project; highlights cost gaps for agent adoption.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 51
+    },
+    {
+      "id": 349,
+      "source": "hn",
+      "sourceId": "48206763",
+      "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "owner": "layer8",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:40:59+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "food-science",
+        "neutron-scattering",
+        "gluten-free",
+        "materials-research"
+      ],
+      "topics": [],
+      "rationale": "A science news item about pasta texture research, not a software project or AI startup pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 27
+    },
+    {
+      "id": 350,
+      "source": "hn",
+      "sourceId": "48239413",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "owner": "vitriapp",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:08+00:00",
+      "bucket": "ai-agent",
+      "audience": "both",
+      "tags": [
+        "kanban",
+        "desktop",
+        "multi-agent",
+        "task-automation"
+      ],
+      "topics": [],
+      "rationale": "Kanban UI where autonomous agents run per card, blending task management with parallel agent workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 191
+    },
+    {
+      "id": 351,
+      "source": "hn",
+      "sourceId": "48238429",
+      "title": "CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "owner": "speckx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:19+00:00",
+      "bucket": "security",
+      "audience": "B",
+      "tags": [
+        "data-leak",
+        "cisa",
+        "incident-response"
+      ],
+      "topics": [],
+      "rationale": "Security incident coverage on a government data leak; relevant to org risk, disclosure, and containment practices.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 159
+    },
+    {
+      "id": 352,
+      "source": "hn",
+      "sourceId": "48236501",
+      "title": "I’m writing again",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "owner": "dan_hawkins",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:29+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "blog",
+        "technology",
+        "commentary"
+      ],
+      "topics": [],
+      "rationale": "A personal technology blog post, not a software project or AI-agent opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 118
+    },
+    {
+      "id": 353,
+      "source": "hn",
+      "sourceId": "48238568",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "owner": "weaponeer",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:37+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "museum",
+        "aviation",
+        "simulators",
+        "liquidation"
+      ],
+      "topics": [],
+      "rationale": "Not a software project; it is an aviation museum announcement about liquidating simulator assets.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 103
+    },
+    {
+      "id": 354,
+      "source": "hn",
+      "sourceId": "48241172",
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "url": "https://github.com/anomalyco/models.dev",
+      "owner": "maxloh",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:44+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-catalog",
+        "pricing",
+        "llm-metadata"
+      ],
+      "topics": [],
+      "rationale": "Open model specs and pricing catalog helps developers compare providers and build routing or cost tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 118
+    },
+    {
+      "id": 355,
+      "source": "hn",
+      "sourceId": "48237663",
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "owner": "Tiberium",
+      "language": null,
+      "description": "&gt; (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:52+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-api",
+        "llm-pricing",
+        "deepseek"
+      ],
+      "topics": [],
+      "rationale": "Permanent LLM API price cuts highlight cheaper inference as a platform shift for builders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 338
+    },
+    {
+      "id": 356,
+      "source": "hn",
+      "sourceId": "48239786",
+      "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.22001",
+      "owner": "sbulaev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:41:58+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "prompt-injection",
+        "multi-agent",
+        "llm-security"
+      ],
+      "topics": [],
+      "rationale": "Research on camouflaged prompt injection exposes a growing security gap in multi-agent LLM deployments.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 35
+    },
+    {
+      "id": 357,
+      "source": "hn",
+      "sourceId": "48241179",
+      "title": "AI keeps inventing fake cases. Lawyers keep citing them",
+      "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+      "owner": "voxadam",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:42:08+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "legal-ai",
+        "hallucinations",
+        "case-law"
+      ],
+      "topics": [],
+      "rationale": "Article about AI hallucinations in legal work, not a software project, but highlights demand for citation verification.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 49
+    },
+    {
+      "id": 358,
+      "source": "hn",
+      "sourceId": "48242184",
+      "title": "ReconForge – Open-Source Security Reconnaissance Toolkit",
+      "url": "https://github.com/ferasbusiness666/ReconForge",
+      "owner": "feroomon2010",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:42:14+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "reconnaissance",
+        "pentesting",
+        "osint",
+        "toolkit"
+      ],
+      "topics": [],
+      "rationale": "Open-source recon toolkit for security practitioners automating early-stage pentest and OSINT workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 359,
+      "source": "hn",
+      "sourceId": "48243863",
+      "title": "Is AI Profitable Yet?",
+      "url": "https://isaiprofitable.com/",
+      "owner": "poyu",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:42:25+00:00",
+      "bucket": "data",
+      "audience": "both",
+      "tags": [
+        "ai-economics",
+        "profitability",
+        "market-data"
+      ],
+      "topics": [],
+      "rationale": "A public data site tracking whether AI businesses/products are economically profitable.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 197
+    },
+    {
+      "id": 360,
+      "source": "hn",
+      "sourceId": "48238896",
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "owner": "robertkarl",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;WfCta\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;WfCta</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:42:34+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "claude-code",
+        "developer-tools"
+      ],
+      "topics": [],
+      "rationale": "Claude Code is an agentic coding assistant for developers, with licensing churn highlighting demand and vendor risk.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 165
+    },
+    {
+      "id": 361,
+      "source": "hn",
+      "sourceId": "48235489",
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+      "owner": "JumpCrisscross",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:42:40+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "news",
+        "politics",
+        "canada"
+      ],
+      "topics": [],
+      "rationale": "A political news article about Alberta sovereignty, not a software project or AI startup opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 154
+    },
+    {
+      "id": 362,
+      "source": "hn",
+      "sourceId": "48242648",
+      "title": "Don't just paste the AI at me",
+      "url": "https://dontquotetheai.com/",
+      "owner": "khaosdoctor",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-23T04:42:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 143
     }
   ]
 }
