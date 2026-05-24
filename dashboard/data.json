@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-23T14:27:54.982690+00:00",
+  "generatedAt": "2026-05-24T05:01:49.708362+00:00",
   "totals": {
-    "items": 379,
+    "items": 382,
     "byBucket": {
       "data": 13,
       "ai-agent": 71,
       "ai-app": 77,
       "ai-infra": 38,
       "devtool": 31,
-      "other": 125,
+      "other": 128,
       "security": 22,
       "web-framework": 2
     },
     "byAudience": {
-      "B": 70,
+      "B": 71,
       "dev": 154,
-      "both": 91,
-      "C": 64
+      "both": 92,
+      "C": 65
     },
     "bySource": {
       "github_trending": 35,
-      "hn": 159,
+      "hn": 162,
       "product_hunt": 185
     }
   },
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 18253,
-      "stars7dDelta": 15103,
+      "stars": 20024,
+      "stars7dDelta": 16874,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 26082,
-      "stars7dDelta": 13501,
+      "stars": 26522,
+      "stars7dDelta": 13941,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 28356,
-      "stars7dDelta": 3185,
+      "stars": 28679,
+      "stars7dDelta": 3508,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 19264,
-      "stars7dDelta": 5811,
+      "stars": 19697,
+      "stars7dDelta": 6244,
       "hnPoints": null
     },
     {
@@ -320,8 +320,8 @@
         "skills"
       ],
       "rationale": "Curates reusable skills that extend Codex agents to take actions across dev and SaaS workflows.",
-      "stars": 11174,
-      "stars7dDelta": 945,
+      "stars": 11297,
+      "stars7dDelta": 1068,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 45067,
-      "stars7dDelta": 2262,
+      "stars": 45195,
+      "stars7dDelta": 2390,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 26919,
-      "stars7dDelta": 2658,
+      "stars": 27095,
+      "stars7dDelta": 2834,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 13712,
-      "stars7dDelta": 2224,
+      "stars": 13833,
+      "stars7dDelta": 2345,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 101919,
-      "stars7dDelta": 13367,
+      "stars": 102591,
+      "stars7dDelta": 14039,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 148697,
-      "stars7dDelta": 14959,
+      "stars": 150045,
+      "stars7dDelta": 16307,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 16648,
-      "stars7dDelta": 5563,
+      "stars": 16930,
+      "stars7dDelta": 5845,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 19470,
-      "stars7dDelta": 9817,
+      "stars": 19875,
+      "stars7dDelta": 10222,
       "hnPoints": null
     },
     {
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 6632,
-      "stars7dDelta": 1355,
+      "stars": 6817,
+      "stars7dDelta": 1540,
       "hnPoints": null
     },
     {
@@ -5411,8 +5411,8 @@
         "workflow"
       ],
       "rationale": "Beginner course teaching AI-assisted app building rather than a tool or deployable AI product.",
-      "stars": 14158,
-      "stars7dDelta": 681,
+      "stars": 14294,
+      "stars7dDelta": 817,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 12982,
-      "stars7dDelta": 3778,
+      "stars": 14021,
+      "stars7dDelta": 4817,
       "hnPoints": null
     },
     {
@@ -6788,8 +6788,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 20074,
-      "stars7dDelta": 3814,
+      "stars": 22230,
+      "stars7dDelta": 5970,
       "hnPoints": null
     },
     {
@@ -6852,8 +6852,8 @@
         "agent-skills"
       ],
       "rationale": "Curated .NET skills and custom agents that extend AI coding agents for framework-specific development tasks.",
-      "stars": 2673,
-      "stars7dDelta": 593,
+      "stars": 2780,
+      "stars7dDelta": 700,
       "hnPoints": null
     },
     {
@@ -6877,8 +6877,8 @@
       ],
       "topics": [],
       "rationale": "Managed platform for autonomous coding agents that take issues, report progress, and act like engineering teammates.",
-      "stars": 31691,
-      "stars7dDelta": 1180,
+      "stars": 32033,
+      "stars7dDelta": 1522,
       "hnPoints": null
     },
     {
@@ -7844,8 +7844,8 @@
       ],
       "topics": [],
       "rationale": "Desktop markdown knowledge-base manager for personal notes, company docs, and AI assistant context rather than an AI system itself.",
-      "stars": 11338,
-      "stars7dDelta": 105,
+      "stars": 11389,
+      "stars7dDelta": 156,
       "hnPoints": null
     },
     {
@@ -7871,7 +7871,7 @@
       "rationale": "An LLM benchmark for OpenSCAD/CAD generation fits AI eval infrastructure for developers comparing model capabilities.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 400
+      "hnPoints": 415
     },
     {
       "id": 310,
@@ -7895,7 +7895,7 @@
       "rationale": "A blog/proposal about LLM-readable site metadata, not a standalone app or infra project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 827
+      "hnPoints": 858
     },
     {
       "id": 311,
@@ -8017,7 +8017,7 @@
       "rationale": "A developer-focused essay about AI amplifying technical skill, not a software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 321
+      "hnPoints": 330
     },
     {
       "id": 316,
@@ -8041,7 +8041,7 @@
       "rationale": "A news article about AI commentary, not a software project or startup-relevant tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 632
+      "hnPoints": 640
     },
     {
       "id": 317,
@@ -8065,7 +8065,7 @@
       "rationale": "A media article about OpenAI leadership/legal drama, not a software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 119
+      "hnPoints": 121
     },
     {
       "id": 318,
@@ -8137,7 +8137,7 @@
       "rationale": "A business strategy article about AI and staffing, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 200
+      "hnPoints": 202
     },
     {
       "id": 321,
@@ -8822,7 +8822,7 @@
       "rationale": "News about enterprise AI unit economics, not a software project; highlights cost gaps for agent adoption.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 209
+      "hnPoints": 220
     },
     {
       "id": 349,
@@ -8872,7 +8872,7 @@
       "rationale": "Kanban UI where autonomous agents run per card, blending task management with parallel agent workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 235
+      "hnPoints": 251
     },
     {
       "id": 351,
@@ -8896,7 +8896,7 @@
       "rationale": "Security incident coverage on a government data leak; relevant to org risk, disclosure, and containment practices.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 229
+      "hnPoints": 261
     },
     {
       "id": 352,
@@ -8920,7 +8920,7 @@
       "rationale": "A personal technology blog post, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 160
+      "hnPoints": 172
     },
     {
       "id": 353,
@@ -8945,7 +8945,7 @@
       "rationale": "Not a software project; it is an aviation museum announcement about liquidating simulator assets.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 122
+      "hnPoints": 125
     },
     {
       "id": 354,
@@ -8969,7 +8969,7 @@
       "rationale": "Open model specs and pricing catalog helps developers compare providers and build routing or cost tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 145
+      "hnPoints": 153
     },
     {
       "id": 355,
@@ -8993,7 +8993,7 @@
       "rationale": "Permanent LLM API price cuts highlight cheaper inference as a platform shift for builders.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 405
+      "hnPoints": 435
     },
     {
       "id": 356,
@@ -9090,7 +9090,7 @@
       "rationale": "A public data site tracking whether AI businesses/products are economically profitable.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 230
+      "hnPoints": 248
     },
     {
       "id": 360,
@@ -9114,7 +9114,7 @@
       "rationale": "Claude Code is an agentic coding assistant for developers, with licensing churn highlighting demand and vendor risk.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 360
+      "hnPoints": 458
     },
     {
       "id": 361,
@@ -9138,7 +9138,7 @@
       "rationale": "A political news article about Alberta sovereignty, not a software project or AI startup opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 157
+      "hnPoints": 160
     },
     {
       "id": 362,
@@ -9162,7 +9162,7 @@
       "rationale": "A lightweight site or manifesto about AI-generated communication, not a clear software tool or AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 170
+      "hnPoints": 177
     },
     {
       "id": 363,
@@ -9185,8 +9185,8 @@
       ],
       "topics": [],
       "rationale": "TypeScript library for running and merging sandboxed AI coding agents across isolated branches/providers.",
-      "stars": 4813,
-      "stars7dDelta": 0,
+      "stars": 4888,
+      "stars7dDelta": 75,
       "hnPoints": null
     },
     {
@@ -9231,8 +9231,8 @@
         "threat-intelligence"
       ],
       "rationale": "A structured cybersecurity skill library that equips AI coding/agent platforms with domain-specific security workflows.",
-      "stars": 7005,
-      "stars7dDelta": 0,
+      "stars": 7571,
+      "stars7dDelta": 566,
       "hnPoints": null
     },
     {
@@ -9600,6 +9600,80 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 380,
+      "source": "hn",
+      "sourceId": "48250980",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "owner": "baal80spam",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-24T05:01:15+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "aviation",
+        "legal",
+        "news"
+      ],
+      "topics": [],
+      "rationale": "News about an aviation manslaughter ruling, not a software project or AI-agent opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
+    },
+    {
+      "id": 381,
+      "source": "hn",
+      "sourceId": "48248775",
+      "title": "Italy moves to Airbus A330 tankers",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "owner": "embedding-shape",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-24T05:01:22+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "defense",
+        "aviation",
+        "nato",
+        "procurement"
+      ],
+      "topics": [],
+      "rationale": "News about military aircraft procurement, not a software or AI project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 242
+    },
+    {
+      "id": 382,
+      "source": "hn",
+      "sourceId": "48221568",
+      "title": "Show HN: Twixt – transform one word into another in four moves",
+      "url": "https://twixt.games/",
+      "owner": "unseen_forms",
+      "language": null,
+      "description": "I made this game while working on a different project about teaching English spelling. I was reading about homophones and got struck by how much a homophone can transform the shape of a word, so I started experimenting with little games built on that.<p>I added a few more transforms, anagrams, verb&#x2F;tense changes, but the answers kept coming out too obvious. I couldn&#x27;t distort the word enough to make it interesting. The breakthrough was compound pairs. Jumping from one word to another t",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-24T05:01:27+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "word-game",
+        "spelling",
+        "puzzle",
+        "homophones"
+      ],
+      "topics": [],
+      "rationale": "Consumer word puzzle game using linguistic transformations like homophones, anagrams, and compounds.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
     }
   ]
 }
