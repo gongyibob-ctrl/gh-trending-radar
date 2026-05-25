@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-24T14:21:42.501961+00:00",
+  "generatedAt": "2026-05-25T05:20:52.433210+00:00",
   "totals": {
-    "items": 398,
+    "items": 405,
     "byBucket": {
-      "data": 13,
-      "ai-agent": 75,
+      "data": 14,
+      "ai-agent": 77,
       "ai-app": 81,
-      "ai-infra": 40,
+      "ai-infra": 41,
       "devtool": 33,
-      "other": 132,
+      "other": 135,
       "security": 22,
       "web-framework": 2
     },
     "byAudience": {
-      "B": 72,
-      "dev": 161,
+      "B": 74,
+      "dev": 166,
       "both": 97,
       "C": 68
     },
     "bySource": {
       "github_trending": 41,
-      "hn": 164,
+      "hn": 171,
       "product_hunt": 193
     }
   },
@@ -62,7 +62,7 @@
       ],
       "rationale": "Aggregates many live OSINT telemetry feeds into a unified map, pointing to demand for packaged intelligence data layers.",
       "stars": 8323,
-      "stars7dDelta": 1403,
+      "stars7dDelta": 751,
       "hnPoints": null
     },
     {
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 39970,
-      "stars7dDelta": 4528,
+      "stars": 40139,
+      "stars7dDelta": 3717,
       "hnPoints": null
     },
     {
@@ -129,7 +129,7 @@
       ],
       "rationale": "Packaged local AI suite bundling chat, voice, RAG, agents, and image gen as a no-cloud alternative.",
       "stars": 1295,
-      "stars7dDelta": 252,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 21181,
-      "stars7dDelta": 18031,
+      "stars": 22925,
+      "stars7dDelta": 18524,
       "hnPoints": null
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Validated skill registry for AI coding agents, addressing trust and safety in agent extension ecosystems.",
       "stars": 4136,
-      "stars7dDelta": 748,
+      "stars7dDelta": 244,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 26846,
-      "stars7dDelta": 14265,
+      "stars": 27330,
+      "stars7dDelta": 11035,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 28891,
-      "stars7dDelta": 3720,
+      "stars": 29263,
+      "stars7dDelta": 3772,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 20043,
-      "stars7dDelta": 6590,
+      "stars": 20510,
+      "stars7dDelta": 5690,
       "hnPoints": null
     },
     {
@@ -320,8 +320,8 @@
         "skills"
       ],
       "rationale": "Curates reusable skills that extend Codex agents to take actions across dev and SaaS workflows.",
-      "stars": 11404,
-      "stars7dDelta": 1175,
+      "stars": 11516,
+      "stars7dDelta": 342,
       "hnPoints": null
     },
     {
@@ -353,7 +353,7 @@
       ],
       "rationale": "Terminal coding agent that uses DeepSeek models to reason, edit workspaces, and automate dev tasks with approvals.",
       "stars": 31459,
-      "stars7dDelta": 304,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 45314,
-      "stars7dDelta": 2509,
+      "stars": 45453,
+      "stars7dDelta": 2226,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 27226,
-      "stars7dDelta": 2965,
+      "stars": 27366,
+      "stars7dDelta": 2186,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 13943,
-      "stars7dDelta": 2455,
+      "stars": 14068,
+      "stars7dDelta": 2007,
       "hnPoints": null
     },
     {
@@ -493,7 +493,7 @@
       ],
       "rationale": "Developer framework for agents and coders to generate HTML/GSAP video compositions and render them via browser/FFmpeg.",
       "stars": 19760,
-      "stars7dDelta": 812,
+      "stars7dDelta": 470,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 103129,
-      "stars7dDelta": 14577,
+      "stars": 103944,
+      "stars7dDelta": 12635,
       "hnPoints": null
     },
     {
@@ -548,7 +548,7 @@
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
       "stars": 10497,
-      "stars7dDelta": 598,
+      "stars7dDelta": 386,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 151141,
-      "stars7dDelta": 17403,
+      "stars": 152731,
+      "stars7dDelta": 17139,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 17158,
-      "stars7dDelta": 6073,
+      "stars": 17490,
+      "stars7dDelta": 5288,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 20322,
-      "stars7dDelta": 10669,
+      "stars": 20812,
+      "stars7dDelta": 9805,
       "hnPoints": null
     },
     {
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 6952,
-      "stars7dDelta": 1675,
+      "stars": 7110,
+      "stars7dDelta": 1833,
       "hnPoints": null
     },
     {
@@ -5411,8 +5411,8 @@
         "workflow"
       ],
       "rationale": "Beginner course teaching AI-assisted app building rather than a tool or deployable AI product.",
-      "stars": 14412,
-      "stars7dDelta": 935,
+      "stars": 14551,
+      "stars7dDelta": 1074,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 14890,
-      "stars7dDelta": 5686,
+      "stars": 16725,
+      "stars7dDelta": 7521,
       "hnPoints": null
     },
     {
@@ -6788,8 +6788,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 24152,
-      "stars7dDelta": 7892,
+      "stars": 27265,
+      "stars7dDelta": 11005,
       "hnPoints": null
     },
     {
@@ -6852,8 +6852,8 @@
         "agent-skills"
       ],
       "rationale": "Curated .NET skills and custom agents that extend AI coding agents for framework-specific development tasks.",
-      "stars": 2863,
-      "stars7dDelta": 783,
+      "stars": 3002,
+      "stars7dDelta": 922,
       "hnPoints": null
     },
     {
@@ -6877,8 +6877,8 @@
       ],
       "topics": [],
       "rationale": "Managed platform for autonomous coding agents that take issues, report progress, and act like engineering teammates.",
-      "stars": 32254,
-      "stars7dDelta": 1743,
+      "stars": 32665,
+      "stars7dDelta": 2154,
       "hnPoints": null
     },
     {
@@ -8979,7 +8979,7 @@
       "url": "https://api-docs.deepseek.com/quick_start/pricing",
       "owner": "Tiberium",
       "language": null,
-      "description": "&gt; (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173</a>",
+      "description": "&gt; (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1&#x2F;4 of the original price after the 75% discount promotion ends on 2026&#x2F;05&#x2F;31 15:59 UTC.<p><a href=\"https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;deepseek_ai&#x2F;status&#x2F;2057854261699195173</a><p>Related ongoing thread:<p><i>DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost</i> - <a href=\"https:",
       "createdAt": null,
       "firstSeenAt": "2026-05-23T04:41:52+00:00",
       "bucket": "ai-infra",
@@ -8993,7 +8993,7 @@
       "rationale": "Permanent LLM API price cuts highlight cheaper inference as a platform shift for builders.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 448
+      "hnPoints": 563
     },
     {
       "id": 356,
@@ -9185,8 +9185,8 @@
       ],
       "topics": [],
       "rationale": "TypeScript library for running and merging sandboxed AI coding agents across isolated branches/providers.",
-      "stars": 4935,
-      "stars7dDelta": 122,
+      "stars": 4999,
+      "stars7dDelta": 186,
       "hnPoints": null
     },
     {
@@ -9231,8 +9231,8 @@
         "threat-intelligence"
       ],
       "rationale": "A structured cybersecurity skill library that equips AI coding/agent platforms with domain-specific security workflows.",
-      "stars": 7927,
-      "stars7dDelta": 922,
+      "stars": 8544,
+      "stars7dDelta": 1539,
       "hnPoints": null
     },
     {
@@ -9623,7 +9623,7 @@
       "rationale": "News about an aviation manslaughter ruling, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 129
     },
     {
       "id": 381,
@@ -9648,7 +9648,7 @@
       "rationale": "News about military aircraft procurement, not a software or AI project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 267
+      "hnPoints": 277
     },
     {
       "id": 382,
@@ -9707,8 +9707,8 @@
         "swarm-intelligence"
       ],
       "rationale": "A developer-facing multi-agent simulation engine for forecasting social, financial, or policy outcomes.",
-      "stars": 61924,
-      "stars7dDelta": 0,
+      "stars": 62273,
+      "stars7dDelta": 349,
       "hnPoints": null
     },
     {
@@ -9747,8 +9747,8 @@
         "zeabur"
       ],
       "rationale": "Middleware exposing DeepSeek web chat as standard LLM APIs, fitting the model-access compatibility layer pattern.",
-      "stars": 4568,
-      "stars7dDelta": 0,
+      "stars": 4585,
+      "stars7dDelta": 17,
       "hnPoints": null
     },
     {
@@ -9772,8 +9772,8 @@
       ],
       "topics": [],
       "rationale": "Role-specific Claude plugins bundle tools, commands, and sub-agents to automate business knowledge work.",
-      "stars": 13411,
-      "stars7dDelta": 0,
+      "stars": 14257,
+      "stars7dDelta": 846,
       "hnPoints": null
     },
     {
@@ -9797,8 +9797,8 @@
       ],
       "topics": [],
       "rationale": "Official Cursor plugin spec and marketplace plugins extend AI coding workflows for developers.",
-      "stars": 712,
-      "stars7dDelta": 0,
+      "stars": 755,
+      "stars7dDelta": 43,
       "hnPoints": null
     },
     {
@@ -9831,8 +9831,8 @@
         "tmux"
       ],
       "rationale": "Developer terminal UX tailored to monitoring and interacting with AI coding agents.",
-      "stars": 18773,
-      "stars7dDelta": 0,
+      "stars": 19124,
+      "stars7dDelta": 351,
       "hnPoints": null
     },
     {
@@ -9843,7 +9843,7 @@
       "url": "https://github.com/stablyai/orca",
       "owner": "stablyai",
       "language": "TypeScript",
-      "description": "Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "createdAt": "2026-03-17T03:28:57Z",
       "firstSeenAt": "2026-05-24T14:20:02+00:00",
       "bucket": "ai-agent",
@@ -9871,8 +9871,8 @@
         "worktrees"
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
-      "stars": 3180,
-      "stars7dDelta": 0,
+      "stars": 3282,
+      "stars7dDelta": 102,
       "hnPoints": null
     },
     {
@@ -10116,6 +10116,178 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 399,
+      "source": "hn",
+      "sourceId": "48256953",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "owner": "Alifatisk",
+      "language": null,
+      "description": "Related ongoing thread:<p><i>DeepSeek makes the V4 Pro price discount permanent</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663</a> - May 2026 (384 comments)",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:19:47+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "deepseek",
+        "low-cost",
+        "caching"
+      ],
+      "topics": [],
+      "rationale": "A DeepSeek-native coding agent emphasizing cheaper, cached multi-step software development workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 497
+    },
+    {
+      "id": 400,
+      "source": "hn",
+      "sourceId": "48258684",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "owner": "intelkishan",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:19:53+00:00",
+      "bucket": "data",
+      "audience": "B",
+      "tags": [
+        "ai-chips",
+        "memory-costs",
+        "hardware-analysis"
+      ],
+      "topics": [],
+      "rationale": "Research/data insight on AI chip cost structure, useful for market and infrastructure planning.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 344
+    },
+    {
+      "id": 401,
+      "source": "hn",
+      "sourceId": "48256912",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "owner": "wek",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:20:00+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "llm-agents",
+        "code-generation",
+        "backend",
+        "evaluation"
+      ],
+      "topics": [],
+      "rationale": "Research on failure modes of LLM coding agents highlights reliability gaps in agentic backend generation.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 201
+    },
+    {
+      "id": 402,
+      "source": "hn",
+      "sourceId": "48259784",
+      "title": "Claude is not your architect. Stop letting it pretend",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "owner": "cdrnsf",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:20:12+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-coding",
+        "architecture",
+        "llm-limits"
+      ],
+      "topics": [],
+      "rationale": "An opinion piece for developers about overusing Claude for software architecture, not a software project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 238
+    },
+    {
+      "id": 403,
+      "source": "hn",
+      "sourceId": "48257410",
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "owner": "moh_maya",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:20:18+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-api",
+        "llm-pricing",
+        "deepseek"
+      ],
+      "topics": [],
+      "rationale": "Permanent price cuts on flagship LLMs signal commoditizing inference and lower barriers for AI builders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 206
+    },
+    {
+      "id": 404,
+      "source": "hn",
+      "sourceId": "48257980",
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "owner": "Brajeshwar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:20:23+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "ai-washing",
+        "branding",
+        "pr",
+        "enterprise"
+      ],
+      "topics": [],
+      "rationale": "News on companies rebranding around AI rather than a software project; signals demand for AI credibility and positioning.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 155
+    },
+    {
+      "id": 405,
+      "source": "hn",
+      "sourceId": "48258736",
+      "title": "FreeBSD Foundation executive director tries daily driving FreeBSD on laptop",
+      "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
+      "owner": "Bender",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-25T05:20:37+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "freebsd",
+        "desktop-os",
+        "laptop",
+        "unix"
+      ],
+      "topics": [],
+      "rationale": "A FreeBSD laptop usability story, relevant to developer/sysadmin OS adoption rather than a software startup category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 87
     }
   ]
 }
