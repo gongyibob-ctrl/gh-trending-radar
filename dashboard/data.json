@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-25T15:49:24.932796+00:00",
+  "generatedAt": "2026-05-26T05:05:12.449069+00:00",
   "totals": {
-    "items": 435,
+    "items": 449,
     "byBucket": {
       "data": 15,
       "ai-agent": 82,
-      "ai-app": 87,
-      "ai-infra": 43,
+      "ai-app": 91,
+      "ai-infra": 45,
       "devtool": 37,
-      "other": 146,
-      "security": 23,
+      "other": 153,
+      "security": 24,
       "web-framework": 2
     },
     "byAudience": {
-      "B": 80,
-      "dev": 178,
-      "both": 107,
-      "C": 70
+      "B": 83,
+      "dev": 180,
+      "both": 112,
+      "C": 74
     },
     "bySource": {
       "github_trending": 46,
-      "hn": 180,
+      "hn": 194,
       "product_hunt": 209
     }
   },
@@ -62,7 +62,7 @@
       ],
       "rationale": "Aggregates many live OSINT telemetry feeds into a unified map, pointing to demand for packaged intelligence data layers.",
       "stars": 8323,
-      "stars7dDelta": 751,
+      "stars7dDelta": 173,
       "hnPoints": null
     },
     {
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 40298,
-      "stars7dDelta": 3876,
+      "stars": 40422,
+      "stars7dDelta": 2919,
       "hnPoints": null
     },
     {
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 24415,
-      "stars7dDelta": 20014,
+      "stars": 25820,
+      "stars7dDelta": 19752,
       "hnPoints": null
     },
     {
@@ -187,7 +187,7 @@
       ],
       "rationale": "Validated skill registry for AI coding agents, addressing trust and safety in agent extension ecosystems.",
       "stars": 4136,
-      "stars7dDelta": 244,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 27669,
-      "stars7dDelta": 11374,
+      "stars": 27890,
+      "stars7dDelta": 7621,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 29521,
-      "stars7dDelta": 4030,
+      "stars": 29736,
+      "stars7dDelta": 3637,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 20820,
-      "stars7dDelta": 6000,
+      "stars": 21082,
+      "stars7dDelta": 4863,
       "hnPoints": null
     },
     {
@@ -320,8 +320,8 @@
         "skills"
       ],
       "rationale": "Curates reusable skills that extend Codex agents to take actions across dev and SaaS workflows.",
-      "stars": 11613,
-      "stars7dDelta": 439,
+      "stars": 11702,
+      "stars7dDelta": 528,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 45584,
-      "stars7dDelta": 2357,
+      "stars": 45766,
+      "stars7dDelta": 2038,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 27490,
-      "stars7dDelta": 2310,
+      "stars": 27607,
+      "stars7dDelta": 1776,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 14170,
-      "stars7dDelta": 2109,
+      "stars": 14298,
+      "stars7dDelta": 1859,
       "hnPoints": null
     },
     {
@@ -493,7 +493,7 @@
       ],
       "rationale": "Developer framework for agents and coders to generate HTML/GSAP video compositions and render them via browser/FFmpeg.",
       "stars": 19760,
-      "stars7dDelta": 470,
+      "stars7dDelta": 133,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 104812,
-      "stars7dDelta": 13503,
+      "stars": 105587,
+      "stars7dDelta": 11687,
       "hnPoints": null
     },
     {
@@ -548,7 +548,7 @@
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
       "stars": 10497,
-      "stars7dDelta": 386,
+      "stars7dDelta": 199,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 154172,
-      "stars7dDelta": 18580,
+      "stars": 155433,
+      "stars7dDelta": 17961,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 17721,
-      "stars7dDelta": 5519,
+      "stars": 17918,
+      "stars7dDelta": 4082,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 21319,
-      "stars7dDelta": 10312,
+      "stars": 21619,
+      "stars7dDelta": 7803,
       "hnPoints": null
     },
     {
@@ -2717,7 +2717,7 @@
       ],
       "rationale": "Packaged LLM stock-analysis dashboard for retail investors with data aggregation, strategy Q&A, and automated alerts.",
       "stars": 37358,
-      "stars7dDelta": 451,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 7241,
-      "stars7dDelta": 1964,
+      "stars": 7341,
+      "stars7dDelta": 2064,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 18021,
-      "stars7dDelta": 8817,
+      "stars": 19101,
+      "stars7dDelta": 9897,
       "hnPoints": null
     },
     {
@@ -6788,8 +6788,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 29956,
-      "stars7dDelta": 13696,
+      "stars": 32078,
+      "stars7dDelta": 15818,
       "hnPoints": null
     },
     {
@@ -9185,8 +9185,8 @@
       ],
       "topics": [],
       "rationale": "TypeScript library for running and merging sandboxed AI coding agents across isolated branches/providers.",
-      "stars": 5037,
-      "stars7dDelta": 224,
+      "stars": 5087,
+      "stars7dDelta": 274,
       "hnPoints": null
     },
     {
@@ -9231,8 +9231,8 @@
         "threat-intelligence"
       ],
       "rationale": "A structured cybersecurity skill library that equips AI coding/agent platforms with domain-specific security workflows.",
-      "stars": 8956,
-      "stars7dDelta": 1951,
+      "stars": 9420,
+      "stars7dDelta": 2415,
       "hnPoints": null
     },
     {
@@ -9316,7 +9316,7 @@
       "url": "https://www.producthunt.com/products/spantop",
       "owner": null,
       "language": null,
-      "description": "Turn any Mac into a real second monitor Discussion | Link",
+      "description": "Turn any Mac/Android Tablet into a real extended monitor Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-23T14:26:22+00:00",
       "bucket": "other",
@@ -9772,8 +9772,8 @@
       ],
       "topics": [],
       "rationale": "Role-specific Claude plugins bundle tools, commands, and sub-agents to automate business knowledge work.",
-      "stars": 14901,
-      "stars7dDelta": 1490,
+      "stars": 15789,
+      "stars7dDelta": 2378,
       "hnPoints": null
     },
     {
@@ -9797,8 +9797,8 @@
       ],
       "topics": [],
       "rationale": "Official Cursor plugin spec and marketplace plugins extend AI coding workflows for developers.",
-      "stars": 777,
-      "stars7dDelta": 65,
+      "stars": 840,
+      "stars7dDelta": 128,
       "hnPoints": null
     },
     {
@@ -9831,8 +9831,8 @@
         "tmux"
       ],
       "rationale": "Developer terminal UX tailored to monitoring and interacting with AI coding agents.",
-      "stars": 19368,
-      "stars7dDelta": 595,
+      "stars": 19590,
+      "stars7dDelta": 817,
       "hnPoints": null
     },
     {
@@ -10140,7 +10140,7 @@
       "rationale": "A DeepSeek-native coding agent emphasizing cheaper, cached multi-step software development workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 625
+      "hnPoints": 710
     },
     {
       "id": 400,
@@ -10164,7 +10164,7 @@
       "rationale": "Research/data insight on AI chip cost structure, useful for market and infrastructure planning.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 413
+      "hnPoints": 432
     },
     {
       "id": 401,
@@ -10189,7 +10189,7 @@
       "rationale": "Research on failure modes of LLM coding agents highlights reliability gaps in agentic backend generation.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 267
+      "hnPoints": 278
     },
     {
       "id": 402,
@@ -10213,7 +10213,7 @@
       "rationale": "An opinion piece for developers about overusing Claude for software architecture, not a software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 257
+      "hnPoints": 267
     },
     {
       "id": 403,
@@ -10262,7 +10262,7 @@
       "rationale": "News on companies rebranding around AI rather than a software project; signals demand for AI credibility and positioning.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 177
     },
     {
       "id": 405,
@@ -10287,7 +10287,7 @@
       "rationale": "A FreeBSD laptop usability story, relevant to developer/sysadmin OS adoption rather than a software startup category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 91
+      "hnPoints": 93
     },
     {
       "id": 406,
@@ -10324,8 +10324,8 @@
         "vibecoding"
       ],
       "rationale": "Portable skills tune coding agents toward better UI taste, showing demand for reusable agent behavior packs.",
-      "stars": 19313,
-      "stars7dDelta": 0,
+      "stars": 20015,
+      "stars7dDelta": 702,
       "hnPoints": null
     },
     {
@@ -10358,8 +10358,8 @@
         "productivity"
       ],
       "rationale": "Optimizes coding agent harnesses with skills, memory, security, and workflows for agentic development.",
-      "stars": 191974,
-      "stars7dDelta": 0,
+      "stars": 192800,
+      "stars7dDelta": 826,
       "hnPoints": null
     },
     {
@@ -10383,8 +10383,8 @@
       ],
       "topics": [],
       "rationale": "Opinionated Claude Code agent setup that turns one developer into a multi-role AI-assisted product team.",
-      "stars": 102176,
-      "stars7dDelta": 0,
+      "stars": 102679,
+      "stars7dDelta": 503,
       "hnPoints": null
     },
     {
@@ -10407,8 +10407,8 @@
       ],
       "topics": [],
       "rationale": "A reusable Claude/LLM skill that edits prose to remove AI-writing artifacts for creators and business writing.",
-      "stars": 4237,
-      "stars7dDelta": 0,
+      "stars": 4534,
+      "stars7dDelta": 297,
       "hnPoints": null
     },
     {
@@ -10432,8 +10432,8 @@
       ],
       "topics": [],
       "rationale": "Coordinates AI agents for software delivery with shared specs, task boards, traces, and protocol integrations.",
-      "stars": 1391,
-      "stars7dDelta": 0,
+      "stars": 1456,
+      "stars7dDelta": 65,
       "hnPoints": null
     },
     {
@@ -10459,7 +10459,7 @@
       "rationale": "AI ethics commentary, not a software project; signals concern over concentration of AI power.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 219
+      "hnPoints": 335
     },
     {
       "id": 412,
@@ -10483,7 +10483,7 @@
       "rationale": "Security news on takedown of attack infrastructure, relevant to cyber risk and abuse prevention teams.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 90
+      "hnPoints": 270
     },
     {
       "id": 413,
@@ -10507,7 +10507,7 @@
       "rationale": "Business messaging API brings Twilio-like automation to iMessage, useful for outreach and support workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 5
+      "hnPoints": 54
     },
     {
       "id": 414,
@@ -10531,7 +10531,7 @@
       "rationale": "News/commentary on AI concentration and dehumanization, not a software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 92
+      "hnPoints": 164
     },
     {
       "id": 415,
@@ -10555,7 +10555,7 @@
       "rationale": "Historical article about early Brazilian email routing via Fermilab, not a software product or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 23
+      "hnPoints": 52
     },
     {
       "id": 416,
@@ -10579,13 +10579,13 @@
       "rationale": "A developer-oriented blog post/humor piece about AI failure modes, not a software product or infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 64
+      "hnPoints": 121
     },
     {
       "id": 417,
       "source": "hn",
       "sourceId": "48264635",
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+      "title": "Show HN: Geomatic – A command-driven geometry studio enabled with autodiff",
       "url": "https://www.tinyvolt.com/geomatic",
       "owner": "nivter",
       "language": null,
@@ -10604,7 +10604,7 @@
       "rationale": "A command-driven reactive geometry studio with autodiff, more math/visual tooling than AI or dev infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 44
+      "hnPoints": 63
     },
     {
       "id": 418,
@@ -10628,7 +10628,7 @@
       "rationale": "Developer-focused notes on Python email package behavior, useful for implementation pitfalls rather than a product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 38
+      "hnPoints": 52
     },
     {
       "id": 419,
@@ -10653,7 +10653,7 @@
       "rationale": "Research repo analyzing ChatGPT number-guessing behavior rather than a reusable AI app or infrastructure tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 76
+      "hnPoints": 84
     },
     {
       "id": 420,
@@ -11042,6 +11042,348 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 436,
+      "source": "hn",
+      "sourceId": "48272984",
+      "title": "Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "owner": "signa11",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:03:25+00:00",
+      "bucket": "ai-app",
+      "audience": "dev",
+      "tags": [
+        "ai-coding",
+        "code-quality",
+        "developer-workflow"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused piece on AI-assisted coding practices, reflecting demand for slower, higher-quality AI coding workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 330
+    },
+    {
+      "id": 437,
+      "source": "hn",
+      "sourceId": "48270770",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "owner": "rbanffy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:03:33+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "llm-training",
+        "flash-storage",
+        "huawei",
+        "enterprise-infra"
+      ],
+      "topics": [],
+      "rationale": "Large-scale flash storage for LLM training points to enterprise AI infrastructure needs.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 207
+    },
+    {
+      "id": 438,
+      "source": "hn",
+      "sourceId": "48273597",
+      "title": "Designing for and against the manufactured normalcy field (2012)",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "owner": "nvader",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:03:40+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "design-theory",
+        "futurism",
+        "normalcy-bias"
+      ],
+      "topics": [],
+      "rationale": "A conceptual essay on adapting to technological change, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 439,
+      "source": "hn",
+      "sourceId": "48273169",
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "url": "https://support.apple.com/en-us/127115",
+      "owner": "dragonsenseiguy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:03:46+00:00",
+      "bucket": "security",
+      "audience": "both",
+      "tags": [
+        "cve",
+        "macos-kernel",
+        "vulnerability",
+        "ai-discovered"
+      ],
+      "topics": [],
+      "rationale": "Apple kernel CVE highlights AI-assisted vuln discovery as an emerging security research pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 103
+    },
+    {
+      "id": 440,
+      "source": "hn",
+      "sourceId": "48272393",
+      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "url": "https://github.com/tantara/openbrief",
+      "owner": "tantara",
+      "language": null,
+      "description": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It&#x27;s open source and free.",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:03:51+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "video-summary",
+        "local-first",
+        "transcription",
+        "yt-dlp"
+      ],
+      "topics": [],
+      "rationale": "End-user GUI combines video downloading with local transcription, summaries, and transcript chat.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 38
+    },
+    {
+      "id": 441,
+      "source": "hn",
+      "sourceId": "48212461",
+      "title": "Everyone Against Us (2023)",
+      "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+      "owner": "NaOH",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:03:58+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "article",
+        "magazine",
+        "chicago"
+      ],
+      "topics": [],
+      "rationale": "A magazine article, not a software project or AI-related tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 62
+    },
+    {
+      "id": 442,
+      "source": "hn",
+      "sourceId": "48255631",
+      "title": "Mathematical Patterns in African American HAIRSTYLEs",
+      "url": "https://math.buffalo.edu/mad/special/gilmer-gloria_HAIRSTYLES.html",
+      "owner": "marysminefnuf",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:03+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "education",
+        "mathematics",
+        "culture"
+      ],
+      "topics": [],
+      "rationale": "An educational web page about mathematical patterns in hairstyles, not a software project or AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 443,
+      "source": "hn",
+      "sourceId": "48270812",
+      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "owner": "rmason",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:08+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "hypersonic",
+        "ramjet",
+        "aerospace"
+      ],
+      "topics": [],
+      "rationale": "Aerospace hardware news, not a software or AI project; relevant mainly to defense and aviation organizations.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 114
+    },
+    {
+      "id": 444,
+      "source": "hn",
+      "sourceId": "48221122",
+      "title": "CPPL: A Circuit Prompt Programming Language",
+      "url": "https://arxiv.org/abs/2605.17892",
+      "owner": "chrsw",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:16+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "prompt-language",
+        "llm-programming",
+        "prompt-engineering"
+      ],
+      "topics": [],
+      "rationale": "A programming abstraction for structuring LLM prompts, fitting the emerging prompt/RAG infrastructure layer.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 38
+    },
+    {
+      "id": 445,
+      "source": "hn",
+      "sourceId": "48269880",
+      "title": "Maia-3: free and open source",
+      "url": "https://lichess.org/@/ashtonanderson/blog/introducing-maia-3-free-and-open-source/vCPPRtX3",
+      "owner": "pncnmnp",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:24+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "chess-ai",
+        "open-source",
+        "human-like"
+      ],
+      "topics": [],
+      "rationale": "Open-source chess AI for players, reflecting niche consumer AI products built around specialized models.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 446,
+      "source": "hn",
+      "sourceId": "48271942",
+      "title": "Show HN: Fungible – A local personal finance app in the terminal",
+      "url": "https://github.com/tomfunk/fungible",
+      "owner": "tomfunk",
+      "language": null,
+      "description": "Fungible is a terminal-based personal finance app that fills the Mint-shaped void in my life. It runs using your own plaid credentials (optional) and has its own integrated chatbot (also optional and BYO key).<p>You connect banks via Plaid or import CSVs. Transactions get auto-categorized by rules you define. On top of normal categories there&#x27;s a flexibility layer (fixed &#x2F; flexible &#x2F; discretionary) so you can see at a glance what&#x27;s actually controllable spending. There are al",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:31+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "personal-finance",
+        "terminal",
+        "plaid",
+        "mcp"
+      ],
+      "topics": [],
+      "rationale": "Local Mint-like finance app with optional chatbot/MCP access, showing demand for private AI-assisted money tools.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 447,
+      "source": "hn",
+      "sourceId": "48273162",
+      "title": "The Vatican-Anthropic relationship that's reshaping the AI ethics debate",
+      "url": "https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/",
+      "owner": "cdrnsf",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:40+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-ethics",
+        "anthropic",
+        "vatican",
+        "policy"
+      ],
+      "topics": [],
+      "rationale": "A news/policy piece on AI ethics and institutional influence, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 13
+    },
+    {
+      "id": 448,
+      "source": "hn",
+      "sourceId": "48274545",
+      "title": "SK Group chairman says memory chip shortage will last until 2030",
+      "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
+      "owner": "SiqingYu",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:47+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "semiconductors",
+        "memory-chips",
+        "supply-chain"
+      ],
+      "topics": [],
+      "rationale": "Industry news on DRAM/HBM shortages, relevant to AI hardware capacity rather than a software project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 449,
+      "source": "hn",
+      "sourceId": "48270497",
+      "title": "Anthropic Cofounder Chris Olah's Remarks on Pope Leo XIV's \"Magnifica Humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "owner": "Philpax",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-26T05:04:56+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-ethics",
+        "anthropic",
+        "policy",
+        "religion"
+      ],
+      "topics": [],
+      "rationale": "A thought-leadership article on AI and human values, not a software project or deployable tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
     }
   ]
 }
