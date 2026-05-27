@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-05-26T16:40:02.182127+00:00",
+  "generatedAt": "2026-05-27T05:15:57.863901+00:00",
   "totals": {
-    "items": 488,
+    "items": 494,
     "byBucket": {
       "data": 16,
-      "ai-agent": 84,
+      "ai-agent": 85,
       "ai-app": 104,
-      "ai-infra": 50,
+      "ai-infra": 52,
       "devtool": 42,
-      "other": 165,
+      "other": 168,
       "security": 25,
       "web-framework": 2
     },
     "byAudience": {
       "B": 94,
-      "dev": 194,
-      "both": 120,
+      "dev": 197,
+      "both": 123,
       "C": 80
     },
     "bySource": {
-      "github_trending": 46,
-      "hn": 206,
+      "github_trending": 47,
+      "hn": 211,
       "product_hunt": 236
     }
   },
@@ -62,7 +62,7 @@
       ],
       "rationale": "Aggregates many live OSINT telemetry feeds into a unified map, pointing to demand for packaged intelligence data layers.",
       "stars": 8323,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -86,8 +86,8 @@
       ],
       "topics": [],
       "rationale": "Turns existing software into agent-usable CLIs, reflecting the shift toward tooling built for autonomous agents.",
-      "stars": 40563,
-      "stars7dDelta": 2652,
+      "stars": 40688,
+      "stars7dDelta": 2330,
       "hnPoints": null
     },
     {
@@ -140,7 +140,7 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "owner": "colbymchenry",
       "language": "TypeScript",
-      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "createdAt": "2026-01-18T21:45:37Z",
       "firstSeenAt": "2026-05-17T18:10:13+00:00",
       "bucket": "ai-infra",
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 27254,
-      "stars7dDelta": 20311,
+      "stars": 28342,
+      "stars7dDelta": 19847,
       "hnPoints": null
     },
     {
@@ -211,8 +211,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 28211,
-      "stars7dDelta": 6285,
+      "stars": 28478,
+      "stars7dDelta": 5181,
       "hnPoints": null
     },
     {
@@ -236,8 +236,8 @@
       ],
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
-      "stars": 29915,
-      "stars7dDelta": 3438,
+      "stars": 30102,
+      "stars7dDelta": 3279,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 21337,
-      "stars7dDelta": 4488,
+      "stars": 21508,
+      "stars7dDelta": 4101,
       "hnPoints": null
     },
     {
@@ -320,8 +320,8 @@
         "skills"
       ],
       "rationale": "Curates reusable skills that extend Codex agents to take actions across dev and SaaS workflows.",
-      "stars": 11832,
-      "stars7dDelta": 658,
+      "stars": 11940,
+      "stars7dDelta": 766,
       "hnPoints": null
     },
     {
@@ -384,8 +384,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 45966,
-      "stars7dDelta": 2014,
+      "stars": 46175,
+      "stars7dDelta": 2031,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 27732,
-      "stars7dDelta": 1730,
+      "stars": 27856,
+      "stars7dDelta": 1681,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 14485,
-      "stars7dDelta": 1855,
+      "stars": 14582,
+      "stars7dDelta": 1781,
       "hnPoints": null
     },
     {
@@ -493,7 +493,7 @@
       ],
       "rationale": "Developer framework for agents and coders to generate HTML/GSAP video compositions and render them via browser/FFmpeg.",
       "stars": 19760,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 106569,
-      "stars7dDelta": 11463,
+      "stars": 107231,
+      "stars7dDelta": 10751,
       "hnPoints": null
     },
     {
@@ -548,7 +548,7 @@
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
       "stars": 10497,
-      "stars7dDelta": 137,
+      "stars7dDelta": 84,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 156675,
-      "stars7dDelta": 17960,
+      "stars": 157550,
+      "stars7dDelta": 17356,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 18126,
-      "stars7dDelta": 3760,
+      "stars": 18325,
+      "stars7dDelta": 3446,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 22051,
-      "stars7dDelta": 7605,
+      "stars": 22309,
+      "stars7dDelta": 6715,
       "hnPoints": null
     },
     {
@@ -3967,7 +3967,7 @@
       ],
       "rationale": "Curated plugin ecosystem extends Claude Code with tools and skills for agentic developer workflows.",
       "stars": 20613,
-      "stars7dDelta": 274,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -4006,7 +4006,7 @@
       ],
       "rationale": "Developer CLI proxy that compresses command output to cut LLM context costs for coding agents.",
       "stars": 51152,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 7475,
-      "stars7dDelta": 2198,
+      "stars": 7596,
+      "stars7dDelta": 2319,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 20301,
-      "stars7dDelta": 11097,
+      "stars": 21086,
+      "stars7dDelta": 11882,
       "hnPoints": null
     },
     {
@@ -6788,8 +6788,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 34795,
-      "stars7dDelta": 18535,
+      "stars": 36705,
+      "stars7dDelta": 20445,
       "hnPoints": null
     },
     {
@@ -6852,8 +6852,8 @@
         "agent-skills"
       ],
       "rationale": "Curated .NET skills and custom agents that extend AI coding agents for framework-specific development tasks.",
-      "stars": 3096,
-      "stars7dDelta": 1016,
+      "stars": 3127,
+      "stars7dDelta": 1047,
       "hnPoints": null
     },
     {
@@ -9185,8 +9185,8 @@
       ],
       "topics": [],
       "rationale": "TypeScript library for running and merging sandboxed AI coding agents across isolated branches/providers.",
-      "stars": 5128,
-      "stars7dDelta": 315,
+      "stars": 5179,
+      "stars7dDelta": 366,
       "hnPoints": null
     },
     {
@@ -9231,8 +9231,8 @@
         "threat-intelligence"
       ],
       "rationale": "A structured cybersecurity skill library that equips AI coding/agent platforms with domain-specific security workflows.",
-      "stars": 9861,
-      "stars7dDelta": 2856,
+      "stars": 10264,
+      "stars7dDelta": 3259,
       "hnPoints": null
     },
     {
@@ -9772,8 +9772,8 @@
       ],
       "topics": [],
       "rationale": "Role-specific Claude plugins bundle tools, commands, and sub-agents to automate business knowledge work.",
-      "stars": 16468,
-      "stars7dDelta": 3057,
+      "stars": 16805,
+      "stars7dDelta": 3394,
       "hnPoints": null
     },
     {
@@ -9797,8 +9797,8 @@
       ],
       "topics": [],
       "rationale": "Official Cursor plugin spec and marketplace plugins extend AI coding workflows for developers.",
-      "stars": 889,
-      "stars7dDelta": 177,
+      "stars": 933,
+      "stars7dDelta": 221,
       "hnPoints": null
     },
     {
@@ -10324,8 +10324,8 @@
         "vibecoding"
       ],
       "rationale": "Portable skills tune coding agents toward better UI taste, showing demand for reusable agent behavior packs.",
-      "stars": 20923,
-      "stars7dDelta": 1610,
+      "stars": 22409,
+      "stars7dDelta": 3096,
       "hnPoints": null
     },
     {
@@ -10358,8 +10358,8 @@
         "productivity"
       ],
       "rationale": "Optimizes coding agent harnesses with skills, memory, security, and workflows for agentic development.",
-      "stars": 193869,
-      "stars7dDelta": 1895,
+      "stars": 194775,
+      "stars7dDelta": 2801,
       "hnPoints": null
     },
     {
@@ -10407,8 +10407,8 @@
       ],
       "topics": [],
       "rationale": "A reusable Claude/LLM skill that edits prose to remove AI-writing artifacts for creators and business writing.",
-      "stars": 4831,
-      "stars7dDelta": 594,
+      "stars": 5140,
+      "stars7dDelta": 903,
       "hnPoints": null
     },
     {
@@ -10459,7 +10459,7 @@
       "rationale": "AI ethics commentary, not a software project; signals concern over concentration of AI power.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 341
+      "hnPoints": 344
     },
     {
       "id": 412,
@@ -10483,7 +10483,7 @@
       "rationale": "Security news on takedown of attack infrastructure, relevant to cyber risk and abuse prevention teams.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 283
+      "hnPoints": 285
     },
     {
       "id": 413,
@@ -11065,7 +11065,7 @@
       "rationale": "A developer-focused piece on AI-assisted coding practices, reflecting demand for slower, higher-quality AI coding workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 981
+      "hnPoints": 1158
     },
     {
       "id": 437,
@@ -11090,7 +11090,7 @@
       "rationale": "Large-scale flash storage for LLM training points to enterprise AI infrastructure needs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 313
+      "hnPoints": 320
     },
     {
       "id": 438,
@@ -11139,7 +11139,7 @@
       "rationale": "Apple kernel CVE highlights AI-assisted vuln discovery as an emerging security research pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 160
+      "hnPoints": 167
     },
     {
       "id": 440,
@@ -11236,7 +11236,7 @@
       "rationale": "Aerospace hardware news, not a software or AI project; relevant mainly to defense and aviation organizations.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 217
+      "hnPoints": 229
     },
     {
       "id": 444,
@@ -11417,7 +11417,7 @@
       "url": "https://www.minicor.com/",
       "owner": "fchishtie",
       "language": null,
-      "description": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw</a><p>We were working on non-RPA integrations when a customer promised to sign a deal in 2 days if we could unblock a sale of theirs that involved integrating with a clinic’s Windows based medic",
+      "description": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MD0GHZIJ1cw</a><p>Edit: RPA is an acronym for Robotic Process Automation - things like triggering mouse clicks and key strokes to perform tasks programmatically. Sorry if this wasn&#x27;t clear!<p>We were w",
       "createdAt": null,
       "firstSeenAt": "2026-05-26T16:35:51+00:00",
       "bucket": "ai-agent",
@@ -11432,7 +11432,7 @@
       "rationale": "Enables scalable Windows desktop automation for AI companies integrating with legacy apps lacking APIs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 28
+      "hnPoints": 85
     },
     {
       "id": 452,
@@ -11456,13 +11456,13 @@
       "rationale": "Regulatory action against prediction market platforms, not a software project category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 215
+      "hnPoints": 837
     },
     {
       "id": 453,
       "source": "hn",
       "sourceId": "48278610",
-      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
       "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
       "owner": "GodelNumbering",
       "language": null,
@@ -11480,7 +11480,7 @@
       "rationale": "A business strategy post about replacing frontier AI spend with local models plus outsourced labor.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 114
+      "hnPoints": 267
     },
     {
       "id": 454,
@@ -11504,7 +11504,7 @@
       "rationale": "EAGLE 3.1 is an LLM inference optimization effort integrated with vLLM/TorchSpec for faster serving.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 54
+      "hnPoints": 65
     },
     {
       "id": 455,
@@ -11528,7 +11528,7 @@
       "rationale": "News about enterprise AI investment scrutiny, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 170
+      "hnPoints": 270
     },
     {
       "id": 456,
@@ -11607,7 +11607,7 @@
       "id": 459,
       "source": "hn",
       "sourceId": "48237012",
-      "title": "Use Boring Languages with LLMs",
+      "title": "Use boring languages with LLMs",
       "url": "https://jry.io/writing/use-boring-languages-with-llms/",
       "owner": "evakhoury",
       "language": null,
@@ -11625,7 +11625,7 @@
       "rationale": "A developer-focused essay on choosing mainstream languages for better LLM coding support, not a tool or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 66
+      "hnPoints": 200
     },
     {
       "id": 460,
@@ -11649,7 +11649,7 @@
       "rationale": "HN discussion about Vision Pro work habits, not a software project or startup/tool category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 127
+      "hnPoints": 141
     },
     {
       "id": 461,
@@ -12194,11 +12194,11 @@
       "id": 483,
       "source": "product_hunt",
       "sourceId": "1145388",
-      "title": "Hayley",
+      "title": "Hayley: Your Thinking Companion",
       "url": "https://www.producthunt.com/products/hayley-your-thinking-companion",
       "owner": null,
       "language": null,
-      "description": "Share your thoughts & gain insights in thinking patterns Discussion | Link",
+      "description": "An insight, a pattern, one question worth sitting with. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-05-26T16:39:09+00:00",
       "bucket": "ai-app",
@@ -12335,6 +12335,151 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 489,
+      "source": "github_trending",
+      "sourceId": "Chachamaru127/claude-code-harness",
+      "title": "Chachamaru127/claude-code-harness",
+      "url": "https://github.com/Chachamaru127/claude-code-harness",
+      "owner": "Chachamaru127",
+      "language": "Shell",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "createdAt": "2025-12-12T03:57:21Z",
+      "firstSeenAt": "2026-05-27T05:14:23+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "claude-code",
+        "agent-workflow",
+        "code-review",
+        "delivery-loop"
+      ],
+      "topics": [],
+      "rationale": "Wraps Claude Code in a structured plan-work-review loop to reduce drift and enforce delivery evidence.",
+      "stars": 1708,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 490,
+      "source": "hn",
+      "sourceId": "48258314",
+      "title": "Liverpool and Manchester Railway",
+      "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+      "owner": "daverol",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-27T05:15:10+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "railway",
+        "history",
+        "transport"
+      ],
+      "topics": [],
+      "rationale": "Historical railway topic, not a software project or AI-agent-era startup signal.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 20
+    },
+    {
+      "id": 491,
+      "source": "hn",
+      "sourceId": "48284939",
+      "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+      "url": "https://deepswe.datacurve.ai/blog",
+      "owner": "ammar_x",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-27T05:15:16+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-evals",
+        "coding-benchmark",
+        "contamination-free"
+      ],
+      "topics": [],
+      "rationale": "Benchmark for evaluating long-horizon coding agents, highlighting demand for trustworthy agent evals.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 38
+    },
+    {
+      "id": 492,
+      "source": "hn",
+      "sourceId": "48289660",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "owner": "droidjj",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-27T05:15:21+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-policy",
+        "religion",
+        "media"
+      ],
+      "topics": [],
+      "rationale": "A news article about AI discourse and authorship, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 493,
+      "source": "hn",
+      "sourceId": "48281226",
+      "title": "A sleep-like consolidation mechanism for LLMs",
+      "url": "https://arxiv.org/abs/2605.26099",
+      "owner": "juxtapose",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-27T05:15:28+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-training",
+        "continual-learning",
+        "model-consolidation"
+      ],
+      "topics": [],
+      "rationale": "Research on LLM memory/consolidation methods, relevant to training and continual-learning infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 193
+    },
+    {
+      "id": 494,
+      "source": "hn",
+      "sourceId": "48287649",
+      "title": "AI tools are only as good as your judgment",
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "owner": "talvardi7",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-27T05:15:34+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-literacy",
+        "judgment",
+        "newsletter"
+      ],
+      "topics": [],
+      "rationale": "A thought-leadership article about using AI effectively, not a software project or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 76
     }
   ]
 }
