@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-05-29T05:15:09.904585+00:00",
+  "generatedAt": "2026-05-29T16:38:37.423047+00:00",
   "totals": {
-    "items": 595,
+    "items": 630,
     "byBucket": {
-      "data": 20,
-      "ai-agent": 103,
-      "ai-app": 123,
-      "ai-infra": 67,
-      "devtool": 58,
-      "other": 193,
+      "data": 21,
+      "ai-agent": 109,
+      "ai-app": 132,
+      "ai-infra": 73,
+      "devtool": 62,
+      "other": 202,
       "security": 29,
       "web-framework": 2
     },
     "byAudience": {
-      "B": 113,
-      "dev": 243,
-      "both": 146,
-      "C": 93
+      "B": 120,
+      "dev": 258,
+      "both": 153,
+      "C": 99
     },
     "bySource": {
-      "github_trending": 53,
-      "hn": 254,
-      "product_hunt": 288
+      "github_trending": 54,
+      "hn": 265,
+      "product_hunt": 311
     }
   },
   "items": [
@@ -153,8 +153,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 32129,
-      "stars7dDelta": 16208,
+      "stars": 32961,
+      "stars7dDelta": 16023,
       "hnPoints": null
     },
     {
@@ -212,7 +212,7 @@
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
       "stars": 28977,
-      "stars7dDelta": 3457,
+      "stars7dDelta": 3186,
       "hnPoints": null
     },
     {
@@ -237,7 +237,7 @@
       "topics": [],
       "rationale": "Anthropic-compatible proxy routes Claude Code to alternative or local LLM providers for developer workflows.",
       "stars": 30102,
-      "stars7dDelta": 2255,
+      "stars7dDelta": 1746,
       "hnPoints": null
     },
     {
@@ -282,8 +282,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 22149,
-      "stars7dDelta": 3540,
+      "stars": 22322,
+      "stars7dDelta": 3499,
       "hnPoints": null
     },
     {
@@ -385,7 +385,7 @@
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
       "stars": 46175,
-      "stars7dDelta": 1354,
+      "stars7dDelta": 1108,
       "hnPoints": null
     },
     {
@@ -409,8 +409,8 @@
       ],
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
-      "stars": 28549,
-      "stars7dDelta": 1869,
+      "stars": 28641,
+      "stars7dDelta": 1722,
       "hnPoints": null
     },
     {
@@ -455,8 +455,8 @@
         "token-saver"
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
-      "stars": 14932,
-      "stars7dDelta": 1496,
+      "stars": 15012,
+      "stars7dDelta": 1300,
       "hnPoints": null
     },
     {
@@ -516,8 +516,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 110437,
-      "stars7dDelta": 9847,
+      "stars": 111232,
+      "stars7dDelta": 9313,
       "hnPoints": null
     },
     {
@@ -571,8 +571,8 @@
       ],
       "topics": [],
       "rationale": "A reusable CLAUDE.md skill file that steers coding-agent behavior and reduces common LLM coding failure modes.",
-      "stars": 160764,
-      "stars7dDelta": 15157,
+      "stars": 161393,
+      "stars7dDelta": 12696,
       "hnPoints": null
     },
     {
@@ -610,8 +610,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 19374,
-      "stars7dDelta": 3102,
+      "stars": 19566,
+      "stars7dDelta": 3091,
       "hnPoints": null
     },
     {
@@ -2417,8 +2417,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 23488,
-      "stars7dDelta": 4580,
+      "stars": 23788,
+      "stars7dDelta": 4645,
       "hnPoints": null
     },
     {
@@ -5365,8 +5365,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 8294,
-      "stars7dDelta": 2082,
+      "stars": 8429,
+      "stars7dDelta": 2009,
       "hnPoints": null
     },
     {
@@ -5412,7 +5412,7 @@
       ],
       "rationale": "Beginner course teaching AI-assisted app building rather than a tool or deployable AI product.",
       "stars": 14551,
-      "stars7dDelta": 590,
+      "stars7dDelta": 500,
       "hnPoints": null
     },
     {
@@ -5486,8 +5486,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 24052,
-      "stars7dDelta": 12623,
+      "stars": 24461,
+      "stars7dDelta": 12292,
       "hnPoints": null
     },
     {
@@ -6788,8 +6788,8 @@
         "vibe-coding"
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
-      "stars": 43221,
-      "stars7dDelta": 25382,
+      "stars": 44169,
+      "stars7dDelta": 25178,
       "hnPoints": null
     },
     {
@@ -6853,7 +6853,7 @@
       ],
       "rationale": "Curated .NET skills and custom agents that extend AI coding agents for framework-specific development tasks.",
       "stars": 3127,
-      "stars7dDelta": 691,
+      "stars7dDelta": 550,
       "hnPoints": null
     },
     {
@@ -7845,7 +7845,7 @@
       "topics": [],
       "rationale": "Desktop markdown knowledge-base manager for personal notes, company docs, and AI assistant context rather than an AI system itself.",
       "stars": 11389,
-      "stars7dDelta": 156,
+      "stars7dDelta": 51,
       "hnPoints": null
     },
     {
@@ -9231,8 +9231,8 @@
         "threat-intelligence"
       ],
       "rationale": "A structured cybersecurity skill library that equips AI coding/agent platforms with domain-specific security workflows.",
-      "stars": 11654,
-      "stars7dDelta": 4649,
+      "stars": 11915,
+      "stars7dDelta": 4910,
       "hnPoints": null
     },
     {
@@ -9772,8 +9772,8 @@
       ],
       "topics": [],
       "rationale": "Role-specific Claude plugins bundle tools, commands, and sub-agents to automate business knowledge work.",
-      "stars": 17804,
-      "stars7dDelta": 4393,
+      "stars": 17994,
+      "stars7dDelta": 4583,
       "hnPoints": null
     },
     {
@@ -9797,8 +9797,8 @@
       ],
       "topics": [],
       "rationale": "Official Cursor plugin spec and marketplace plugins extend AI coding workflows for developers.",
-      "stars": 1123,
-      "stars7dDelta": 411,
+      "stars": 1214,
+      "stars7dDelta": 502,
       "hnPoints": null
     },
     {
@@ -10324,8 +10324,8 @@
         "vibecoding"
       ],
       "rationale": "Portable skills tune coding agents toward better UI taste, showing demand for reusable agent behavior packs.",
-      "stars": 26846,
-      "stars7dDelta": 7533,
+      "stars": 27769,
+      "stars7dDelta": 8456,
       "hnPoints": null
     },
     {
@@ -10358,8 +10358,8 @@
         "productivity"
       ],
       "rationale": "Optimizes coding agent harnesses with skills, memory, security, and workflows for agentic development.",
-      "stars": 197529,
-      "stars7dDelta": 5555,
+      "stars": 198306,
+      "stars7dDelta": 6332,
       "hnPoints": null
     },
     {
@@ -10407,8 +10407,8 @@
       ],
       "topics": [],
       "rationale": "A reusable Claude/LLM skill that edits prose to remove AI-writing artifacts for creators and business writing.",
-      "stars": 6538,
-      "stars7dDelta": 2301,
+      "stars": 6826,
+      "stars7dDelta": 2589,
       "hnPoints": null
     },
     {
@@ -12513,8 +12513,8 @@
         "tui"
       ],
       "rationale": "A Rust CLI/TUI harness for LLM coding agents, focused on customizable multi-session developer workflows.",
-      "stars": 6675,
-      "stars7dDelta": 74,
+      "stars": 6702,
+      "stars7dDelta": 101,
       "hnPoints": null
     },
     {
@@ -12623,7 +12623,7 @@
       "rationale": "PostHog is a business analytics platform; this highlights consent patterns for using customer data in AI training.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 211
+      "hnPoints": 214
     },
     {
       "id": 500,
@@ -13501,7 +13501,7 @@
       "rationale": "YouTube is productizing AI-generated video detection and labels for viewers and creators.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1280
+      "hnPoints": 1299
     },
     {
       "id": 536,
@@ -13526,7 +13526,7 @@
       "rationale": "Commentary on AI product-market fit, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1075
+      "hnPoints": 1080
     },
     {
       "id": 537,
@@ -13576,7 +13576,7 @@
       "rationale": "A technical hack showing Rust/Slint apps on jailbroken Kindle hardware, more experiment than reusable devtool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 235
     },
     {
       "id": 539,
@@ -13601,7 +13601,7 @@
       "rationale": "Consumer search demand signal: backlash to AI-heavy search may create room for privacy-first, AI-free alternatives.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1049
+      "hnPoints": 1062
     },
     {
       "id": 540,
@@ -13625,7 +13625,7 @@
       "rationale": "Research paper on stress and memory inference, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 167
+      "hnPoints": 169
     },
     {
       "id": 541,
@@ -13846,7 +13846,7 @@
       "rationale": "Consumer gaming hardware price news, not a software project or AI-agent-era opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 270
+      "hnPoints": 272
     },
     {
       "id": 550,
@@ -13873,8 +13873,8 @@
         "gemini"
       ],
       "rationale": "Unified gateway for Claude/OpenAI/Gemini APIs with routing, key management, and failover for AI app builders.",
-      "stars": 2385,
-      "stars7dDelta": 84,
+      "stars": 2525,
+      "stars7dDelta": 224,
       "hnPoints": null
     },
     {
@@ -13943,8 +13943,8 @@
         "zero-trust"
       ],
       "rationale": "Developer toolkit for enforcing identity, policy, sandboxing, and reliability controls around production AI agents.",
-      "stars": 3212,
-      "stars7dDelta": 85,
+      "stars": 3311,
+      "stars7dDelta": 184,
       "hnPoints": null
     },
     {
@@ -13999,7 +13999,7 @@
       "rationale": "A short consumer web game/commentary about the UX pain of approving AI agent actions.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 279
+      "hnPoints": 362
     },
     {
       "id": 555,
@@ -14024,7 +14024,7 @@
       "rationale": "Vivado is an FPGA engineering tool; the trend highlights licensing friction for Linux-based hardware developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 330
+      "hnPoints": 333
     },
     {
       "id": 556,
@@ -14048,7 +14048,7 @@
       "rationale": "Research on frontier LLM disagreement for fact-checks, relevant to evaluation and reliability tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 484
+      "hnPoints": 496
     },
     {
       "id": 557,
@@ -14072,7 +14072,7 @@
       "rationale": "A research-oriented computing concept rather than a usable AI app, infra tool, or agent framework.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 144
+      "hnPoints": 145
     },
     {
       "id": 558,
@@ -14144,7 +14144,7 @@
       "rationale": "News on corporate AI cost concerns, not a specific software project; signals demand for measurable ROI tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 158
+      "hnPoints": 164
     },
     {
       "id": 561,
@@ -14701,7 +14701,7 @@
       "rationale": "Frontier LLM release powering apps and APIs, signaling demand for model-dependent products and infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1349
+      "hnPoints": 1681
     },
     {
       "id": 584,
@@ -14773,7 +14773,7 @@
       "rationale": "Physical robots acting autonomously in rentals point to real-world agent testing and deployment risks.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 152
+      "hnPoints": 239
     },
     {
       "id": 587,
@@ -14797,7 +14797,7 @@
       "rationale": "An informational post about LLM anti-patterns rather than a usable AI product or infrastructure project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 268
+      "hnPoints": 342
     },
     {
       "id": 588,
@@ -14822,7 +14822,7 @@
       "rationale": "Major model lab funding signals continued demand for frontier LLM APIs and enterprise AI infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 302
+      "hnPoints": 357
     },
     {
       "id": 589,
@@ -14847,7 +14847,7 @@
       "rationale": "Executable context layer for reliable data agents, addressing SQL correctness and business-rule grounding.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 61
+      "hnPoints": 79
     },
     {
       "id": 590,
@@ -14955,7 +14955,7 @@
       "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
       "owner": "ianrahman",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;50zy3\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;50zy3</a>",
       "createdAt": null,
       "firstSeenAt": "2026-05-29T05:14:40+00:00",
       "bucket": "other",
@@ -14969,7 +14969,7 @@
       "rationale": "News/analysis on AI labor impact narratives, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 194
+      "hnPoints": 224
     },
     {
       "id": 595,
@@ -14993,7 +14993,867 @@
       "rationale": "Claude Code adds dynamic multi-step workflows for autonomous software engineering tasks.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 143
+      "hnPoints": 150
+    },
+    {
+      "id": 596,
+      "source": "github_trending",
+      "sourceId": "run-llama/liteparse",
+      "title": "run-llama/liteparse",
+      "url": "https://github.com/run-llama/liteparse",
+      "owner": "run-llama",
+      "language": "Rust",
+      "description": "A fast, helpful, and open-source document parser",
+      "createdAt": "2026-02-09T22:16:30Z",
+      "firstSeenAt": "2026-05-29T16:34:15+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "pdf-parser",
+        "document-ocr",
+        "text-extraction",
+        "local"
+      ],
+      "topics": [
+        "document-ocr",
+        "document-processing",
+        "ocr",
+        "ocr-recognition",
+        "pdf",
+        "pdf-parser",
+        "text-extraction"
+      ],
+      "rationale": "Local PDF/document parsing with bounding boxes supports RAG ingestion without cloud or LLM dependencies.",
+      "stars": 6993,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 597,
+      "source": "hn",
+      "sourceId": "48321076",
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "owner": "NicoConstant",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:34:24+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-inference",
+        "gpu-optimization",
+        "throughput"
+      ],
+      "topics": [],
+      "rationale": "Inference speedup work for serving LLMs on standard GPUs, pointing to demand for cheaper low-latency model ops.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 135
+    },
+    {
+      "id": 598,
+      "source": "hn",
+      "sourceId": "48318174",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "owner": "ankitg12",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:34:31+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "cli",
+        "claude-code",
+        "configuration"
+      ],
+      "topics": [],
+      "rationale": "Claude Code is a developer-facing autonomous coding agent CLI; hidden config points to extensibility gaps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 293
+    },
+    {
+      "id": 599,
+      "source": "hn",
+      "sourceId": "48276152",
+      "title": "Orchestrating AI code review at scale",
+      "url": "https://blog.cloudflare.com/ai-code-review/",
+      "owner": "pramodbiligiri",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:34:37+00:00",
+      "bucket": "ai-app",
+      "audience": "dev",
+      "tags": [
+        "code-review",
+        "developer-workflow",
+        "llm-review",
+        "cloudflare"
+      ],
+      "topics": [],
+      "rationale": "AI-powered code review is a developer-facing copilot pattern for scaling review quality and throughput.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 93
+    },
+    {
+      "id": 600,
+      "source": "hn",
+      "sourceId": "48291016",
+      "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+      "url": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+      "owner": "GabrielBianconi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:34:48+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-evals",
+        "agent-optimization",
+        "feedback-loops"
+      ],
+      "topics": [],
+      "rationale": "Shows how noisy LLM evaluators can still improve agents, pointing to demand for practical eval and optimization infra.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 601,
+      "source": "hn",
+      "sourceId": "48321631",
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "owner": "xyzal",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:34:54+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-commentary",
+        "frontend",
+        "developer-culture"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused essay about AI’s impact on frontend trends, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 176
+    },
+    {
+      "id": 602,
+      "source": "hn",
+      "sourceId": "48324276",
+      "title": "The literary world is sleepwalking into an AI disaster",
+      "url": "https://www.theargumentmag.com/p/the-literary-world-is-sleepwalking",
+      "owner": "Michelangelo11",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:00+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "ai-criticism",
+        "publishing",
+        "copyright"
+      ],
+      "topics": [],
+      "rationale": "A commentary on AI risks in literature/publishing, not a software project or startup tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 603,
+      "source": "hn",
+      "sourceId": "48325061",
+      "title": "Why the failure of Blue Origin's New Glenn rocket is so catastrophic",
+      "url": "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+      "owner": "Brajeshwar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:11+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "space-news",
+        "rocket-launch",
+        "blue-origin"
+      ],
+      "topics": [],
+      "rationale": "A space industry news article, not a software project or AI-agent-era startup tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 604,
+      "source": "hn",
+      "sourceId": "48321264",
+      "title": "Is This Sustainable?",
+      "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+      "owner": "ColinEberhardt",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:15+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-sustainability",
+        "essay",
+        "industry-analysis"
+      ],
+      "topics": [],
+      "rationale": "Appears to be an article about AI sustainability rather than a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 80
+    },
+    {
+      "id": 605,
+      "source": "hn",
+      "sourceId": "48322929",
+      "title": "Expertise in the Age of AI",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "owner": "brilee",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:22+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "essay",
+        "ai-expertise",
+        "future-of-work"
+      ],
+      "topics": [],
+      "rationale": "An essay about AI and expertise, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 51
+    },
+    {
+      "id": 606,
+      "source": "hn",
+      "sourceId": "48320757",
+      "title": "Euro-Office: General availability set for June 9",
+      "url": "https://nextcloud.com/blog/euro-office-general-availability-set-for-june-9/",
+      "owner": "madspindel",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:26+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "office-suite",
+        "nextcloud",
+        "productivity",
+        "european-cloud"
+      ],
+      "topics": [],
+      "rationale": "A business-focused office productivity suite announcement, not clearly AI, devtool, data, or security.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 607,
+      "source": "hn",
+      "sourceId": "48323101",
+      "title": "Please Use AI",
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "owner": "garycomtois",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:33+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-adoption",
+        "essay",
+        "substack"
+      ],
+      "topics": [],
+      "rationale": "A Substack essay about using AI, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 624
+    },
+    {
+      "id": 608,
+      "source": "product_hunt",
+      "sourceId": "1158475",
+      "title": "PromptLayer",
+      "url": "https://www.producthunt.com/products/promptlayer-2",
+      "owner": null,
+      "language": null,
+      "description": "Trace AI requests, workflows, and costs in one timeline Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:49+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-observability",
+        "prompt-tracing",
+        "cost-tracking"
+      ],
+      "topics": [],
+      "rationale": "Developer infra for tracing LLM requests, workflows, and spend across AI app execution timelines.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 609,
+      "source": "product_hunt",
+      "sourceId": "1157973",
+      "title": "Integuru",
+      "url": "https://www.producthunt.com/products/integuru",
+      "owner": null,
+      "language": null,
+      "description": "Generate fast, reliable APIs for any platform. No browsers Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:53+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "api-generation",
+        "integrations",
+        "no-browser"
+      ],
+      "topics": [],
+      "rationale": "Developer tool for generating reliable platform APIs, reflecting demand for alternatives to brittle browser automation.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 610,
+      "source": "product_hunt",
+      "sourceId": "1158301",
+      "title": "/monitor by Firecrawl",
+      "url": "https://www.producthunt.com/products/extract-by-firecrawl",
+      "owner": null,
+      "language": null,
+      "description": "Notify your AI agent when the web changes Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:35:59+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "web-monitoring",
+        "firecrawl",
+        "agent-triggers"
+      ],
+      "topics": [],
+      "rationale": "Developer infra that watches web pages and triggers AI agents when relevant changes happen.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 611,
+      "source": "product_hunt",
+      "sourceId": "1157494",
+      "title": "Ava 2.0",
+      "url": "https://www.producthunt.com/products/artisan-3",
+      "owner": null,
+      "language": null,
+      "description": "Your AI BDR that runs outbound sales autonomously Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:06+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "sales-agent",
+        "outbound",
+        "bdr",
+        "autonomous"
+      ],
+      "topics": [],
+      "rationale": "Autonomous AI BDR product handling outbound sales workflows for businesses.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 612,
+      "source": "product_hunt",
+      "sourceId": "1157807",
+      "title": "Vibeocus Lens",
+      "url": "https://www.producthunt.com/products/vibeocus-lens",
+      "owner": null,
+      "language": null,
+      "description": "Bridge your live frontend directly to your AI agent. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:17+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "frontend-agent",
+        "browser-context",
+        "ui-debugging"
+      ],
+      "topics": [],
+      "rationale": "Connects live app UI context to AI agents, pointing to agent-aware frontend debugging workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 613,
+      "source": "product_hunt",
+      "sourceId": "1157856",
+      "title": "RabbitTravel",
+      "url": "https://www.producthunt.com/products/rabbittravel",
+      "owner": null,
+      "language": null,
+      "description": "Smart travel planning made effortless Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:22+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "travel-planning",
+        "itinerary",
+        "consumer-ai"
+      ],
+      "topics": [],
+      "rationale": "Consumer-facing AI travel planner that packages itinerary creation as an end-user product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 614,
+      "source": "product_hunt",
+      "sourceId": "1158038",
+      "title": "NODUS HN Radar",
+      "url": "https://www.producthunt.com/products/nodus-hn-radar",
+      "owner": null,
+      "language": null,
+      "description": "Track rising Hacker News posts before they explode Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:28+00:00",
+      "bucket": "data",
+      "audience": "both",
+      "tags": [
+        "hacker-news",
+        "trend-monitoring",
+        "early-signals"
+      ],
+      "topics": [],
+      "rationale": "Trend analytics for spotting rising HN posts early, useful for makers and teams tracking market signals.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 615,
+      "source": "product_hunt",
+      "sourceId": "1158026",
+      "title": "Agent A by Ahrefs",
+      "url": "https://www.producthunt.com/products/ahrefs",
+      "owner": null,
+      "language": null,
+      "description": "The AI Marketing Agent Powered by Ahrefs Data Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:34+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "marketing-agent",
+        "seo",
+        "ahrefs-data"
+      ],
+      "topics": [],
+      "rationale": "AI agent product for marketing/SEO workflows powered by Ahrefs data, aimed at business growth teams.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 616,
+      "source": "product_hunt",
+      "sourceId": "1151178",
+      "title": "Ava Studio",
+      "url": "https://www.producthunt.com/products/ava-studio",
+      "owner": null,
+      "language": null,
+      "description": "Your AI creative team for video ads Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:40+00:00",
+      "bucket": "ai-app",
+      "audience": "B",
+      "tags": [
+        "video-ads",
+        "ai-creative",
+        "marketing",
+        "ad-generation"
+      ],
+      "topics": [],
+      "rationale": "AI product for businesses to generate video ad creatives, reflecting demand for automated marketing production.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 617,
+      "source": "product_hunt",
+      "sourceId": "1155201",
+      "title": "Firecoach AI",
+      "url": "https://www.producthunt.com/products/firecoach",
+      "owner": null,
+      "language": null,
+      "description": "AI roleplays that turn reps into top performers Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:44+00:00",
+      "bucket": "ai-app",
+      "audience": "B",
+      "tags": [
+        "sales-training",
+        "roleplay",
+        "coaching",
+        "reps"
+      ],
+      "topics": [],
+      "rationale": "AI roleplay product for sales rep coaching, showing demand for packaged AI training workflows in GTM teams.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 618,
+      "source": "product_hunt",
+      "sourceId": "1154253",
+      "title": "Sinalytica",
+      "url": "https://www.producthunt.com/products/sinalytica",
+      "owner": null,
+      "language": null,
+      "description": "Travel back to 1998 and use Lovable on Windows 98 Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:48+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "retro-ui",
+        "ai-app-builder",
+        "windows-98"
+      ],
+      "topics": [],
+      "rationale": "A nostalgic packaged experience around Lovable-style AI app building rather than infra or a developer library.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 619,
+      "source": "product_hunt",
+      "sourceId": "1153904",
+      "title": "Screen Ruler",
+      "url": "https://www.producthunt.com/products/screen-ruler",
+      "owner": null,
+      "language": null,
+      "description": "The go-to ruler for designers and developers Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:36:58+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "screen-ruler",
+        "design-tool",
+        "measurement",
+        "desktop-utility"
+      ],
+      "topics": [],
+      "rationale": "A utility for designers and developers to measure on-screen elements, fitting the design/dev tooling workflow.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 620,
+      "source": "product_hunt",
+      "sourceId": "1157860",
+      "title": "Notchy",
+      "url": "https://www.producthunt.com/products/notchy",
+      "owner": null,
+      "language": null,
+      "description": "Mac dynamic island with music, timers, clipboard, file drops Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:37:05+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "macos",
+        "productivity",
+        "menu-bar",
+        "clipboard"
+      ],
+      "topics": [],
+      "rationale": "Consumer Mac utility adding dynamic-island style controls for music, timers, clipboard, and file drops.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 621,
+      "source": "product_hunt",
+      "sourceId": "1158273",
+      "title": "Coffee Piano",
+      "url": "https://www.producthunt.com/products/coffee-piano-harmony-lab",
+      "owner": null,
+      "language": null,
+      "description": "Browser music and piano studio with visual harmony tools Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:37:11+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "music-studio",
+        "piano",
+        "harmony",
+        "browser-app"
+      ],
+      "topics": [],
+      "rationale": "Browser-based piano and harmony tool for music creators, not an AI product or developer framework.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 622,
+      "source": "product_hunt",
+      "sourceId": "1158025",
+      "title": "TrackNotch",
+      "url": "https://www.producthunt.com/products/tracknotch",
+      "owner": null,
+      "language": null,
+      "description": "LLM usage tracking that lives in your Mac's notch Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:37:17+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "llm-usage",
+        "macos",
+        "notch",
+        "productivity"
+      ],
+      "topics": [],
+      "rationale": "Mac utility for tracking LLM usage, reflecting demand for lightweight AI spend and habit monitoring.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 623,
+      "source": "product_hunt",
+      "sourceId": "1158020",
+      "title": "Clipline",
+      "url": "https://www.producthunt.com/products/clipline-2",
+      "owner": null,
+      "language": null,
+      "description": "AI Video Cutter for viral Shorts, Reels, TikTok in Telegram Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:37:43+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "video-clipping",
+        "shorts",
+        "creator-tools",
+        "telegram"
+      ],
+      "topics": [],
+      "rationale": "AI content tool that turns videos into viral short-form clips for creators and marketers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 624,
+      "source": "product_hunt",
+      "sourceId": "1158173",
+      "title": "Basedash: Embedded Analytics",
+      "url": "https://www.producthunt.com/products/basedash",
+      "owner": null,
+      "language": null,
+      "description": "Give customers AI analytics inside your product. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:37:49+00:00",
+      "bucket": "ai-app",
+      "audience": "B",
+      "tags": [
+        "embedded-analytics",
+        "customer-facing",
+        "ai-insights"
+      ],
+      "topics": [],
+      "rationale": "B2B product for adding AI-powered analytics to SaaS apps, pointing to demand for embedded customer insights.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 625,
+      "source": "product_hunt",
+      "sourceId": "1146359",
+      "title": "MoDev",
+      "url": "https://www.producthunt.com/products/modev",
+      "owner": null,
+      "language": null,
+      "description": "The AI dev environment built for your phone. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:37:58+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "mobile-ide",
+        "ai-coding",
+        "phone-dev"
+      ],
+      "topics": [],
+      "rationale": "A mobile-first AI coding environment for developers, fitting the IDE/devtool pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 626,
+      "source": "product_hunt",
+      "sourceId": "1158147",
+      "title": "Linear Diffs",
+      "url": "https://www.producthunt.com/products/linear",
+      "owner": null,
+      "language": null,
+      "description": "A new way to review PRs, directly inside Linear Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:38:06+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "pr-review",
+        "code-review",
+        "linear"
+      ],
+      "topics": [],
+      "rationale": "PR review embedded in Linear streamlines developer workflow around issues and discussions.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 627,
+      "source": "product_hunt",
+      "sourceId": "1113674",
+      "title": "MCP Bridge by Appfactor",
+      "url": "https://www.producthunt.com/products/mcp-bridge-by-appfactor",
+      "owner": null,
+      "language": null,
+      "description": "Connect any API to any AI agent Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:38:10+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "mcp",
+        "api-connector",
+        "agent-tools"
+      ],
+      "topics": [],
+      "rationale": "MCP bridge turns APIs into agent-accessible tools, fitting the growing need for agent integration layers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 628,
+      "source": "product_hunt",
+      "sourceId": "1158437",
+      "title": "Drafted",
+      "url": "https://www.producthunt.com/products/drafted-4",
+      "owner": null,
+      "language": null,
+      "description": "Design a home instantly with AI Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:38:14+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "home-design",
+        "interior-ai",
+        "generative-design"
+      ],
+      "topics": [],
+      "rationale": "Consumer-facing AI product for instantly generating home design concepts.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 629,
+      "source": "product_hunt",
+      "sourceId": "1157449",
+      "title": "Hyper",
+      "url": "https://www.producthunt.com/products/hyper-11",
+      "owner": null,
+      "language": null,
+      "description": "The company brain that makes your AI agents do great work Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:38:20+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "company-brain",
+        "agent-memory",
+        "knowledge-base"
+      ],
+      "topics": [],
+      "rationale": "A business knowledge layer aimed at improving AI agent performance with shared company context.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 630,
+      "source": "product_hunt",
+      "sourceId": "1158032",
+      "title": "GPS",
+      "url": "https://www.producthunt.com/products/gps-2",
+      "owner": null,
+      "language": null,
+      "description": "Memory layer for LLMs that stores repo rules + past lessons Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-05-29T16:38:26+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-memory",
+        "repo-context",
+        "coding-agents"
+      ],
+      "topics": [],
+      "rationale": "Provides persistent repo rules and lessons as memory infrastructure for LLM-powered developer workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
     }
   ]
 }
