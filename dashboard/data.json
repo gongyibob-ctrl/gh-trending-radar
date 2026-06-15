@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-06-14T15:05:20.889375+00:00",
+  "generatedAt": "2026-06-15T06:26:06.827503+00:00",
   "totals": {
-    "items": 1262,
+    "items": 1278,
     "byBucket": {
       "data": 35,
-      "ai-agent": 201,
-      "ai-app": 290,
-      "ai-infra": 147,
+      "ai-agent": 202,
+      "ai-app": 292,
+      "ai-infra": 150,
       "devtool": 110,
-      "other": 415,
+      "other": 425,
       "security": 58,
       "web-framework": 6
     },
     "byAudience": {
-      "B": 244,
-      "dev": 498,
-      "both": 294,
-      "C": 224,
+      "B": 245,
+      "dev": 504,
+      "both": 300,
+      "C": 227,
       "?": 2
     },
     "bySource": {
-      "github_trending": 83,
-      "hn": 602,
+      "github_trending": 84,
+      "hn": 617,
       "product_hunt": 577
     }
   },
@@ -154,8 +154,8 @@
       ],
       "topics": [],
       "rationale": "Local code knowledge graph that improves agentic code exploration with fewer tokens and tool calls.",
-      "stars": 48869,
-      "stars7dDelta": 4768,
+      "stars": 49206,
+      "stars7dDelta": 4494,
       "hnPoints": null
     },
     {
@@ -212,8 +212,8 @@
       ],
       "topics": [],
       "rationale": "Open-source personal agentic desktop assistant focused on private daily-life AI workflows.",
-      "stars": 32048,
-      "stars7dDelta": 726,
+      "stars": 32159,
+      "stars7dDelta": 837,
       "hnPoints": null
     },
     {
@@ -283,8 +283,8 @@
         "webscraping"
       ],
       "rationale": "Stealth Chromium removes bot-detection friction for browser automation and web agents.",
-      "stars": 26019,
-      "stars7dDelta": 1270,
+      "stars": 26127,
+      "stars7dDelta": 1247,
       "hnPoints": null
     },
     {
@@ -385,8 +385,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 59175,
-      "stars7dDelta": 9571,
+      "stars": 59735,
+      "stars7dDelta": 10131,
       "hnPoints": null
     },
     {
@@ -411,7 +411,7 @@
       "topics": [],
       "rationale": "Reference Claude agents for analyst workflows point to vertical AI coworkers in financial services.",
       "stars": 30581,
-      "stars7dDelta": 155,
+      "stars7dDelta": 81,
       "hnPoints": null
     },
     {
@@ -457,7 +457,7 @@
       ],
       "rationale": "LLM proxy/router for AI coding tools, highlighting demand for cheaper multi-provider model access and fallback.",
       "stars": 16839,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -517,8 +517,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 128451,
-      "stars7dDelta": 7753,
+      "stars": 129087,
+      "stars7dDelta": 7748,
       "hnPoints": null
     },
     {
@@ -549,7 +549,7 @@
       ],
       "rationale": "CLI audits React apps for quality issues, especially code produced by AI agents.",
       "stars": 12470,
-      "stars7dDelta": 113,
+      "stars7dDelta": 55,
       "hnPoints": null
     },
     {
@@ -611,8 +611,8 @@
         "openclaw"
       ],
       "rationale": "Persistent memory layer for coding agents, showing demand for shared context across Claude, Cursor, Codex, and MCP tools.",
-      "stars": 22773,
-      "stars7dDelta": 991,
+      "stars": 22840,
+      "stars7dDelta": 957,
       "hnPoints": null
     },
     {
@@ -2418,8 +2418,8 @@
         "prompt-engineering"
       ],
       "rationale": "Claude Code skill suite packages AI-assisted academic research and writing workflows for students and researchers.",
-      "stars": 31291,
-      "stars7dDelta": 2636,
+      "stars": 31485,
+      "stars7dDelta": 2566,
       "hnPoints": null
     },
     {
@@ -5366,8 +5366,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent with IDE/LSP wiring, tool harness, browser use, and subagents for autonomous dev workflows.",
-      "stars": 12364,
-      "stars7dDelta": 1226,
+      "stars": 12471,
+      "stars7dDelta": 1233,
       "hnPoints": null
     },
     {
@@ -5487,8 +5487,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 32244,
-      "stars7dDelta": 2262,
+      "stars": 32562,
+      "stars7dDelta": 2311,
       "hnPoints": null
     },
     {
@@ -6790,7 +6790,7 @@
       ],
       "rationale": "AI-powered dev product turns large codebases/docs into explorable Q&A knowledge graphs for onboarding and agent workflows.",
       "stars": 54619,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -7845,8 +7845,8 @@
       ],
       "topics": [],
       "rationale": "Desktop markdown knowledge-base manager for personal notes, company docs, and AI assistant context rather than an AI system itself.",
-      "stars": 16168,
-      "stars7dDelta": 3128,
+      "stars": 16267,
+      "stars7dDelta": 2866,
       "hnPoints": null
     },
     {
@@ -9773,8 +9773,8 @@
       ],
       "topics": [],
       "rationale": "Role-specific Claude plugins bundle tools, commands, and sub-agents to automate business knowledge work.",
-      "stars": 20613,
-      "stars7dDelta": 722,
+      "stars": 20695,
+      "stars7dDelta": 804,
       "hnPoints": null
     },
     {
@@ -10325,8 +10325,8 @@
         "vibecoding"
       ],
       "rationale": "Portable skills tune coding agents toward better UI taste, showing demand for reusable agent behavior packs.",
-      "stars": 43477,
-      "stars7dDelta": 6246,
+      "stars": 43923,
+      "stars7dDelta": 5684,
       "hnPoints": null
     },
     {
@@ -10360,7 +10360,7 @@
       ],
       "rationale": "Optimizes coding agent harnesses with skills, memory, security, and workflows for agentic development.",
       "stars": 212875,
-      "stars7dDelta": 2820,
+      "stars7dDelta": 2311,
       "hnPoints": null
     },
     {
@@ -10408,8 +10408,8 @@
       ],
       "topics": [],
       "rationale": "A reusable Claude/LLM skill that edits prose to remove AI-writing artifacts for creators and business writing.",
-      "stars": 10407,
-      "stars7dDelta": 982,
+      "stars": 10638,
+      "stars7dDelta": 1213,
       "hnPoints": null
     },
     {
@@ -13975,7 +13975,7 @@
       ],
       "rationale": "Claude Code plugin that generates domain-specific multi-agent teams and skills for complex engineering workflows.",
       "stars": 6855,
-      "stars7dDelta": 393,
+      "stars7dDelta": 326,
       "hnPoints": null
     },
     {
@@ -16804,7 +16804,7 @@
       ],
       "rationale": "Web/mobile UI for a persistent autonomous Hermes Agent, showing demand for better self-hosted agent control panels.",
       "stars": 13893,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -18566,8 +18566,8 @@
         "typescript"
       ],
       "rationale": "Developer infra that shrinks agent/RAG context before LLM calls, reducing token cost without changing app logic.",
-      "stars": 27121,
-      "stars7dDelta": 9875,
+      "stars": 27876,
+      "stars7dDelta": 9613,
       "hnPoints": null
     },
     {
@@ -18591,8 +18591,8 @@
       ],
       "topics": [],
       "rationale": "Desktop UX for installing and chatting with a tool-using Hermes agent, reducing CLI friction for agent adoption.",
-      "stars": 12098,
-      "stars7dDelta": 1051,
+      "stars": 12207,
+      "stars7dDelta": 1030,
       "hnPoints": null
     },
     {
@@ -21092,8 +21092,8 @@
         "youtube"
       ],
       "rationale": "Agent-host skill that automates recency-focused research and synthesis across social, prediction, and web sources.",
-      "stars": 41708,
-      "stars7dDelta": 9863,
+      "stars": 42267,
+      "stars7dDelta": 8532,
       "hnPoints": null
     },
     {
@@ -22529,8 +22529,8 @@
         "youtube-transcript"
       ],
       "rationale": "CLI/MCP tool gives agents search and scraping access across social/video sites without paid APIs.",
-      "stars": 28411,
-      "stars7dDelta": 5073,
+      "stars": 29016,
+      "stars7dDelta": 5152,
       "hnPoints": null
     },
     {
@@ -22554,8 +22554,8 @@
       ],
       "topics": [],
       "rationale": "Plugin examples extend Codex with skills, agents, commands, and MCP surfaces for developer agent workflows.",
-      "stars": 3002,
-      "stars7dDelta": 887,
+      "stars": 3052,
+      "stars7dDelta": 808,
       "hnPoints": null
     },
     {
@@ -24237,7 +24237,7 @@
       ],
       "rationale": "A compressed vector index for embeddings/RAG, optimizing memory and search speed versus FAISS.",
       "stars": 10379,
-      "stars7dDelta": 2877,
+      "stars7dDelta": 2012,
       "hnPoints": null
     },
     {
@@ -24269,7 +24269,7 @@
       ],
       "rationale": "Postgres-native durable workflows reduce external queues and workers for teams keeping state in the database.",
       "stars": 1528,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -24936,8 +24936,8 @@
         "vibe-coding"
       ],
       "rationale": "Multi-agent code understanding tool turns repos/docs into searchable, askable knowledge graphs for developer onboarding.",
-      "stars": 59025,
-      "stars7dDelta": 3952,
+      "stars": 59444,
+      "stars7dDelta": 4371,
       "hnPoints": null
     },
     {
@@ -24998,8 +24998,8 @@
         "product-management"
       ],
       "rationale": "Repository of agentic PM commands and chained workflows for Claude/Cowork, turning product ops into reusable AI-agent skills.",
-      "stars": 17878,
-      "stars7dDelta": 5384,
+      "stars": 18261,
+      "stars7dDelta": 5767,
       "hnPoints": null
     },
     {
@@ -28313,8 +28313,8 @@
       ],
       "topics": [],
       "rationale": "Scans AI agent skills for vulnerabilities and malicious behavior, highlighting trust gaps in agent extension ecosystems.",
-      "stars": 4960,
-      "stars7dDelta": 2519,
+      "stars": 5607,
+      "stars7dDelta": 3166,
       "hnPoints": null
     },
     {
@@ -30621,8 +30621,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 5631,
-      "stars7dDelta": 204,
+      "stars": 5732,
+      "stars7dDelta": 305,
       "hnPoints": null
     },
     {
@@ -30648,7 +30648,7 @@
       "rationale": "LLM infrastructure for routing, observability, evals, and feedback loops around production AI apps.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 269
+      "hnPoints": 275
     },
     {
       "id": 1228,
@@ -30722,7 +30722,7 @@
       "rationale": "A project management product positioning AI agents as teammates for sprint planning and task assignment.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 158
+      "hnPoints": 163
     },
     {
       "id": 1231,
@@ -30771,7 +30771,7 @@
       "rationale": "News about a crypto fraud appeal, not a software project or startup tooling signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 35
+      "hnPoints": 90
     },
     {
       "id": 1233,
@@ -31017,7 +31017,7 @@
       "rationale": "AI regulatory pressure around model access, not a software product or infra project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 749
+      "hnPoints": 783
     },
     {
       "id": 1243,
@@ -31041,7 +31041,7 @@
       "rationale": "Highlights demand for tools that detect AI-generated evidence and audit chain-of-custody in regulated workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 353
+      "hnPoints": 375
     },
     {
       "id": 1244,
@@ -31091,7 +31091,7 @@
       "rationale": "A developer-focused guide to cheaper AI coding workflows, highlighting demand for cost-efficient coding tools.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 315
+      "hnPoints": 337
     },
     {
       "id": 1246,
@@ -31190,7 +31190,7 @@
       "rationale": "Automotive infotainment reverse-engineering highlights embedded security gaps in connected vehicles.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 350
+      "hnPoints": 394
     },
     {
       "id": 1250,
@@ -31214,7 +31214,7 @@
       "rationale": "Pulled KPMG report highlights demand for enterprise AI verification, citation checking, and hallucination controls.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 21
+      "hnPoints": 138
     },
     {
       "id": 1251,
@@ -31506,6 +31506,407 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 1263,
+      "source": "github_trending",
+      "sourceId": "safishamsi/graphify",
+      "title": "safishamsi/graphify",
+      "url": "https://github.com/safishamsi/graphify",
+      "owner": "safishamsi",
+      "language": "Python",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "createdAt": "2026-04-03T15:49:07Z",
+      "firstSeenAt": "2026-06-15T06:23:51+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "graphrag",
+        "knowledge-graph",
+        "codebase-indexing",
+        "coding-assistant"
+      ],
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "rationale": "Turns multimodal project context into a queryable graph for AI coding agents, highlighting demand for richer agent memory layers.",
+      "stars": 67298,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 1264,
+      "source": "hn",
+      "sourceId": "48528371",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "owner": "unrvl22",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:24:00+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-merge",
+        "model-provenance",
+        "open-weights"
+      ],
+      "topics": [],
+      "rationale": "Issue centers on LLM lineage and model merging, highlighting provenance gaps in open model releases.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 325
+    },
+    {
+      "id": 1265,
+      "source": "hn",
+      "sourceId": "48484711",
+      "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "owner": "joebig",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:24:20+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "mountaineering",
+        "history",
+        "cerro-torre"
+      ],
+      "topics": [],
+      "rationale": "A consumer-facing blog article about climbing history, not a software project or AI-era startup signal.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 27
+    },
+    {
+      "id": 1266,
+      "source": "hn",
+      "sourceId": "48521236",
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "url": "https://traceapp.info",
+      "owner": "AG342",
+      "language": null,
+      "description": "I&#x27;m the developer of Trace, a non-intrusive, shortcut-driven Mac app that records and transcribes your meetings on-device. I know, another meeting transcription app. Please bear with me though, I&#x27;m confident that this is at least a little novel.<p>I primarily built Trace for myself. I&#x27;d been using MacWhisper, but there was enough fiddling before each call that I&#x27;d forget to start it and walk out of an hour-long meeting with nothing written down. So the things I cared about mo",
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:24:24+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "meeting-transcription",
+        "mac-app",
+        "on-device",
+        "voice-notes"
+      ],
+      "topics": [],
+      "rationale": "Packaged AI meeting transcription with offline Mac UX and mid-call flagging for low-friction note capture.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 139
+    },
+    {
+      "id": 1267,
+      "source": "hn",
+      "sourceId": "48531449",
+      "title": "Chaosnet (1981)",
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "owner": "RGBCube",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaosnet.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;bitsavers.trailing-edge.com&#x2F;pdf&#x2F;mit&#x2F;ai&#x2F;AIM-628_chaos...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:24:43+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "networking",
+        "protocol",
+        "retrocomputing"
+      ],
+      "topics": [],
+      "rationale": "Historical MIT networking protocol reference, useful context but not a current startup opportunity category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 75
+    },
+    {
+      "id": 1268,
+      "source": "hn",
+      "sourceId": "48528029",
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "owner": "iliashad",
+      "language": null,
+      "description": "TLDR: I had 2,207 GoPro videos, and I need to rewatch them to find interesting moments from my cycling journey. I built a project to index them locally on my M1 Max using open-source ML models, search for those moments, and send the best clips straight to my DaVinci Resolve timeline.  I indexed 628 videos (668.68 GB, 15h 13m 18s of footage duration), more details in the metrics table in the last section of this article.<p>Full article: https:&#x2F;&#x2F;iliashaddad.com&#x2F;blog&#x2F;i-indexed-6",
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:24:50+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "local-ml",
+        "video-search",
+        "creator-workflow",
+        "davinci-resolve"
+      ],
+      "topics": [],
+      "rationale": "Usable local AI video indexing product pattern for creators searching large personal footage archives.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 338
+    },
+    {
+      "id": 1269,
+      "source": "hn",
+      "sourceId": "48535215",
+      "title": "The hallucinogenic mushroom that contains no known psychedelic",
+      "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
+      "owner": "thunderbong",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:24:57+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "psychedelics",
+        "mushrooms",
+        "consumer-news"
+      ],
+      "topics": [],
+      "rationale": "A consumer-facing psychedelics news article, not a software project or AI startup opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 60
+    },
+    {
+      "id": 1270,
+      "source": "hn",
+      "sourceId": "48527700",
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "owner": "yegg",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:02+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-adoption",
+        "consumer-behavior",
+        "market-analysis"
+      ],
+      "topics": [],
+      "rationale": "A market-analysis essay about uneven AI usage patterns, useful for spotting adoption gaps rather than a software product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 453
+    },
+    {
+      "id": 1271,
+      "source": "hn",
+      "sourceId": "48460762",
+      "title": "Show HN: 3D print Z reinforcement via injected loops",
+      "url": "https://mgunlogson.github.io/magma/",
+      "owner": "mgunlogson",
+      "language": null,
+      "description": "Commodity FDM print strength is limited by poor Z-axis layer bonding. Parts crack along Z under stress. MAGMA tries to fix this in software that works on any FDM 3D printer.<p>It&#x27;s a fork of OrcaSlicer with a new infill type that creates paired U-shaped vertical channels inside the print, plus G-code that injects molten plastic into those channels to bridge Z layer interfaces with continuous plastic.<p>Big caveat: I have a junky Ender 3 and haven&#x27;t gotten a clean physical print yet. Do",
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:06+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "3d-printing",
+        "slicer",
+        "g-code",
+        "z-strength"
+      ],
+      "topics": [],
+      "rationale": "Experimental OrcaSlicer fork for stronger FDM parts via generated channels and injection G-code, aimed at 3DP tinkerers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 61
+    },
+    {
+      "id": 1272,
+      "source": "hn",
+      "sourceId": "48532178",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "owner": "wglb",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:11+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-commentary",
+        "software-engineering",
+        "prompting"
+      ],
+      "topics": [],
+      "rationale": "An opinion/article about AI limits, not a software project; useful signal on skepticism around prompt-only differentiation.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 121
+    },
+    {
+      "id": 1273,
+      "source": "hn",
+      "sourceId": "48527946",
+      "title": "Ponytail – make your AI agent think like the laziest senior dev in the room",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "owner": "mellosouls",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:17+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "prompting",
+        "developer-workflow"
+      ],
+      "topics": [],
+      "rationale": "Agent behavior layer for coding workflows, pointing to demand for opinionated senior-dev heuristics in AI agents.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 51
+    },
+    {
+      "id": 1274,
+      "source": "hn",
+      "sourceId": "48485277",
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "owner": "etherio",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:22+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-evals",
+        "rubrics",
+        "testbed",
+        "alignment"
+      ],
+      "topics": [],
+      "rationale": "Agent-science testbed for optimizing evaluation rubrics, pointing to demand for better agent behavior measurement.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 26
+    },
+    {
+      "id": 1275,
+      "source": "hn",
+      "sourceId": "48533135",
+      "title": "Making 'food out of thin air' (2024)",
+      "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
+      "owner": "muchweight",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:28+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "food-tech",
+        "synthetic-biology",
+        "carbon-capture"
+      ],
+      "topics": [],
+      "rationale": "Not software; points to industrial food production from captured inputs, more biotech/manufacturing than SaaS.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 1276,
+      "source": "hn",
+      "sourceId": "48533504",
+      "title": "Did Anthropic ask for this?",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "owner": "ad8e",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:38+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-commentary",
+        "anthropic",
+        "newsletter"
+      ],
+      "topics": [],
+      "rationale": "A commentary/newsletter post about Anthropic, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 180
+    },
+    {
+      "id": 1277,
+      "source": "hn",
+      "sourceId": "48533756",
+      "title": "Stanford grads walk out on Google CEO Sundar Pichai speech",
+      "url": "https://twitter.com/maattttbrown/status/2066215255987163246",
+      "owner": "sosomoxie",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:44+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "stanford",
+        "google",
+        "protest"
+      ],
+      "topics": [],
+      "rationale": "This is a tech labor/culture news event, not a software project or startup-relevant tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 139
+    },
+    {
+      "id": 1278,
+      "source": "hn",
+      "sourceId": "48533308",
+      "title": "Why Is Claude Turning into an a**Hole?",
+      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+      "owner": "drob518",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-06-15T06:25:50+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-behavior",
+        "claude",
+        "llm-critique"
+      ],
+      "topics": [],
+      "rationale": "A commentary post on Claude’s changing behavior, not a software project or startup-ready product category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 108
     }
   ]
 }
