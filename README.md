@@ -1,6 +1,6 @@
 # gh-trending-radar
 
-Private idea-sourcing radar for AI-agent-era startup opportunities. Scrapes GitHub Trending
+Idea-sourcing radar for AI-agent-era startup opportunities. Scrapes GitHub Trending
 (+ HN/YC/Product Hunt later), enriches with GitHub API, classifies via LLM into
 bucket × audience (B/C/both/dev), and emits a daily markdown digest plus
 a Next.js dashboard.
@@ -19,4 +19,9 @@ python3 -m venv .venv
 
 Set `PAIGOD_API_KEY` (and `PAIGOD_BASE_URL`, `PAIGOD_DEFAULT_MODEL`) via env or
 `~/.config/paigod/credentials` (chmod 600). In GitHub Actions they come from repo
-Secrets.
+Secrets. `paigod` is just an OpenAI-compatible proxy — point `PAIGOD_BASE_URL` at
+any OpenAI-compatible endpoint and it works.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
