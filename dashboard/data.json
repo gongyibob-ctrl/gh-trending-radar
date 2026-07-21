@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-20T15:05:17.753686+00:00",
+  "generatedAt": "2026-07-21T05:04:19.128519+00:00",
   "totals": {
-    "items": 2732,
+    "items": 2748,
     "byBucket": {
       "data": 73,
       "ai-agent": 410,
       "ai-app": 687,
       "ai-infra": 327,
       "devtool": 234,
-      "other": 841,
+      "other": 857,
       "security": 145,
       "web-framework": 15
     },
@@ -17,11 +17,11 @@
       "dev": 1042,
       "both": 583,
       "C": 500,
-      "?": 2
+      "?": 18
     },
     "bySource": {
       "github_trending": 146,
-      "hn": 1373,
+      "hn": 1389,
       "product_hunt": 1213
     }
   },
@@ -517,8 +517,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 178559,
-      "stars7dDelta": 8927,
+      "stars": 179192,
+      "stars7dDelta": 9560,
       "hnPoints": null
     },
     {
@@ -5487,8 +5487,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 40286,
-      "stars7dDelta": 1364,
+      "stars": 40714,
+      "stars7dDelta": 1792,
       "hnPoints": null
     },
     {
@@ -9876,8 +9876,8 @@
         "yc-backed"
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
-      "stars": 23126,
-      "stars7dDelta": 5182,
+      "stars": 23845,
+      "stars7dDelta": 4938,
       "hnPoints": null
     },
     {
@@ -16191,8 +16191,8 @@
         "workspace-manager"
       ],
       "rationale": "Terminal multiplexer for managing multiple coding agents, reflecting demand for agent control planes in dev workflows.",
-      "stars": 18648,
-      "stars7dDelta": 2618,
+      "stars": 18822,
+      "stars7dDelta": 2472,
       "hnPoints": null
     },
     {
@@ -19875,8 +19875,8 @@
         "trading"
       ],
       "rationale": "Personal LLM trading agent with multi-agent workflows and backtesting for individual algorithmic traders.",
-      "stars": 25572,
-      "stars7dDelta": 4178,
+      "stars": 25793,
+      "stars7dDelta": 3237,
       "hnPoints": null
     },
     {
@@ -22533,8 +22533,8 @@
         "youtube-transcript"
       ],
       "rationale": "CLI/MCP tool gives agents search and scraping access across social/video sites without paid APIs.",
-      "stars": 58594,
-      "stars7dDelta": 2934,
+      "stars": 58816,
+      "stars7dDelta": 2709,
       "hnPoints": null
     },
     {
@@ -35108,8 +35108,8 @@
         "windsurf"
       ],
       "rationale": "MCP code indexing infra gives AI coding agents fast structural memory with fewer tokens and local deployment.",
-      "stars": 33164,
-      "stars7dDelta": 2189,
+      "stars": 33313,
+      "stars7dDelta": 1917,
       "hnPoints": null
     },
     {
@@ -35178,8 +35178,8 @@
         "video-production"
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
-      "stars": 40412,
-      "stars7dDelta": 2516,
+      "stars": 40570,
+      "stars7dDelta": 2187,
       "hnPoints": null
     },
     {
@@ -39597,8 +39597,8 @@
         "whisper"
       ],
       "rationale": "Packaged local AI voice studio combining voice cloning, TTS, and dictation as an open ElevenLabs/WisprFlow alternative.",
-      "stars": 43927,
-      "stars7dDelta": 863,
+      "stars": 44335,
+      "stars7dDelta": 1271,
       "hnPoints": null
     },
     {
@@ -41030,8 +41030,8 @@
         "website-clone"
       ],
       "rationale": "Agent workflow template that turns URL inspection into automated Next.js site reconstruction for developers.",
-      "stars": 28990,
-      "stars7dDelta": 241,
+      "stars": 29158,
+      "stars7dDelta": 409,
       "hnPoints": null
     },
     {
@@ -43111,8 +43111,8 @@
       ],
       "topics": [],
       "rationale": "Agent-driven git push gate validates code in disposable worktrees before opening clean PRs.",
-      "stars": 6687,
-      "stars7dDelta": 608,
+      "stars": 6729,
+      "stars7dDelta": 557,
       "hnPoints": null
     },
     {
@@ -45072,8 +45072,8 @@
         "site-audit"
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
-      "stars": 5526,
-      "stars7dDelta": 0,
+      "stars": 5994,
+      "stars7dDelta": 468,
       "hnPoints": null
     },
     {
@@ -46887,8 +46887,8 @@
       ],
       "topics": [],
       "rationale": "Provides a model architecture for real-time 3D scene reconstruction, useful infrastructure for robotics and spatial AI systems.",
-      "stars": 13998,
-      "stars7dDelta": 1456,
+      "stars": 14340,
+      "stars7dDelta": 1798,
       "hnPoints": null
     },
     {
@@ -48349,8 +48349,8 @@
         "token-saver"
       ],
       "rationale": "Developer-facing AI gateway aggregates free LLM providers and routing, showing demand for cheaper agent/coding-tool inference.",
-      "stars": 21007,
-      "stars7dDelta": 4360,
+      "stars": 22130,
+      "stars7dDelta": 4951,
       "hnPoints": null
     },
     {
@@ -49014,7 +49014,7 @@
       ],
       "rationale": "Structured exercise data and backend scaffolding help developers launch fitness apps without building content pipelines.",
       "stars": 15131,
-      "stars7dDelta": 2741,
+      "stars7dDelta": 1975,
       "hnPoints": null
     },
     {
@@ -49313,7 +49313,7 @@
       ],
       "rationale": "Provides fast hardware-isolated sandboxes for AI agents, filling the secure execution layer in agent infra.",
       "stars": 10311,
-      "stars7dDelta": 382,
+      "stars7dDelta": 171,
       "hnPoints": null
     },
     {
@@ -50586,7 +50586,7 @@
       "topics": [],
       "rationale": "Bridges Claude Code with Codex to review code and delegate background coding tasks, showing agent handoff demand.",
       "stars": 29123,
-      "stars7dDelta": 815,
+      "stars7dDelta": 561,
       "hnPoints": null
     },
     {
@@ -53038,7 +53038,7 @@
       ],
       "rationale": "Domain-specific skills turn coding agents into marketing operators for CRO, copy, SEO, and growth workflows.",
       "stars": 39468,
-      "stars7dDelta": 1204,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -53721,7 +53721,7 @@
       "topics": [],
       "rationale": "Agent skill that lets Claude fetch, transcribe, and inspect video content as part of workflows.",
       "stars": 9152,
-      "stars7dDelta": 1128,
+      "stars7dDelta": 779,
       "hnPoints": null
     },
     {
@@ -54778,8 +54778,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 24273,
-      "stars7dDelta": 1696,
+      "stars": 24494,
+      "stars7dDelta": 1917,
       "hnPoints": null
     },
     {
@@ -54818,8 +54818,8 @@
         "xlsx"
       ],
       "rationale": "CLI gives AI agents read/edit/render control over Office files without Microsoft Office installed.",
-      "stars": 20023,
-      "stars7dDelta": 4071,
+      "stars": 20243,
+      "stars7dDelta": 3731,
       "hnPoints": null
     },
     {
@@ -57902,8 +57902,8 @@
         "system-design"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 6116,
-      "stars7dDelta": 1990,
+      "stars": 6314,
+      "stars7dDelta": 1888,
       "hnPoints": null
     },
     {
@@ -59587,8 +59587,8 @@
       ],
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
-      "stars": 13945,
-      "stars7dDelta": 9091,
+      "stars": 14339,
+      "stars7dDelta": 8500,
       "hnPoints": null
     },
     {
@@ -60181,7 +60181,7 @@
       "topics": [],
       "rationale": "GCP samples for AI-powered metadata catalogs and knowledge graphs, pointing to context layers for enterprise agents.",
       "stars": 7270,
-      "stars7dDelta": 430,
+      "stars7dDelta": 307,
       "hnPoints": null
     },
     {
@@ -60218,7 +60218,7 @@
       ],
       "rationale": "Developer skill that maps code and docs into a queryable graph to boost AI coding assistants.",
       "stars": 91055,
-      "stars7dDelta": 6959,
+      "stars7dDelta": 5252,
       "hnPoints": null
     },
     {
@@ -63668,8 +63668,8 @@
         "templates"
       ],
       "rationale": "A developer tool that turns books/videos/podcasts into reusable AI skills for agents.",
-      "stars": 4054,
-      "stars7dDelta": 811,
+      "stars": 4112,
+      "stars7dDelta": 869,
       "hnPoints": null
     },
     {
@@ -64978,8 +64978,8 @@
       ],
       "topics": [],
       "rationale": "Workshop code for building and decomposing Claude-based multi-agent systems, with eval sweeps and agent skills.",
-      "stars": 1806,
-      "stars7dDelta": 295,
+      "stars": 1834,
+      "stars7dDelta": 323,
       "hnPoints": null
     },
     {
@@ -65016,8 +65016,8 @@
         "tree-sitter"
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
-      "stars": 22582,
-      "stars7dDelta": 2947,
+      "stars": 23541,
+      "stars7dDelta": 3906,
       "hnPoints": null
     },
     {
@@ -65813,8 +65813,8 @@
         "web-search"
       ],
       "rationale": "MCP web-search/crawl infrastructure for agents, not a user-facing app; it plugs into coding tools and self-hosted stacks.",
-      "stars": 2301,
-      "stars7dDelta": 1303,
+      "stars": 2647,
+      "stars7dDelta": 1649,
       "hnPoints": null
     },
     {
@@ -66450,7 +66450,7 @@
       "rationale": "Codex is an agentic coding tool; context-size changes highlight constraints and optimization gaps for dev agents.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 360
+      "hnPoints": 367
     },
     {
       "id": 2675,
@@ -66475,7 +66475,7 @@
       "rationale": "Ollama packages and runs open models locally, serving the growing demand for developer-friendly LLM infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 135
+      "hnPoints": 136
     },
     {
       "id": 2676,
@@ -66548,7 +66548,7 @@
       "rationale": "Claude Code is a developer-facing coding agent; the Bun/Rust shift highlights performance-focused agent tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 583
+      "hnPoints": 595
     },
     {
       "id": 2679,
@@ -66743,7 +66743,7 @@
       "rationale": "A niche bowling-center retrofit for business ops, not a general software or AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 2679
+      "hnPoints": 2843
     },
     {
       "id": 2687,
@@ -66767,7 +66767,7 @@
       "rationale": "Not a software project; it’s a social post about Claude and a math claim, so it fits neither product nor dev tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 558
+      "hnPoints": 715
     },
     {
       "id": 2688,
@@ -66816,7 +66816,7 @@
       "rationale": "A study/news item about AI advice changing judgment, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 350
+      "hnPoints": 359
     },
     {
       "id": 2690,
@@ -66865,7 +66865,7 @@
       "rationale": "Kimi is a packaged AI assistant product seeing demand strong enough to pause new paid subscriptions.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 274
+      "hnPoints": 283
     },
     {
       "id": 2692,
@@ -66938,7 +66938,7 @@
       "rationale": "News article on a health study, not a software project or startup tooling signal.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 104
+      "hnPoints": 107
     },
     {
       "id": 2695,
@@ -66991,8 +66991,8 @@
         "speech-to-text"
       ],
       "rationale": "STT inference runtime for many model families; infra for developers rather than a user-facing app.",
-      "stars": 1095,
-      "stars7dDelta": 0,
+      "stars": 1328,
+      "stars7dDelta": 233,
       "hnPoints": null
     },
     {
@@ -67016,8 +67016,8 @@
       ],
       "topics": [],
       "rationale": "A static ontology editor/explorer for semantic data modeling, with export and sharing, fits data tooling more than AI.",
-      "stars": 1596,
-      "stars7dDelta": 0,
+      "stars": 1783,
+      "stars7dDelta": 187,
       "hnPoints": null
     },
     {
@@ -67046,8 +67046,8 @@
         "self-hosted"
       ],
       "rationale": "Open-source deploy/CI platform for shipping containers from CLI, desktop, or web; built for developers.",
-      "stars": 4210,
-      "stars7dDelta": 0,
+      "stars": 5007,
+      "stars7dDelta": 797,
       "hnPoints": null
     },
     {
@@ -67070,8 +67070,8 @@
       ],
       "topics": [],
       "rationale": "Batteries-included Rust full-stack framework, reflecting demand for Rails-like web app stacks in systems languages.",
-      "stars": 1347,
-      "stars7dDelta": 0,
+      "stars": 1645,
+      "stars7dDelta": 298,
       "hnPoints": null
     },
     {
@@ -67096,13 +67096,13 @@
       "rationale": "A browser-based airport simulation experience for consumers, not clearly AI, devtool, data, or security.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 276
+      "hnPoints": 760
     },
     {
       "id": 2701,
       "source": "hn",
       "sourceId": "48975665",
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "title": "I found a WordPress RCEs with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "owner": "infosecau",
       "language": null,
@@ -67121,7 +67121,7 @@
       "rationale": "AI-assisted vulnerability research finding a WordPress RCE, signaling cheaper exploit discovery workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 276
+      "hnPoints": 388
     },
     {
       "id": 2702,
@@ -67194,7 +67194,7 @@
       "rationale": "Benchmarks wall-clock LoRA fine-tuning methods, helping developers compare training efficiency.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 122
+      "hnPoints": 140
     },
     {
       "id": 2705,
@@ -67242,7 +67242,7 @@
       "rationale": "An enterprise cloud strategy story, not a software project; relevant pattern is big buyers reducing hyperscaler dependence.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 168
+      "hnPoints": 199
     },
     {
       "id": 2707,
@@ -67314,7 +67314,7 @@
       "rationale": "Commentary on Microsoft document formats as lock-in, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 136
+      "hnPoints": 154
     },
     {
       "id": 2710,
@@ -67872,6 +67872,326 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 2733,
+      "source": "hn",
+      "sourceId": "48977128",
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "owner": "mfiguiere",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:14:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 398
+    },
+    {
+      "id": 2734,
+      "source": "hn",
+      "sourceId": "48987831",
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "owner": "sudo_cowsay",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:18:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 2735,
+      "source": "hn",
+      "sourceId": "48982535",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "owner": "jlaneve",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:21:04+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 150
+    },
+    {
+      "id": 2736,
+      "source": "hn",
+      "sourceId": "48981136",
+      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+      "url": "https://news.ycombinator.com/item?id=48981136",
+      "owner": "alexsouthmayd",
+      "language": null,
+      "description": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (<a href=\"https:&#x2F;&#x2F;bloomylearning.com\">https:&#x2F;&#x2F;bloomylearning.com</a>) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside adaptive curriculum (right now Math, English Language Arts, and Writing).<p>How it works: we diagnose students’ skill gaps, place them on personalized learning paths, and give them standards-aligned lessons and a Socratic AI tutor that scaffolds th",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:24:08+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
+    },
+    {
+      "id": 2737,
+      "source": "hn",
+      "sourceId": "48979269",
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "owner": "benwerd",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:27:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 1017
+    },
+    {
+      "id": 2738,
+      "source": "hn",
+      "sourceId": "48987863",
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "owner": "NordStreamYacht",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:30:16+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 35
+    },
+    {
+      "id": 2739,
+      "source": "hn",
+      "sourceId": "48864176",
+      "title": "My two year old taught me constraint solving",
+      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "owner": "bambataa",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:33:20+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 52
+    },
+    {
+      "id": 2740,
+      "source": "hn",
+      "sourceId": "48981206",
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "owner": "dopamine_daddy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:36:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 201
+    },
+    {
+      "id": 2741,
+      "source": "hn",
+      "sourceId": "48980019",
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "owner": "cl42",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:39:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 318
+    },
+    {
+      "id": 2742,
+      "source": "hn",
+      "sourceId": "48980238",
+      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "owner": "simonebrunozzi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:42:34+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 63
+    },
+    {
+      "id": 2743,
+      "source": "hn",
+      "sourceId": "48978835",
+      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+      "owner": "DemiGuru",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:45:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 246
+    },
+    {
+      "id": 2744,
+      "source": "hn",
+      "sourceId": "48986810",
+      "title": "With the Help of Codex: A Reproducible Proof Against the Jacobian Conjecture",
+      "url": "https://blog.clidey.com/a-reproducible-proof-against-the-jacobian-conjecture/",
+      "owner": "hemangkandwal",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:48:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 2745,
+      "source": "hn",
+      "sourceId": "48979475",
+      "title": "Controlling Reasoning Effort in LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "owner": "ibobev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:51:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 64
+    },
+    {
+      "id": 2746,
+      "source": "hn",
+      "sourceId": "48982411",
+      "title": "AI, Vim, and the Illusion of Flow",
+      "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
+      "owner": "speckx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:54:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 29
+    },
+    {
+      "id": 2747,
+      "source": "hn",
+      "sourceId": "48983890",
+      "title": "Cue AI",
+      "url": "https://deepmind.google/models/gemma/gemmaverse/cue-ai/",
+      "owner": "logickkk1",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T04:57:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 21
+    },
+    {
+      "id": 2748,
+      "source": "hn",
+      "sourceId": "48978880",
+      "title": "Show HN: The0 – self-hosted runtime for trading bots, bring your own language",
+      "url": "https://github.com/alexanderwanyoike/the0",
+      "owner": "mercutio93",
+      "language": null,
+      "description": "So Im a solo developer who has always had an itch for algorithmic trading. Initially I started off learning how to trade algorithmically with Yves Hilpisch book &quot;Python for Algorithmic Trading&quot; after reading that book I was hooked and started building algorithmic trading bots. Initially these were separate python scripts that I ran on my local machine. That was a bad idea cause local machines are not reliable and I wanted to run my bots 24&#x2F;7 365. In my actual career im a software ",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-21T05:00:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 11
     }
   ]
 }
