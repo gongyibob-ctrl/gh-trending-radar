@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-07-22T14:58:00.358640+00:00",
+  "generatedAt": "2026-07-23T04:16:58.011444+00:00",
   "totals": {
-    "items": 2833,
+    "items": 2849,
     "byBucket": {
       "data": 73,
-      "ai-agent": 427,
-      "ai-app": 707,
-      "ai-infra": 340,
-      "devtool": 243,
-      "other": 875,
-      "security": 152,
+      "ai-agent": 428,
+      "ai-app": 708,
+      "ai-infra": 344,
+      "devtool": 244,
+      "other": 883,
+      "security": 153,
       "web-framework": 16
     },
     "byAudience": {
-      "B": 623,
-      "dev": 1077,
-      "both": 603,
-      "C": 523,
+      "B": 624,
+      "dev": 1085,
+      "both": 608,
+      "C": 525,
       "?": 7
     },
     "bySource": {
       "github_trending": 153,
-      "hn": 1422,
+      "hn": 1438,
       "product_hunt": 1258
     }
   },
@@ -517,8 +517,8 @@
       ],
       "topics": [],
       "rationale": "Composable Claude agent skills for real engineering workflows without surrendering process control.",
-      "stars": 181774,
-      "stars7dDelta": 9168,
+      "stars": 182815,
+      "stars7dDelta": 9095,
       "hnPoints": null
     },
     {
@@ -5487,8 +5487,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 41954,
-      "stars7dDelta": 3032,
+      "stars": 42385,
+      "stars7dDelta": 3463,
       "hnPoints": null
     },
     {
@@ -9876,8 +9876,8 @@
         "yc-backed"
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
-      "stars": 25750,
-      "stars7dDelta": 5691,
+      "stars": 26403,
+      "stars7dDelta": 5962,
       "hnPoints": null
     },
     {
@@ -16191,8 +16191,8 @@
         "workspace-manager"
       ],
       "rationale": "Terminal multiplexer for managing multiple coding agents, reflecting demand for agent control planes in dev workflows.",
-      "stars": 19405,
-      "stars7dDelta": 2493,
+      "stars": 19618,
+      "stars7dDelta": 2524,
       "hnPoints": null
     },
     {
@@ -19875,8 +19875,8 @@
         "trading"
       ],
       "rationale": "Personal LLM trading agent with multi-agent workflows and backtesting for individual algorithmic traders.",
-      "stars": 26356,
-      "stars7dDelta": 2542,
+      "stars": 26591,
+      "stars7dDelta": 2386,
       "hnPoints": null
     },
     {
@@ -22533,8 +22533,8 @@
         "youtube-transcript"
       ],
       "rationale": "CLI/MCP tool gives agents search and scraping access across social/video sites without paid APIs.",
-      "stars": 59550,
-      "stars7dDelta": 2664,
+      "stars": 59789,
+      "stars7dDelta": 2667,
       "hnPoints": null
     },
     {
@@ -35108,8 +35108,8 @@
         "windsurf"
       ],
       "rationale": "MCP code indexing infra gives AI coding agents fast structural memory with fewer tokens and local deployment.",
-      "stars": 34020,
-      "stars7dDelta": 2100,
+      "stars": 34258,
+      "stars7dDelta": 2155,
       "hnPoints": null
     },
     {
@@ -35178,8 +35178,8 @@
         "video-production"
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
-      "stars": 41099,
-      "stars7dDelta": 2087,
+      "stars": 41325,
+      "stars7dDelta": 2134,
       "hnPoints": null
     },
     {
@@ -39597,8 +39597,8 @@
         "whisper"
       ],
       "rationale": "Packaged local AI voice studio combining voice cloning, TTS, and dictation as an open ElevenLabs/WisprFlow alternative.",
-      "stars": 45492,
-      "stars7dDelta": 2428,
+      "stars": 45900,
+      "stars7dDelta": 2836,
       "hnPoints": null
     },
     {
@@ -41030,8 +41030,8 @@
         "website-clone"
       ],
       "rationale": "Agent workflow template that turns URL inspection into automated Next.js site reconstruction for developers.",
-      "stars": 29621,
-      "stars7dDelta": 872,
+      "stars": 29727,
+      "stars7dDelta": 978,
       "hnPoints": null
     },
     {
@@ -43111,8 +43111,8 @@
       ],
       "topics": [],
       "rationale": "Agent-driven git push gate validates code in disposable worktrees before opening clean PRs.",
-      "stars": 6864,
-      "stars7dDelta": 542,
+      "stars": 6899,
+      "stars7dDelta": 529,
       "hnPoints": null
     },
     {
@@ -46887,8 +46887,8 @@
       ],
       "topics": [],
       "rationale": "Provides a model architecture for real-time 3D scene reconstruction, useful infrastructure for robotics and spatial AI systems.",
-      "stars": 14838,
-      "stars7dDelta": 2296,
+      "stars": 14934,
+      "stars7dDelta": 2392,
       "hnPoints": null
     },
     {
@@ -48349,8 +48349,8 @@
         "token-saver"
       ],
       "rationale": "Developer-facing AI gateway aggregates free LLM providers and routing, showing demand for cheaper agent/coding-tool inference.",
-      "stars": 24580,
-      "stars7dDelta": 6777,
+      "stars": 25583,
+      "stars7dDelta": 7618,
       "hnPoints": null
     },
     {
@@ -49014,7 +49014,7 @@
       ],
       "rationale": "Structured exercise data and backend scaffolding help developers launch fitness apps without building content pipelines.",
       "stars": 15131,
-      "stars7dDelta": 653,
+      "stars7dDelta": 343,
       "hnPoints": null
     },
     {
@@ -49313,7 +49313,7 @@
       ],
       "rationale": "Provides fast hardware-isolated sandboxes for AI agents, filling the secure execution layer in agent infra.",
       "stars": 10311,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -50586,7 +50586,7 @@
       "topics": [],
       "rationale": "Bridges Claude Code with Codex to review code and delegate background coding tasks, showing agent handoff demand.",
       "stars": 29123,
-      "stars7dDelta": 277,
+      "stars7dDelta": 189,
       "hnPoints": null
     },
     {
@@ -54778,8 +54778,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 25159,
-      "stars7dDelta": 1739,
+      "stars": 25391,
+      "stars7dDelta": 1971,
       "hnPoints": null
     },
     {
@@ -54818,8 +54818,8 @@
         "xlsx"
       ],
       "rationale": "CLI gives AI agents read/edit/render control over Office files without Microsoft Office installed.",
-      "stars": 20940,
-      "stars7dDelta": 3047,
+      "stars": 21179,
+      "stars7dDelta": 2962,
       "hnPoints": null
     },
     {
@@ -57867,7 +57867,7 @@
       "topics": [],
       "rationale": "Plugin library extends coding agents via MCP skills, reflecting demand for composable agent capabilities.",
       "stars": 7527,
-      "stars7dDelta": 61,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -57903,7 +57903,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 6537,
-      "stars7dDelta": 1274,
+      "stars7dDelta": 421,
       "hnPoints": null
     },
     {
@@ -59587,8 +59587,8 @@
       ],
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
-      "stars": 15392,
-      "stars7dDelta": 6418,
+      "stars": 15736,
+      "stars7dDelta": 5423,
       "hnPoints": null
     },
     {
@@ -60181,7 +60181,7 @@
       "topics": [],
       "rationale": "GCP samples for AI-powered metadata catalogs and knowledge graphs, pointing to context layers for enterprise agents.",
       "stars": 7270,
-      "stars7dDelta": 125,
+      "stars7dDelta": 77,
       "hnPoints": null
     },
     {
@@ -61246,7 +61246,7 @@
       ],
       "rationale": "Educational compendium for AI/ML practitioners, not a shipped product; it teaches foundations and research intuition.",
       "stars": 6682,
-      "stars7dDelta": 677,
+      "stars7dDelta": 247,
       "hnPoints": null
     },
     {
@@ -65016,8 +65016,8 @@
         "tree-sitter"
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
-      "stars": 25117,
-      "stars7dDelta": 5482,
+      "stars": 25436,
+      "stars7dDelta": 5801,
       "hnPoints": null
     },
     {
@@ -67046,8 +67046,8 @@
         "self-hosted"
       ],
       "rationale": "Open-source deploy/CI platform for shipping containers from CLI, desktop, or web; built for developers.",
-      "stars": 6963,
-      "stars7dDelta": 2753,
+      "stars": 7408,
+      "stars7dDelta": 3198,
       "hnPoints": null
     },
     {
@@ -68019,7 +68019,7 @@
       "rationale": "News on opaque AI financing and big-tech liabilities, not a software project or usable tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 363
+      "hnPoints": 364
     },
     {
       "id": 2739,
@@ -68341,8 +68341,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 7801,
-      "stars7dDelta": 1570,
+      "stars": 8483,
+      "stars7dDelta": 2252,
       "hnPoints": null
     },
     {
@@ -68435,7 +68435,7 @@
       "rationale": "A new Qwen image model release for builders, signaling demand for richer text rendering and domain-knowledge image generation.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 561
+      "hnPoints": 565
     },
     {
       "id": 2755,
@@ -69092,8 +69092,8 @@
       ],
       "topics": [],
       "rationale": "A local browser UI for a coding agent, packaged as a usable developer product rather than core infra.",
-      "stars": 1976,
-      "stars7dDelta": 190,
+      "stars": 2117,
+      "stars7dDelta": 331,
       "hnPoints": null
     },
     {
@@ -69104,7 +69104,7 @@
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "owner": "mfiguiere",
       "language": null,
-      "description": "<a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248</a> (9 comments)",
+      "description": "<a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-breach-caused-by-one-its-models\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-br...</a><p>See also <i>Security incident disclosure – July 2026</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48956248</a> (9 comments)<p><a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;n",
       "createdAt": null,
       "firstSeenAt": "2026-07-22T04:16:20+00:00",
       "bucket": "security",
@@ -69118,7 +69118,7 @@
       "rationale": "A model-evaluation breach disclosure, pointing to ML security gaps in eval workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1410
+      "hnPoints": 1558
     },
     {
       "id": 2783,
@@ -69142,7 +69142,7 @@
       "rationale": "A business ad offering inside ChatGPT; it's a monetization product, not an AI app or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 978
+      "hnPoints": 1060
     },
     {
       "id": 2784,
@@ -69167,7 +69167,7 @@
       "rationale": "New Gemini model variants are infrastructure primitives for developers building faster, cheaper, or security-focused AI apps.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 731
+      "hnPoints": 743
     },
     {
       "id": 2785,
@@ -69191,7 +69191,7 @@
       "rationale": "Consumer-facing AI art experiment comparing major models' creative drawing outputs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 235
+      "hnPoints": 246
     },
     {
       "id": 2786,
@@ -69215,7 +69215,7 @@
       "rationale": "Training-data copyright settlement around Claude highlights a core AI model development and compliance risk for providers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 488
+      "hnPoints": 550
     },
     {
       "id": 2787,
@@ -69240,7 +69240,7 @@
       "rationale": "A packaged collaboration product with embedded agents and git, aimed at teams and developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 355
+      "hnPoints": 368
     },
     {
       "id": 2788,
@@ -69533,7 +69533,7 @@
       "rationale": "Opinion piece on Claude/LLM behavior for developers, not a product or framework.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 155
     },
     {
       "id": 2800,
@@ -69557,7 +69557,7 @@
       "rationale": "Opinion piece on AI-assisted coding; it discusses developer workflow, not a product or library.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 159
+      "hnPoints": 161
     },
     {
       "id": 2801,
@@ -69581,7 +69581,7 @@
       "rationale": "Browser tab isolation for separate identities and privacy, not an AI or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 149
+      "hnPoints": 154
     },
     {
       "id": 2802,
@@ -69604,8 +69604,8 @@
       ],
       "topics": [],
       "rationale": "Terminal-based coding agent that reads, edits, and runs commands in multi-step loops.",
-      "stars": 4523,
-      "stars7dDelta": 0,
+      "stars": 4623,
+      "stars7dDelta": 100,
       "hnPoints": null
     },
     {
@@ -69654,7 +69654,7 @@
       "rationale": "Model benchmark/inference-provider post tracking SoTA agentic knowledge performance for builders choosing LLM backends.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 791
+      "hnPoints": 856
     },
     {
       "id": 2805,
@@ -69664,7 +69664,7 @@
       "url": "https://twitter.com/nikitabier/status/2079787406300266743",
       "owner": "ksec",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743</a>",
       "createdAt": null,
       "firstSeenAt": "2026-07-22T14:54:12+00:00",
       "bucket": "security",
@@ -69678,7 +69678,7 @@
       "rationale": "Commentary on passkey authentication UX, highlighting a consumer adoption gap in security tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 24
+      "hnPoints": 469
     },
     {
       "id": 2806,
@@ -69703,7 +69703,7 @@
       "rationale": "Packaged AI-for-business concept aimed at replacing executive work, so it fits a shipped AI app more than infra or devtools.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 524
+      "hnPoints": 647
     },
     {
       "id": 2807,
@@ -69727,13 +69727,13 @@
       "rationale": "Curated examples of AI-generated menu redesign mistakes, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 109
+      "hnPoints": 210
     },
     {
       "id": 2808,
       "source": "hn",
       "sourceId": "49007525",
-      "title": "Most Americans Say \"Not in My Backyard\" to AI Data Centers",
+      "title": "Most Americans say \"not in my backyard\" to AI data centers",
       "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
       "owner": "toomuchtodo",
       "language": null,
@@ -69751,7 +69751,7 @@
       "rationale": "Signals growing local resistance to AI data centers, creating demand for siting, permitting, and community-benefit tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 7
+      "hnPoints": 133
     },
     {
       "id": 2809,
@@ -69848,7 +69848,7 @@
       "rationale": "An Apple privacy feature got a security fix; this is consumer-facing vulnerability remediation.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 127
+      "hnPoints": 129
     },
     {
       "id": 2813,
@@ -69872,7 +69872,7 @@
       "rationale": "A security/policy post about treating raw HTML as risky, affecting both users and site operators.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 125
+      "hnPoints": 327
     },
     {
       "id": 2814,
@@ -70319,7 +70319,7 @@
       "url": "https://www.producthunt.com/products/redential",
       "owner": null,
       "language": null,
-      "description": "A developer credential that proves what you built Discussion | Link",
+      "description": "A developer credential that proves what you built, NDA safe. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-07-22T14:57:35+00:00",
       "bucket": "devtool",
@@ -70358,6 +70358,398 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 2834,
+      "source": "hn",
+      "sourceId": "49010345",
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "owner": "gmays",
+      "language": null,
+      "description": "<i>A digestion of the Jacobian conjecture counterexample</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362</a> - July 2026 (133 comments)<p><i>Claude Fable produced a counterexample to the Jacobian Conjecture</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48973869</a> - July 2026 (508 comments)",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:14:47+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "chatgpt",
+        "math-research",
+        "proof-assistant"
+      ],
+      "topics": [],
+      "rationale": "A shared ChatGPT math-research workflow shows AI apps being used for advanced reasoning and proof digestion.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 691
+    },
+    {
+      "id": 2835,
+      "source": "hn",
+      "sourceId": "49007247",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "owner": "benbreen",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:14:54+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "nonfiction",
+        "book-discovery",
+        "prize-index"
+      ],
+      "topics": [],
+      "rationale": "A consumer-facing book discovery/index project, not an AI, devtool, data infra, or security product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 218
+    },
+    {
+      "id": 2836,
+      "source": "hn",
+      "sourceId": "49008211",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "owner": "starfallg",
+      "language": null,
+      "description": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.<p>To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is ar",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:00+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "slides",
+        "single-html",
+        "offline",
+        "collaboration"
+      ],
+      "topics": [],
+      "rationale": "Self-contained browser slide editor fills a lightweight offline alternative to PowerPoint/Slides, not primarily AI or dev tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 706
+    },
+    {
+      "id": 2837,
+      "source": "hn",
+      "sourceId": "49010129",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "owner": "dcastm",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:07+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-labs",
+        "strategy",
+        "commentary"
+      ],
+      "topics": [],
+      "rationale": "A commentary post about AI lab behavior, not a software project or usable AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 425
+    },
+    {
+      "id": 2838,
+      "source": "hn",
+      "sourceId": "49010782",
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "owner": "HenryNdubuaku",
+      "language": null,
+      "description": "Hey HN, Henry &amp; Roman here from Cactus.<p>A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B post-trained to know when it&#x27;s wrong. Every response comes with a confidence score between 0 and 1. Developers can accept the on-device when it&#x27;s high, hand off to a bigger cloud model when it&#x27;s low. By routing only 15-35% of queries to Gemini 3.1 Flash-Lite, Gemma-4-E2B matches Gemin",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:14+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-routing",
+        "confidence-scores",
+        "on-device-ai",
+        "gemma"
+      ],
+      "topics": [],
+      "rationale": "Developer infra for hybrid local/cloud inference, using calibrated confidence to cut frontier model calls.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 91
+    },
+    {
+      "id": 2839,
+      "source": "hn",
+      "sourceId": "49015735",
+      "title": "Petals: Run LLMs at home, BitTorrent-style",
+      "url": "https://petals.dev/",
+      "owner": "snorbleck",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:19+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "distributed-inference",
+        "llm-serving",
+        "p2p"
+      ],
+      "topics": [],
+      "rationale": "Peer-to-peer LLM inference lets developers run large models without owning full GPU infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
+    },
+    {
+      "id": 2840,
+      "source": "hn",
+      "sourceId": "49012777",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+      "owner": "helonaut",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:24+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "linux",
+        "camera-driver",
+        "fairphone-6",
+        "hardware-support"
+      ],
+      "topics": [],
+      "rationale": "Niche hardware enablement for a phone camera on Linux, not an app, infra, or AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 87
+    },
+    {
+      "id": 2841,
+      "source": "hn",
+      "sourceId": "49008901",
+      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+      "url": "https://unlayer.com",
+      "owner": "adeelraza",
+      "language": null,
+      "description": "Hi HN, We’re Adeel and Umair, co-founders of Unlayer (<a href=\"https:&#x2F;&#x2F;unlayer.com&#x2F;\">https:&#x2F;&#x2F;unlayer.com&#x2F;</a>). We let you add content creation to your applications without having to build an entire editor, renderer, template, and export stack yourself. Unlayer lets you create emails, web pages, and documents inside your app, in three different ways: in code, visually, or with AI.<p>Here’s a demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0HsDtNkdMpM\" ",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:31+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "embeddable-editor",
+        "email-builder",
+        "document-builder",
+        "template-sdk"
+      ],
+      "topics": [],
+      "rationale": "SDK/API for developers to embed email and document creation instead of building editor/render/export stacks.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 2842,
+      "source": "hn",
+      "sourceId": "49014537",
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "owner": "StatsAreFun",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:37+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "research",
+        "llm-chatbots",
+        "children",
+        "anthropomorphism"
+      ],
+      "topics": [],
+      "rationale": "Research on how children perceive LLM chatbots, useful for safety and product design rather than a software tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 2843,
+      "source": "hn",
+      "sourceId": "49015639",
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "owner": "abhisek",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:44+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "openai",
+        "hugging-face",
+        "incident",
+        "ai-agents"
+      ],
+      "topics": [],
+      "rationale": "A security-focused incident analysis about AI-driven traffic/actions hitting developer infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 64
+    },
+    {
+      "id": 2844,
+      "source": "hn",
+      "sourceId": "49015852",
+      "title": "Show HN: AgentNest, self-hosted sandboxes for AI agents",
+      "url": "https://github.com/mihirahuja1/agentnestOSS",
+      "owner": "mihir_ahuja",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:51+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-sandbox",
+        "self-hosted",
+        "isolation"
+      ],
+      "topics": [],
+      "rationale": "Provides self-hosted execution sandboxes for AI agents, filling the infra layer for safe agent runtime.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 2845,
+      "source": "hn",
+      "sourceId": "49007671",
+      "title": "Which streaming service was that on again?",
+      "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
+      "owner": "weetii",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:15:57+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "streaming-search",
+        "media-discovery",
+        "personal-blog"
+      ],
+      "topics": [],
+      "rationale": "A consumer-oriented post about finding where shows stream, not clearly an AI or developer software project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 45
+    },
+    {
+      "id": 2846,
+      "source": "hn",
+      "sourceId": "49014798",
+      "title": "Why I'm building a note taking app without AI",
+      "url": "https://withdocket.com/blog/why-im-building-a-note-taking-app-without-ai",
+      "owner": "davnicwil",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:16:03+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "note-taking",
+        "productivity",
+        "no-ai"
+      ],
+      "topics": [],
+      "rationale": "A note-taking product for general users, but the post is explicitly about building it without AI.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 2847,
+      "source": "hn",
+      "sourceId": "48971128",
+      "title": "Nvidia DGX Spark as a daily driver",
+      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+      "owner": "plun9",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:16:10+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "dgx-spark",
+        "local-llm",
+        "workstation"
+      ],
+      "topics": [],
+      "rationale": "A hardware setup writeup, not a software project; it targets devs experimenting with local AI workstations.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 89
+    },
+    {
+      "id": 2848,
+      "source": "hn",
+      "sourceId": "49008538",
+      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+      "url": "https://cruciblebench.ai/",
+      "owner": "Davisb135",
+      "language": null,
+      "description": "I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We&#x27;ve spent the last several months on nights and weekends running this experiment and writing the paper on just our personal computers with about $99 in API credits.<p>Our experiment did have an interesting leaderboard but even more surprising was the measurements of each LLM. We scored each on four behavioral dimensions, two of which le",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:16:23+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-evals",
+        "benchmark",
+        "mud",
+        "judge-reliability"
+      ],
+      "topics": [],
+      "rationale": "A text-game benchmark probing LLM behavior and judge agreement, fitting the growing need for robust eval tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 100
+    },
+    {
+      "id": 2849,
+      "source": "hn",
+      "sourceId": "48980286",
+      "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+      "url": "https://deepsql.ai/",
+      "owner": "venkat971",
+      "language": null,
+      "description": "Hi HN - I&#x27;m Venkat, founder of Stayflexi (YC), CMU CS grad and Ex-Oracle Query Engine team (patents in core databases)<p>DeepSQL started as an internal tool to stop our own databases from becoming the bottleneck they were becoming (13,000+ hotels in production). It worked well enough that we&#x27;re releasing it.<p>DeepSQL is an AI agent that operates a database the way a senior DBA and Data Engineer would<p>1. Fixes slow queries (we cutdown DB spend by 4x)\n2. Fixes DB bloat (blocks unneces",
+      "createdAt": null,
+      "firstSeenAt": "2026-07-23T04:16:30+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "dba-agent",
+        "postgres",
+        "mysql",
+        "self-hosted"
+      ],
+      "topics": [],
+      "rationale": "AI agent automates DBA work like query tuning, bloat fixes, BI, and data access controls for business databases.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 46
     }
   ]
 }
