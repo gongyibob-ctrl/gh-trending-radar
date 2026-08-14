@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-13T14:21:23.905234+00:00",
+  "generatedAt": "2026-08-14T03:26:11.374552+00:00",
   "totals": {
-    "items": 3825,
+    "items": 3841,
     "byBucket": {
-      "data": 102,
-      "ai-agent": 557,
+      "data": 103,
+      "ai-agent": 559,
       "ai-app": 908,
-      "ai-infra": 484,
+      "ai-infra": 490,
       "devtool": 328,
-      "other": 1206,
-      "security": 219,
+      "other": 1212,
+      "security": 220,
       "web-framework": 21
     },
     "byAudience": {
-      "B": 843,
-      "dev": 1456,
-      "both": 793,
-      "C": 725,
+      "B": 847,
+      "dev": 1465,
+      "both": 794,
+      "C": 727,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 183,
-      "hn": 1953,
+      "hn": 1969,
       "product_hunt": 1689
     }
   },
@@ -386,8 +386,8 @@
         "skills"
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
-      "stars": 86774,
-      "stars7dDelta": 4273,
+      "stars": 87013,
+      "stars7dDelta": 3949,
       "hnPoints": null
     },
     {
@@ -9877,8 +9877,8 @@
         "yc-backed"
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
-      "stars": 44631,
-      "stars7dDelta": 5935,
+      "stars": 45048,
+      "stars7dDelta": 5965,
       "hnPoints": null
     },
     {
@@ -19877,7 +19877,7 @@
       ],
       "rationale": "Personal LLM trading agent with multi-agent workflows and backtesting for individual algorithmic traders.",
       "stars": 30259,
-      "stars7dDelta": 265,
+      "stars7dDelta": 178,
       "hnPoints": null
     },
     {
@@ -24973,8 +24973,8 @@
         "skills"
       ],
       "rationale": "Reusable skills let developers wire agents into Google Cloud and Gemini products.",
-      "stars": 18012,
-      "stars7dDelta": 1990,
+      "stars": 18085,
+      "stars7dDelta": 2063,
       "hnPoints": null
     },
     {
@@ -30629,8 +30629,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 21055,
-      "stars7dDelta": 5112,
+      "stars": 21315,
+      "stars7dDelta": 4713,
       "hnPoints": null
     },
     {
@@ -40349,8 +40349,8 @@
         "typescript"
       ],
       "rationale": "Terminal coding agent optimized for DeepSeek and long-running prefix-cache workflows for developers.",
-      "stars": 34397,
-      "stars7dDelta": 2225,
+      "stars": 34512,
+      "stars7dDelta": 1969,
       "hnPoints": null
     },
     {
@@ -45073,8 +45073,8 @@
         "site-audit"
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
-      "stars": 11682,
-      "stars7dDelta": 990,
+      "stars": 11789,
+      "stars7dDelta": 1028,
       "hnPoints": null
     },
     {
@@ -48351,7 +48351,7 @@
       ],
       "rationale": "Developer-facing AI gateway aggregates free LLM providers and routing, showing demand for cheaper agent/coding-tool inference.",
       "stars": 46693,
-      "stars7dDelta": 5329,
+      "stars7dDelta": 4899,
       "hnPoints": null
     },
     {
@@ -53722,7 +53722,7 @@
       "topics": [],
       "rationale": "Agent skill that lets Claude fetch, transcribe, and inspect video content as part of workflows.",
       "stars": 15179,
-      "stars7dDelta": 957,
+      "stars7dDelta": 872,
       "hnPoints": null
     },
     {
@@ -54820,7 +54820,7 @@
       ],
       "rationale": "CLI gives AI agents read/edit/render control over Office files without Microsoft Office installed.",
       "stars": 27979,
-      "stars7dDelta": 1875,
+      "stars7dDelta": 1738,
       "hnPoints": null
     },
     {
@@ -57910,8 +57910,8 @@
         "workflow-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 11973,
-      "stars7dDelta": 2235,
+      "stars": 12119,
+      "stars7dDelta": 2217,
       "hnPoints": null
     },
     {
@@ -59595,7 +59595,7 @@
       ],
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
-      "stars": 24578,
+      "stars": 24711,
       "stars7dDelta": 2359,
       "hnPoints": null
     },
@@ -59653,7 +59653,7 @@
       "topics": [],
       "rationale": "A developer GUI that orchestrates multiple coding agents, reflecting demand for unified agent workbenches.",
       "stars": 17331,
-      "stars7dDelta": 393,
+      "stars7dDelta": 286,
       "hnPoints": null
     },
     {
@@ -63642,8 +63642,8 @@
         "small-models"
       ],
       "rationale": "Demo repo for running and serving local Bonsai models with Llama.cpp/MLX, including vision and tool-calling.",
-      "stars": 2199,
-      "stars7dDelta": 0,
+      "stars": 2214,
+      "stars7dDelta": 15,
       "hnPoints": null
     },
     {
@@ -63676,8 +63676,8 @@
         "templates"
       ],
       "rationale": "A developer tool that turns books/videos/podcasts into reusable AI skills for agents.",
-      "stars": 7638,
-      "stars7dDelta": 711,
+      "stars": 7721,
+      "stars7dDelta": 794,
       "hnPoints": null
     },
     {
@@ -65024,8 +65024,8 @@
         "tree-sitter"
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
-      "stars": 29992,
-      "stars7dDelta": 1116,
+      "stars": 30039,
+      "stars7dDelta": 935,
       "hnPoints": null
     },
     {
@@ -68350,7 +68350,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 18182,
-      "stars7dDelta": 593,
+      "stars7dDelta": 365,
       "hnPoints": null
     },
     {
@@ -69092,8 +69092,8 @@
       ],
       "topics": [],
       "rationale": "A local browser UI for a coding agent, packaged as a usable developer product rather than core infra.",
-      "stars": 4146,
-      "stars7dDelta": 376,
+      "stars": 4184,
+      "stars7dDelta": 414,
       "hnPoints": null
     },
     {
@@ -69604,8 +69604,8 @@
       ],
       "topics": [],
       "rationale": "Terminal-based coding agent that reads, edits, and runs commands in multi-step loops.",
-      "stars": 6526,
-      "stars7dDelta": 257,
+      "stars": 6601,
+      "stars7dDelta": 332,
       "hnPoints": null
     },
     {
@@ -70805,7 +70805,7 @@
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
       "stars": 24997,
-      "stars7dDelta": 1148,
+      "stars7dDelta": 627,
       "hnPoints": null
     },
     {
@@ -76323,7 +76323,7 @@
       "topics": [],
       "rationale": "Educational design-engineering guidance, not an AI product or tool; useful for developers building better interfaces.",
       "stars": 27551,
-      "stars7dDelta": 1399,
+      "stars7dDelta": 1104,
       "hnPoints": null
     },
     {
@@ -76862,8 +76862,8 @@
       ],
       "topics": [],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 21080,
-      "stars7dDelta": 3686,
+      "stars": 21265,
+      "stars7dDelta": 3538,
       "hnPoints": null
     },
     {
@@ -80831,8 +80831,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 24760,
-      "stars7dDelta": 5117,
+      "stars": 24978,
+      "stars7dDelta": 5014,
       "hnPoints": null
     },
     {
@@ -82373,7 +82373,7 @@
       "topics": [],
       "rationale": "Native DeepSeek-focused inference engine with serving, KV state, and tool-call support for local AI stacks.",
       "stars": 20986,
-      "stars7dDelta": 235,
+      "stars7dDelta": 166,
       "hnPoints": null
     },
     {
@@ -83236,7 +83236,7 @@
       ],
       "rationale": "Developer library for PDF ingestion that routes scanned vs text PDFs to avoid OCR in AI document pipelines.",
       "stars": 12126,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -85824,8 +85824,8 @@
       ],
       "topics": [],
       "rationale": "Infra for agent computer-use: virtual filesystem plus sandbox runtimes for tools, shells, and browser workflows.",
-      "stars": 7924,
-      "stars7dDelta": 3435,
+      "stars": 7994,
+      "stars7dDelta": 3067,
       "hnPoints": null
     },
     {
@@ -85858,8 +85858,8 @@
         "workflow-automation"
       ],
       "rationale": "Agent-agnostic control plane for durable long-running agent workflows, not an end-user app.",
-      "stars": 4561,
-      "stars7dDelta": 1893,
+      "stars": 4619,
+      "stars7dDelta": 1643,
       "hnPoints": null
     },
     {
@@ -88029,8 +88029,8 @@
       ],
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
-      "stars": 15268,
-      "stars7dDelta": 9855,
+      "stars": 15532,
+      "stars7dDelta": 10119,
       "hnPoints": null
     },
     {
@@ -92577,7 +92577,7 @@
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "owner": "NVIDIA-NeMo",
       "language": "Rust",
-      "description": null,
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "createdAt": "2026-05-19T19:06:33Z",
       "firstSeenAt": "2026-08-12T14:11:33+00:00",
       "bucket": "ai-infra",
@@ -92590,8 +92590,8 @@
       ],
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
-      "stars": 1055,
-      "stars7dDelta": 407,
+      "stars": 1263,
+      "stars7dDelta": 615,
       "hnPoints": null
     },
     {
@@ -92621,8 +92621,8 @@
         "on-device-ai"
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
-      "stars": 4703,
-      "stars7dDelta": 758,
+      "stars": 5028,
+      "stars7dDelta": 1083,
       "hnPoints": null
     },
     {
@@ -92645,8 +92645,8 @@
       ],
       "topics": [],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 13111,
-      "stars7dDelta": 4484,
+      "stars": 14998,
+      "stars7dDelta": 6371,
       "hnPoints": null
     },
     {
@@ -92671,7 +92671,7 @@
       "rationale": "A research blog post on LLM math strengths, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 258
+      "hnPoints": 259
     },
     {
       "id": 3747,
@@ -92695,7 +92695,7 @@
       "rationale": "Open-source Wolfram Language interpreter and tooling for developers, not an end-user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 303
+      "hnPoints": 308
     },
     {
       "id": 3748,
@@ -92719,7 +92719,7 @@
       "rationale": "Delphi is a developer IDE/toolchain for building native apps, not an end-user AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 175
+      "hnPoints": 178
     },
     {
       "id": 3749,
@@ -92792,7 +92792,7 @@
       "rationale": "Looks like a personal blog post about an agent workflow, not a distinct software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 123
+      "hnPoints": 127
     },
     {
       "id": 3752,
@@ -92816,7 +92816,7 @@
       "rationale": "Agentic R&D system that autonomously खोजs new materials for semiconductor customers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 151
+      "hnPoints": 155
     },
     {
       "id": 3753,
@@ -93396,7 +93396,7 @@
       "rationale": "Hosted model endpoint on OpenRouter, so it's infrastructure for developers rather than a standalone app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 993
+      "hnPoints": 1017
     },
     {
       "id": 3777,
@@ -93444,7 +93444,7 @@
       "rationale": "Open-weight base model for developers building AI apps, not an end-user product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 685
+      "hnPoints": 700
     },
     {
       "id": 3779,
@@ -93469,7 +93469,7 @@
       "rationale": "Model release from xAI; it's core LLM infrastructure, not an end-user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 605
+      "hnPoints": 622
     },
     {
       "id": 3780,
@@ -93517,7 +93517,7 @@
       "rationale": "Security-focused insight on mass scans and bot spoofing, aimed at defenders tracking abuse patterns.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 291
+      "hnPoints": 300
     },
     {
       "id": 3782,
@@ -93541,7 +93541,7 @@
       "rationale": "Shipped product for building apps with AI, aimed at both founders and developers rather than infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 153
+      "hnPoints": 159
     },
     {
       "id": 3783,
@@ -93589,7 +93589,7 @@
       "rationale": "This is an opinion article about AI's impact on engineers, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 929
+      "hnPoints": 966
     },
     {
       "id": 3785,
@@ -93759,7 +93759,7 @@
       "rationale": "Research news on livestock-driven biodiversity harm, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 131
+      "hnPoints": 132
     },
     {
       "id": 3792,
@@ -93827,8 +93827,8 @@
         "workspace"
       ],
       "rationale": "Local workspace for running Claude Code/Codex-style agents across tools with shared memory and integrations.",
-      "stars": 6254,
-      "stars7dDelta": 0,
+      "stars": 6689,
+      "stars7dDelta": 435,
       "hnPoints": null
     },
     {
@@ -93860,19 +93860,19 @@
         "self-hosted"
       ],
       "rationale": "Usable desktop product for generating 3D meshes from images locally, fitting creator and studio workflows.",
-      "stars": 5206,
-      "stars7dDelta": 0,
+      "stars": 5492,
+      "stars7dDelta": 286,
       "hnPoints": null
     },
     {
       "id": 3795,
       "source": "hn",
       "sourceId": "49285244",
-      "title": "DeepSeek Harness",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
       "owner": "bjin",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harness\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harness</a><p><a href=\"https:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide&#x2F;quickstart\" rel=\"nofollow\">https:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;guide...</a>",
       "createdAt": null,
       "firstSeenAt": "2026-08-13T14:14:17+00:00",
       "bucket": "ai-infra",
@@ -93887,7 +93887,7 @@
       "rationale": "Evaluation harness for DeepSeek/LLM benchmarks, fitting the growing need for reproducible model testing.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 98
+      "hnPoints": 579
     },
     {
       "id": 3796,
@@ -93911,14 +93911,14 @@
       "rationale": "A developer-focused model comparison highlights the need for practical LLM selection and prompt evaluation tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 57
+      "hnPoints": 180
     },
     {
       "id": 3797,
       "source": "hn",
       "sourceId": "49281916",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
       "owner": "allanrbo",
       "language": null,
       "description": null,
@@ -93936,7 +93936,7 @@
       "rationale": "Packaged desktop coding agent for developers, showing demand for OS-native AI agent workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 312
+      "hnPoints": 446
     },
     {
       "id": 3798,
@@ -93946,7 +93946,7 @@
       "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
       "owner": "mfiguiere",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;deepseek_ai&#x2F;status&#x2F;2087864589895798968\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;deepseek_ai&#x2F;status&#x2F;2087864589895798968</a>",
       "createdAt": null,
       "firstSeenAt": "2026-08-13T14:14:58+00:00",
       "bucket": "ai-infra",
@@ -93960,7 +93960,7 @@
       "rationale": "Model API pricing signals cheaper inference infrastructure for developers building AI products.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 31
+      "hnPoints": 122
     },
     {
       "id": 3799,
@@ -94616,6 +94616,394 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 3826,
+      "source": "hn",
+      "sourceId": "49289112",
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "owner": "thisisauserid",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flash\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:23:44+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm",
+        "multimodal",
+        "flash"
+      ],
+      "topics": [],
+      "rationale": "A model API for fast multimodal inference, used as infrastructure by developers building AI apps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 656
+    },
+    {
+      "id": 3827,
+      "source": "hn",
+      "sourceId": "49289844",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "owner": "pr337h4m",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:23:52+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "inference",
+        "llm-serving",
+        "hardware-acceleration"
+      ],
+      "topics": [],
+      "rationale": "Cerebras/OpenAI speedup work points to low-latency LLM inference infrastructure for developers building AI products.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 463
+    },
+    {
+      "id": 3828,
+      "source": "hn",
+      "sourceId": "49294199",
+      "title": "US conducted mass spying campaign against leftwing and anti-ICE protesters",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters",
+      "owner": "magic_interface",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:23:58+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "surveillance",
+        "protest-spying",
+        "government"
+      ],
+      "topics": [],
+      "rationale": "News on government surveillance, not a software product, so it fits none of the software buckets.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 3829,
+      "source": "hn",
+      "sourceId": "49285418",
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "owner": "vinayakborkar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:24:08+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "archival-data",
+        "data-access",
+        "lawsuit"
+      ],
+      "topics": [],
+      "rationale": "Legal dispute over access to archived data, not a software product or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 261
+    },
+    {
+      "id": 3830,
+      "source": "hn",
+      "sourceId": "49290768",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "owner": "malshe",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:24:15+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "research-report",
+        "chatgpt",
+        "enterprise"
+      ],
+      "topics": [],
+      "rationale": "A research PDF about how organizations use ChatGPT, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 76
+    },
+    {
+      "id": 3831,
+      "source": "hn",
+      "sourceId": "49283063",
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "owner": "adi1",
+      "language": null,
+      "description": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent.<p>Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So, Bullet started as an AI hedge fund, a browser-use agent, synthetic financial data (oof), a mobile IDE, and a bunch of other things. We wante",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:24:22+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "browser-use",
+        "code-editing",
+        "terminal"
+      ],
+      "topics": [],
+      "rationale": "An autonomous coding agent for developers, built for multi-step code changes rather than a general app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 87
+    },
+    {
+      "id": 3832,
+      "source": "hn",
+      "sourceId": "49288293",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "owner": "timmmmmmay",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:24:28+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "local-ai",
+        "homelab",
+        "llm"
+      ],
+      "topics": [],
+      "rationale": "DIY home AI setup content about running models locally, so it fits infra more than an end-user app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 99
+    },
+    {
+      "id": 3833,
+      "source": "hn",
+      "sourceId": "49287153",
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "owner": "pseudolus",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:24:49+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-watermarking",
+        "text-security",
+        "llm-outputs"
+      ],
+      "topics": [],
+      "rationale": "Opinion piece on why text watermarks are fragile; it's analysis, not a software product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 101
+    },
+    {
+      "id": 3834,
+      "source": "hn",
+      "sourceId": "49286270",
+      "title": "Heart aerospace completes first flight of largest electric aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "owner": "chha",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:24:56+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "electric-aviation",
+        "aircraft",
+        "hardware"
+      ],
+      "topics": [],
+      "rationale": "A hardware aviation milestone, not a software or AI product, and it targets commercial operators.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 120
+    },
+    {
+      "id": 3835,
+      "source": "hn",
+      "sourceId": "49289372",
+      "title": "Compute-optimal is not cluster-optimal",
+      "url": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
+      "owner": "yuxin_tang",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605</a>: Our new paper folds the systems stage into the scaling-law stage. Price every candidate architecture on what the cluster actually delivers, and the answer changes: the sparsity an MoE &#x27;should&#x27; have depends on the cluster you train it on.",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:02+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "scaling-laws",
+        "moe",
+        "cluster-aware",
+        "training"
+      ],
+      "topics": [],
+      "rationale": "Models training tradeoffs using actual cluster constraints, a clear AI infra research/tooling pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 3836,
+      "source": "hn",
+      "sourceId": "49292932",
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "owner": "padolsey",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:08+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "watermarking",
+        "llm",
+        "text",
+        "detection"
+      ],
+      "topics": [],
+      "rationale": "LLM text watermarking is model-output infrastructure for detection and provenance, aimed at builders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 91
+    },
+    {
+      "id": 3837,
+      "source": "hn",
+      "sourceId": "49286073",
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "owner": "pcbmaker20",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:17+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-memory",
+        "mcp",
+        "sqlite-fts",
+        "retrieval"
+      ],
+      "topics": [],
+      "rationale": "Agent memory layer for MCP using local full-text retrieval, filling lightweight persistence for LLM workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 56
+    },
+    {
+      "id": 3838,
+      "source": "hn",
+      "sourceId": "49293984",
+      "title": "S.F.'s top-paid employee made $900K. Here's what every city worker gets paid",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/?taid=6a7db1d2d297630001917f1d&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:23+00:00",
+      "bucket": "data",
+      "audience": "C",
+      "tags": [
+        "salary-database",
+        "public-records",
+        "interactive"
+      ],
+      "topics": [],
+      "rationale": "Interactive public-pay database over city payroll records; a civic data product for readers to explore salaries.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 3839,
+      "source": "hn",
+      "sourceId": "49286357",
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "owner": "omrimaya",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:30+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "container-security",
+        "cve-reduction",
+        "hardened-images"
+      ],
+      "topics": [],
+      "rationale": "Focuses on eliminating CVEs from container images, fitting the secure software supply-chain pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 68
+    },
+    {
+      "id": 3840,
+      "source": "hn",
+      "sourceId": "49285604",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "owner": "andsoitis",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:40+00:00",
+      "bucket": "ai-agent",
+      "audience": "both",
+      "tags": [
+        "agent-trust",
+        "hallucination",
+        "autonomy"
+      ],
+      "topics": [],
+      "rationale": "Focuses on autonomous agents and the trust failures blocking adoption.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 156
+    },
+    {
+      "id": 3841,
+      "source": "hn",
+      "sourceId": "49285718",
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "owner": "dreamforever",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-14T03:25:48+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "search-engine",
+        "makers",
+        "bootstrapped"
+      ],
+      "topics": [],
+      "rationale": "Niche search engine for makers, more a consumer discovery product than dev tool or AI infra.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 138
     }
   ]
 }
