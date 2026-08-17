@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-16T13:26:33.967959+00:00",
+  "generatedAt": "2026-08-17T02:21:32.983456+00:00",
   "totals": {
-    "items": 3933,
+    "items": 3950,
     "byBucket": {
       "data": 105,
-      "ai-agent": 569,
-      "ai-app": 926,
-      "ai-infra": 503,
-      "devtool": 342,
-      "other": 1244,
-      "security": 223,
+      "ai-agent": 571,
+      "ai-app": 929,
+      "ai-infra": 505,
+      "devtool": 343,
+      "other": 1252,
+      "security": 224,
       "web-framework": 21
     },
     "byAudience": {
-      "B": 862,
-      "dev": 1504,
-      "both": 812,
-      "C": 747,
+      "B": 866,
+      "dev": 1511,
+      "both": 815,
+      "C": 750,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 186,
-      "hn": 2021,
+      "hn": 2038,
       "product_hunt": 1726
     }
   },
@@ -387,7 +387,7 @@
       ],
       "rationale": "Packages senior engineering workflows as reusable skills for AI coding agents across the dev lifecycle.",
       "stars": 87392,
-      "stars7dDelta": 2508,
+      "stars7dDelta": 2166,
       "hnPoints": null
     },
     {
@@ -9877,8 +9877,8 @@
         "yc-backed"
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
-      "stars": 46363,
-      "stars7dDelta": 5817,
+      "stars": 46639,
+      "stars7dDelta": 5700,
       "hnPoints": null
     },
     {
@@ -24974,7 +24974,7 @@
       ],
       "rationale": "Reusable skills let developers wire agents into Google Cloud and Gemini products.",
       "stars": 18337,
-      "stars7dDelta": 1320,
+      "stars7dDelta": 1039,
       "hnPoints": null
     },
     {
@@ -30629,8 +30629,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 22120,
-      "stars7dDelta": 3572,
+      "stars": 22266,
+      "stars7dDelta": 3397,
       "hnPoints": null
     },
     {
@@ -40350,7 +40350,7 @@
       ],
       "rationale": "Terminal coding agent optimized for DeepSeek and long-running prefix-cache workflows for developers.",
       "stars": 34512,
-      "stars7dDelta": 1172,
+      "stars7dDelta": 1006,
       "hnPoints": null
     },
     {
@@ -45073,8 +45073,8 @@
         "site-audit"
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
-      "stars": 12135,
-      "stars7dDelta": 1095,
+      "stars": 12220,
+      "stars7dDelta": 1097,
       "hnPoints": null
     },
     {
@@ -48351,7 +48351,7 @@
       ],
       "rationale": "Developer-facing AI gateway aggregates free LLM providers and routing, showing demand for cheaper agent/coding-tool inference.",
       "stars": 46693,
-      "stars7dDelta": 2817,
+      "stars7dDelta": 2337,
       "hnPoints": null
     },
     {
@@ -53722,7 +53722,7 @@
       "topics": [],
       "rationale": "Agent skill that lets Claude fetch, transcribe, and inspect video content as part of workflows.",
       "stars": 15179,
-      "stars7dDelta": 489,
+      "stars7dDelta": 404,
       "hnPoints": null
     },
     {
@@ -54820,7 +54820,7 @@
       ],
       "rationale": "CLI gives AI agents read/edit/render control over Office files without Microsoft Office installed.",
       "stars": 27979,
-      "stars7dDelta": 995,
+      "stars7dDelta": 834,
       "hnPoints": null
     },
     {
@@ -57912,8 +57912,8 @@
         "workflow-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 13155,
-      "stars7dDelta": 2345,
+      "stars": 13419,
+      "stars7dDelta": 2460,
       "hnPoints": null
     },
     {
@@ -59597,8 +59597,8 @@
       ],
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
-      "stars": 25215,
-      "stars7dDelta": 2324,
+      "stars": 25318,
+      "stars7dDelta": 2203,
       "hnPoints": null
     },
     {
@@ -65026,8 +65026,8 @@
         "tree-sitter"
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
-      "stars": 30312,
-      "stars7dDelta": 786,
+      "stars": 30359,
+      "stars7dDelta": 763,
       "hnPoints": null
     },
     {
@@ -69094,8 +69094,8 @@
       ],
       "topics": [],
       "rationale": "A local browser UI for a coding agent, packaged as a usable developer product rather than core infra.",
-      "stars": 4352,
-      "stars7dDelta": 530,
+      "stars": 4435,
+      "stars7dDelta": 563,
       "hnPoints": null
     },
     {
@@ -76325,7 +76325,7 @@
       "topics": [],
       "rationale": "Educational design-engineering guidance, not an AI product or tool; useful for developers building better interfaces.",
       "stars": 27551,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -76864,8 +76864,8 @@
       ],
       "topics": [],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 22048,
-      "stars7dDelta": 2822,
+      "stars": 22246,
+      "stars7dDelta": 2747,
       "hnPoints": null
     },
     {
@@ -80833,8 +80833,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 25600,
-      "stars7dDelta": 3432,
+      "stars": 25724,
+      "stars7dDelta": 3069,
       "hnPoints": null
     },
     {
@@ -88031,8 +88031,8 @@
       ],
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
-      "stars": 16443,
-      "stars7dDelta": 6380,
+      "stars": 16601,
+      "stars7dDelta": 5153,
       "hnPoints": null
     },
     {
@@ -88057,7 +88057,7 @@
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
       "stars": 2180,
-      "stars7dDelta": 163,
+      "stars7dDelta": 113,
       "hnPoints": null
     },
     {
@@ -89543,7 +89543,7 @@
       "topics": [],
       "rationale": "Benchmark and harness for testing legal agents, so it's infra for agent evaluation rather than an end-user app.",
       "stars": 1102,
-      "stars7dDelta": 397,
+      "stars7dDelta": 238,
       "hnPoints": null
     },
     {
@@ -90511,8 +90511,8 @@
       ],
       "topics": [],
       "rationale": "Workplace dashboard for coordinating teams of AI agents with goals, budgets, governance, and cost tracking.",
-      "stars": 78408,
-      "stars7dDelta": 2176,
+      "stars": 78532,
+      "stars7dDelta": 2300,
       "hnPoints": null
     },
     {
@@ -92592,8 +92592,8 @@
       ],
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
-      "stars": 1619,
-      "stars7dDelta": 971,
+      "stars": 1700,
+      "stars7dDelta": 1052,
       "hnPoints": null
     },
     {
@@ -92623,8 +92623,8 @@
         "on-device-ai"
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
-      "stars": 6308,
-      "stars7dDelta": 2363,
+      "stars": 6637,
+      "stars7dDelta": 2692,
       "hnPoints": null
     },
     {
@@ -92647,8 +92647,8 @@
       ],
       "topics": [],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 19183,
-      "stars7dDelta": 10556,
+      "stars": 19626,
+      "stars7dDelta": 10999,
       "hnPoints": null
     },
     {
@@ -95954,7 +95954,7 @@
       "rationale": "A usable LLM conversation interface that turns chat context into an editable graph for better steering and reuse.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 124
+      "hnPoints": 132
     },
     {
       "id": 3880,
@@ -96028,7 +96028,7 @@
       "rationale": "A conceptual essay about managing AI work, not a software product or infrastructure project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 306
+      "hnPoints": 322
     },
     {
       "id": 3883,
@@ -96100,7 +96100,7 @@
       "rationale": "This is a discussion about HN consumption habits, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 81
+      "hnPoints": 83
     },
     {
       "id": 3886,
@@ -96124,7 +96124,7 @@
       "rationale": "It's a prompt-injection attack against an AI-using legal workflow, not a user-facing product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 55
+      "hnPoints": 78
     },
     {
       "id": 3887,
@@ -96488,13 +96488,13 @@
       "rationale": "Industry analysis of AI drug discovery progress, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 153
+      "hnPoints": 180
     },
     {
       "id": 3902,
       "source": "hn",
       "sourceId": "49312845",
-      "title": "AI has access to a vastly larger working memory than the human brain",
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "owner": "rzk",
       "language": null,
@@ -96512,7 +96512,7 @@
       "rationale": "A blog essay about AI cognition, not a software project or product; useful as market context rather than tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 526
+      "hnPoints": 596
     },
     {
       "id": 3903,
@@ -96586,7 +96586,7 @@
       "rationale": "A developer-oriented opinion essay rather than a software project or AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 114
+      "hnPoints": 121
     },
     {
       "id": 3906,
@@ -96635,7 +96635,7 @@
       "rationale": "A health news article, not a software project or AI-agent-era startup tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 181
+      "hnPoints": 191
     },
     {
       "id": 3908,
@@ -96781,7 +96781,7 @@
       "rationale": "Appears to be commentary or an article about Cloudflare and AI, not a distinct software product or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 110
+      "hnPoints": 115
     },
     {
       "id": 3914,
@@ -96878,7 +96878,7 @@
       "rationale": "Docs for controlling Claude behavior via system prompts; a core LLM plumbing concern for app builders.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 3
+      "hnPoints": 553
     },
     {
       "id": 3918,
@@ -96926,7 +96926,7 @@
       "rationale": "Research on multi-agent LLM behavior and coordination patterns, pointing to core agent-system design gaps.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 141
+      "hnPoints": 180
     },
     {
       "id": 3920,
@@ -96950,7 +96950,7 @@
       "rationale": "It's a quirky Google Scholar query, not really a software product or startup tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 27
+      "hnPoints": 363
     },
     {
       "id": 3921,
@@ -96974,7 +96974,7 @@
       "rationale": "Experimental LLM demo about grade-limited training, not a clear product or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 180
+      "hnPoints": 236
     },
     {
       "id": 3922,
@@ -97119,7 +97119,7 @@
       "rationale": "It reads as an informational essay on brain building, not a software product or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 84
+      "hnPoints": 85
     },
     {
       "id": 3928,
@@ -97264,6 +97264,416 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 3934,
+      "source": "hn",
+      "sourceId": "49325384",
+      "title": "Rhombus 1.1 is now available",
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "owner": "spdegabrielle",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:09+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "programming-language",
+        "racket",
+        "syntax"
+      ],
+      "topics": [],
+      "rationale": "Rhombus is a developer-facing programming language update, not an end-user app or infra service.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 3935,
+      "source": "hn",
+      "sourceId": "49320611",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "owner": "mlenhard",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:18+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "token-brokers",
+        "credit-resale",
+        "llm-credits"
+      ],
+      "topics": [],
+      "rationale": "It’s an analysis of AI token brokerage and arbitrage, not a product; mostly a B2B market/ops pattern.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 229
+    },
+    {
+      "id": 3936,
+      "source": "hn",
+      "sourceId": "49322330",
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "owner": "homarp",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:27+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "math",
+        "llm",
+        "autonomous"
+      ],
+      "topics": [],
+      "rationale": "An autonomous LLM agent for math-oriented coding tasks, fitting the agent bucket more than a packaged app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 64
+    },
+    {
+      "id": 3937,
+      "source": "hn",
+      "sourceId": "49323686",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "owner": "root-parent",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:34+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "datacenter",
+        "openai",
+        "financing",
+        "inference"
+      ],
+      "topics": [],
+      "rationale": "It’s about funding AI compute infrastructure, not a user-facing app or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 110
+    },
+    {
+      "id": 3938,
+      "source": "hn",
+      "sourceId": "49323381",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "owner": "zacharyozer",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:40+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-router",
+        "llm-api",
+        "multi-model"
+      ],
+      "topics": [],
+      "rationale": "LLM routing API for developers; infrastructure layer for multi-model access and model switching.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 209
+    },
+    {
+      "id": 3939,
+      "source": "hn",
+      "sourceId": "49322107",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "owner": "stagas",
+      "language": null,
+      "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and <i>then</i> disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of th",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:47+00:00",
+      "bucket": "security",
+      "audience": "B",
+      "tags": [
+        "cloudflare",
+        "analytics",
+        "js-injection"
+      ],
+      "topics": [],
+      "rationale": "Cloudflare's auto-injected analytics snippet is a privacy/security concern for business-hosted sites.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 296
+    },
+    {
+      "id": 3940,
+      "source": "hn",
+      "sourceId": "49323136",
+      "title": "Red queen hypothesis – a new way forward for self-improving AI",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "owner": "hardlianotion",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:19:54+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "self-improving",
+        "autonomy",
+        "research"
+      ],
+      "topics": [],
+      "rationale": "Research on self-improving AI systems, closer to agentic autonomy than an end-user product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 3941,
+      "source": "hn",
+      "sourceId": "49279624",
+      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
+      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+      "owner": "samclemens",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:03+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "historical-maps",
+        "fire-records",
+        "archives"
+      ],
+      "topics": [],
+      "rationale": "A digitized archival map collection, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 3942,
+      "source": "hn",
+      "sourceId": "49280186",
+      "title": "The deep history behind the Road to Nowhere inside the Great Smoky Mountains",
+      "url": "https://www.wunc.org/environment/2026-08-10/road-to-nowhere-great-smoky-mountains",
+      "owner": "yareally",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:09+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "history",
+        "environment",
+        "great-smokies"
+      ],
+      "topics": [],
+      "rationale": "A public-interest history/environment article, not a software project or AI-era startup signal.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 3943,
+      "source": "hn",
+      "sourceId": "49324087",
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "owner": "ropbear",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:15+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "claude",
+        "watermarking",
+        "text-editing"
+      ],
+      "topics": [],
+      "rationale": "A Claude product feature affecting generated text, shipped to end users rather than infra or dev tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 150
+    },
+    {
+      "id": 3944,
+      "source": "hn",
+      "sourceId": "49323459",
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "owner": "ghuntley",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:24+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "formal-verification",
+        "essay",
+        "research"
+      ],
+      "topics": [],
+      "rationale": "A research essay on software verification, not a shipped product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 82
+    },
+    {
+      "id": 3945,
+      "source": "hn",
+      "sourceId": "49325445",
+      "title": "Show HN: Continuum – Financial simulations for DIY multimillionaires",
+      "url": "https://continuum-app.xyz/",
+      "owner": "charleswcho",
+      "language": null,
+      "description": "Hey HN, I&#x27;m Charles, the solo founder of Continuum (<a href=\"https:&#x2F;&#x2F;continuum-app.xyz&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;continuum-app.xyz&#x2F;</a>).<p>Continuum is a financial planning web app for people with 1-15M. It helps you create simulations of job offers, house purchases, and life events. Its goal is to replace human advisors that cost thousands, or even worse, take AUM fees of 1%.<p>The MVP includes AI voice onboarding, scenario and mural creation, and 4 modules. T",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:29+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "financial-planning",
+        "scenario-simulation",
+        "voice-onboarding"
+      ],
+      "topics": [],
+      "rationale": "Consumer wealth-planning app uses AI onboarding on top of a deterministic simulation engine.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 3946,
+      "source": "hn",
+      "sourceId": "49324572",
+      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "owner": "wertyk",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:35+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "anthropic",
+        "cancer",
+        "ai-policy"
+      ],
+      "topics": [],
+      "rationale": "News/opinion about AI's societal promise, not a software product or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 3947,
+      "source": "hn",
+      "sourceId": "49318735",
+      "title": "AI Coding Without the Vibes",
+      "url": "https://peterbloem.nl/blog/craft-coding",
+      "owner": "riskone",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:43+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-coding",
+        "workflow",
+        "craft"
+      ],
+      "topics": [],
+      "rationale": "A blog post about disciplined AI-assisted coding, not a distinct product or infra layer.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 77
+    },
+    {
+      "id": 3948,
+      "source": "hn",
+      "sourceId": "49318906",
+      "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+      "url": "https://news.ycombinator.com/item?id=49318906",
+      "owner": "antipurist",
+      "language": null,
+      "description": "This is intended as a question about the current phase of the LLM hype cycle, and, at the same time, as a reality check about whether reluctance to rely on LLMs is economically viable for an average developer.<p>You&#x27;ve definitely seen that many companies progressed from &quot;use LLMs for anything and everything&quot; policies to limiting budgets and scopes of approved LLM usage. It wouldn&#x27;t be unexpected to see that some companies might decide that generating more code faster doesn&#x",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:20:57+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "llm-code",
+        "hand-written",
+        "hype-cycle"
+      ],
+      "topics": [],
+      "rationale": "HN discussion on whether firms are reverting from LLM coding to manual authoring as a cost/quality reality check.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 93
+    },
+    {
+      "id": 3949,
+      "source": "hn",
+      "sourceId": "49323932",
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "owner": "healsdata",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:21:03+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-ceo",
+        "poll",
+        "sentiment"
+      ],
+      "topics": [],
+      "rationale": "This is an opinion poll about AI leadership, not a software product or platform.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 92
+    },
+    {
+      "id": 3950,
+      "source": "hn",
+      "sourceId": "49313477",
+      "title": "Israeli PR wants to answer your ChatGPT questions",
+      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
+      "owner": "computerliker",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-17T02:21:10+00:00",
+      "bucket": "ai-app",
+      "audience": "B",
+      "tags": [
+        "llm-seo",
+        "brand-monitoring",
+        "pr"
+      ],
+      "topics": [],
+      "rationale": "Business-facing service aimed at shaping how ChatGPT answers brand questions, more product than infra.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 75
     }
   ]
 }
