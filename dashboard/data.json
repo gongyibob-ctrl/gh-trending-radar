@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-23T02:24:22.789898+00:00",
+  "generatedAt": "2026-08-23T13:26:20.862911+00:00",
   "totals": {
-    "items": 4196,
+    "items": 4213,
     "byBucket": {
       "data": 115,
-      "ai-agent": 613,
-      "ai-app": 977,
+      "ai-agent": 614,
+      "ai-app": 978,
       "ai-infra": 541,
-      "devtool": 368,
-      "other": 1328,
+      "devtool": 371,
+      "other": 1340,
       "security": 233,
       "web-framework": 21
     },
     "byAudience": {
-      "B": 912,
-      "dev": 1608,
-      "both": 869,
-      "C": 799,
+      "B": 913,
+      "dev": 1613,
+      "both": 871,
+      "C": 808,
       "?": 7,
       "other": 1
     },
     "bySource": {
-      "github_trending": 193,
-      "hn": 2158,
-      "product_hunt": 1845
+      "github_trending": 195,
+      "hn": 2160,
+      "product_hunt": 1858
     }
   },
   "items": [
@@ -9878,7 +9878,7 @@
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
       "stars": 49170,
-      "stars7dDelta": 2807,
+      "stars7dDelta": 2531,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 23853,
-      "stars7dDelta": 1733,
+      "stars": 23947,
+      "stars7dDelta": 1681,
       "hnPoints": null
     },
     {
@@ -45078,7 +45078,7 @@
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
       "stars": 12968,
-      "stars7dDelta": 833,
+      "stars7dDelta": 748,
       "hnPoints": null
     },
     {
@@ -57917,7 +57917,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 13419,
-      "stars7dDelta": 264,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -59602,7 +59602,7 @@
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
       "stars": 25573,
-      "stars7dDelta": 358,
+      "stars7dDelta": 255,
       "hnPoints": null
     },
     {
@@ -65031,7 +65031,7 @@
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
       "stars": 30451,
-      "stars7dDelta": 139,
+      "stars7dDelta": 92,
       "hnPoints": null
     },
     {
@@ -68355,8 +68355,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 23253,
-      "stars7dDelta": 1978,
+      "stars": 23364,
+      "stars7dDelta": 2089,
       "hnPoints": null
     },
     {
@@ -69099,7 +69099,7 @@
       "topics": [],
       "rationale": "A local browser UI for a coding agent, packaged as a usable developer product rather than core infra.",
       "stars": 4619,
-      "stars7dDelta": 267,
+      "stars7dDelta": 184,
       "hnPoints": null
     },
     {
@@ -70810,8 +70810,8 @@
       ],
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
-      "stars": 29792,
-      "stars7dDelta": 1110,
+      "stars": 29910,
+      "stars7dDelta": 1228,
       "hnPoints": null
     },
     {
@@ -70846,8 +70846,8 @@
         "skills-sh"
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
-      "stars": 12768,
-      "stars7dDelta": 616,
+      "stars": 12852,
+      "stars7dDelta": 700,
       "hnPoints": null
     },
     {
@@ -76882,8 +76882,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 24200,
-      "stars7dDelta": 2152,
+      "stars": 24352,
+      "stars7dDelta": 2106,
       "hnPoints": null
     },
     {
@@ -80851,8 +80851,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 27431,
-      "stars7dDelta": 1831,
+      "stars": 27563,
+      "stars7dDelta": 1839,
       "hnPoints": null
     },
     {
@@ -88050,7 +88050,7 @@
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
       "stars": 17322,
-      "stars7dDelta": 879,
+      "stars7dDelta": 721,
       "hnPoints": null
     },
     {
@@ -90530,7 +90530,7 @@
       "topics": [],
       "rationale": "Workplace dashboard for coordinating teams of AI agents with goals, budgets, governance, and cost tracking.",
       "stars": 78532,
-      "stars7dDelta": 124,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -92611,7 +92611,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2225,
-      "stars7dDelta": 606,
+      "stars7dDelta": 525,
       "hnPoints": null
     },
     {
@@ -92641,8 +92641,8 @@
         "on-device-ai"
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
-      "stars": 8593,
-      "stars7dDelta": 2285,
+      "stars": 8676,
+      "stars7dDelta": 2039,
       "hnPoints": null
     },
     {
@@ -92675,7 +92675,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 25500,
-      "stars7dDelta": 6317,
+      "stars7dDelta": 5874,
       "hnPoints": null
     },
     {
@@ -96831,8 +96831,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 4096,
-      "stars7dDelta": 2532,
+      "stars": 4179,
+      "stars7dDelta": 2046,
       "hnPoints": null
     },
     {
@@ -100919,8 +100919,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 13992,
-      "stars7dDelta": 2798,
+      "stars": 14448,
+      "stars7dDelta": 3254,
       "hnPoints": null
     },
     {
@@ -101868,7 +101868,7 @@
       "rationale": "Medical research news, not a software project; may inform health/biotech ideas but lacks a deployable product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 137
+      "hnPoints": 142
     },
     {
       "id": 4122,
@@ -102700,6 +102700,7 @@
         "desktop",
         "electron",
         "event-sourcing",
+        "incubator",
         "llm",
         "local-first",
         "maka",
@@ -102707,8 +102708,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 2035,
-      "stars7dDelta": 0,
+      "stars": 2201,
+      "stars7dDelta": 166,
       "hnPoints": null
     },
     {
@@ -102807,7 +102808,7 @@
       "rationale": "User-facing prompt tweak that changes Claude's style, not core infra or dev tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 347
+      "hnPoints": 352
     },
     {
       "id": 4160,
@@ -102929,7 +102930,7 @@
       "rationale": "Codex is a multi-step coding agent for developers, compared here against Claude-style assistants.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 134
+      "hnPoints": 217
     },
     {
       "id": 4165,
@@ -102953,7 +102954,7 @@
       "rationale": "A historical essay for general readers, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 120
+      "hnPoints": 129
     },
     {
       "id": 4166,
@@ -102977,7 +102978,7 @@
       "rationale": "Health news/research item, not a software project; relevant to airline employers and crew/consumers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 95
+      "hnPoints": 99
     },
     {
       "id": 4167,
@@ -103071,7 +103072,7 @@
       "rationale": "Harness for coordinating multiple AI clones, fitting the emerging multi-agent office/workforce pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 254
+      "hnPoints": 290
     },
     {
       "id": 4170,
@@ -103096,7 +103097,7 @@
       "rationale": "News on Meta’s alleged child privacy strategy, not a software project; relevant to consumer privacy and platform regulation.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 203
+      "hnPoints": 213
     },
     {
       "id": 4171,
@@ -103509,7 +103510,7 @@
       "rationale": "Research benchmark around speeding up NanoGPT training, pointing to demand for cheaper/faster model training infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 51
+      "hnPoints": 116
     },
     {
       "id": 4188,
@@ -103533,7 +103534,7 @@
       "rationale": "Discusses why local model inference underperforms, pointing to tuning and runtime gaps for self-hosted LLM users.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 193
+      "hnPoints": 394
     },
     {
       "id": 4189,
@@ -103557,7 +103558,7 @@
       "rationale": "AI-powered hacking attempt puts it in security, centered on abuse detection rather than a shipped product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 181
     },
     {
       "id": 4190,
@@ -103581,7 +103582,7 @@
       "rationale": "MCP is a developer protocol layer for connecting models to tools, fitting AI infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 174
+      "hnPoints": 230
     },
     {
       "id": 4191,
@@ -103605,7 +103606,7 @@
       "rationale": "Browser utility for adding HDR gain-maps to logos, a niche image-format trick for branding visibility.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 52
+      "hnPoints": 62
     },
     {
       "id": 4192,
@@ -103629,7 +103630,7 @@
       "rationale": "Claude Code is a developer-facing coding agent, with effort-level tuning signaling UX/cost controls for agentic IDE workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 165
+      "hnPoints": 196
     },
     {
       "id": 4193,
@@ -103726,7 +103727,434 @@
       "rationale": "A model API offering and pricing change, fitting developer-facing inference infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 87
+      "hnPoints": 90
+    },
+    {
+      "id": 4197,
+      "source": "github_trending",
+      "sourceId": "anthropics/claude-plugins-community",
+      "title": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "owner": "anthropics",
+      "language": "Python",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "createdAt": "2026-03-20T02:20:30Z",
+      "firstSeenAt": "2026-08-23T13:23:45+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "plugin-marketplace",
+        "claude-code",
+        "read-only"
+      ],
+      "topics": [],
+      "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
+      "stars": 725,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 4198,
+      "source": "github_trending",
+      "sourceId": "freestylefly/awesome-gpt-image-2",
+      "title": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "owner": "freestylefly",
+      "language": "JavaScript",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "createdAt": "2026-04-25T09:19:13Z",
+      "firstSeenAt": "2026-08-23T13:24:02+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "image-generation",
+        "prompt-library",
+        "gpt-image-2",
+        "prompt-engineering"
+      ],
+      "topics": [
+        "agents",
+        "ai-image-generation",
+        "chatgpt",
+        "dsh-plugin",
+        "gpt-image-2",
+        "image-prompts",
+        "prompt-as-code",
+        "prompt-engineering",
+        "skills",
+        "workflow-automation"
+      ],
+      "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
+      "stars": 12445,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 4199,
+      "source": "hn",
+      "sourceId": "49406751",
+      "title": "Steve French (SMB3/CIFSFS Linux kernel maintainer) has died",
+      "url": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
+      "owner": "starkparker",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:24:25+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "linux-kernel",
+        "smb3",
+        "cifs",
+        "maintainer"
+      ],
+      "topics": [],
+      "rationale": "News about a Linux filesystem maintainer transition, not a software product or startup opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 27
+    },
+    {
+      "id": 4200,
+      "source": "hn",
+      "sourceId": "49407944",
+      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+      "owner": "Anon84",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:24:33+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-engineering",
+        "skills-map",
+        "education"
+      ],
+      "topics": [],
+      "rationale": "A learning roadmap for developers building AI apps, not a software tool or deployable AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 4201,
+      "source": "product_hunt",
+      "sourceId": "1224087",
+      "title": "Tab Notes",
+      "url": "https://www.producthunt.com/products/tab-notes",
+      "owner": null,
+      "language": null,
+      "description": "Turn your browser new tab into a distraction-free notepad Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:24:45+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "new-tab",
+        "notepad",
+        "productivity"
+      ],
+      "topics": [],
+      "rationale": "A consumer browser notepad that replaces the new tab page, focused on simple distraction-free notes.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4202,
+      "source": "product_hunt",
+      "sourceId": "1224596",
+      "title": "Yattayo",
+      "url": "https://www.producthunt.com/products/yattayo",
+      "owner": null,
+      "language": null,
+      "description": "A physical slider to-do board, faithfully rebuilt in 3D Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:24:51+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "todo",
+        "3d",
+        "productivity",
+        "kanban"
+      ],
+      "topics": [],
+      "rationale": "Consumer productivity app that recreates a tactile to-do board in 3D, not a dev, data, or AI tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4203,
+      "source": "product_hunt",
+      "sourceId": "1207124",
+      "title": "Flown",
+      "url": "https://www.producthunt.com/products/flown",
+      "owner": null,
+      "language": null,
+      "description": "Every flight you've ever taken, on one private map Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:00+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "travel-map",
+        "flight-history",
+        "private"
+      ],
+      "topics": [],
+      "rationale": "A consumer travel tracker that visualizes your flight history on a private map, not an AI or dev product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4204,
+      "source": "product_hunt",
+      "sourceId": "1186033",
+      "title": "Construct Computer",
+      "url": "https://www.producthunt.com/products/construct-computer",
+      "owner": null,
+      "language": null,
+      "description": "Your AI coworker gets a computer. You get your day back. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:05+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "computer-use",
+        "browser-agent",
+        "ai-coworker"
+      ],
+      "topics": [],
+      "rationale": "AI coworker that uses a computer to automate multi-step work, fitting the browser/computer-agent category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4205,
+      "source": "product_hunt",
+      "sourceId": "1226244",
+      "title": "Plask",
+      "url": "https://www.producthunt.com/products/plask-3",
+      "owner": null,
+      "language": null,
+      "description": "Have little ducks show how deep you dive on your Apple Watch Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:12+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "apple-watch",
+        "diving",
+        "wearable"
+      ],
+      "topics": [],
+      "rationale": "Consumer Apple Watch app visualizing dive depth with playful ducks, not an AI or dev-focused tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4206,
+      "source": "product_hunt",
+      "sourceId": "1228104",
+      "title": "Claude Academy",
+      "url": "https://www.producthunt.com/products/claude-academy",
+      "owner": null,
+      "language": null,
+      "description": "The Official Learning Hub by Anthropic Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:18+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-education",
+        "claude",
+        "prompting"
+      ],
+      "topics": [],
+      "rationale": "Official Claude learning content signals demand for onboarding and skill-building around AI tools.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4207,
+      "source": "product_hunt",
+      "sourceId": "1227238",
+      "title": "Yatko",
+      "url": "https://www.producthunt.com/products/yatko",
+      "owner": null,
+      "language": null,
+      "description": "The download button Github forgot to add Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:24+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "github",
+        "download",
+        "repository",
+        "utility"
+      ],
+      "topics": [],
+      "rationale": "A small GitHub utility adding missing download workflows for developers grabbing repo assets or folders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4208,
+      "source": "product_hunt",
+      "sourceId": "1229381",
+      "title": "OpenLogi",
+      "url": "https://www.producthunt.com/products/openlogi",
+      "owner": null,
+      "language": null,
+      "description": "A local-first alternative to Logitech Options+ Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:29+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "logitech",
+        "local-first",
+        "device-config",
+        "desktop-utility"
+      ],
+      "topics": [],
+      "rationale": "A consumer desktop utility replacing Logitech Options+ with local-first peripheral configuration.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4209,
+      "source": "product_hunt",
+      "sourceId": "1227963",
+      "title": "KanaSensei",
+      "url": "https://www.producthunt.com/products/kanasensei",
+      "owner": null,
+      "language": null,
+      "description": "Read Japanese kana in two weeks Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:33+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "japanese",
+        "kana",
+        "language-learning"
+      ],
+      "topics": [],
+      "rationale": "Consumer study app for learning Japanese kana, not clearly AI, devtool, data, or infra.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4210,
+      "source": "product_hunt",
+      "sourceId": "1209530",
+      "title": "Local Music Organizer for Mac",
+      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
+      "owner": null,
+      "language": null,
+      "description": "Ultimate toolkit for local Apple Music library maintenance Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:40+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "macos",
+        "apple-music",
+        "music-library",
+        "organizer"
+      ],
+      "topics": [],
+      "rationale": "Consumer Mac utility for maintaining local Apple Music libraries, not an AI or developer infrastructure product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4211,
+      "source": "product_hunt",
+      "sourceId": "1195105",
+      "title": "ANCBuddy for Bose QC Ultra",
+      "url": "https://www.producthunt.com/products/ancbuddy-for-bose-qc-ultra",
+      "owner": null,
+      "language": null,
+      "description": "Control Bose QC Ultra from your macOS menu bar Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:45+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "macos",
+        "menu-bar",
+        "bose",
+        "headphones"
+      ],
+      "topics": [],
+      "rationale": "Consumer macOS utility for controlling Bose QC Ultra settings from the menu bar; not AI or dev-focused.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4212,
+      "source": "product_hunt",
+      "sourceId": "1223147",
+      "title": "FetchSandbox MCP",
+      "url": "https://www.producthunt.com/products/fetchsandbox",
+      "owner": null,
+      "language": null,
+      "description": "The MCP that proves your AI's integration fixes work Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:25:50+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "mcp",
+        "sandbox",
+        "integration",
+        "testing"
+      ],
+      "topics": [],
+      "rationale": "MCP-based dev tool for verifying AI integration fixes, aimed at engineers testing systems rather than end users.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4213,
+      "source": "product_hunt",
+      "sourceId": "1217834",
+      "title": "Aximote",
+      "url": "https://www.producthunt.com/products/aximote",
+      "owner": null,
+      "language": null,
+      "description": "Your car data, finally in your pocket Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-23T13:26:00+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "car-data",
+        "mobile-app",
+        "vehicle-logs"
+      ],
+      "topics": [],
+      "rationale": "Consumer car-data app; no clear AI, infra, or devtool angle, just a personal vehicle data product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
     }
   ]
 }
