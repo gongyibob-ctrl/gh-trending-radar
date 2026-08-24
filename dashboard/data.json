@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-23T13:26:20.862911+00:00",
+  "generatedAt": "2026-08-24T02:24:58.540397+00:00",
   "totals": {
-    "items": 4213,
+    "items": 4232,
     "byBucket": {
       "data": 115,
-      "ai-agent": 614,
-      "ai-app": 978,
-      "ai-infra": 541,
-      "devtool": 371,
-      "other": 1340,
+      "ai-agent": 615,
+      "ai-app": 981,
+      "ai-infra": 546,
+      "devtool": 372,
+      "other": 1349,
       "security": 233,
       "web-framework": 21
     },
     "byAudience": {
-      "B": 913,
-      "dev": 1613,
-      "both": 871,
-      "C": 808,
+      "B": 916,
+      "dev": 1623,
+      "both": 872,
+      "C": 813,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 195,
-      "hn": 2160,
+      "hn": 2179,
       "product_hunt": 1858
     }
   },
@@ -9878,7 +9878,7 @@
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
       "stars": 49170,
-      "stars7dDelta": 2531,
+      "stars7dDelta": 2070,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 23947,
-      "stars7dDelta": 1681,
+      "stars": 24047,
+      "stars7dDelta": 1530,
       "hnPoints": null
     },
     {
@@ -45078,7 +45078,7 @@
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
       "stars": 12968,
-      "stars7dDelta": 748,
+      "stars7dDelta": 653,
       "hnPoints": null
     },
     {
@@ -57917,7 +57917,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 13419,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -59602,7 +59602,7 @@
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
       "stars": 25573,
-      "stars7dDelta": 255,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -65031,7 +65031,7 @@
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
       "stars": 30451,
-      "stars7dDelta": 92,
+      "stars7dDelta": 39,
       "hnPoints": null
     },
     {
@@ -68355,8 +68355,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 23364,
-      "stars7dDelta": 2089,
+      "stars": 23501,
+      "stars7dDelta": 2226,
       "hnPoints": null
     },
     {
@@ -69099,7 +69099,7 @@
       "topics": [],
       "rationale": "A local browser UI for a coding agent, packaged as a usable developer product rather than core infra.",
       "stars": 4619,
-      "stars7dDelta": 184,
+      "stars7dDelta": 52,
       "hnPoints": null
     },
     {
@@ -70810,8 +70810,8 @@
       ],
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
-      "stars": 29910,
-      "stars7dDelta": 1228,
+      "stars": 30147,
+      "stars7dDelta": 1465,
       "hnPoints": null
     },
     {
@@ -70846,8 +70846,8 @@
         "skills-sh"
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
-      "stars": 12852,
-      "stars7dDelta": 700,
+      "stars": 12994,
+      "stars7dDelta": 842,
       "hnPoints": null
     },
     {
@@ -76882,8 +76882,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 24352,
-      "stars7dDelta": 2106,
+      "stars": 24712,
+      "stars7dDelta": 2269,
       "hnPoints": null
     },
     {
@@ -80851,8 +80851,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 27563,
-      "stars7dDelta": 1839,
+      "stars": 27956,
+      "stars7dDelta": 2034,
       "hnPoints": null
     },
     {
@@ -88050,7 +88050,7 @@
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
       "stars": 17322,
-      "stars7dDelta": 721,
+      "stars7dDelta": 528,
       "hnPoints": null
     },
     {
@@ -90530,7 +90530,7 @@
       "topics": [],
       "rationale": "Workplace dashboard for coordinating teams of AI agents with goals, budgets, governance, and cost tracking.",
       "stars": 78532,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -92611,7 +92611,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2225,
-      "stars7dDelta": 525,
+      "stars7dDelta": 286,
       "hnPoints": null
     },
     {
@@ -92641,8 +92641,8 @@
         "on-device-ai"
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
-      "stars": 8676,
-      "stars7dDelta": 2039,
+      "stars": 8761,
+      "stars7dDelta": 1754,
       "hnPoints": null
     },
     {
@@ -92675,7 +92675,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 25500,
-      "stars7dDelta": 5874,
+      "stars7dDelta": 5248,
       "hnPoints": null
     },
     {
@@ -100919,8 +100919,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 14448,
-      "stars7dDelta": 3254,
+      "stars": 15017,
+      "stars7dDelta": 3823,
       "hnPoints": null
     },
     {
@@ -102708,8 +102708,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 2201,
-      "stars7dDelta": 166,
+      "stars": 2379,
+      "stars7dDelta": 344,
       "hnPoints": null
     },
     {
@@ -103072,7 +103072,7 @@
       "rationale": "Harness for coordinating multiple AI clones, fitting the emerging multi-agent office/workforce pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 290
+      "hnPoints": 303
     },
     {
       "id": 4170,
@@ -103097,7 +103097,7 @@
       "rationale": "News on Meta’s alleged child privacy strategy, not a software project; relevant to consumer privacy and platform regulation.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 213
+      "hnPoints": 218
     },
     {
       "id": 4171,
@@ -103510,7 +103510,7 @@
       "rationale": "Research benchmark around speeding up NanoGPT training, pointing to demand for cheaper/faster model training infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 116
+      "hnPoints": 136
     },
     {
       "id": 4188,
@@ -103534,7 +103534,7 @@
       "rationale": "Discusses why local model inference underperforms, pointing to tuning and runtime gaps for self-hosted LLM users.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 394
+      "hnPoints": 475
     },
     {
       "id": 4189,
@@ -103582,7 +103582,7 @@
       "rationale": "MCP is a developer protocol layer for connecting models to tools, fitting AI infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 230
+      "hnPoints": 265
     },
     {
       "id": 4191,
@@ -103606,7 +103606,7 @@
       "rationale": "Browser utility for adding HDR gain-maps to logos, a niche image-format trick for branding visibility.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 62
+      "hnPoints": 71
     },
     {
       "id": 4192,
@@ -103630,7 +103630,7 @@
       "rationale": "Claude Code is a developer-facing coding agent, with effort-level tuning signaling UX/cost controls for agentic IDE workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 196
+      "hnPoints": 205
     },
     {
       "id": 4193,
@@ -103727,7 +103727,7 @@
       "rationale": "A model API offering and pricing change, fitting developer-facing inference infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 90
+      "hnPoints": 91
     },
     {
       "id": 4197,
@@ -103749,8 +103749,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 725,
-      "stars7dDelta": 0,
+      "stars": 996,
+      "stars7dDelta": 271,
       "hnPoints": null
     },
     {
@@ -103785,8 +103785,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 12445,
-      "stars7dDelta": 0,
+      "stars": 12948,
+      "stars7dDelta": 503,
       "hnPoints": null
     },
     {
@@ -104155,6 +104155,465 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4214,
+      "source": "hn",
+      "sourceId": "49411102",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "owner": "naves",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:21:54+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "claude",
+        "llm",
+        "pricing",
+        "adoption"
+      ],
+      "topics": [],
+      "rationale": "Claude is a user-facing AI product, and the story is about adoption lagging despite strong model quality.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 244
+    },
+    {
+      "id": 4215,
+      "source": "hn",
+      "sourceId": "49411717",
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "owner": "el1s7",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:08+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "google-workspace",
+        "domain-check",
+        "email-dns"
+      ],
+      "topics": [],
+      "rationale": "A Google Workspace admin/domain classification issue, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 189
+    },
+    {
+      "id": 4216,
+      "source": "hn",
+      "sourceId": "49410932",
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "owner": "ibobev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:16+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "agent-md",
+        "coding-agents",
+        "llm-instructions",
+        "code-quality"
+      ],
+      "topics": [],
+      "rationale": "A developer-facing coding-agent instruction template for improving LLM-generated code quality.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 175
+    },
+    {
+      "id": 4217,
+      "source": "hn",
+      "sourceId": "49409473",
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "owner": "shortcrct",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:22+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "systems-thinking",
+        "reliability",
+        "sre"
+      ],
+      "topics": [],
+      "rationale": "A classic reliability essay, not a software product; useful for engineers thinking about failure modes.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 245
+    },
+    {
+      "id": 4218,
+      "source": "hn",
+      "sourceId": "49412909",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "owner": "porridgeraisin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:29+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "gpt-2",
+        "cmake",
+        "model-implementation"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused GPT-2 implementation in CMake, reflecting niche experimentation around model runtime internals.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 36
+    },
+    {
+      "id": 4219,
+      "source": "hn",
+      "sourceId": "49411020",
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "owner": "bookofjoe",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:36+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "blog-post",
+        "explainers",
+        "education"
+      ],
+      "topics": [],
+      "rationale": "A general-audience article, not a software project or AI-agent opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 84
+    },
+    {
+      "id": 4220,
+      "source": "hn",
+      "sourceId": "49412328",
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "owner": "simonebrunozzi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:42+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "digital-nomads",
+        "remote-work",
+        "travel"
+      ],
+      "topics": [],
+      "rationale": "Travel/lifestyle story about a village attracting remote workers, not a software project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 31
+    },
+    {
+      "id": 4221,
+      "source": "hn",
+      "sourceId": "49405657",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "owner": "Finbarr",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:47+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-hardware",
+        "chip-architecture",
+        "technical-reference"
+      ],
+      "topics": [],
+      "rationale": "An informational technical resource on AI chip designs, not a software tool or AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 50
+    },
+    {
+      "id": 4222,
+      "source": "hn",
+      "sourceId": "49411024",
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "owner": "0megion",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:22:54+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-infrastructure",
+        "engineering",
+        "blog"
+      ],
+      "topics": [],
+      "rationale": "Appears to be an engineering article rather than a usable software project or AI infrastructure tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 45
+    },
+    {
+      "id": 4223,
+      "source": "hn",
+      "sourceId": "49411800",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "owner": "Tiberium",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:23:01+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "rl-training",
+        "code-generation",
+        "visual-reasoning"
+      ],
+      "topics": [],
+      "rationale": "Shows a training/eval pattern for models generating visual code rather than a packaged end-user product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 20
+    },
+    {
+      "id": 4224,
+      "source": "hn",
+      "sourceId": "49410936",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+      "owner": "ibobev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:23:08+00:00",
+      "bucket": "ai-app",
+      "audience": "dev",
+      "tags": [
+        "unix-talk",
+        "chat-interface",
+        "retro-computing",
+        "llm-ui"
+      ],
+      "topics": [],
+      "rationale": "A usable LLM chat interface built around Unix talk, signaling niche/retro surfaces for AI assistants.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 19
+    },
+    {
+      "id": 4225,
+      "source": "hn",
+      "sourceId": "49409073",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "owner": "dr_pardee",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:23:19+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "tablet-agent",
+        "computer-use",
+        "adb"
+      ],
+      "topics": [],
+      "rationale": "Experimental computer-use agent for a tablet, showing multi-step control rather than a user-facing app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 621
+    },
+    {
+      "id": 4226,
+      "source": "hn",
+      "sourceId": "49410949",
+      "title": "Predicting AI model release dates with stats",
+      "url": "https://releaseoracle.xyz/",
+      "owner": "akeyes6",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:23:31+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "release-dates",
+        "forecasting",
+        "ai-stats"
+      ],
+      "topics": [],
+      "rationale": "A public forecast site for AI model release timing, closer to an end-user information product than infra or dev tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 26
+    },
+    {
+      "id": 4227,
+      "source": "hn",
+      "sourceId": "49411178",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+      "owner": "rbanffy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:23:40+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "transformer-asic",
+        "inference",
+        "gpu"
+      ],
+      "topics": [],
+      "rationale": "Inference hardware comparison for serving transformers, aimed at infra buyers optimizing cost/perf.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 16
+    },
+    {
+      "id": 4228,
+      "source": "hn",
+      "sourceId": "49413322",
+      "title": "Tracker in rare book ends up in Amazon facility destroying books to train AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
+      "owner": "emptybits",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:23:50+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "book-scanning",
+        "training-data",
+        "amazon-warehouse"
+      ],
+      "topics": [],
+      "rationale": "Book digitization/training-data pipeline inside Amazon, but this is a news item rather than a user-facing product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 4229,
+      "source": "hn",
+      "sourceId": "49412003",
+      "title": "I'm Done Coding with AI",
+      "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "owner": "samuell",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:24:06+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-coding",
+        "developer-opinion",
+        "youtube"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused video/opinion piece about AI coding, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 19
+    },
+    {
+      "id": 4230,
+      "source": "hn",
+      "sourceId": "49410097",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "owner": "ed-is-ai",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:24:15+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-benchmark",
+        "cost-analysis",
+        "open-weight"
+      ],
+      "topics": [],
+      "rationale": "LLM benchmark/cost comparison tool for choosing models, aimed at developers and teams.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 234
+    },
+    {
+      "id": 4231,
+      "source": "hn",
+      "sourceId": "49407143",
+      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+      "url": "https://erikengdahl.se/autism/isnt/",
+      "owner": "verisimi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:24:35+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "autism",
+        "essay",
+        "neurodiversity"
+      ],
+      "topics": [],
+      "rationale": "A personal/public-interest essay rather than a software project or AI-agent opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 109
+    },
+    {
+      "id": 4232,
+      "source": "hn",
+      "sourceId": "49399642",
+      "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+      "owner": "bookofjoe",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-24T02:24:41+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "robotics",
+        "humanoid",
+        "sports"
+      ],
+      "topics": [],
+      "rationale": "A consumer news item about a humanoid sprinting record, not a software project or AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 63
     }
   ]
 }
