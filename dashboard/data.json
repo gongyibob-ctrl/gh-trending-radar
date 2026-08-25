@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-24T13:46:22.646093+00:00",
+  "generatedAt": "2026-08-25T02:20:00.700827+00:00",
   "totals": {
-    "items": 4263,
+    "items": 4280,
     "byBucket": {
-      "data": 116,
-      "ai-agent": 623,
-      "ai-app": 983,
-      "ai-infra": 548,
-      "devtool": 376,
-      "other": 1363,
-      "security": 233,
+      "data": 117,
+      "ai-agent": 624,
+      "ai-app": 984,
+      "ai-infra": 552,
+      "devtool": 377,
+      "other": 1369,
+      "security": 236,
       "web-framework": 21
     },
     "byAudience": {
       "B": 925,
-      "dev": 1634,
-      "both": 877,
-      "C": 819,
+      "dev": 1646,
+      "both": 879,
+      "C": 822,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 197,
-      "hn": 2190,
+      "hn": 2207,
       "product_hunt": 1876
     }
   },
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 48083,
-      "stars7dDelta": 0,
+      "stars": 48327,
+      "stars7dDelta": 244,
       "hnPoints": null
     },
     {
@@ -9234,7 +9234,7 @@
       ],
       "rationale": "A structured cybersecurity skill library that equips AI coding/agent platforms with domain-specific security workflows.",
       "stars": 29878,
-      "stars7dDelta": 1393,
+      "stars7dDelta": 1034,
       "hnPoints": null
     },
     {
@@ -9878,7 +9878,7 @@
       ],
       "rationale": "Developer ADE for orchestrating multiple CLI coding agents in parallel across repos and worktrees.",
       "stars": 49170,
-      "stars7dDelta": 1686,
+      "stars7dDelta": 1247,
       "hnPoints": null
     },
     {
@@ -23598,7 +23598,7 @@
       ],
       "rationale": "Consumer AI job-search command center automates application tracking, resume tailoring, and interview prep.",
       "stars": 67475,
-      "stars7dDelta": 2728,
+      "stars7dDelta": 1633,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 24200,
-      "stars7dDelta": 1541,
+      "stars": 24269,
+      "stars7dDelta": 1385,
       "hnPoints": null
     },
     {
@@ -40365,7 +40365,7 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "owner": "tashfeenahmed",
       "language": "TypeScript",
-      "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "createdAt": "2026-04-21T13:38:59Z",
       "firstSeenAt": "2026-06-21T15:06:04+00:00",
       "bucket": "ai-infra",
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 19618,
-      "stars7dDelta": 0,
+      "stars": 19817,
+      "stars7dDelta": 199,
       "hnPoints": null
     },
     {
@@ -45078,7 +45078,7 @@
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
       "stars": 12968,
-      "stars7dDelta": 563,
+      "stars7dDelta": 483,
       "hnPoints": null
     },
     {
@@ -54783,8 +54783,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 33515,
-      "stars7dDelta": 0,
+      "stars": 34133,
+      "stars7dDelta": 618,
       "hnPoints": null
     },
     {
@@ -59602,7 +59602,7 @@
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
       "stars": 25573,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -65031,7 +65031,7 @@
       ],
       "rationale": "Developer CLI/MCP tooling that reduces codebase context for AI coding workflows and reviews.",
       "stars": 30451,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -68355,8 +68355,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 23677,
-      "stars7dDelta": 2146,
+      "stars": 23861,
+      "stars7dDelta": 2070,
       "hnPoints": null
     },
     {
@@ -69099,7 +69099,7 @@
       "topics": [],
       "rationale": "A local browser UI for a coding agent, packaged as a usable developer product rather than core infra.",
       "stars": 4619,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -70810,8 +70810,8 @@
       ],
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
-      "stars": 30392,
-      "stars7dDelta": 1710,
+      "stars": 30497,
+      "stars7dDelta": 1815,
       "hnPoints": null
     },
     {
@@ -70846,8 +70846,8 @@
         "skills-sh"
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
-      "stars": 13144,
-      "stars7dDelta": 992,
+      "stars": 13270,
+      "stars7dDelta": 1118,
       "hnPoints": null
     },
     {
@@ -76363,7 +76363,7 @@
       ],
       "rationale": "Cloud-native GIS for mapping and spatial analysis; this is a geospatial data product, not an AI tool.",
       "stars": 6548,
-      "stars7dDelta": 222,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -76882,8 +76882,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 25077,
-      "stars7dDelta": 2503,
+      "stars": 25256,
+      "stars7dDelta": 2525,
       "hnPoints": null
     },
     {
@@ -80851,8 +80851,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 28454,
-      "stars7dDelta": 2418,
+      "stars": 28774,
+      "stars7dDelta": 2574,
       "hnPoints": null
     },
     {
@@ -88050,7 +88050,7 @@
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
       "stars": 17322,
-      "stars7dDelta": 378,
+      "stars7dDelta": 248,
       "hnPoints": null
     },
     {
@@ -92642,7 +92642,7 @@
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
       "stars": 8761,
-      "stars7dDelta": 1604,
+      "stars7dDelta": 1405,
       "hnPoints": null
     },
     {
@@ -92675,7 +92675,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 25500,
-      "stars7dDelta": 4727,
+      "stars7dDelta": 4141,
       "hnPoints": null
     },
     {
@@ -93890,7 +93890,7 @@
       ],
       "rationale": "Usable desktop product for generating 3D meshes from images locally, fitting creator and studio workflows.",
       "stars": 7095,
-      "stars7dDelta": 697,
+      "stars7dDelta": 532,
       "hnPoints": null
     },
     {
@@ -96831,8 +96831,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 4314,
-      "stars7dDelta": 2181,
+      "stars": 4422,
+      "stars7dDelta": 1937,
       "hnPoints": null
     },
     {
@@ -100919,8 +100919,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 15537,
-      "stars7dDelta": 4343,
+      "stars": 15919,
+      "stars7dDelta": 4725,
       "hnPoints": null
     },
     {
@@ -102708,8 +102708,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 2647,
-      "stars7dDelta": 612,
+      "stars": 2944,
+      "stars7dDelta": 909,
       "hnPoints": null
     },
     {
@@ -103046,8 +103046,8 @@
         "workspace-manager"
       ],
       "rationale": "A developer terminal manager for running and organizing multiple AI coding agents, not a standalone agent product.",
-      "stars": 1146,
-      "stars7dDelta": 130,
+      "stars": 1193,
+      "stars7dDelta": 177,
       "hnPoints": null
     },
     {
@@ -103749,8 +103749,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 1216,
-      "stars7dDelta": 491,
+      "stars": 1379,
+      "stars7dDelta": 654,
       "hnPoints": null
     },
     {
@@ -103785,8 +103785,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 14939,
-      "stars7dDelta": 2494,
+      "stars": 15668,
+      "stars7dDelta": 3223,
       "hnPoints": null
     },
     {
@@ -104179,7 +104179,7 @@
       "rationale": "Claude is a user-facing AI product, and the story is about adoption lagging despite strong model quality.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 624
+      "hnPoints": 766
     },
     {
       "id": 4215,
@@ -104203,7 +104203,7 @@
       "rationale": "A Google Workspace admin/domain classification issue, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 343
+      "hnPoints": 380
     },
     {
       "id": 4216,
@@ -104228,7 +104228,7 @@
       "rationale": "A developer-facing coding-agent instruction template for improving LLM-generated code quality.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 340
+      "hnPoints": 395
     },
     {
       "id": 4217,
@@ -104252,7 +104252,7 @@
       "rationale": "A classic reliability essay, not a software product; useful for engineers thinking about failure modes.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 340
+      "hnPoints": 371
     },
     {
       "id": 4218,
@@ -104300,7 +104300,7 @@
       "rationale": "A general-audience article, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 161
+      "hnPoints": 192
     },
     {
       "id": 4220,
@@ -104348,7 +104348,7 @@
       "rationale": "An informational technical resource on AI chip designs, not a software tool or AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 104
+      "hnPoints": 144
     },
     {
       "id": 4222,
@@ -104445,7 +104445,7 @@
       "rationale": "Experimental computer-use agent for a tablet, showing multi-step control rather than a user-facing app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 664
+      "hnPoints": 683
     },
     {
       "id": 4226,
@@ -104565,7 +104565,7 @@
       "rationale": "LLM benchmark/cost comparison tool for choosing models, aimed at developers and teams.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 235
+      "hnPoints": 238
     },
     {
       "id": 4231,
@@ -104589,7 +104589,7 @@
       "rationale": "A personal/public-interest essay rather than a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 113
     },
     {
       "id": 4232,
@@ -104657,8 +104657,8 @@
         "second-brain"
       ],
       "rationale": "AI note-taking product for Obsidian that turns sources into linked, cited personal knowledge.",
-      "stars": 11535,
-      "stars7dDelta": 0,
+      "stars": 11952,
+      "stars7dDelta": 417,
       "hnPoints": null
     },
     {
@@ -104725,7 +104725,7 @@
       "rationale": "A tweet about learning to build LLMs, not a software project; relevant mainly to aspiring AI developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 274
+      "hnPoints": 513
     },
     {
       "id": 4236,
@@ -104749,7 +104749,7 @@
       "rationale": "A medical diagnostic clearance, not a software project; relevant mainly to clinical providers and labs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 93
+      "hnPoints": 181
     },
     {
       "id": 4237,
@@ -104773,7 +104773,7 @@
       "rationale": "OCR utility turns locked document text into LLM-ready input, fitting the ingestion gap in RAG and AI workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 77
+      "hnPoints": 119
     },
     {
       "id": 4238,
@@ -104797,7 +104797,7 @@
       "rationale": "Consumer AI companion embedded in gameplay, pointing to real-time AI sidekicks for games.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 235
+      "hnPoints": 342
     },
     {
       "id": 4239,
@@ -104845,7 +104845,7 @@
       "rationale": "News about a government eVisa identity failure, not a software project or startup tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 99
+      "hnPoints": 181
     },
     {
       "id": 4241,
@@ -104869,7 +104869,7 @@
       "rationale": "This is a policy change on product repair obligations, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 181
+      "hnPoints": 243
     },
     {
       "id": 4242,
@@ -104893,7 +104893,7 @@
       "rationale": "Discussion thread about corporate layoffs and accountability, not a software project or startup tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 73
+      "hnPoints": 114
     },
     {
       "id": 4243,
@@ -105404,6 +105404,424 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4264,
+      "source": "hn",
+      "sourceId": "49426564",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "owner": "K7PJP",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:17:21+00:00",
+      "bucket": "security",
+      "audience": "C",
+      "tags": [
+        "email-alias",
+        "privacy",
+        "icloud",
+        "forwarding"
+      ],
+      "topics": [],
+      "rationale": "A consumer privacy update for email masking and address management, not a developer tool or AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 238
+    },
+    {
+      "id": 4265,
+      "source": "hn",
+      "sourceId": "49421158",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "owner": "ComputerGuru",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:17:30+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "watermarking",
+        "windows",
+        "reverse-engineering"
+      ],
+      "topics": [],
+      "rationale": "Reverses hidden GUID watermarking in MS Paint/Photos, a privacy and security finding in Windows apps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 568
+    },
+    {
+      "id": 4266,
+      "source": "hn",
+      "sourceId": "49427001",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "url": "https://github.com/murerkinn/bookshelf",
+      "owner": "arbayi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:17:40+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ebook-library",
+        "self-hosted",
+        "object-storage",
+        "bookshelf"
+      ],
+      "topics": [],
+      "rationale": "A self-hosted eBook library app; useful to readers and admins, but not a devtool or AI project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 36
+    },
+    {
+      "id": 4267,
+      "source": "hn",
+      "sourceId": "49421489",
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "owner": "iand",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:17:53+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ipfs",
+        "decentralized-storage",
+        "open-source",
+        "protocol"
+      ],
+      "topics": [],
+      "rationale": "News about IPFS stewardship winding down, pointing to maintenance gaps in decentralized storage infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 331
+    },
+    {
+      "id": 4268,
+      "source": "hn",
+      "sourceId": "49424387",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "owner": "zdw",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:17:59+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "llm-security",
+        "inference-engines",
+        "sandboxing",
+        "exploit-risk"
+      ],
+      "topics": [],
+      "rationale": "Security analysis of LLM inference engines as an attack surface for host compromise.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
+    },
+    {
+      "id": 4269,
+      "source": "hn",
+      "sourceId": "49421806",
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "owner": "adesh_nalpet",
+      "language": null,
+      "description": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create&#x2F;append&#x2F;read&#x2F;long-poll&#x2F;SSE), with Pico Protocol or Durable Streams Protocol as the facade.<p>S3Stream is the stream storage primitive, used in AutoMQ, shipped as a Rust library. Coordination is a command log in Postgres.",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:04+00:00",
+      "bucket": "data",
+      "audience": "dev",
+      "tags": [
+        "durable-streams",
+        "object-storage",
+        "s3",
+        "http"
+      ],
+      "topics": [],
+      "rationale": "HTTP durable streams on object storage is core data infrastructure for developers, not an end-user AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
+    },
+    {
+      "id": 4270,
+      "source": "hn",
+      "sourceId": "49427825",
+      "title": "What languages are agent skills written in?",
+      "url": "https://plicara.ai/research/agent-skill-languages/",
+      "owner": "3Mathematicians",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:15+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-skills",
+        "prompt-language",
+        "workflows"
+      ],
+      "topics": [],
+      "rationale": "Research on how agent skills are specified, pointing to agent tooling and infra rather than a user-facing app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 11
+    },
+    {
+      "id": 4271,
+      "source": "hn",
+      "sourceId": "49421074",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "owner": "tosh",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:23+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "pricing",
+        "llm-inference",
+        "openai"
+      ],
+      "topics": [],
+      "rationale": "Lower GPT-5.6 pricing shifts the model-inference cost curve for builders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 298
+    },
+    {
+      "id": 4272,
+      "source": "hn",
+      "sourceId": "49421554",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "owner": "larsfaye",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:31+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-coding",
+        "developer-skills",
+        "opinion"
+      ],
+      "topics": [],
+      "rationale": "A developer-focused essay about AI coding reliance, not a software project or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 473
+    },
+    {
+      "id": 4273,
+      "source": "hn",
+      "sourceId": "49423077",
+      "title": "Agent Lightning v1.0",
+      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "owner": "qainsights",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:39+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "agent-training",
+        "reinforcement-learning",
+        "llm-agents",
+        "microsoft"
+      ],
+      "topics": [],
+      "rationale": "Framework for training and optimizing LLM agents, pointing to demand for agent-specific RL tooling.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 46
+    },
+    {
+      "id": 4274,
+      "source": "hn",
+      "sourceId": "49423927",
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "url": "https://github.com/getkern/kern",
+      "owner": "realexweb",
+      "language": null,
+      "description": "I built kern because I needed a fast, zero-daemon tool to set CPU&#x2F;RAM limits and run isolated tasks without the overhead of Docker. It&#x27;s a single 1.5MB Rust binary using OCI images, cgroup v2, and namespaces. Boxes start in ~3.5ms. It&#x27;s not a Kubernetes CRI or a microVM, just a standalone container and resource runtime for CLI and agents.",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:47+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "container-runtime",
+        "cgroups",
+        "oci",
+        "zero-daemon"
+      ],
+      "topics": [],
+      "rationale": "Lightweight daemonless container/runtime tool for developers running isolated CLI tasks or agent workloads.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 48
+    },
+    {
+      "id": 4275,
+      "source": "hn",
+      "sourceId": "49424951",
+      "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
+      "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
+      "owner": "bundie",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:18:54+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "local-llm",
+        "mac",
+        "qwen",
+        "jetbrains"
+      ],
+      "topics": [],
+      "rationale": "Local Mac support for Qwen lowers friction for developers running capable open models on-device.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 32
+    },
+    {
+      "id": 4276,
+      "source": "hn",
+      "sourceId": "49420999",
+      "title": "NetBSD GSoC 2026 Improving RAIDframe",
+      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+      "owner": "jaypatelani",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:19:01+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "netbsd",
+        "raid",
+        "storage",
+        "kernel"
+      ],
+      "topics": [],
+      "rationale": "Kernel-level RAIDframe work for NetBSD, aimed at OS/storage contributors rather than AI or SaaS apps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 4277,
+      "source": "hn",
+      "sourceId": "49423792",
+      "title": "Em Dash Is Fine – It Is AI That Sucks",
+      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
+      "owner": "speckx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:19:06+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-critique",
+        "writing",
+        "blog-post"
+      ],
+      "topics": [],
+      "rationale": "Opinion post about AI misuse, not a software product; best fit is general content.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 4278,
+      "source": "hn",
+      "sourceId": "49423735",
+      "title": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
+      "url": "https://www.lpulite.com",
+      "owner": "sakshambatraa",
+      "language": null,
+      "description": "We had no guide or course that teaches chip design at our university. We had taken a digital logic course, but were disappointed with the fact that the most complex project we did was building a full adder in Quartus using logic blocks, not even in RTL!5 Therefore, we decided to challenge ourselves to dive deep into machine learning (ML) hardware and learn as much as we could on our own. We wanted to prove that basic math (like y = mx + b) and basic logic circuits are enough to help anyone under",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:19:17+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "lpu",
+        "inference",
+        "hardware",
+        "transformer"
+      ],
+      "topics": [],
+      "rationale": "Custom inference hardware for a tiny GPT is AI infra, aimed at builders exploring model execution.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 4279,
+      "source": "hn",
+      "sourceId": "49423371",
+      "title": "Show HN: See how much your AI knows about you",
+      "url": "https://www.withcorpus.com/knows",
+      "owner": "cgnry",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:19:28+00:00",
+      "bucket": "ai-app",
+      "audience": "C",
+      "tags": [
+        "personal-ai",
+        "memory",
+        "consumer"
+      ],
+      "topics": [],
+      "rationale": "Consumer product that shows a personal AI profile/memory, so it’s an end-user AI app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 4280,
+      "source": "hn",
+      "sourceId": "49420902",
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+      "owner": "Brajeshwar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-25T02:19:40+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "shadow-library",
+        "copyright",
+        "domains"
+      ],
+      "topics": [],
+      "rationale": "News about a piracy archive's legal/domain troubles, not a software tool or AI-era startup project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 247
     }
   ]
 }
