@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-27T11:01:06.941309+00:00",
+  "generatedAt": "2026-08-27T22:43:35.791882+00:00",
   "totals": {
-    "items": 4402,
+    "items": 4421,
     "byBucket": {
       "data": 126,
-      "ai-agent": 637,
-      "ai-app": 1008,
-      "ai-infra": 570,
-      "devtool": 395,
-      "other": 1406,
+      "ai-agent": 638,
+      "ai-app": 1010,
+      "ai-infra": 572,
+      "devtool": 397,
+      "other": 1417,
       "security": 239,
-      "web-framework": 21
+      "web-framework": 22
     },
     "byAudience": {
-      "B": 951,
-      "dev": 1694,
-      "both": 902,
-      "C": 847,
+      "B": 956,
+      "dev": 1699,
+      "both": 908,
+      "C": 850,
       "?": 7,
       "other": 1
     },
     "bySource": {
-      "github_trending": 201,
-      "hn": 2248,
+      "github_trending": 202,
+      "hn": 2266,
       "product_hunt": 1953
     }
   },
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 49868,
-      "stars7dDelta": 1785,
+      "stars": 50133,
+      "stars7dDelta": 2050,
       "hnPoints": null
     },
     {
@@ -23597,8 +23597,8 @@
         "resume"
       ],
       "rationale": "Consumer AI job-search command center automates application tracking, resume tailoring, and interview prep.",
-      "stars": 68752,
-      "stars7dDelta": 2477,
+      "stars": 68875,
+      "stars7dDelta": 2123,
       "hnPoints": null
     },
     {
@@ -24249,7 +24249,7 @@
       ],
       "rationale": "A compressed vector index for embeddings/RAG, optimizing memory and search speed versus FAISS.",
       "stars": 16123,
-      "stars7dDelta": 335,
+      "stars7dDelta": 155,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 24802,
-      "stars7dDelta": 1396,
+      "stars": 24860,
+      "stars7dDelta": 1366,
       "hnPoints": null
     },
     {
@@ -35183,8 +35183,8 @@
         "video-production"
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
-      "stars": 51769,
-      "stars7dDelta": 0,
+      "stars": 52296,
+      "stars7dDelta": 527,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 20864,
-      "stars7dDelta": 1246,
+      "stars": 21037,
+      "stars7dDelta": 1419,
       "hnPoints": null
     },
     {
@@ -45078,7 +45078,7 @@
       ],
       "rationale": "Packaged SEO product with MCP/agent integrations, signaling demand for controllable AI-assisted vertical SaaS.",
       "stars": 12968,
-      "stars7dDelta": 208,
+      "stars7dDelta": 85,
       "hnPoints": null
     },
     {
@@ -50541,7 +50541,7 @@
       ],
       "rationale": "Prompt skill for AI coding tools that reduces verbose agent output, pointing to lightweight agent-UX optimization gaps.",
       "stars": 99949,
-      "stars7dDelta": 553,
+      "stars7dDelta": 273,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 20704,
-      "stars7dDelta": 3714,
+      "stars": 22946,
+      "stars7dDelta": 5956,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 24807,
-      "stars7dDelta": 2321,
+      "stars": 24962,
+      "stars7dDelta": 2276,
       "hnPoints": null
     },
     {
@@ -70811,8 +70811,8 @@
       ],
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
-      "stars": 31034,
-      "stars7dDelta": 2223,
+      "stars": 31124,
+      "stars7dDelta": 2196,
       "hnPoints": null
     },
     {
@@ -70847,8 +70847,8 @@
         "skills-sh"
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
-      "stars": 13904,
-      "stars7dDelta": 1752,
+      "stars": 13983,
+      "stars7dDelta": 1709,
       "hnPoints": null
     },
     {
@@ -76883,8 +76883,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 26037,
-      "stars7dDelta": 2732,
+      "stars": 26188,
+      "stars7dDelta": 2757,
       "hnPoints": null
     },
     {
@@ -80852,8 +80852,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 29734,
-      "stars7dDelta": 2798,
+      "stars": 29858,
+      "stars7dDelta": 2821,
       "hnPoints": null
     },
     {
@@ -88075,8 +88075,8 @@
       ],
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
-      "stars": 2895,
-      "stars7dDelta": 0,
+      "stars": 2923,
+      "stars7dDelta": 28,
       "hnPoints": null
     },
     {
@@ -92612,7 +92612,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2225,
-      "stars7dDelta": 286,
+      "stars7dDelta": 247,
       "hnPoints": null
     },
     {
@@ -92643,7 +92643,7 @@
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
       "stars": 8761,
-      "stars7dDelta": 740,
+      "stars7dDelta": 618,
       "hnPoints": null
     },
     {
@@ -92676,7 +92676,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 25500,
-      "stars7dDelta": 1492,
+      "stars7dDelta": 1137,
       "hnPoints": null
     },
     {
@@ -93891,7 +93891,7 @@
       ],
       "rationale": "Usable desktop product for generating 3D meshes from images locally, fitting creator and studio workflows.",
       "stars": 7095,
-      "stars7dDelta": 104,
+      "stars7dDelta": 55,
       "hnPoints": null
     },
     {
@@ -96832,8 +96832,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 4894,
-      "stars7dDelta": 1491,
+      "stars": 4978,
+      "stars7dDelta": 1325,
       "hnPoints": null
     },
     {
@@ -98773,8 +98773,8 @@
         "memory"
       ],
       "rationale": "Local multi-agent harness that orchestrates coding agents and CLIs on a developer machine.",
-      "stars": 4942,
-      "stars7dDelta": 1968,
+      "stars": 5041,
+      "stars7dDelta": 1899,
       "hnPoints": null
     },
     {
@@ -100920,8 +100920,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 17006,
-      "stars7dDelta": 5812,
+      "stars": 17134,
+      "stars7dDelta": 5170,
       "hnPoints": null
     },
     {
@@ -100946,7 +100946,7 @@
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
       "stars": 1536,
-      "stars7dDelta": 234,
+      "stars7dDelta": 121,
       "hnPoints": null
     },
     {
@@ -102709,8 +102709,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 3698,
-      "stars7dDelta": 1663,
+      "stars": 3760,
+      "stars7dDelta": 1725,
       "hnPoints": null
     },
     {
@@ -103750,8 +103750,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 2344,
-      "stars7dDelta": 1619,
+      "stars": 2398,
+      "stars7dDelta": 1673,
       "hnPoints": null
     },
     {
@@ -103786,8 +103786,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 22416,
-      "stars7dDelta": 9971,
+      "stars": 22954,
+      "stars7dDelta": 10509,
       "hnPoints": null
     },
     {
@@ -104658,8 +104658,8 @@
         "second-brain"
       ],
       "rationale": "AI note-taking product for Obsidian that turns sources into linked, cited personal knowledge.",
-      "stars": 13696,
-      "stars7dDelta": 2161,
+      "stars": 13959,
+      "stars7dDelta": 2424,
       "hnPoints": null
     },
     {
@@ -105855,8 +105855,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 113344,
-      "stars7dDelta": 2940,
+      "stars": 113967,
+      "stars7dDelta": 3563,
       "hnPoints": null
     },
     {
@@ -106979,8 +106979,8 @@
         "web-design"
       ],
       "rationale": "A prompt/skill pack for coding agents, serving developers who want reusable agent workflows.",
-      "stars": 11143,
-      "stars7dDelta": 367,
+      "stars": 11303,
+      "stars7dDelta": 527,
       "hnPoints": null
     },
     {
@@ -107016,8 +107016,8 @@
         "vue"
       ],
       "rationale": "Self-hosted reading and media-library platform for personal ebook, PDF, comic, and audiobook management.",
-      "stars": 3325,
-      "stars7dDelta": 111,
+      "stars": 3379,
+      "stars7dDelta": 165,
       "hnPoints": null
     },
     {
@@ -107042,7 +107042,7 @@
       "rationale": "An educational article about simplifying RAG, not a software project or deployable AI infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 462
+      "hnPoints": 486
     },
     {
       "id": 4330,
@@ -107092,7 +107092,7 @@
       "rationale": "A new GLM-series open-weight model points to more foundation-model supply for builders and inference stacks.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 426
+      "hnPoints": 430
     },
     {
       "id": 4332,
@@ -107116,13 +107116,13 @@
       "rationale": "Not a software project; it describes an influence operation targeting AI outputs and public narratives.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 242
+      "hnPoints": 243
     },
     {
       "id": 4333,
       "source": "hn",
       "sourceId": "49448137",
-      "title": "Bill Gates: The turbulent AI era is here",
+      "title": "The turbulent AI era is here",
       "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
       "owner": "ilamont",
       "language": null,
@@ -107140,7 +107140,7 @@
       "rationale": "It’s an opinion/essay on the AI era, not a software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 186
+      "hnPoints": 189
     },
     {
       "id": 4334,
@@ -107873,8 +107873,8 @@
         "python"
       ],
       "rationale": "Privacy-first self-hosted personal finance app, not AI or dev infra; reflects demand for user-owned financial data.",
-      "stars": 2315,
-      "stars7dDelta": 0,
+      "stars": 2391,
+      "stars7dDelta": 76,
       "hnPoints": null
     },
     {
@@ -107900,7 +107900,7 @@
       "rationale": "Hugging Face is developer-facing model and deployment infrastructure for building and serving AI systems.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1197
+      "hnPoints": 1808
     },
     {
       "id": 4365,
@@ -107925,7 +107925,7 @@
       "rationale": "CLI networking utility for developers, extending netcat-style connections over Tailscale's data plane.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 586
+      "hnPoints": 646
     },
     {
       "id": 4366,
@@ -107950,7 +107950,7 @@
       "rationale": "An open-source executive agent suggests autonomous business decision-making as a provocative AI-agent product pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 649
+      "hnPoints": 926
     },
     {
       "id": 4367,
@@ -107998,7 +107998,7 @@
       "rationale": "A thought-leadership essay on AI-era choices, not a software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 264
+      "hnPoints": 345
     },
     {
       "id": 4369,
@@ -108022,7 +108022,7 @@
       "rationale": "A lightweight web convention for serving agent-friendly Markdown, fitting the emerging AI content infrastructure layer.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 145
+      "hnPoints": 172
     },
     {
       "id": 4370,
@@ -108070,7 +108070,7 @@
       "rationale": "AI-assisted note-taking for personal knowledge work, packaged as an end-user productivity workflow.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 229
+      "hnPoints": 248
     },
     {
       "id": 4372,
@@ -108094,7 +108094,7 @@
       "rationale": "Security analysis of why virtual machines won’t reliably contain cyber-capable agents.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 166
+      "hnPoints": 177
     },
     {
       "id": 4373,
@@ -108241,7 +108241,7 @@
       "rationale": "Public telecom coverage map/data portal tracking France fiber rollout for consumers, operators, and policymakers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 307
+      "hnPoints": 312
     },
     {
       "id": 4379,
@@ -108822,6 +108822,482 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4403,
+      "source": "github_trending",
+      "sourceId": "bilawalsidhu/gods-eye-view",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "owner": "bilawalsidhu",
+      "language": "JavaScript",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "createdAt": "2026-06-22T23:37:22Z",
+      "firstSeenAt": "2026-08-27T22:40:36+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "3d-globe",
+        "osint",
+        "voice-agent",
+        "spatial-intelligence"
+      ],
+      "topics": [
+        "3d-globe",
+        "cesium",
+        "flight-tracking",
+        "geospatial",
+        "geospatial-intelligence",
+        "gis",
+        "osint",
+        "photogrammetry",
+        "satellite-tracking",
+        "spatial-intelligence",
+        "webgl",
+        "worldview"
+      ],
+      "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
+      "stars": 7803,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 4404,
+      "source": "hn",
+      "sourceId": "49465169",
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "owner": "helloplanets",
+      "language": null,
+      "description": "Book (1868): <a href=\"https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:02+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "mechanical-design",
+        "engineering-reference",
+        "educational"
+      ],
+      "topics": [],
+      "rationale": "A digitized classic engineering reference, not software or AI; useful to hobbyists, educators, and mechanical designers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 424
+    },
+    {
+      "id": 4405,
+      "source": "hn",
+      "sourceId": "49471407",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "owner": "SilenN",
+      "language": null,
+      "description": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.<p>It’s is rust native, built for concurrency, and implements all the config quirks across models and providers (streaming formats, tool calls, model parameters, rate limits, and different error behavior).<p>The gateway adds under 1 ms for BYOK requests and under 2 ms when Experiential supplies the provider key. It has every major inference provider,",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:07+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-gateway",
+        "inference-routing",
+        "openrouter",
+        "byok"
+      ],
+      "topics": [],
+      "rationale": "Open-source inference gateway unifying providers, local models, routing, and provider quirks for dev teams.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 35
+    },
+    {
+      "id": 4406,
+      "source": "hn",
+      "sourceId": "49447057",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "owner": "nanna",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:13+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-trends",
+        "policy",
+        "future-of-work"
+      ],
+      "topics": [],
+      "rationale": "An essay on AI’s societal and work impacts, not a software project or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 174
+    },
+    {
+      "id": 4407,
+      "source": "hn",
+      "sourceId": "49468816",
+      "title": "Show HN: Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "owner": "igpay",
+      "language": null,
+      "description": "I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against.",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:19+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "go-game",
+        "bot-opponent",
+        "correspondence"
+      ],
+      "topics": [],
+      "rationale": "Consumer Go game site with a stronger AI opponent and correspondence play, but not a standalone AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 58
+    },
+    {
+      "id": 4408,
+      "source": "hn",
+      "sourceId": "49461817",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "owner": "Labo333",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:29+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "llm",
+        "vocabulary",
+        "analysis"
+      ],
+      "topics": [],
+      "rationale": "A Claude word-analysis page, not a product or developer tool, so it fits best as a consumer-facing other.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 287
+    },
+    {
+      "id": 4409,
+      "source": "hn",
+      "sourceId": "49470949",
+      "title": "Meta Paid $17B – Gets to Write Safety Rules for Other SocMedia Platform",
+      "url": "https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform/",
+      "owner": "ano-ther",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:38+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "content-moderation",
+        "policy",
+        "social-media"
+      ],
+      "topics": [],
+      "rationale": "Policy and platform governance move, not a software product; it targets business social platforms' safety compliance.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 63
+    },
+    {
+      "id": 4410,
+      "source": "hn",
+      "sourceId": "49471714",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "owner": "calmrocks",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:46+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "colab",
+        "rag",
+        "evals",
+        "agents"
+      ],
+      "topics": [],
+      "rationale": "Notebook examples for engineers to prototype RAG, agents, and evals without a framework.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 4411,
+      "source": "hn",
+      "sourceId": "49464314",
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "owner": "pbui",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:41:54+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "ai-education",
+        "policy-report",
+        "higher-ed"
+      ],
+      "topics": [],
+      "rationale": "An institutional report on AI use in education, not a software product or technical tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 92
+    },
+    {
+      "id": 4412,
+      "source": "hn",
+      "sourceId": "49466704",
+      "title": "Show HN: Watches user sessions, finds bugs that matter, and fixes them",
+      "url": "https://github.com/opslane/opslane",
+      "owner": "aray07",
+      "language": null,
+      "description": "Hey HN,<p>I’m Abhishek. I&#x27;m building Opslane, an open-source agent that identifies user-facing issues and investigates them. It only creates a PR if it can verify the fix.<p>Demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;ccuOTYQMeYg\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;ccuOTYQMeYg</a>\nDocs: <a href=\"https:&#x2F;&#x2F;docs.opslane.com\">https:&#x2F;&#x2F;docs.opslane.com</a><p>At my last job at Robinhood, we used to do a quarterly bug bash. We would go through our Sentry backlog an",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:00+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "bug-fixing",
+        "session-replay",
+        "code-agent",
+        "verified-prs"
+      ],
+      "topics": [],
+      "rationale": "Autonomous dev agent monitors real user issues, investigates impact, and opens verified fix PRs.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 4413,
+      "source": "hn",
+      "sourceId": "49458875",
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "owner": "semiquaver",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;uLYYU\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;uLYYU</a><p>Related: <i>Don’t mistake chatbot intelligence for consciousness</i> - <a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mistake-chatbot-intelligence-for-consciousness\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mist...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;IeSZg\" r",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:08+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-consciousness",
+        "chatbots",
+        "philosophy"
+      ],
+      "topics": [],
+      "rationale": "An opinion piece on AI consciousness, not a software project or tool, so it fits neither product nor infra categories.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 71
+    },
+    {
+      "id": 4414,
+      "source": "hn",
+      "sourceId": "49466715",
+      "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+      "url": "https://news.ycombinator.com/item?id=49466715",
+      "owner": "Salem_robotics",
+      "language": null,
+      "description": "Hi HN, we&#x27;re the founders of Salem Robotics (<a href=\"https:&#x2F;&#x2F;salemroboticsinc.com\">https:&#x2F;&#x2F;salemroboticsinc.com</a>). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive inspections in hazardous industrial facilities.<p>Here&#x27;s a video of it running on real robot hardware with a few words from us:\n<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=U_228h3NE7c\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:15+00:00",
+      "bucket": "ai-app",
+      "audience": "B",
+      "tags": [
+        "robotics",
+        "industrial-inspection",
+        "autonomy"
+      ],
+      "topics": [],
+      "rationale": "Business product adding task-specific autonomy to mobile robots for hazardous facility inspections.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 32
+    },
+    {
+      "id": 4415,
+      "source": "hn",
+      "sourceId": "49450816",
+      "title": "Show HN: A lightweight, stateless database for agent memory",
+      "url": "https://polign.com/blog-edge-agent-memory",
+      "owner": "anuptalwalkar",
+      "language": null,
+      "description": "I&#x27;ve been working on Polign and built a small prototype around something I&#x27;ve been thinking about with agent memory. I have built a lightweight&#x2F;stateless vector db + BM25 search which works really well with typed facts and structured queries.<p>It uses your own S3, or GCS bucket as primary storage, and restarting a node is fairly quick.<p>Demo + writeup: <a href=\"https:&#x2F;&#x2F;polign.com&#x2F;blog-edge-agent-memory\" rel=\"nofollow\">https:&#x2F;&#x2F;polign.com&#x2F;blog-edge-ag",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:21+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-memory",
+        "vector-db",
+        "bm25",
+        "object-storage"
+      ],
+      "topics": [],
+      "rationale": "Stateless vector/BM25 storage for agent memory, pointing to demand for simple edge-friendly RAG infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 4416,
+      "source": "hn",
+      "sourceId": "49470996",
+      "title": "$900M paid out to end wind farm project going to firm run by Mar-a-Lago neighbor",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-windfarm-money-neighbors-florida-b3040628.html",
+      "owner": "pseudolus",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:27+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "wind-farm",
+        "energy",
+        "politics"
+      ],
+      "topics": [],
+      "rationale": "Not a software product; it's a political/business news item about a wind farm payout.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 58
+    },
+    {
+      "id": 4417,
+      "source": "hn",
+      "sourceId": "49467481",
+      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "owner": "ThibWeb",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:35+00:00",
+      "bucket": "web-framework",
+      "audience": "dev",
+      "tags": [
+        "cms",
+        "django",
+        "api",
+        "content"
+      ],
+      "topics": [],
+      "rationale": "Wagtail is a developer-built CMS/framework; this post is about AI-friendly API plumbing, not a standalone AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 4418,
+      "source": "hn",
+      "sourceId": "49467551",
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "url": "https://github.com/kelviq/tare",
+      "owner": "sachinneravath",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:48+00:00",
+      "bucket": "devtool",
+      "audience": "both",
+      "tags": [
+        "claude",
+        "quota",
+        "usage",
+        "diagnostic"
+      ],
+      "topics": [],
+      "rationale": "A utility for inspecting Claude quota burn, aimed at power users rather than shipping an AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 62
+    },
+    {
+      "id": 4419,
+      "source": "hn",
+      "sourceId": "49468315",
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "owner": "vinni2",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:42:58+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "health",
+        "travel",
+        "news"
+      ],
+      "topics": [],
+      "rationale": "Non-software news story about malaria exposure from a plane, not a product or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 149
+    },
+    {
+      "id": 4420,
+      "source": "hn",
+      "sourceId": "49466016",
+      "title": "Peter Cullen, Voice of Optimus Prime in 'Transformers,' Dies at 85",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/",
+      "owner": "cocacola1",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:43:05+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "entertainment-news",
+        "obituary",
+        "voice-actor"
+      ],
+      "topics": [],
+      "rationale": "This is a news obituary about a voice actor, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 99
+    },
+    {
+      "id": 4421,
+      "source": "hn",
+      "sourceId": "49453510",
+      "title": "Study reveals UnitedHealth's profit margins four times what it claimed [pdf]",
+      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+      "owner": "CGMthrowaway",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-27T22:43:16+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "healthcare",
+        "profit-study",
+        "pdf"
+      ],
+      "topics": [],
+      "rationale": "This is a research PDF about insurer margins, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 177
     }
   ]
 }
