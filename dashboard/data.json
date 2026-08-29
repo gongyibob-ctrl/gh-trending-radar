@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-29T07:43:33.952250+00:00",
+  "generatedAt": "2026-08-29T16:55:29.508475+00:00",
   "totals": {
-    "items": 4483,
+    "items": 4486,
     "byBucket": {
       "data": 127,
       "ai-agent": 645,
       "ai-app": 1024,
       "ai-infra": 581,
       "devtool": 400,
-      "other": 1441,
+      "other": 1443,
       "security": 243,
-      "web-framework": 22
+      "web-framework": 23
     },
     "byAudience": {
       "B": 965,
-      "dev": 1717,
+      "dev": 1719,
       "both": 923,
-      "C": 870,
+      "C": 871,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 203,
-      "hn": 2292,
-      "product_hunt": 1988
+      "hn": 2294,
+      "product_hunt": 1989
     }
   },
   "items": [
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 50724,
-      "stars7dDelta": 2641,
+      "stars": 50887,
+      "stars7dDelta": 2804,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 25076,
-      "stars7dDelta": 1315,
+      "stars": 25134,
+      "stars7dDelta": 1281,
       "hnPoints": null
     },
     {
@@ -35183,8 +35183,8 @@
         "video-production"
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
-      "stars": 53510,
-      "stars7dDelta": 1741,
+      "stars": 53863,
+      "stars7dDelta": 2094,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 21764,
-      "stars7dDelta": 2146,
+      "stars": 22092,
+      "stars7dDelta": 2474,
       "hnPoints": null
     },
     {
@@ -54783,8 +54783,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 37841,
-      "stars7dDelta": 4326,
+      "stars": 37980,
+      "stars7dDelta": 4465,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 28559,
-      "stars7dDelta": 11569,
+      "stars": 30217,
+      "stars7dDelta": 13227,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 25420,
-      "stars7dDelta": 2313,
+      "stars": 25516,
+      "stars7dDelta": 2263,
       "hnPoints": null
     },
     {
@@ -70811,8 +70811,8 @@
       ],
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
-      "stars": 31336,
-      "stars7dDelta": 1800,
+      "stars": 31398,
+      "stars7dDelta": 1606,
       "hnPoints": null
     },
     {
@@ -70847,8 +70847,8 @@
         "skills-sh"
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
-      "stars": 14231,
-      "stars7dDelta": 1574,
+      "stars": 14290,
+      "stars7dDelta": 1522,
       "hnPoints": null
     },
     {
@@ -76883,8 +76883,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 26785,
-      "stars7dDelta": 2833,
+      "stars": 26959,
+      "stars7dDelta": 2759,
       "hnPoints": null
     },
     {
@@ -80852,8 +80852,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 30209,
-      "stars7dDelta": 2875,
+      "stars": 30343,
+      "stars7dDelta": 2912,
       "hnPoints": null
     },
     {
@@ -88075,8 +88075,8 @@
       ],
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
-      "stars": 2987,
-      "stars7dDelta": 92,
+      "stars": 3029,
+      "stars7dDelta": 134,
       "hnPoints": null
     },
     {
@@ -92612,7 +92612,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2225,
-      "stars7dDelta": 70,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -92643,7 +92643,7 @@
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
       "stars": 8761,
-      "stars7dDelta": 273,
+      "stars7dDelta": 168,
       "hnPoints": null
     },
     {
@@ -92676,7 +92676,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 25500,
-      "stars7dDelta": 222,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -96833,7 +96833,7 @@
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
       "stars": 4978,
-      "stars7dDelta": 960,
+      "stars7dDelta": 882,
       "hnPoints": null
     },
     {
@@ -98773,8 +98773,8 @@
         "memory"
       ],
       "rationale": "Local multi-agent harness that orchestrates coding agents and CLIs on a developer machine.",
-      "stars": 5244,
-      "stars7dDelta": 583,
+      "stars": 5428,
+      "stars7dDelta": 767,
       "hnPoints": null
     },
     {
@@ -100920,8 +100920,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 17474,
-      "stars7dDelta": 4025,
+      "stars": 17578,
+      "stars7dDelta": 3586,
       "hnPoints": null
     },
     {
@@ -102709,8 +102709,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 3932,
-      "stars7dDelta": 1731,
+      "stars": 4014,
+      "stars7dDelta": 1813,
       "hnPoints": null
     },
     {
@@ -103048,7 +103048,7 @@
       ],
       "rationale": "A developer terminal manager for running and organizing multiple AI coding agents, not a standalone agent product.",
       "stars": 1272,
-      "stars7dDelta": 256,
+      "stars7dDelta": 217,
       "hnPoints": null
     },
     {
@@ -103750,8 +103750,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 2636,
-      "stars7dDelta": 1911,
+      "stars": 2692,
+      "stars7dDelta": 1967,
       "hnPoints": null
     },
     {
@@ -103786,8 +103786,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 24504,
-      "stars7dDelta": 12059,
+      "stars": 24953,
+      "stars7dDelta": 12508,
       "hnPoints": null
     },
     {
@@ -105855,8 +105855,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 115697,
-      "stars7dDelta": 5293,
+      "stars": 116196,
+      "stars7dDelta": 5792,
       "hnPoints": null
     },
     {
@@ -107016,8 +107016,8 @@
         "vue"
       ],
       "rationale": "Self-hosted reading and media-library platform for personal ebook, PDF, comic, and audiobook management.",
-      "stars": 3556,
-      "stars7dDelta": 342,
+      "stars": 3601,
+      "stars7dDelta": 387,
       "hnPoints": null
     },
     {
@@ -107900,7 +107900,7 @@
       "rationale": "Hugging Face is developer-facing model and deployment infrastructure for building and serving AI systems.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1953
+      "hnPoints": 1962
     },
     {
       "id": 4365,
@@ -108857,8 +108857,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 11495,
-      "stars7dDelta": 3692,
+      "stars": 12197,
+      "stars7dDelta": 4394,
       "hnPoints": null
     },
     {
@@ -108908,7 +108908,7 @@
       "rationale": "Open-source inference gateway unifying providers, local models, routing, and provider quirks for dev teams.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 208
+      "hnPoints": 212
     },
     {
       "id": 4406,
@@ -108956,7 +108956,7 @@
       "rationale": "Consumer Go game site with a stronger AI opponent and correspondence play, but not a standalone AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 155
     },
     {
       "id": 4408,
@@ -109175,7 +109175,7 @@
       "rationale": "Not a software product; it's a political/business news item about a wind farm payout.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 131
+      "hnPoints": 132
     },
     {
       "id": 4417,
@@ -109395,7 +109395,7 @@
       "rationale": "News article on antidepressant tapering practices, not a software project or AI startup opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 263
+      "hnPoints": 275
     },
     {
       "id": 4426,
@@ -109419,7 +109419,7 @@
       "rationale": "Anthropic is a shipped AI product company; the story is a policy/legal ruling around its model use, not infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 324
+      "hnPoints": 325
     },
     {
       "id": 4427,
@@ -109444,7 +109444,7 @@
       "rationale": "Open-source voxel game/engine facing an AI-generated copyright takedown, more policy incident than startup tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 481
+      "hnPoints": 500
     },
     {
       "id": 4428,
@@ -109493,7 +109493,7 @@
       "rationale": "Market news on Stripe dropping a PayPal bid, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 189
+      "hnPoints": 191
     },
     {
       "id": 4430,
@@ -109565,7 +109565,7 @@
       "rationale": "News/legal ruling rather than a software project, but relevant to enterprise AI vendors selling into government.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 570
+      "hnPoints": 594
     },
     {
       "id": 4433,
@@ -109589,7 +109589,7 @@
       "rationale": "A developer-focused essay on low-quality AI-generated contributions rather than a software project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 211
+      "hnPoints": 212
     },
     {
       "id": 4434,
@@ -110098,8 +110098,8 @@
       ],
       "topics": [],
       "rationale": "A PHP-to-native AOT compiler aimed at faster deployable binaries for developers.",
-      "stars": 855,
-      "stars7dDelta": 54,
+      "stars": 918,
+      "stars7dDelta": 117,
       "hnPoints": null
     },
     {
@@ -110124,7 +110124,7 @@
       "rationale": "Political/legal news about an activist hosting collective, not a software project or AI-era startup pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 564
+      "hnPoints": 674
     },
     {
       "id": 4456,
@@ -110148,7 +110148,7 @@
       "rationale": "Open-weight foundation model release for builders, signaling more competition in self-hosted LLM stacks.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 672
+      "hnPoints": 756
     },
     {
       "id": 4457,
@@ -110173,7 +110173,7 @@
       "rationale": "Research on autonomous multi-agent LLM systems for mathematical discovery, pointing to agentic science workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 100
+      "hnPoints": 114
     },
     {
       "id": 4458,
@@ -110221,7 +110221,7 @@
       "rationale": "Consumer IoT security guidance for hardening smart TVs against spying and remote misuse.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 173
+      "hnPoints": 190
     },
     {
       "id": 4460,
@@ -110294,7 +110294,7 @@
       "rationale": "Managed auth for startups; this post critiques Cognito's fit and pain points for business identity setup.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 174
+      "hnPoints": 184
     },
     {
       "id": 4463,
@@ -110367,7 +110367,7 @@
       "rationale": "News about a domain going offline from legal/political pressure, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 140
+      "hnPoints": 143
     },
     {
       "id": 4466,
@@ -110391,7 +110391,7 @@
       "rationale": "A technical exploration of using LLM memory for code/program analysis, pointing to developer tooling patterns.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 111
+      "hnPoints": 235
     },
     {
       "id": 4467,
@@ -110416,7 +110416,7 @@
       "rationale": "End-user local AI tool for musicians/creators to split songs into stems without cloud services.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 77
+      "hnPoints": 172
     },
     {
       "id": 4468,
@@ -110440,7 +110440,7 @@
       "rationale": "AI used to spot counterfeit cosmetics, a packaged detection use case for shoppers and brand protection.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 51
+      "hnPoints": 58
     },
     {
       "id": 4469,
@@ -110546,7 +110546,7 @@
       "url": "https://www.producthunt.com/products/mossy-2",
       "owner": null,
       "language": null,
-      "description": "A desk plant that wilts. You write what the break is. Discussion | Link",
+      "description": "A desk plant that wilts when you need a break Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-08-29T07:41:18+00:00",
       "bucket": "other",
@@ -110799,6 +110799,80 @@
       ],
       "topics": [],
       "rationale": "Developer-focused diff viewer that helps track code changes and progress, fitting a workflow tool rather than an AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 4484,
+      "source": "hn",
+      "sourceId": "49489982",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "owner": "pluc",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-29T16:54:44+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "debian",
+        "open-source",
+        "generative-ai",
+        "policy"
+      ],
+      "topics": [],
+      "rationale": "A distro governance policy on AI use, not a software product or dev tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 304
+    },
+    {
+      "id": 4485,
+      "source": "hn",
+      "sourceId": "49447178",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "owner": "andrewww-dev",
+      "language": null,
+      "description": "Hey HN!<p>I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.<p>After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like using RLS and SQL for authorization. With Convex I loved how your server &quot;lives&quot; in your code, but disliked the DB model and the realtime-first defaults.<p>With Typebase you just write TS files inside a typebase&#x2F; folder in your existing repo. You can define your DB tables inside a s",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-29T16:54:52+00:00",
+      "bucket": "web-framework",
+      "audience": "dev",
+      "tags": [
+        "typescript",
+        "backend",
+        "serverless",
+        "auth"
+      ],
+      "topics": [],
+      "rationale": "TypeScript backend framework/BaaS DX that bundles typed server functions, schema, auth, and deploy targets.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 4486,
+      "source": "product_hunt",
+      "sourceId": "1229483",
+      "title": "Tiles",
+      "url": "https://www.producthunt.com/products/tiles-5",
+      "owner": null,
+      "language": null,
+      "description": "Turning desktop chaos into curated spaces. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-29T16:55:11+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "desktop-organizer",
+        "workspace",
+        "productivity"
+      ],
+      "topics": [],
+      "rationale": "Desktop organization app for arranging clutter into tidy workspaces; not clearly AI, infra, or dev-focused.",
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
