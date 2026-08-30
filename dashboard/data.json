@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-29T16:55:29.508475+00:00",
+  "generatedAt": "2026-08-30T06:17:08.961790+00:00",
   "totals": {
-    "items": 4486,
+    "items": 4499,
     "byBucket": {
       "data": 127,
-      "ai-agent": 645,
-      "ai-app": 1024,
-      "ai-infra": 581,
-      "devtool": 400,
-      "other": 1443,
-      "security": 243,
+      "ai-agent": 646,
+      "ai-app": 1025,
+      "ai-infra": 584,
+      "devtool": 401,
+      "other": 1449,
+      "security": 244,
       "web-framework": 23
     },
     "byAudience": {
-      "B": 965,
-      "dev": 1719,
-      "both": 923,
-      "C": 871,
+      "B": 967,
+      "dev": 1725,
+      "both": 927,
+      "C": 872,
       "?": 7,
       "other": 1
     },
     "bySource": {
-      "github_trending": 203,
-      "hn": 2294,
+      "github_trending": 205,
+      "hn": 2305,
       "product_hunt": 1989
     }
   },
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 50887,
-      "stars7dDelta": 2804,
+      "stars": 51038,
+      "stars7dDelta": 2955,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 25134,
-      "stars7dDelta": 1281,
+      "stars": 25193,
+      "stars7dDelta": 1246,
       "hnPoints": null
     },
     {
@@ -35183,8 +35183,8 @@
         "video-production"
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
-      "stars": 53863,
-      "stars7dDelta": 2094,
+      "stars": 54218,
+      "stars7dDelta": 2449,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 22092,
-      "stars7dDelta": 2474,
+      "stars": 22293,
+      "stars7dDelta": 2675,
       "hnPoints": null
     },
     {
@@ -54783,8 +54783,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 37980,
-      "stars7dDelta": 4465,
+      "stars": 38186,
+      "stars7dDelta": 4671,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 30217,
-      "stars7dDelta": 13227,
+      "stars": 31777,
+      "stars7dDelta": 14787,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 25516,
-      "stars7dDelta": 2263,
+      "stars": 25612,
+      "stars7dDelta": 2248,
       "hnPoints": null
     },
     {
@@ -70812,7 +70812,7 @@
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
       "stars": 31398,
-      "stars7dDelta": 1606,
+      "stars7dDelta": 1488,
       "hnPoints": null
     },
     {
@@ -70848,7 +70848,7 @@
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
       "stars": 14290,
-      "stars7dDelta": 1522,
+      "stars7dDelta": 1438,
       "hnPoints": null
     },
     {
@@ -76883,8 +76883,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 26959,
-      "stars7dDelta": 2759,
+      "stars": 27110,
+      "stars7dDelta": 2758,
       "hnPoints": null
     },
     {
@@ -80852,8 +80852,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 30343,
-      "stars7dDelta": 2912,
+      "stars": 30865,
+      "stars7dDelta": 3302,
       "hnPoints": null
     },
     {
@@ -88075,8 +88075,8 @@
       ],
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
-      "stars": 3029,
-      "stars7dDelta": 134,
+      "stars": 3221,
+      "stars7dDelta": 326,
       "hnPoints": null
     },
     {
@@ -92612,7 +92612,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2225,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -92643,7 +92643,7 @@
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
       "stars": 8761,
-      "stars7dDelta": 168,
+      "stars7dDelta": 85,
       "hnPoints": null
     },
     {
@@ -92676,7 +92676,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 25500,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -96832,8 +96832,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 4978,
-      "stars7dDelta": 882,
+      "stars": 5148,
+      "stars7dDelta": 969,
       "hnPoints": null
     },
     {
@@ -100920,8 +100920,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 17578,
-      "stars7dDelta": 3586,
+      "stars": 17703,
+      "stars7dDelta": 3255,
       "hnPoints": null
     },
     {
@@ -102709,8 +102709,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 4014,
-      "stars7dDelta": 1813,
+      "stars": 4079,
+      "stars7dDelta": 1878,
       "hnPoints": null
     },
     {
@@ -103048,7 +103048,7 @@
       ],
       "rationale": "A developer terminal manager for running and organizing multiple AI coding agents, not a standalone agent product.",
       "stars": 1272,
-      "stars7dDelta": 217,
+      "stars7dDelta": 126,
       "hnPoints": null
     },
     {
@@ -103750,8 +103750,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 2692,
-      "stars7dDelta": 1967,
+      "stars": 2767,
+      "stars7dDelta": 2042,
       "hnPoints": null
     },
     {
@@ -103786,8 +103786,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 24953,
-      "stars7dDelta": 12508,
+      "stars": 25234,
+      "stars7dDelta": 12789,
       "hnPoints": null
     },
     {
@@ -106979,8 +106979,8 @@
         "web-design"
       ],
       "rationale": "A prompt/skill pack for coding agents, serving developers who want reusable agent workflows.",
-      "stars": 11303,
-      "stars7dDelta": 527,
+      "stars": 11678,
+      "stars7dDelta": 902,
       "hnPoints": null
     },
     {
@@ -108857,8 +108857,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 12197,
-      "stars7dDelta": 4394,
+      "stars": 12898,
+      "stars7dDelta": 5095,
       "hnPoints": null
     },
     {
@@ -109444,7 +109444,7 @@
       "rationale": "Open-source voxel game/engine facing an AI-generated copyright takedown, more policy incident than startup tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 500
+      "hnPoints": 517
     },
     {
       "id": 4428,
@@ -109565,7 +109565,7 @@
       "rationale": "News/legal ruling rather than a software project, but relevant to enterprise AI vendors selling into government.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 594
+      "hnPoints": 616
     },
     {
       "id": 4433,
@@ -110124,7 +110124,7 @@
       "rationale": "Political/legal news about an activist hosting collective, not a software project or AI-era startup pattern.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 674
+      "hnPoints": 698
     },
     {
       "id": 4456,
@@ -110148,7 +110148,7 @@
       "rationale": "Open-weight foundation model release for builders, signaling more competition in self-hosted LLM stacks.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 756
+      "hnPoints": 785
     },
     {
       "id": 4457,
@@ -110173,7 +110173,7 @@
       "rationale": "Research on autonomous multi-agent LLM systems for mathematical discovery, pointing to agentic science workflows.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 114
+      "hnPoints": 117
     },
     {
       "id": 4458,
@@ -110221,7 +110221,7 @@
       "rationale": "Consumer IoT security guidance for hardening smart TVs against spying and remote misuse.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 190
+      "hnPoints": 195
     },
     {
       "id": 4460,
@@ -110294,7 +110294,7 @@
       "rationale": "Managed auth for startups; this post critiques Cognito's fit and pain points for business identity setup.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 184
+      "hnPoints": 189
     },
     {
       "id": 4463,
@@ -110367,7 +110367,7 @@
       "rationale": "News about a domain going offline from legal/political pressure, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 143
+      "hnPoints": 144
     },
     {
       "id": 4466,
@@ -110391,7 +110391,7 @@
       "rationale": "A technical exploration of using LLM memory for code/program analysis, pointing to developer tooling patterns.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 235
+      "hnPoints": 284
     },
     {
       "id": 4467,
@@ -110416,7 +110416,7 @@
       "rationale": "End-user local AI tool for musicians/creators to split songs into stems without cloud services.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 172
+      "hnPoints": 215
     },
     {
       "id": 4468,
@@ -110826,7 +110826,7 @@
       "rationale": "A distro governance policy on AI use, not a software product or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 304
+      "hnPoints": 477
     },
     {
       "id": 4485,
@@ -110851,7 +110851,7 @@
       "rationale": "TypeScript backend framework/BaaS DX that bundles typed server functions, schema, auth, and deploy targets.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 47
+      "hnPoints": 105
     },
     {
       "id": 4486,
@@ -110876,6 +110876,330 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4487,
+      "source": "github_trending",
+      "sourceId": "THU-MAIC/OpenMAIC",
+      "title": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "owner": "THU-MAIC",
+      "language": "TypeScript",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "createdAt": "2026-03-11T10:13:16Z",
+      "firstSeenAt": "2026-08-30T06:14:33+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "multi-agent",
+        "classroom",
+        "course-generator"
+      ],
+      "topics": [],
+      "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
+      "stars": 22557,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 4488,
+      "source": "github_trending",
+      "sourceId": "workweave/router",
+      "title": "workweave/router",
+      "url": "https://github.com/workweave/router",
+      "owner": "workweave",
+      "language": "Go",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "createdAt": "2026-04-27T17:56:27Z",
+      "firstSeenAt": "2026-08-30T06:15:04+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-router",
+        "ai-gateway",
+        "openai-compatible",
+        "cost-optimization"
+      ],
+      "topics": [
+        "agentic-coding",
+        "ai-gateway",
+        "anthropic",
+        "claude-code",
+        "codex",
+        "model-router",
+        "openai-compatible"
+      ],
+      "rationale": "Drop-in model gateway for agentic apps that routes requests to the best LLM and cuts inference cost.",
+      "stars": 2868,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 4489,
+      "source": "hn",
+      "sourceId": "49469786",
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "owner": "sys42590",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:15:15+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "benchmarking",
+        "mobile-inference",
+        "on-device"
+      ],
+      "topics": [],
+      "rationale": "Benchmarks on-device LLM inference for phones, fitting infra evaluation rather than a user-facing app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 4490,
+      "source": "hn",
+      "sourceId": "49490870",
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "owner": "JumpCrisscross",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grace-roman-space-telescope-dark-energy-supernova\" rel=\"nofollow\">https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac...</a><p><a href=\"https:&#x2F;&#x2F;en.wikipe",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:15:21+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "space-telescope",
+        "nasa",
+        "astronomy",
+        "dark-energy"
+      ],
+      "topics": [],
+      "rationale": "NASA science mission for researchers and the public, not a software product or AI tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 174
+    },
+    {
+      "id": 4491,
+      "source": "hn",
+      "sourceId": "49494182",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "owner": "DeepLogin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:15:28+00:00",
+      "bucket": "security",
+      "audience": "B",
+      "tags": [
+        "license-plate",
+        "surveillance",
+        "law-enforcement"
+      ],
+      "topics": [],
+      "rationale": "Flock is B2B public-safety surveillance software funded by policy fees, not a consumer or dev product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 233
+    },
+    {
+      "id": 4492,
+      "source": "hn",
+      "sourceId": "49494301",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "owner": "consumer451",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:15:41+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-commentary",
+        "agents",
+        "podcast"
+      ],
+      "topics": [],
+      "rationale": "AI-focused essay/podcast content rather than a usable software project or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 27
+    },
+    {
+      "id": 4493,
+      "source": "hn",
+      "sourceId": "49494571",
+      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+      "url": "https://github.com/mk6i/open-oscar-server",
+      "owner": "gregsadetsky",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:15:50+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "chat-server",
+        "aim",
+        "icq",
+        "self-hosted"
+      ],
+      "topics": [],
+      "rationale": "Legacy IM protocol server for AIM/ICQ compatibility, aimed at self-hosters and protocol developers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 4494,
+      "source": "hn",
+      "sourceId": "49492584",
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "owner": "AlarQ",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:16:00+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "agent-design",
+        "domain-model",
+        "llm"
+      ],
+      "topics": [],
+      "rationale": "Conceptual guidance for building domain-specific agent systems, aimed at developers exploring better agent patterns.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 72
+    },
+    {
+      "id": 4495,
+      "source": "hn",
+      "sourceId": "49438865",
+      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
+      "url": "https://github.com/gbin/defragger",
+      "owner": "gbin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:16:06+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "linux",
+        "defragmenter",
+        "filesystem"
+      ],
+      "topics": [],
+      "rationale": "A niche Linux system utility for inspecting and defragmenting disks, aimed at technical users rather than app buyers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 43
+    },
+    {
+      "id": 4496,
+      "source": "hn",
+      "sourceId": "49491568",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "owner": "gpi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:16:18+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "culture",
+        "productivity",
+        "leadership"
+      ],
+      "topics": [],
+      "rationale": "A leadership newsletter/article, not a software product; it targets business teams with management advice.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 331
+    },
+    {
+      "id": 4497,
+      "source": "hn",
+      "sourceId": "49495845",
+      "title": "The Internet Archive's Vintage AI Collection",
+      "url": "https://archive.org/details/vintageai",
+      "owner": "OuterVale",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:16:25+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-history",
+        "digital-archive",
+        "vintage-software"
+      ],
+      "topics": [],
+      "rationale": "A curated archive of historical AI materials, useful for research and nostalgia rather than a live AI product or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 4498,
+      "source": "hn",
+      "sourceId": "49494036",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "url": "https://defrag98.com",
+      "owner": "throw0101a",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:16:35+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "retro",
+        "simulator",
+        "windows98",
+        "nostalgia"
+      ],
+      "topics": [],
+      "rationale": "A consumer nostalgia/entertainment web simulator, not AI, dev tooling, or core SaaS infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 108
+    },
+    {
+      "id": 4499,
+      "source": "hn",
+      "sourceId": "49492067",
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "owner": "mrrrcs",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-30T06:16:51+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-serving",
+        "inference",
+        "gpu"
+      ],
+      "topics": [],
+      "rationale": "Open-source LLM inference/serving engine for developers building high-throughput model APIs.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 106
     }
   ]
 }
