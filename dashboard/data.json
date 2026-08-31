@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-08-30T17:06:56.174150+00:00",
+  "generatedAt": "2026-08-31T06:42:02.458153+00:00",
   "totals": {
-    "items": 4533,
+    "items": 4541,
     "byBucket": {
-      "data": 127,
+      "data": 128,
       "ai-agent": 648,
       "ai-app": 1033,
-      "ai-infra": 587,
-      "devtool": 401,
-      "other": 1468,
+      "ai-infra": 589,
+      "devtool": 402,
+      "other": 1472,
       "security": 246,
       "web-framework": 23
     },
     "byAudience": {
       "B": 972,
-      "dev": 1733,
-      "both": 936,
-      "C": 884,
+      "dev": 1737,
+      "both": 938,
+      "C": 886,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 206,
-      "hn": 2320,
+      "hn": 2328,
       "product_hunt": 2007
     }
   },
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 51204,
-      "stars7dDelta": 3121,
+      "stars": 51382,
+      "stars7dDelta": 3299,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 25245,
-      "stars7dDelta": 1198,
+      "stars": 25317,
+      "stars7dDelta": 1117,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 22583,
-      "stars7dDelta": 2965,
+      "stars": 23005,
+      "stars7dDelta": 3387,
       "hnPoints": null
     },
     {
@@ -54783,8 +54783,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 38380,
-      "stars7dDelta": 4865,
+      "stars": 38669,
+      "stars7dDelta": 5154,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 33738,
-      "stars7dDelta": 16748,
+      "stars": 35845,
+      "stars7dDelta": 18855,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 25712,
-      "stars7dDelta": 2211,
+      "stars": 25841,
+      "stars7dDelta": 2164,
       "hnPoints": null
     },
     {
@@ -70812,7 +70812,7 @@
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
       "stars": 31398,
-      "stars7dDelta": 1251,
+      "stars7dDelta": 1006,
       "hnPoints": null
     },
     {
@@ -70848,7 +70848,7 @@
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
       "stars": 14290,
-      "stars7dDelta": 1296,
+      "stars7dDelta": 1146,
       "hnPoints": null
     },
     {
@@ -76883,8 +76883,8 @@
         "study-tools"
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
-      "stars": 27250,
-      "stars7dDelta": 2538,
+      "stars": 27396,
+      "stars7dDelta": 2319,
       "hnPoints": null
     },
     {
@@ -80852,8 +80852,8 @@
       ],
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
-      "stars": 31776,
-      "stars7dDelta": 3820,
+      "stars": 32336,
+      "stars7dDelta": 3882,
       "hnPoints": null
     },
     {
@@ -88075,8 +88075,8 @@
       ],
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
-      "stars": 3346,
-      "stars7dDelta": 451,
+      "stars": 3396,
+      "stars7dDelta": 501,
       "hnPoints": null
     },
     {
@@ -92643,7 +92643,7 @@
       ],
       "rationale": "A 14MB quantized model package for inference and fine-tuning, aimed at infra for tiny-device LLM use.",
       "stars": 8761,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -96832,8 +96832,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 5201,
-      "stars7dDelta": 887,
+      "stars": 5269,
+      "stars7dDelta": 955,
       "hnPoints": null
     },
     {
@@ -100920,8 +100920,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 17818,
-      "stars7dDelta": 2801,
+      "stars": 17966,
+      "stars7dDelta": 2429,
       "hnPoints": null
     },
     {
@@ -102709,8 +102709,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 4149,
-      "stars7dDelta": 1770,
+      "stars": 4243,
+      "stars7dDelta": 1596,
       "hnPoints": null
     },
     {
@@ -103750,8 +103750,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 2838,
-      "stars7dDelta": 1842,
+      "stars": 2944,
+      "stars7dDelta": 1728,
       "hnPoints": null
     },
     {
@@ -103786,8 +103786,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 25561,
-      "stars7dDelta": 12613,
+      "stars": 25911,
+      "stars7dDelta": 10972,
       "hnPoints": null
     },
     {
@@ -106979,8 +106979,8 @@
         "web-design"
       ],
       "rationale": "A prompt/skill pack for coding agents, serving developers who want reusable agent workflows.",
-      "stars": 11740,
-      "stars7dDelta": 964,
+      "stars": 11819,
+      "stars7dDelta": 1043,
       "hnPoints": null
     },
     {
@@ -110826,7 +110826,7 @@
       "rationale": "A distro governance policy on AI use, not a software product or dev tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 492
+      "hnPoints": 500
     },
     {
       "id": 4485,
@@ -110897,8 +110897,8 @@
       ],
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
-      "stars": 23492,
-      "stars7dDelta": 935,
+      "stars": 24922,
+      "stars7dDelta": 2365,
       "hnPoints": null
     },
     {
@@ -110981,7 +110981,7 @@
       "rationale": "NASA science mission for researchers and the public, not a software product or AI tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 265
+      "hnPoints": 286
     },
     {
       "id": 4491,
@@ -111005,7 +111005,7 @@
       "rationale": "Flock is B2B public-safety surveillance software funded by policy fees, not a consumer or dev product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 384
+      "hnPoints": 418
     },
     {
       "id": 4492,
@@ -111029,7 +111029,7 @@
       "rationale": "AI-focused essay/podcast content rather than a usable software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 234
     },
     {
       "id": 4493,
@@ -111054,7 +111054,7 @@
       "rationale": "Legacy IM protocol server for AIM/ICQ compatibility, aimed at self-hosters and protocol developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 53
+      "hnPoints": 64
     },
     {
       "id": 4494,
@@ -111078,7 +111078,7 @@
       "rationale": "Conceptual guidance for building domain-specific agent systems, aimed at developers exploring better agent patterns.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 90
+      "hnPoints": 93
     },
     {
       "id": 4495,
@@ -111126,7 +111126,7 @@
       "rationale": "A leadership newsletter/article, not a software product; it targets business teams with management advice.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 426
+      "hnPoints": 456
     },
     {
       "id": 4497,
@@ -111175,7 +111175,7 @@
       "rationale": "A consumer nostalgia/entertainment web simulator, not AI, dev tooling, or core SaaS infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 123
+      "hnPoints": 130
     },
     {
       "id": 4499,
@@ -111228,8 +111228,8 @@
         "skill"
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
-      "stars": 5596,
-      "stars7dDelta": 0,
+      "stars": 5905,
+      "stars7dDelta": 309,
       "hnPoints": null
     },
     {
@@ -111254,7 +111254,7 @@
       "rationale": "Desktop OS beta release for users and developers; not an AI, framework, or data/security tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 54
+      "hnPoints": 292
     },
     {
       "id": 4502,
@@ -111278,7 +111278,7 @@
       "rationale": "Science article, not a software product; it discusses atmospheric corrosion rather than any dev/AI category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 13
+      "hnPoints": 107
     },
     {
       "id": 4503,
@@ -111302,7 +111302,7 @@
       "rationale": "Research paper on geodesic paths, not a software product or AI-agent-era startup tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 164
+      "hnPoints": 201
     },
     {
       "id": 4504,
@@ -111350,7 +111350,7 @@
       "rationale": "An essay about AI coding history, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 79
+      "hnPoints": 136
     },
     {
       "id": 4506,
@@ -111374,7 +111374,7 @@
       "rationale": "A coding agent's git workflow tweak for auto-linking sessions into commits and PRs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 110
+      "hnPoints": 192
     },
     {
       "id": 4507,
@@ -111399,7 +111399,7 @@
       "rationale": "A security incident writeup about a Hugging Face hack, aimed at understanding breach lessons for organizations.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 6
+      "hnPoints": 242
     },
     {
       "id": 4508,
@@ -111447,7 +111447,7 @@
       "rationale": "Not a software tool; reads like an AI-usage policy/culture site for teams and individuals.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 269
     },
     {
       "id": 4510,
@@ -111519,7 +111519,7 @@
       "rationale": "A citywide hack/extortion story centered on cyber risk and incident response, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 7
+      "hnPoints": 42
     },
     {
       "id": 4513,
@@ -112027,6 +112027,200 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4534,
+      "source": "hn",
+      "sourceId": "49505219",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "owner": "dbalatero",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:40:36+00:00",
+      "bucket": "data",
+      "audience": "dev",
+      "tags": [
+        "autocomplete",
+        "search",
+        "domain-names",
+        "performance"
+      ],
+      "topics": [],
+      "rationale": "Engineering writeup on ultra-fast large-scale autocomplete, relevant to search/indexing patterns for developers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 58
+    },
+    {
+      "id": 4535,
+      "source": "hn",
+      "sourceId": "49503956",
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "owner": "volodia",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:40:44+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "diffusion",
+        "language-model",
+        "training"
+      ],
+      "topics": [],
+      "rationale": "A technical guide to building a new LLM architecture, aimed at practitioners rather than end users.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 48
+    },
+    {
+      "id": 4536,
+      "source": "hn",
+      "sourceId": "49504625",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:40:51+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "chatgpt",
+        "llm",
+        "workflows"
+      ],
+      "topics": [],
+      "rationale": "A blog post analyzing ChatGPT usage, not a shippable product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 126
+    },
+    {
+      "id": 4537,
+      "source": "hn",
+      "sourceId": "49502611",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "owner": "peter_d_sherman",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:41:02+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "diffusion-models",
+        "language-models",
+        "research",
+        "training"
+      ],
+      "topics": [],
+      "rationale": "Research on diffusion-based language model architectures, relevant to model builders rather than an end-user product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 80
+    },
+    {
+      "id": 4538,
+      "source": "hn",
+      "sourceId": "49450461",
+      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+      "owner": "baud147258",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:41:09+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "bike-power",
+        "sustainability",
+        "low-tech"
+      ],
+      "topics": [],
+      "rationale": "A consumer-facing sustainability article, not a software project or AI-era startup tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 41
+    },
+    {
+      "id": 4539,
+      "source": "hn",
+      "sourceId": "49505043",
+      "title": "Show HN: Prove your code produced your claims without making reviewers rerun it",
+      "url": "https://github.com/27-GROUP/kveritas-go/",
+      "owner": "Mkld27",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:41:15+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "verifiable",
+        "provenance",
+        "attestation"
+      ],
+      "topics": [],
+      "rationale": "A developer tool for proving computation results and claims without requiring reviewers to rerun the code.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 4540,
+      "source": "hn",
+      "sourceId": "49505006",
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "owner": "razorbeamz",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:41:25+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "ddos",
+        "wiki",
+        "gaming"
+      ],
+      "topics": [],
+      "rationale": "News about a gaming wiki outage from DDoS, not a distinct software product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 4541,
+      "source": "hn",
+      "sourceId": "49505014",
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "owner": "hanstyle",
+      "language": null,
+      "description": "When AI makes results readily available, why do I lose my passion and want to do nothing?",
+      "createdAt": null,
+      "firstSeenAt": "2026-08-31T06:41:43+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-cognition",
+        "motivation",
+        "discussion"
+      ],
+      "topics": [],
+      "rationale": "A discussion topic about AI and motivation, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
     }
   ]
 }
