@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-02T17:01:45.148984+00:00",
+  "generatedAt": "2026-09-03T05:32:17.865812+00:00",
   "totals": {
-    "items": 4658,
+    "items": 4673,
     "byBucket": {
-      "data": 132,
+      "data": 133,
       "ai-agent": 659,
       "ai-app": 1061,
-      "ai-infra": 602,
+      "ai-infra": 604,
       "devtool": 412,
-      "other": 1519,
-      "security": 250,
+      "other": 1530,
+      "security": 251,
       "web-framework": 23
     },
     "byAudience": {
-      "B": 987,
-      "dev": 1771,
-      "both": 972,
-      "C": 920,
+      "B": 993,
+      "dev": 1774,
+      "both": 973,
+      "C": 925,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 211,
-      "hn": 2381,
+      "hn": 2396,
       "product_hunt": 2066
     }
   },
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 52032,
-      "stars7dDelta": 2164,
+      "stars": 52118,
+      "stars7dDelta": 2250,
       "hnPoints": null
     },
     {
@@ -24977,8 +24977,8 @@
         "skills"
       ],
       "rationale": "Reusable skills let developers wire agents into Google Cloud and Gemini products.",
-      "stars": 19234,
-      "stars7dDelta": 115,
+      "stars": 19298,
+      "stars7dDelta": 179,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 25685,
-      "stars7dDelta": 883,
+      "stars": 25743,
+      "stars7dDelta": 941,
       "hnPoints": null
     },
     {
@@ -35183,8 +35183,8 @@
         "video-production"
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
-      "stars": 55596,
-      "stars7dDelta": 3827,
+      "stars": 55760,
+      "stars7dDelta": 3991,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 23826,
-      "stars7dDelta": 2962,
+      "stars": 23946,
+      "stars7dDelta": 3082,
       "hnPoints": null
     },
     {
@@ -50540,8 +50540,8 @@
         "tokens"
       ],
       "rationale": "Prompt skill for AI coding tools that reduces verbose agent output, pointing to lightweight agent-UX optimization gaps.",
-      "stars": 102492,
-      "stars7dDelta": 0,
+      "stars": 102743,
+      "stars7dDelta": 251,
       "hnPoints": null
     },
     {
@@ -54783,8 +54783,8 @@
         "resume"
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
-      "stars": 40189,
-      "stars7dDelta": 2748,
+      "stars": 40366,
+      "stars7dDelta": 2925,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 43497,
-      "stars7dDelta": 22793,
+      "stars": 44286,
+      "stars7dDelta": 23582,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 26634,
-      "stars7dDelta": 1827,
+      "stars": 26763,
+      "stars7dDelta": 1956,
       "hnPoints": null
     },
     {
@@ -85845,8 +85845,8 @@
       ],
       "topics": [],
       "rationale": "Infra for agent computer-use: virtual filesystem plus sandbox runtimes for tools, shells, and browser workflows.",
-      "stars": 8884,
-      "stars7dDelta": 0,
+      "stars": 8923,
+      "stars7dDelta": 39,
       "hnPoints": null
     },
     {
@@ -85882,8 +85882,8 @@
         "workflow-automation"
       ],
       "rationale": "Agent-agnostic control plane for durable long-running agent workflows, not an end-user app.",
-      "stars": 5438,
-      "stars7dDelta": 56,
+      "stars": 5476,
+      "stars7dDelta": 94,
       "hnPoints": null
     },
     {
@@ -88078,8 +88078,8 @@
       ],
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
-      "stars": 3588,
-      "stars7dDelta": 693,
+      "stars": 3658,
+      "stars7dDelta": 763,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 18554,
-      "stars7dDelta": 1548,
+      "stars": 18629,
+      "stars7dDelta": 1623,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 4550,
-      "stars7dDelta": 852,
+      "stars": 4584,
+      "stars7dDelta": 886,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 3249,
-      "stars7dDelta": 905,
+      "stars": 3306,
+      "stars7dDelta": 962,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 27313,
-      "stars7dDelta": 4897,
+      "stars": 27491,
+      "stars7dDelta": 5075,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 121045,
-      "stars7dDelta": 7701,
+      "stars": 122064,
+      "stars7dDelta": 8720,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 15785,
-      "stars7dDelta": 7982,
+      "stars": 16326,
+      "stars7dDelta": 8523,
       "hnPoints": null
     },
     {
@@ -110900,8 +110900,8 @@
       ],
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
-      "stars": 30401,
-      "stars7dDelta": 7844,
+      "stars": 30677,
+      "stars7dDelta": 8120,
       "hnPoints": null
     },
     {
@@ -111546,7 +111546,7 @@
       "rationale": "Research article on how LLMs affect language diversity, not a software product or tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 14
+      "hnPoints": 92
     },
     {
       "id": 4514,
@@ -112985,8 +112985,8 @@
         "coding"
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
-      "stars": 31841,
-      "stars7dDelta": 706,
+      "stars": 32067,
+      "stars7dDelta": 932,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 14253,
-      "stars7dDelta": 784,
+      "stars": 15140,
+      "stars7dDelta": 1671,
       "hnPoints": null
     },
     {
@@ -113095,8 +113095,8 @@
         "speculative-sampling"
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
-      "stars": 1940,
-      "stars7dDelta": 66,
+      "stars": 1966,
+      "stars7dDelta": 92,
       "hnPoints": null
     },
     {
@@ -113121,7 +113121,7 @@
       "rationale": "HN hiring thread, a recurring job marketplace rather than a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 231
+      "hnPoints": 236
     },
     {
       "id": 4577,
@@ -113145,7 +113145,7 @@
       "rationale": "Model-training experiment on ARC, centered on a small transformer benchmarked against larger LLMs.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 643
+      "hnPoints": 652
     },
     {
       "id": 4578,
@@ -113241,7 +113241,7 @@
       "rationale": "This is commentary on AI and layoffs in games, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 238
     },
     {
       "id": 4582,
@@ -113265,7 +113265,7 @@
       "rationale": "A consumer/business mapping product seeing renewed use, but it isn't an AI or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 118
+      "hnPoints": 119
     },
     {
       "id": 4583,
@@ -113313,7 +113313,7 @@
       "rationale": "It's a commentary blog post about AI productivity tradeoffs, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 181
+      "hnPoints": 188
     },
     {
       "id": 4585,
@@ -113942,7 +113942,7 @@
       "rationale": "New Anthropic model release for API users; infra-level LLM capability rather than a packaged app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1353
+      "hnPoints": 1385
     },
     {
       "id": 4611,
@@ -113966,7 +113966,7 @@
       "rationale": "Commentary article on Ed Zitron's AI skepticism, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 818
+      "hnPoints": 843
     },
     {
       "id": 4612,
@@ -113991,7 +113991,7 @@
       "rationale": "Technical analysis of LLM inference tradeoffs for teams optimizing model serving cost, speed, and quality.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 145
+      "hnPoints": 149
     },
     {
       "id": 4613,
@@ -114016,7 +114016,7 @@
       "rationale": "Consumer browser extension filters YouTube's AI-labeled videos locally rather than providing AI functionality itself.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 176
     },
     {
       "id": 4614,
@@ -114040,7 +114040,7 @@
       "rationale": "Shows an AI product bundling a mature desktop tool to close the document-editing gap.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 470
+      "hnPoints": 480
     },
     {
       "id": 4615,
@@ -114089,7 +114089,7 @@
       "rationale": "Low-cost robot hardware for robotics developers; it's a dev platform, but not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 193
+      "hnPoints": 195
     },
     {
       "id": 4617,
@@ -114186,7 +114186,7 @@
       "rationale": "A legal/forensics story, not a software project; it reflects enterprise litigation and device evidence handling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 234
+      "hnPoints": 242
     },
     {
       "id": 4621,
@@ -114225,8 +114225,8 @@
         "skills"
       ],
       "rationale": "Dev tooling for managing agent runs and commits, not a user-facing AI product.",
-      "stars": 2730,
-      "stars7dDelta": 0,
+      "stars": 2999,
+      "stars7dDelta": 269,
       "hnPoints": null
     },
     {
@@ -114257,7 +114257,7 @@
       "id": 4623,
       "source": "hn",
       "sourceId": "49535284",
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "owner": "teekert",
       "language": null,
@@ -114275,7 +114275,7 @@
       "rationale": "Model-provider policy on user data training, relevant to both consumer and business tiers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 197
+      "hnPoints": 404
     },
     {
       "id": 4624,
@@ -114299,13 +114299,13 @@
       "rationale": "An investigative report about AI-cited software pages, not a software product itself.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 158
+      "hnPoints": 354
     },
     {
       "id": 4625,
       "source": "hn",
       "sourceId": "49535548",
-      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "title": "Aging brains blend memories together instead of just forgetting them",
       "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
       "owner": "mdp2021",
       "language": null,
@@ -114323,7 +114323,7 @@
       "rationale": "Consumer neuroscience article, not a software project or AI-agent-era tooling opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 86
+      "hnPoints": 240
     },
     {
       "id": 4626,
@@ -114348,7 +114348,7 @@
       "rationale": "Enables developers to run LLM inference in the browser, pointing to demand for client-side AI infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 35
+      "hnPoints": 100
     },
     {
       "id": 4627,
@@ -114373,7 +114373,7 @@
       "rationale": "Research report auditing Perplexity citation accuracy, signaling trust gaps in AI search rather than a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 53
+      "hnPoints": 124
     },
     {
       "id": 4628,
@@ -114397,7 +114397,7 @@
       "rationale": "Agentic security research found curl vulnerabilities; the angle is automated vuln discovery, not an end-user AI app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 163
     },
     {
       "id": 4629,
@@ -114421,7 +114421,7 @@
       "rationale": "AI content checker for detecting Claude-generated files; a trust/verification tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 86
+      "hnPoints": 157
     },
     {
       "id": 4630,
@@ -114445,7 +114445,7 @@
       "rationale": "A model comparison/eval page focused on LLM performance vs price, useful for picking cheaper models.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 48
+      "hnPoints": 75
     },
     {
       "id": 4631,
@@ -114469,7 +114469,7 @@
       "rationale": "A foundational model release for builders, not an end-user AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 126
+      "hnPoints": 167
     },
     {
       "id": 4632,
@@ -114940,7 +114940,7 @@
       "url": "https://www.producthunt.com/products/parasocial",
       "owner": null,
       "language": null,
-      "description": "A fast, native podcast player for power listeners. Discussion | Link",
+      "description": "The podcast player for sharing. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-02T17:00:02+00:00",
       "bucket": "other",
@@ -115124,6 +115124,370 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4659,
+      "source": "hn",
+      "sourceId": "49541256",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "owner": "bvaldivielso",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3\" rel=\"nofollow\">https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:29:19+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "foundation-model",
+        "meta",
+        "model-api"
+      ],
+      "topics": [],
+      "rationale": "A Meta model release for developers, fitting AI infra rather than a user-facing app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 480
+    },
+    {
+      "id": 4660,
+      "source": "hn",
+      "sourceId": "49543530",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530",
+      "owner": "lloydarmbrust",
+      "language": null,
+      "description": "Hi HN,<p>I’m Lloyd, one of two founders of RonanRx (<a href=\"https:&#x2F;&#x2F;ronanrx.com&#x2F;\">https:&#x2F;&#x2F;ronanrx.com&#x2F;</a>). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.<p>The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:29:29+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "telehealth",
+        "glp-1",
+        "compounding",
+        "pharmacy"
+      ],
+      "topics": [],
+      "rationale": "Consumer telehealth pharmacy for GLP-1s and peptides, with software as an internal enabler rather than the product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 41
+    },
+    {
+      "id": 4661,
+      "source": "hn",
+      "sourceId": "49509606",
+      "title": "Creating Backup Storage Sucks",
+      "url": "https://smarmelling.com/posts/creating-backup-storage-sucks.html",
+      "owner": "smarmelling",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:29:36+00:00",
+      "bucket": "data",
+      "audience": "B",
+      "tags": [
+        "backup",
+        "object-storage",
+        "retention"
+      ],
+      "topics": [],
+      "rationale": "Backup storage is data infra for retaining copies of data; it's mainly a business reliability need.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 4662,
+      "source": "hn",
+      "sourceId": "49524428",
+      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+      "owner": "ck2",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:29:47+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "mail-ballot",
+        "postal-service",
+        "whistleblower"
+      ],
+      "topics": [],
+      "rationale": "Government mail-ballot system issue, not a software product category.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 208
+    },
+    {
+      "id": 4663,
+      "source": "hn",
+      "sourceId": "49528506",
+      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+      "url": "https://owntime.app/",
+      "owner": "fmos",
+      "language": null,
+      "description": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of &quot;roles&quot; from &quot;The 5 Choices&quot; (2015), and my repeated failure to effectively implement time blocking due to the necessary flexibility in my role.<p>The app allows you to define time budgets, which are not much more than a few mutually exclusive countdown timers. The UX is essentially that of a chess clock for an arbitrary number of players with configurab",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:29:52+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "time-blocking",
+        "chess-clock",
+        "watchos",
+        "ios"
+      ],
+      "topics": [],
+      "rationale": "A personal productivity timer app for managing priorities, not an AI or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 4664,
+      "source": "hn",
+      "sourceId": "49540565",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "owner": "gumby",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:30:05+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "aviation",
+        "engine-failure",
+        "incident-report"
+      ],
+      "topics": [],
+      "rationale": "It's a longform aviation incident article, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 103
+    },
+    {
+      "id": 4665,
+      "source": "hn",
+      "sourceId": "49521909",
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "owner": "torutofu",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:30:15+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "compression",
+        "cache",
+        "zstandard",
+        "pingora"
+      ],
+      "topics": [],
+      "rationale": "Engineering infra post on cache compression savings, not a user-facing app or framework.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 87
+    },
+    {
+      "id": 4666,
+      "source": "hn",
+      "sourceId": "49541754",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "owner": "Eridanus2",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:30:26+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "historical-code",
+        "basic",
+        "source-pdf"
+      ],
+      "topics": [],
+      "rationale": "Archived 1975 source code PDF, not a product or tool; mainly of interest to developers and computing historians.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 50
+    },
+    {
+      "id": 4667,
+      "source": "hn",
+      "sourceId": "49528174",
+      "title": "A docs page is a search query to find AI agents and route them to your company",
+      "url": "https://blog.val.town/aeo",
+      "owner": "stevekrouse",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:30:38+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "agent-discovery",
+        "docs-seo",
+        "routing"
+      ],
+      "topics": [],
+      "rationale": "It reads like a strategy/marketing concept for agent discovery, not a distinct software product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 4668,
+      "source": "hn",
+      "sourceId": "49539389",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "owner": "judah",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:30:51+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "image-editor",
+        "linux-port",
+        "alpha"
+      ],
+      "topics": [],
+      "rationale": "Desktop image editor update for Linux users; not an AI, devtool, or infra project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 186
+    },
+    {
+      "id": 4669,
+      "source": "hn",
+      "sourceId": "49544650",
+      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "owner": "joshka",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:30:58+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "copyright",
+        "llm-training",
+        "openai"
+      ],
+      "topics": [],
+      "rationale": "It concerns LLM training policy and data rights, an AI infra concern for model builders.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 4670,
+      "source": "hn",
+      "sourceId": "49543841",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "owner": "stikit",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:31:12+00:00",
+      "bucket": "security",
+      "audience": "B",
+      "tags": [
+        "incident-report",
+        "llm-security",
+        "openai",
+        "hugging-face"
+      ],
+      "topics": [],
+      "rationale": "Security incident writeup, not a product; useful to businesses tracking LLM supply-chain and auth gaps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 101
+    },
+    {
+      "id": 4671,
+      "source": "hn",
+      "sourceId": "49538633",
+      "title": "The race to engineer new knobs for the human brain",
+      "url": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
+      "owner": "pminimax",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:31:21+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "neurotech",
+        "brain-computer",
+        "ai-research"
+      ],
+      "topics": [],
+      "rationale": "This is an editorial on neurotech, not a software product, so it fits no startup tooling bucket.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 41
+    },
+    {
+      "id": 4672,
+      "source": "hn",
+      "sourceId": "49544762",
+      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:31:33+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "go",
+        "katago",
+        "board-game"
+      ],
+      "topics": [],
+      "rationale": "This is a news story about a human beating an AI in Go, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 4673,
+      "source": "hn",
+      "sourceId": "49542443",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "owner": "handfuloflight",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-03T05:31:53+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "ai-policy",
+        "education",
+        "nyc-schools"
+      ],
+      "topics": [],
+      "rationale": "This is a policy story, not a software product; it reflects school-system AI governance rather than a tool gap.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 158
     }
   ]
 }
