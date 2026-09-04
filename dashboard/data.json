@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-03T16:48:52.370339+00:00",
+  "generatedAt": "2026-09-04T05:35:21.933593+00:00",
   "totals": {
-    "items": 4703,
+    "items": 4720,
     "byBucket": {
-      "data": 133,
-      "ai-agent": 664,
+      "data": 134,
+      "ai-agent": 665,
       "ai-app": 1069,
-      "ai-infra": 609,
-      "devtool": 416,
-      "other": 1538,
-      "security": 251,
+      "ai-infra": 614,
+      "devtool": 419,
+      "other": 1544,
+      "security": 252,
       "web-framework": 23
     },
     "byAudience": {
-      "B": 998,
-      "dev": 1783,
-      "both": 984,
-      "C": 930,
+      "B": 1000,
+      "dev": 1792,
+      "both": 988,
+      "C": 932,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 213,
-      "hn": 2408,
+      "hn": 2425,
       "product_hunt": 2082
     }
   },
@@ -5488,8 +5488,8 @@
         "typescript"
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
-      "stars": 52236,
-      "stars7dDelta": 2103,
+      "stars": 52326,
+      "stars7dDelta": 1872,
       "hnPoints": null
     },
     {
@@ -23598,7 +23598,7 @@
       ],
       "rationale": "Consumer AI job-search command center automates application tracking, resume tailoring, and interview prep.",
       "stars": 68875,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -24977,8 +24977,8 @@
         "skills"
       ],
       "rationale": "Reusable skills let developers wire agents into Google Cloud and Gemini products.",
-      "stars": 19362,
-      "stars7dDelta": 243,
+      "stars": 19420,
+      "stars7dDelta": 301,
       "hnPoints": null
     },
     {
@@ -30633,8 +30633,8 @@
         "vector-search"
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
-      "stars": 25825,
-      "stars7dDelta": 965,
+      "stars": 25871,
+      "stars7dDelta": 904,
       "hnPoints": null
     },
     {
@@ -35184,7 +35184,7 @@
       ],
       "rationale": "Agentic multi-tool video studio that turns coding assistants into autonomous production workflows.",
       "stars": 55760,
-      "stars7dDelta": 3464,
+      "stars7dDelta": 2849,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 24059,
-      "stars7dDelta": 3022,
+      "stars": 24162,
+      "stars7dDelta": 2849,
       "hnPoints": null
     },
     {
@@ -50540,8 +50540,8 @@
         "tokens"
       ],
       "rationale": "Prompt skill for AI coding tools that reduces verbose agent output, pointing to lightweight agent-UX optimization gaps.",
-      "stars": 102976,
-      "stars7dDelta": 484,
+      "stars": 103196,
+      "stars7dDelta": 704,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 45364,
-      "stars7dDelta": 22418,
+      "stars": 46345,
+      "stars7dDelta": 20839,
       "hnPoints": null
     },
     {
@@ -68357,7 +68357,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 26763,
-      "stars7dDelta": 1801,
+      "stars7dDelta": 1557,
       "hnPoints": null
     },
     {
@@ -70812,7 +70812,7 @@
       "topics": [],
       "rationale": "Self-hosted team workspace for humans and AI agents to collaborate, hinting at Slack-like ops for agentic work.",
       "stars": 31398,
-      "stars7dDelta": 274,
+      "stars7dDelta": 182,
       "hnPoints": null
     },
     {
@@ -70848,7 +70848,7 @@
       ],
       "rationale": "Agent-native browser lets humans and AI run parallel web tasks without tab conflicts or separate automation setup.",
       "stars": 14290,
-      "stars7dDelta": 307,
+      "stars7dDelta": 187,
       "hnPoints": null
     },
     {
@@ -76884,7 +76884,7 @@
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
       "stars": 27658,
-      "stars7dDelta": 1470,
+      "stars7dDelta": 1162,
       "hnPoints": null
     },
     {
@@ -80853,7 +80853,7 @@
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
       "stars": 33853,
-      "stars7dDelta": 3995,
+      "stars7dDelta": 3819,
       "hnPoints": null
     },
     {
@@ -85845,8 +85845,8 @@
       ],
       "topics": [],
       "rationale": "Infra for agent computer-use: virtual filesystem plus sandbox runtimes for tools, shells, and browser workflows.",
-      "stars": 8964,
-      "stars7dDelta": 80,
+      "stars": 8990,
+      "stars7dDelta": 106,
       "hnPoints": null
     },
     {
@@ -85882,8 +85882,8 @@
         "workflow-automation"
       ],
       "rationale": "Agent-agnostic control plane for durable long-running agent workflows, not an end-user app.",
-      "stars": 5539,
-      "stars7dDelta": 157,
+      "stars": 5576,
+      "stars7dDelta": 194,
       "hnPoints": null
     },
     {
@@ -88079,7 +88079,7 @@
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
       "stars": 3658,
-      "stars7dDelta": 735,
+      "stars7dDelta": 704,
       "hnPoints": null
     },
     {
@@ -96836,7 +96836,7 @@
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
       "stars": 5373,
-      "stars7dDelta": 395,
+      "stars7dDelta": 225,
       "hnPoints": null
     },
     {
@@ -98777,7 +98777,7 @@
       ],
       "rationale": "Local multi-agent harness that orchestrates coding agents and CLIs on a developer machine.",
       "stars": 5428,
-      "stars7dDelta": 387,
+      "stars7dDelta": 295,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 18720,
-      "stars7dDelta": 1586,
+      "stars": 18973,
+      "stars7dDelta": 1698,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 4635,
-      "stars7dDelta": 875,
+      "stars": 4663,
+      "stars7dDelta": 824,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 3336,
-      "stars7dDelta": 938,
+      "stars": 3366,
+      "stars7dDelta": 882,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 27702,
-      "stars7dDelta": 4748,
+      "stars": 27811,
+      "stars7dDelta": 3846,
       "hnPoints": null
     },
     {
@@ -104662,7 +104662,7 @@
       ],
       "rationale": "AI note-taking product for Obsidian that turns sources into linked, cited personal knowledge.",
       "stars": 13959,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 123066,
-      "stars7dDelta": 9099,
+      "stars": 123775,
+      "stars7dDelta": 8966,
       "hnPoints": null
     },
     {
@@ -106983,7 +106983,7 @@
       ],
       "rationale": "A prompt/skill pack for coding agents, serving developers who want reusable agent workflows.",
       "stars": 12033,
-      "stars7dDelta": 730,
+      "stars7dDelta": 355,
       "hnPoints": null
     },
     {
@@ -107020,7 +107020,7 @@
       ],
       "rationale": "Self-hosted reading and media-library platform for personal ebook, PDF, comic, and audiobook management.",
       "stars": 3601,
-      "stars7dDelta": 222,
+      "stars7dDelta": 159,
       "hnPoints": null
     },
     {
@@ -107877,7 +107877,7 @@
       ],
       "rationale": "Privacy-first self-hosted personal finance app, not AI or dev infra; reflects demand for user-owned financial data.",
       "stars": 2391,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 16776,
-      "stars7dDelta": 8973,
+      "stars": 17056,
+      "stars7dDelta": 7048,
       "hnPoints": null
     },
     {
@@ -110900,8 +110900,8 @@
       ],
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
-      "stars": 30971,
-      "stars7dDelta": 8414,
+      "stars": 31159,
+      "stars7dDelta": 8602,
       "hnPoints": null
     },
     {
@@ -111231,8 +111231,8 @@
         "skill"
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
-      "stars": 7188,
-      "stars7dDelta": 1592,
+      "stars": 7251,
+      "stars7dDelta": 1655,
       "hnPoints": null
     },
     {
@@ -112985,8 +112985,8 @@
         "coding"
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
-      "stars": 32259,
-      "stars7dDelta": 1124,
+      "stars": 32409,
+      "stars7dDelta": 1274,
       "hnPoints": null
     },
     {
@@ -113010,8 +113010,8 @@
       ],
       "topics": [],
       "rationale": "Self-hosted media downloader for consumers, not an AI or developer tool.",
-      "stars": 8253,
-      "stars7dDelta": 750,
+      "stars": 8492,
+      "stars7dDelta": 989,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 15899,
-      "stars7dDelta": 2430,
+      "stars": 16545,
+      "stars7dDelta": 3076,
       "hnPoints": null
     },
     {
@@ -113095,8 +113095,8 @@
         "speculative-sampling"
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
-      "stars": 1994,
-      "stars7dDelta": 120,
+      "stars": 2018,
+      "stars7dDelta": 144,
       "hnPoints": null
     },
     {
@@ -114275,7 +114275,7 @@
       "rationale": "Model-provider policy on user data training, relevant to both consumer and business tiers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 483
+      "hnPoints": 490
     },
     {
       "id": 4624,
@@ -114299,7 +114299,7 @@
       "rationale": "An investigative report about AI-cited software pages, not a software product itself.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 495
+      "hnPoints": 504
     },
     {
       "id": 4625,
@@ -114323,7 +114323,7 @@
       "rationale": "Consumer neuroscience article, not a software project or AI-agent-era tooling opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 333
+      "hnPoints": 340
     },
     {
       "id": 4626,
@@ -114348,7 +114348,7 @@
       "rationale": "Enables developers to run LLM inference in the browser, pointing to demand for client-side AI infra.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 138
+      "hnPoints": 143
     },
     {
       "id": 4627,
@@ -114397,7 +114397,7 @@
       "rationale": "Agentic security research found curl vulnerabilities; the angle is automated vuln discovery, not an end-user AI app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 176
+      "hnPoints": 178
     },
     {
       "id": 4629,
@@ -114421,7 +114421,7 @@
       "rationale": "AI content checker for detecting Claude-generated files; a trust/verification tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 180
+      "hnPoints": 182
     },
     {
       "id": 4630,
@@ -114469,7 +114469,7 @@
       "rationale": "A foundational model release for builders, not an end-user AI product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 187
+      "hnPoints": 191
     },
     {
       "id": 4632,
@@ -115147,7 +115147,7 @@
       "rationale": "A Meta model release for developers, fitting AI infra rather than a user-facing app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 665
+      "hnPoints": 679
     },
     {
       "id": 4660,
@@ -115172,7 +115172,7 @@
       "rationale": "Consumer telehealth pharmacy for GLP-1s and peptides, with software as an internal enabler rather than the product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 103
+      "hnPoints": 115
     },
     {
       "id": 4661,
@@ -115269,7 +115269,7 @@
       "rationale": "It's a longform aviation incident article, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 168
+      "hnPoints": 174
     },
     {
       "id": 4665,
@@ -115366,7 +115366,7 @@
       "rationale": "Desktop image editor update for Linux users; not an AI, devtool, or infra project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 204
+      "hnPoints": 206
     },
     {
       "id": 4669,
@@ -115415,7 +115415,7 @@
       "rationale": "Security incident writeup, not a product; useful to businesses tracking LLM supply-chain and auth gaps.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 119
+      "hnPoints": 122
     },
     {
       "id": 4671,
@@ -115445,7 +115445,7 @@
       "id": 4672,
       "source": "hn",
       "sourceId": "49544762",
-      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "owner": "gmays",
       "language": null,
@@ -115463,13 +115463,13 @@
       "rationale": "This is a news story about a human beating an AI in Go, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 25
+      "hnPoints": 241
     },
     {
       "id": 4673,
       "source": "hn",
       "sourceId": "49542443",
-      "title": "Mamdani Bans AI in NYC Schools",
+      "title": "Mamdani bans AI in NYC schools",
       "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "owner": "handfuloflight",
       "language": null,
@@ -115487,7 +115487,7 @@
       "rationale": "This is a policy story, not a software product; it reflects school-system AI governance rather than a tool gap.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 201
+      "hnPoints": 212
     },
     {
       "id": 4674,
@@ -115509,8 +115509,8 @@
       ],
       "topics": [],
       "rationale": "Internal AI productivity product for employees to create docs, build apps, and run agents with company systems.",
-      "stars": 9549,
-      "stars7dDelta": 0,
+      "stars": 9586,
+      "stars7dDelta": 37,
       "hnPoints": null
     },
     {
@@ -115534,19 +115534,19 @@
       ],
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
-      "stars": 1837,
-      "stars7dDelta": 0,
+      "stars": 2036,
+      "stars7dDelta": 199,
       "hnPoints": null
     },
     {
       "id": 4676,
       "source": "hn",
       "sourceId": "49551096",
-      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
       "url": "https://news.ycombinator.com/item?id=49551096",
       "owner": "halcdev",
       "language": null,
-      "description": "https:&#x2F;&#x2F;status.openai.com\nhttps:&#x2F;&#x2F;status.claude.com\nhttps:&#x2F;&#x2F;status.x.ai",
+      "description": "<a href=\"https:&#x2F;&#x2F;status.openai.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.openai.com</a><p><a href=\"https:&#x2F;&#x2F;status.claude.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.claude.com</a><p><a href=\"https:&#x2F;&#x2F;status.x.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;status.x.ai</a><p><i>ChatGPT outage – Resolved</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614</a> (315 comments)<p><i>Claude outag",
       "createdAt": null,
       "firstSeenAt": "2026-09-03T16:44:46+00:00",
       "bucket": "other",
@@ -115560,7 +115560,7 @@
       "rationale": "Not a project; it’s an outage discussion around major LLM providers and their status pages.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 97
+      "hnPoints": 356
     },
     {
       "id": 4677,
@@ -115584,7 +115584,7 @@
       "rationale": "A developer-focused browser performance article about main-thread bottlenecks, not an end-user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 297
+      "hnPoints": 387
     },
     {
       "id": 4678,
@@ -115632,7 +115632,7 @@
       "rationale": "An article about Sony's game ownership stance, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 82
+      "hnPoints": 171
     },
     {
       "id": 4680,
@@ -115680,7 +115680,7 @@
       "rationale": "ChatGPT is a shipped end-user AI product used by both consumers and teams, not infra or dev tooling.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 348
+      "hnPoints": 361
     },
     {
       "id": 4682,
@@ -115825,7 +115825,7 @@
       "rationale": "This is a service status incident page, not a product or tooling category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 195
+      "hnPoints": 205
     },
     {
       "id": 4688,
@@ -116200,7 +116200,7 @@
       "url": "https://www.producthunt.com/products/tabbitai",
       "owner": null,
       "language": null,
-      "description": "The Best AI Browser Build both for You and your Agents. Discussion | Link",
+      "description": "The best AI browser built both for you and your Agents. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-03T16:48:38+00:00",
       "bucket": "ai-agent",
@@ -116215,6 +116215,419 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4704,
+      "source": "hn",
+      "sourceId": "49554643",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "owner": "kibae",
+      "language": null,
+      "description": "System Card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https:&#x2F;&#x2F;news.",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:32:01+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "coding-model",
+        "system-card",
+        "benchmark"
+      ],
+      "topics": [],
+      "rationale": "Base model release with system card; it's model infra for agentic coding, not a standalone app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 1547
+    },
+    {
+      "id": 4705,
+      "source": "hn",
+      "sourceId": "49554520",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "owner": "altertable",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:32:15+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "model-serving",
+        "inference",
+        "llm"
+      ],
+      "topics": [],
+      "rationale": "Hosted model access at high token rate; it's inference infrastructure, not an end-user app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 504
+    },
+    {
+      "id": 4706,
+      "source": "hn",
+      "sourceId": "49560260",
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "owner": "kaonashi-tyc-01",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:32:22+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agents",
+        "grep",
+        "lsp",
+        "tool-use"
+      ],
+      "topics": [],
+      "rationale": "Explains why coding agents prefer grep-like tools over LSP; it's agent tooling, not an end-user app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 40
+    },
+    {
+      "id": 4707,
+      "source": "hn",
+      "sourceId": "49526453",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "owner": "feb",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-electric-aircraft-just-flew\">https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:32:38+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "electric-aircraft",
+        "aviation",
+        "youtube"
+      ],
+      "topics": [],
+      "rationale": "A media post about an electric aircraft flight, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 248
+    },
+    {
+      "id": 4708,
+      "source": "hn",
+      "sourceId": "49550375",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "owner": "rabahs",
+      "language": null,
+      "description": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screen",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:32:45+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "assembly",
+        "godot",
+        "code-porting",
+        "llm"
+      ],
+      "topics": [],
+      "rationale": "LLM-assisted code archaeology for a game port is a developer workflow, not an end-user AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 234
+    },
+    {
+      "id": 4709,
+      "source": "hn",
+      "sourceId": "49557206",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "owner": "screm",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:32:52+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "coding-agents",
+        "tool-selection",
+        "benchmark"
+      ],
+      "topics": [],
+      "rationale": "Research on which CLI tools coding agents pick, aimed at improving developer workflows.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 149
+    },
+    {
+      "id": 4710,
+      "source": "hn",
+      "sourceId": "49549148",
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com",
+      "owner": "fedecaccia",
+      "language": null,
+      "description": "Hi HN, I&#x27;m a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com, a software company providing blockchain solutions for startups. Rather Labs business reached ~6 million usd in annual revenue in 2024; now demand is decreasing as our niche clients are using AI to launch their MVPs.<p>Now I&#x27;m joining my scientific background with my entrepreneurial inclination",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:33:07+00:00",
+      "bucket": "data",
+      "audience": "both",
+      "tags": [
+        "interactive-map",
+        "nuclear",
+        "reactor-data"
+      ],
+      "topics": [],
+      "rationale": "Interactive reactor atlas is a data product for exploring nuclear plant locations/status, not an AI or dev tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 4711,
+      "source": "hn",
+      "sourceId": "49548600",
+      "title": "Ask HN: Who is using MCP in production?",
+      "url": "https://news.ycombinator.com/item?id=49548600",
+      "owner": "sukit",
+      "language": null,
+      "description": "I’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.<p>If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct tool integration or just CLI?",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:33:23+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "mcp",
+        "tool-integration",
+        "protocol"
+      ],
+      "topics": [],
+      "rationale": "MCP is a protocol layer for connecting LLMs to tools, an AI infrastructure concern for developers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 35
+    },
+    {
+      "id": 4712,
+      "source": "hn",
+      "sourceId": "49526298",
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "owner": "nsm",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:33:32+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "agentic-editor",
+        "zed",
+        "coding"
+      ],
+      "topics": [],
+      "rationale": "A developer IDE/editor post centered on agent workflows, not a standalone AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 105
+    },
+    {
+      "id": 4713,
+      "source": "hn",
+      "sourceId": "49555691",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "owner": "vignesh_warar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:33:42+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "benchmark",
+        "reasoning",
+        "arc-agi"
+      ],
+      "topics": [],
+      "rationale": "Reasoning benchmark/eval content for agent capability, not a user-facing product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 188
+    },
+    {
+      "id": 4714,
+      "source": "hn",
+      "sourceId": "49515558",
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "owner": "ethanhawksley",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:33:55+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "domain",
+        "arpa",
+        "dns"
+      ],
+      "topics": [],
+      "rationale": "An info post about an unusual domain hack, not a software product or dev tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 131
+    },
+    {
+      "id": 4715,
+      "source": "hn",
+      "sourceId": "49550479",
+      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+      "url": "https://news.ycombinator.com/item?id=49550479",
+      "owner": "busymom0",
+      "language": null,
+      "description": "Hi everyone,<p>Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.<p>Rules: You get a few letters on screen. You need to make one word with all the letters. Tap a letter to select. Tap again to deselect. Faster you go, better you score.<p>If you enter anagrams of the word it&#x27;s looking for, it gives you extra points. If you are stuck, you can either &quot;Ask Friend&quot; or get Hint.<p>You get extra points for getting the wor",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:34:04+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "word-game",
+        "anagrams",
+        "one-handed",
+        "mobile-game"
+      ],
+      "topics": [],
+      "rationale": "A casual word puzzle game for consumers; not AI or dev tooling, just a mobile-friendly game with hints and anagrams.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 13
+    },
+    {
+      "id": 4716,
+      "source": "hn",
+      "sourceId": "49530169",
+      "title": "LLMs and self-referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "owner": "mavdol04",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:34:12+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "llm",
+        "self-reference",
+        "metacognition"
+      ],
+      "topics": [],
+      "rationale": "An essay on LLM self-reference, not a software product or infrastructure tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
+    },
+    {
+      "id": 4717,
+      "source": "hn",
+      "sourceId": "49557813",
+      "title": "Tell HN: NVIDIA's Acquisition of HuggingFace was for $HuggingFace",
+      "url": "https://news.ycombinator.com/item?id=49557813",
+      "owner": "MontagFTB",
+      "language": null,
+      "description": "NVIDIA acquired Hugging Face for $12,930,300,000<p>The math: 0x1F917 = 1×65536 + 15×4096 + 9×256 + 1×16 + 7 = 129,303. And U+1F917 is officially named HUGGING FACE — .",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:34:26+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "huggingface",
+        "nvidia",
+        "meme"
+      ],
+      "topics": [],
+      "rationale": "A tech-news meme, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 26
+    },
+    {
+      "id": 4718,
+      "source": "hn",
+      "sourceId": "49555592",
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "url": "https://news.ycombinator.com/item?id=49555592",
+      "owner": "Animats",
+      "language": null,
+      "description": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in &quot;strict&quot; mode. Disabled Privacy Badger for that site, and it didn&#x27;t help. Tried private browsing, and it didn&#x27;t help.<p>Is this part of Google&#x27;s war against ad-blocking and non-Chrome browsers?",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:34:33+00:00",
+      "bucket": "security",
+      "audience": "B",
+      "tags": [
+        "captcha",
+        "anti-bot",
+        "firefox",
+        "browser-fingerprint"
+      ],
+      "topics": [],
+      "rationale": "Google reCAPTCHA is an anti-bot/security service for sites, and the issue is browser-based access blocking.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 48
+    },
+    {
+      "id": 4719,
+      "source": "hn",
+      "sourceId": "49558433",
+      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "owner": "DeepLogin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:34:44+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "ai-policy",
+        "education",
+        "schools"
+      ],
+      "topics": [],
+      "rationale": "School AI ban policy, not a software product; closest fit is a B-side education-use rule.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 37
+    },
+    {
+      "id": 4720,
+      "source": "hn",
+      "sourceId": "49554273",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "owner": "maskil",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F;</a>, image: <a href=\"https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot-2026-09-03-at-10.51.35-am.png\" rel=\"nofollow\">https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot...</a><p><a href=\"https:&#x2F;&#x2F;venturebeat.com&#x2F;technology&#x2F;welcome",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-04T05:34:54+00:00",
+      "bucket": "ai-infra",
+      "audience": "both",
+      "tags": [
+        "frontier-model",
+        "gpt-6",
+        "rollout",
+        "safety"
+      ],
+      "topics": [],
+      "rationale": "Frontier model rollout signals model-supply/inference progress more than a user-facing app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 254
     }
   ]
 }
