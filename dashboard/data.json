@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-07T18:01:17.871156+00:00",
+  "generatedAt": "2026-09-08T05:39:12.804296+00:00",
   "totals": {
-    "items": 4824,
+    "items": 4835,
     "byBucket": {
-      "data": 136,
-      "ai-agent": 676,
+      "data": 137,
+      "ai-agent": 677,
       "ai-app": 1087,
-      "ai-infra": 629,
-      "devtool": 435,
-      "other": 1582,
-      "security": 256,
+      "ai-infra": 631,
+      "devtool": 436,
+      "other": 1587,
+      "security": 257,
       "web-framework": 23
     },
     "byAudience": {
-      "B": 1024,
-      "dev": 1830,
-      "both": 1009,
-      "C": 953,
+      "B": 1026,
+      "dev": 1834,
+      "both": 1013,
+      "C": 954,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 218,
-      "hn": 2481,
+      "hn": 2492,
       "product_hunt": 2125
     }
   },
@@ -5489,7 +5489,7 @@
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
       "stars": 52326,
-      "stars7dDelta": 778,
+      "stars7dDelta": 665,
       "hnPoints": null
     },
     {
@@ -30634,7 +30634,7 @@
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
       "stars": 25871,
-      "stars7dDelta": 463,
+      "stars7dDelta": 405,
       "hnPoints": null
     },
     {
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 24162,
-      "stars7dDelta": 874,
+      "stars7dDelta": 763,
       "hnPoints": null
     },
     {
@@ -54784,7 +54784,7 @@
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
       "stars": 40366,
-      "stars7dDelta": 1356,
+      "stars7dDelta": 1096,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 52436,
-      "stars7dDelta": 14317,
+      "stars": 53442,
+      "stars7dDelta": 13726,
       "hnPoints": null
     },
     {
@@ -68357,7 +68357,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 26763,
-      "stars7dDelta": 735,
+      "stars7dDelta": 604,
       "hnPoints": null
     },
     {
@@ -76884,7 +76884,7 @@
       ],
       "rationale": "Turns books/docs into compact skills for coding agents, showing demand for reusable agent knowledge packs.",
       "stars": 27658,
-      "stars7dDelta": 107,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -80853,7 +80853,7 @@
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
       "stars": 33853,
-      "stars7dDelta": 849,
+      "stars7dDelta": 470,
       "hnPoints": null
     },
     {
@@ -88053,8 +88053,8 @@
       ],
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
-      "stars": 20127,
-      "stars7dDelta": 293,
+      "stars": 20206,
+      "stars7dDelta": 372,
       "hnPoints": null
     },
     {
@@ -88079,7 +88079,7 @@
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
       "stars": 3658,
-      "stars7dDelta": 223,
+      "stars7dDelta": 181,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 33208,
-      "stars7dDelta": 2477,
+      "stars": 33413,
+      "stars7dDelta": 2682,
       "hnPoints": null
     },
     {
@@ -96836,7 +96836,7 @@
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
       "stars": 5980,
-      "stars7dDelta": 643,
+      "stars7dDelta": 607,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 19895,
-      "stars7dDelta": 1773,
+      "stars": 19996,
+      "stars7dDelta": 1775,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 4915,
-      "stars7dDelta": 606,
+      "stars": 4977,
+      "stars7dDelta": 617,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 3563,
-      "stars7dDelta": 533,
+      "stars": 3595,
+      "stars7dDelta": 520,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 28474,
-      "stars7dDelta": 2160,
+      "stars": 28712,
+      "stars7dDelta": 2158,
       "hnPoints": null
     },
     {
@@ -104703,8 +104703,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 16632,
-      "stars7dDelta": 1446,
+      "stars": 16797,
+      "stars7dDelta": 1611,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 130721,
-      "stars7dDelta": 9676,
+      "stars": 131238,
+      "stars7dDelta": 10193,
       "hnPoints": null
     },
     {
@@ -106983,7 +106983,7 @@
       ],
       "rationale": "A prompt/skill pack for coding agents, serving developers who want reusable agent workflows.",
       "stars": 12033,
-      "stars7dDelta": 136,
+      "stars7dDelta": 92,
       "hnPoints": null
     },
     {
@@ -110900,8 +110900,8 @@
       ],
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
-      "stars": 32967,
-      "stars7dDelta": 6326,
+      "stars": 33207,
+      "stars7dDelta": 5332,
       "hnPoints": null
     },
     {
@@ -111231,8 +111231,8 @@
         "skill"
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
-      "stars": 8390,
-      "stars7dDelta": 2210,
+      "stars": 8558,
+      "stars7dDelta": 2161,
       "hnPoints": null
     },
     {
@@ -112985,8 +112985,8 @@
         "coding"
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
-      "stars": 32918,
-      "stars7dDelta": 1783,
+      "stars": 32966,
+      "stars7dDelta": 1831,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 20491,
-      "stars7dDelta": 7022,
+      "stars": 20825,
+      "stars7dDelta": 7356,
       "hnPoints": null
     },
     {
@@ -113095,8 +113095,8 @@
         "speculative-sampling"
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
-      "stars": 2137,
-      "stars7dDelta": 263,
+      "stars": 2158,
+      "stars7dDelta": 284,
       "hnPoints": null
     },
     {
@@ -115534,8 +115534,8 @@
       ],
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
-      "stars": 3993,
-      "stars7dDelta": 2156,
+      "stars": 4088,
+      "stars7dDelta": 2251,
       "hnPoints": null
     },
     {
@@ -117571,8 +117571,8 @@
       ],
       "topics": [],
       "rationale": "Curated no-signup browser tools directory; a consumer-friendly catalog, not an AI or dev infra project.",
-      "stars": 3701,
-      "stars7dDelta": 976,
+      "stars": 3922,
+      "stars7dDelta": 1197,
       "hnPoints": null
     },
     {
@@ -118497,7 +118497,7 @@
       "url": "https://www.producthunt.com/products/tadata",
       "owner": null,
       "language": null,
-      "description": "The AI employee in Slack that reads the room. Discussion | Link",
+      "description": "The AI employee in Slack that reads the room Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-06T15:54:56+00:00",
       "bucket": "ai-agent",
@@ -118560,7 +118560,7 @@
       "rationale": "Research on embedding-space structure for better representation/transfer, fitting ML infra rather than a user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 108
+      "hnPoints": 118
     },
     {
       "id": 4800,
@@ -118658,7 +118658,7 @@
       "rationale": "An OpenAI article about internal research acceleration, not a distinct software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 199
+      "hnPoints": 209
     },
     {
       "id": 4804,
@@ -118706,7 +118706,7 @@
       "rationale": "Blog post critiquing LLM-authored writing habits; not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 691
+      "hnPoints": 718
     },
     {
       "id": 4806,
@@ -118826,8 +118826,8 @@
       ],
       "topics": [],
       "rationale": "An open-source autonomous research agent with multi-step LLM workflows, fitting the agent category more than infra.",
-      "stars": 8962,
-      "stars7dDelta": 0,
+      "stars": 9093,
+      "stars7dDelta": 131,
       "hnPoints": null
     },
     {
@@ -118852,7 +118852,7 @@
       "rationale": "Consumer/business AI product limit changes highlight demand for predictable capacity and quota transparency.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 52
+      "hnPoints": 124
     },
     {
       "id": 4812,
@@ -118876,7 +118876,7 @@
       "rationale": "Personal essay about reducing online brainrot, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 407
+      "hnPoints": 476
     },
     {
       "id": 4813,
@@ -118900,7 +118900,7 @@
       "rationale": "Inference optimization for serving LLMs on AMD GPUs, aimed at developers tuning model latency and throughput.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 101
+      "hnPoints": 136
     },
     {
       "id": 4814,
@@ -118924,7 +118924,7 @@
       "rationale": "A compliance/regulatory issue for phone makers, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 214
+      "hnPoints": 280
     },
     {
       "id": 4815,
@@ -119170,6 +119170,273 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4825,
+      "source": "hn",
+      "sourceId": "49605246",
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "owner": "vinhnx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:37:07+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "agent-testing",
+        "verification",
+        "evaluation"
+      ],
+      "topics": [],
+      "rationale": "Analyzes how autonomous agents use tests and verification, a core capability gap in agentic systems.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 38
+    },
+    {
+      "id": 4826,
+      "source": "hn",
+      "sourceId": "49605511",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "owner": "Re-Tails",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:37:20+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "mobile-gpu",
+        "graphics-architecture",
+        "ai-native"
+      ],
+      "topics": [],
+      "rationale": "It's a GPU hardware/platform announcement, not a software product category, though aimed at OEM and graphics ecosystem buyers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 15
+    },
+    {
+      "id": 4827,
+      "source": "hn",
+      "sourceId": "49605644",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "owner": "RohanAdwankar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:37:29+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "agent-vm",
+        "sandbox",
+        "computer-use"
+      ],
+      "topics": [],
+      "rationale": "Explores VM sandboxes and runtime infrastructure for mobile/computer-use agents, not the end-user app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 4828,
+      "source": "hn",
+      "sourceId": "49552299",
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "owner": "matthieu_bl",
+      "language": null,
+      "description": "Paper [pdf]: <a href=\"https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weathernext_3.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:37:40+00:00",
+      "bucket": "ai-infra",
+      "audience": "both",
+      "tags": [
+        "weather-model",
+        "forecasting",
+        "deepmind"
+      ],
+      "topics": [],
+      "rationale": "Research weather foundation model for forecasts, a core AI infrastructure layer rather than a user-facing app.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 292
+    },
+    {
+      "id": 4829,
+      "source": "hn",
+      "sourceId": "49575515",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "owner": "signa11",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:37:51+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "trusting-trust",
+        "supply-chain",
+        "linux-distro"
+      ],
+      "topics": [],
+      "rationale": "A security research paper on a supply-chain backdoor attack against a Linux distribution.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 188
+    },
+    {
+      "id": 4830,
+      "source": "hn",
+      "sourceId": "49568162",
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "owner": "windowshopping",
+      "language": null,
+      "description": "Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle (<a href=\"https:&#x2F;&#x2F;dailybaffle.com\" rel=\"nofollow\">https:&#x2F;&#x2F;dailybaffle.com</a>) in mind. But once I had built it, I realized it just didn&#x27;t quite fit with the aesthetic of the Baffle&#x27;s other puzzles, so I decided to put it up separately.<p>While most of the puzzles on the Daily Baffle were intended to be rather challenging, for this one I really just wanted to make something somewhat be",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:37:58+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "puzzle",
+        "haiku",
+        "relaxing"
+      ],
+      "topics": [],
+      "rationale": "A consumer puzzle site; AI was used to build it, but the product itself is just a relaxing game.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 77
+    },
+    {
+      "id": 4831,
+      "source": "hn",
+      "sourceId": "49559069",
+      "title": "Show HN: Interactive Tree of Life",
+      "url": "https://ptree.org/",
+      "owner": "Lucent",
+      "language": null,
+      "description": "Ptree consolidates of 11 taxonomic trees, both categorical like we used in school (plant, animalia) and phylogenetic (evolutionary descent), with instant crosswalk between them.<p>Across those trees it overlays 41 visual properties (categorical and numerical) assembled from hundreds of biological traits and sources. Color the tree by habitat, nutrition, size, longevity, even see vertical range of birds and depth of fish visually.<p>The backend is 800 GB of raw data distilled through a 9-step bui",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:38:05+00:00",
+      "bucket": "data",
+      "audience": "both",
+      "tags": [
+        "taxonomy",
+        "visualization",
+        "provenance",
+        "bio-data"
+      ],
+      "topics": [],
+      "rationale": "A data visualization product that reconciles large biological datasets and trees, not an AI or dev tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 82
+    },
+    {
+      "id": 4832,
+      "source": "hn",
+      "sourceId": "49604870",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "owner": "pizzaiolo",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:38:16+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "wikis",
+        "seo",
+        "google-search",
+        "indieweb"
+      ],
+      "topics": [],
+      "rationale": "This is a search-ranking trend for independent wikis, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 4833,
+      "source": "hn",
+      "sourceId": "49596610",
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "owner": "MrBuddyCasino",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;5hi5i\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;5hi5i</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:38:31+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-jobs",
+        "labor-market",
+        "economics"
+      ],
+      "topics": [],
+      "rationale": "News analysis on AI’s employment impact, not a software project or product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 76
+    },
+    {
+      "id": 4834,
+      "source": "hn",
+      "sourceId": "49604956",
+      "title": "AI cancer cures slowed by chip shortage, says Arm boss",
+      "url": "https://www.bbc.com/news/articles/c0m39g7xzevo",
+      "owner": "dabinat",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:38:38+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "chip-shortage",
+        "compute",
+        "ai-healthcare"
+      ],
+      "topics": [],
+      "rationale": "News item about AI in healthcare being constrained by chip supply, not a software product or tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 4835,
+      "source": "hn",
+      "sourceId": "49593842",
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "owner": "aggrrrh",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-08T05:38:46+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "isolated-vm",
+        "claude-code",
+        "codex",
+        "sandbox"
+      ],
+      "topics": [],
+      "rationale": "Sandboxed VM runner for coding agents, focused on safe dev workflows rather than model infra.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 58
     }
   ]
 }
