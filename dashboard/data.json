@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-08T16:58:18.732301+00:00",
+  "generatedAt": "2026-09-09T05:45:55.635050+00:00",
   "totals": {
-    "items": 4867,
+    "items": 4879,
     "byBucket": {
       "data": 137,
-      "ai-agent": 680,
-      "ai-app": 1098,
-      "ai-infra": 636,
+      "ai-agent": 682,
+      "ai-app": 1100,
+      "ai-infra": 637,
       "devtool": 440,
-      "other": 1595,
-      "security": 258,
+      "other": 1600,
+      "security": 260,
       "web-framework": 23
     },
     "byAudience": {
-      "B": 1032,
-      "dev": 1843,
-      "both": 1024,
-      "C": 960,
+      "B": 1033,
+      "dev": 1846,
+      "both": 1027,
+      "C": 965,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 219,
-      "hn": 2501,
+      "hn": 2513,
       "product_hunt": 2147
     }
   },
@@ -5489,7 +5489,7 @@
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
       "stars": 52326,
-      "stars7dDelta": 544,
+      "stars7dDelta": 294,
       "hnPoints": null
     },
     {
@@ -24978,7 +24978,7 @@
       ],
       "rationale": "Reusable skills let developers wire agents into Google Cloud and Gemini products.",
       "stars": 19521,
-      "stars7dDelta": 402,
+      "stars7dDelta": 287,
       "hnPoints": null
     },
     {
@@ -30634,7 +30634,7 @@
       ],
       "rationale": "Local memory layer for AI agents signals demand for private, self-hosted agent context infrastructure.",
       "stars": 25871,
-      "stars7dDelta": 310,
+      "stars7dDelta": 186,
       "hnPoints": null
     },
     {
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 24162,
-      "stars7dDelta": 624,
+      "stars7dDelta": 336,
       "hnPoints": null
     },
     {
@@ -46918,7 +46918,7 @@
       "topics": [],
       "rationale": "Agent-driven video editing turns raw footage into final cuts via chat, pointing to AI-native creative ops workflows.",
       "stars": 23122,
-      "stars7dDelta": 381,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -54784,7 +54784,7 @@
       ],
       "rationale": "A packaged Claude Code workflow for job seekers to evaluate roles and tailor applications.",
       "stars": 40366,
-      "stars7dDelta": 725,
+      "stars7dDelta": 177,
       "hnPoints": null
     },
     {
@@ -56792,7 +56792,7 @@
       ],
       "rationale": "Markdown design-system prompts help developers steer coding agents toward consistent generated UIs.",
       "stars": 113046,
-      "stars7dDelta": 574,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 54380,
-      "stars7dDelta": 12941,
+      "stars": 55071,
+      "stars7dDelta": 11574,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 29096,
-      "stars7dDelta": 2768,
+      "stars": 31349,
+      "stars7dDelta": 4715,
       "hnPoints": null
     },
     {
@@ -80853,7 +80853,7 @@
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
       "stars": 33853,
-      "stars7dDelta": 146,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -85883,7 +85883,7 @@
       ],
       "rationale": "Agent-agnostic control plane for durable long-running agent workflows, not an end-user app.",
       "stars": 5576,
-      "stars7dDelta": 194,
+      "stars7dDelta": 138,
       "hnPoints": null
     },
     {
@@ -88079,7 +88079,7 @@
       "topics": [],
       "rationale": "Tmux-based multi-agent orchestration for software engineering workflows, not a packaged end-user app.",
       "stars": 3658,
-      "stars7dDelta": 151,
+      "stars7dDelta": 70,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 34245,
-      "stars7dDelta": 3514,
+      "stars": 35334,
+      "stars7dDelta": 4603,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 6102,
-      "stars7dDelta": 350,
+      "stars": 6152,
+      "stars7dDelta": 400,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 20108,
-      "stars7dDelta": 1775,
+      "stars": 20217,
+      "stars7dDelta": 1663,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5039,
-      "stars7dDelta": 637,
+      "stars": 5083,
+      "stars7dDelta": 533,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 3620,
-      "stars7dDelta": 482,
+      "stars": 3647,
+      "stars7dDelta": 398,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 29151,
-      "stars7dDelta": 2254,
+      "stars": 29420,
+      "stars7dDelta": 2107,
       "hnPoints": null
     },
     {
@@ -104703,8 +104703,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 17031,
-      "stars7dDelta": 1845,
+      "stars": 17286,
+      "stars7dDelta": 2100,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 131924,
-      "stars7dDelta": 10879,
+      "stars": 132476,
+      "stars7dDelta": 11431,
       "hnPoints": null
     },
     {
@@ -106983,7 +106983,7 @@
       ],
       "rationale": "A prompt/skill pack for coding agents, serving developers who want reusable agent workflows.",
       "stars": 12033,
-      "stars7dDelta": 46,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 19201,
-      "stars7dDelta": 3416,
+      "stars": 19793,
+      "stars7dDelta": 4008,
       "hnPoints": null
     },
     {
@@ -110901,7 +110901,7 @@
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
       "stars": 33207,
-      "stars7dDelta": 3998,
+      "stars7dDelta": 2806,
       "hnPoints": null
     },
     {
@@ -111232,7 +111232,7 @@
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
       "stars": 8558,
-      "stars7dDelta": 1904,
+      "stars7dDelta": 1370,
       "hnPoints": null
     },
     {
@@ -112986,7 +112986,7 @@
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
       "stars": 32966,
-      "stars7dDelta": 1831,
+      "stars7dDelta": 1125,
       "hnPoints": null
     },
     {
@@ -113011,7 +113011,7 @@
       "topics": [],
       "rationale": "Self-hosted media downloader for consumers, not an AI or developer tool.",
       "stars": 8492,
-      "stars7dDelta": 989,
+      "stars7dDelta": 239,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 21183,
-      "stars7dDelta": 7714,
+      "stars": 21469,
+      "stars7dDelta": 7216,
       "hnPoints": null
     },
     {
@@ -113096,7 +113096,7 @@
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
       "stars": 2158,
-      "stars7dDelta": 284,
+      "stars7dDelta": 218,
       "hnPoints": null
     },
     {
@@ -118876,7 +118876,7 @@
       "rationale": "Personal essay about reducing online brainrot, not a software project or AI-agent opportunity.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 499
+      "hnPoints": 506
     },
     {
       "id": 4813,
@@ -118900,7 +118900,7 @@
       "rationale": "Inference optimization for serving LLMs on AMD GPUs, aimed at developers tuning model latency and throughput.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 141
+      "hnPoints": 143
     },
     {
       "id": 4814,
@@ -118924,7 +118924,7 @@
       "rationale": "A compliance/regulatory issue for phone makers, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 296
+      "hnPoints": 304
     },
     {
       "id": 4815,
@@ -119193,7 +119193,7 @@
       "rationale": "Analyzes how autonomous agents use tests and verification, a core capability gap in agentic systems.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 158
+      "hnPoints": 179
     },
     {
       "id": 4826,
@@ -119363,7 +119363,7 @@
       "rationale": "This is a search-ranking trend for independent wikis, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 417
+      "hnPoints": 537
     },
     {
       "id": 4833,
@@ -119459,8 +119459,8 @@
       ],
       "topics": [],
       "rationale": "Model-serving recipe for DeepSeek on DGX Sparks with vLLM, speculative decoding, and multimodal inference.",
-      "stars": 1285,
-      "stars7dDelta": 0,
+      "stars": 1304,
+      "stars7dDelta": 19,
       "hnPoints": null
     },
     {
@@ -119486,7 +119486,7 @@
       "rationale": "An article/post about religious comparison, not a software product or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 81
+      "hnPoints": 229
     },
     {
       "id": 4838,
@@ -119510,7 +119510,7 @@
       "rationale": "Research on extracting steering vectors for LLM control, a model-level technique aimed at developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 47
+      "hnPoints": 61
     },
     {
       "id": 4839,
@@ -119534,7 +119534,7 @@
       "rationale": "Frontier open-weight model provider and API infra for apps and developers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 719
+      "hnPoints": 816
     },
     {
       "id": 4840,
@@ -119558,7 +119558,7 @@
       "rationale": "LibreOffice is a general productivity suite, not an AI or developer project, and its appeal spans work and personal use.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 553
+      "hnPoints": 664
     },
     {
       "id": 4841,
@@ -119607,7 +119607,7 @@
       "rationale": "A satire article about workplace AI, not a software project or product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 314
+      "hnPoints": 374
     },
     {
       "id": 4843,
@@ -119662,7 +119662,7 @@
       "id": 4845,
       "source": "hn",
       "sourceId": "49610631",
-      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
       "owner": "domhudson",
       "language": null,
@@ -119680,7 +119680,7 @@
       "rationale": "A prompt skill for coding agents, aimed at developers who want clearer agent outputs and less buried answers.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 54
+      "hnPoints": 381
     },
     {
       "id": 4846,
@@ -120212,6 +120212,298 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 4868,
+      "source": "hn",
+      "sourceId": "49615537",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "owner": "yks",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:43:47+00:00",
+      "bucket": "ai-agent",
+      "audience": "C",
+      "tags": [
+        "personal-agent",
+        "meta-ai",
+        "multimodal"
+      ],
+      "topics": [],
+      "rationale": "A consumer-focused personal AI agent, representing the shift toward autonomous assistants for everyday tasks.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 423
+    },
+    {
+      "id": 4869,
+      "source": "hn",
+      "sourceId": "49546964",
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "owner": "mdp2021",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:43:56+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "plant-biology",
+        "tension-wood",
+        "tree-growth"
+      ],
+      "topics": [],
+      "rationale": "A popular-science article about how trees use tension wood for posture, not a software project or buyer-focused product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 80
+    },
+    {
+      "id": 4870,
+      "source": "hn",
+      "sourceId": "49616968",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "owner": "_alternator_",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:44:06+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "ai-research",
+        "math-problems",
+        "knowledge-mining"
+      ],
+      "topics": [],
+      "rationale": "A discussion about AI consuming a finite pool of open math problems, not a software product or infrastructure project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 281
+    },
+    {
+      "id": 4871,
+      "source": "hn",
+      "sourceId": "49619227",
+      "title": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "owner": "yurivish",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;hilbertspaess&#x2F;status&#x2F;2097476196791709843#m\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;hilbertspaess&#x2F;status&#x2F;2097476196791709843...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:44:21+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "career-news",
+        "anthropic",
+        "ai-industry"
+      ],
+      "topics": [],
+      "rationale": "A personal career announcement, not a software project or product opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 302
+    },
+    {
+      "id": 4872,
+      "source": "hn",
+      "sourceId": "49614720",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "owner": "vertigoruntime",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:44:30+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "image-generation",
+        "chatgpt",
+        "creative-tool"
+      ],
+      "topics": [],
+      "rationale": "A packaged generative-image product for creators and businesses, not model-serving infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 304
+    },
+    {
+      "id": 4873,
+      "source": "hn",
+      "sourceId": "49613068",
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "owner": "ifz",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:44:36+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "attention-visualization",
+        "llm-interpretability",
+        "model-analysis"
+      ],
+      "topics": [],
+      "rationale": "An interpretability tool for inspecting LLM attention patterns, aimed at researchers and developers rather than end users.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 149
+    },
+    {
+      "id": 4874,
+      "source": "hn",
+      "sourceId": "49614101",
+      "title": "GrapheneOS on AI Usage",
+      "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+      "owner": "garo-pro",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:44:47+00:00",
+      "bucket": "security",
+      "audience": "C",
+      "tags": [
+        "privacy",
+        "android",
+        "mobile-os",
+        "hardened"
+      ],
+      "topics": [],
+      "rationale": "GrapheneOS is a privacy-hardened Android OS for individual users, not an AI product despite the post topic.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 32
+    },
+    {
+      "id": 4875,
+      "source": "hn",
+      "sourceId": "49618633",
+      "title": "Embedding a bitmap font in your HyperCard stack",
+      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+      "owner": "zdw",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:44:58+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "hypercard",
+        "bitmap-font",
+        "retro-computing",
+        "resource-fork"
+      ],
+      "topics": [],
+      "rationale": "A retro HyperCard customization technique, not an AI, data, security, or mainstream developer-tool project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 4876,
+      "source": "hn",
+      "sourceId": "49618955",
+      "title": "Show HN: VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
+      "url": "https://github.com/agamrossen/VolAnti",
+      "owner": "agamrossen",
+      "language": null,
+      "description": "This project has been a month in the making, and 9 fully functional units will be sent tomorrow to an undisclosed civilian site across the Israel - Lebanon border. All of my findings are shared online to anyone on the globe who could benefit from them, or make their own units.<p>I&#x27;m an engineering student at the University of York, originally from Israel, studying in England.<p>I too often have been hearing about tragic cases involving civilians in war zones being chased and attacked by sma",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:45:05+00:00",
+      "bucket": "security",
+      "audience": "B",
+      "tags": [
+        "drone-detection",
+        "acoustic-sensing",
+        "fpv",
+        "open-source"
+      ],
+      "topics": [],
+      "rationale": "Open-source acoustic security hardware for detecting hostile FPV drones, aimed at civilian sites rather than software developers or consumers.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 4877,
+      "source": "hn",
+      "sourceId": "49613312",
+      "title": "Cognition (Devin) raises $2B at $48B valuation",
+      "url": "https://cognition.com/blog/series-e",
+      "owner": "meco",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:45:13+00:00",
+      "bucket": "ai-agent",
+      "audience": "dev",
+      "tags": [
+        "coding-agent",
+        "software-engineer",
+        "autonomous-development"
+      ],
+      "topics": [],
+      "rationale": "Devin is an autonomous coding agent that plans, writes, tests, and ships software for development teams.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 21
+    },
+    {
+      "id": 4878,
+      "source": "hn",
+      "sourceId": "49615926",
+      "title": "OpenAI fought dirty on career-making math problem",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "owner": "jonbaer",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:45:26+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "math-reasoning",
+        "benchmark",
+        "llm",
+        "openai"
+      ],
+      "topics": [],
+      "rationale": "An OpenAI model’s disputed math performance highlights benchmark contamination and trust gaps in shipped AI products.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 161
+    },
+    {
+      "id": 4879,
+      "source": "hn",
+      "sourceId": "49614557",
+      "title": "Flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "owner": "contingencies",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-09T05:45:39+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "uk-airports",
+        "flight-cancellations",
+        "air-traffic-control"
+      ],
+      "topics": [],
+      "rationale": "News coverage of disrupted passenger flights, not a software, AI, data, or security project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 120
     }
   ]
 }
