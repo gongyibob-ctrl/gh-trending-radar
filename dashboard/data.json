@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-11T16:54:04.972725+00:00",
+  "generatedAt": "2026-09-12T05:29:20.959950+00:00",
   "totals": {
-    "items": 5018,
+    "items": 5033,
     "byBucket": {
       "data": 139,
       "ai-agent": 707,
-      "ai-app": 1130,
-      "ai-infra": 652,
-      "devtool": 446,
-      "other": 1650,
-      "security": 269,
+      "ai-app": 1132,
+      "ai-infra": 655,
+      "devtool": 448,
+      "other": 1657,
+      "security": 270,
       "web-framework": 25
     },
     "byAudience": {
-      "B": 1067,
-      "dev": 1894,
-      "both": 1053,
-      "C": 996,
+      "B": 1069,
+      "dev": 1899,
+      "both": 1056,
+      "C": 1001,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 229,
-      "hn": 2585,
+      "hn": 2600,
       "product_hunt": 2204
     }
   },
@@ -24978,7 +24978,7 @@
       ],
       "rationale": "Reusable skills let developers wire agents into Google Cloud and Gemini products.",
       "stars": 19521,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -50541,7 +50541,7 @@
       ],
       "rationale": "Prompt skill for AI coding tools that reduces verbose agent output, pointing to lightweight agent-UX optimization gaps.",
       "stars": 103635,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 58297,
-      "stars7dDelta": 9946,
+      "stars": 58768,
+      "stars7dDelta": 9729,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 40803,
-      "stars7dDelta": 11707,
+      "stars": 42262,
+      "stars7dDelta": 13166,
       "hnPoints": null
     },
     {
@@ -88054,7 +88054,7 @@
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
       "stars": 20206,
-      "stars7dDelta": 324,
+      "stars7dDelta": 275,
       "hnPoints": null
     },
     {
@@ -92614,8 +92614,8 @@
       ],
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
-      "stars": 2879,
-      "stars7dDelta": 57,
+      "stars": 2907,
+      "stars7dDelta": 85,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 38356,
-      "stars7dDelta": 7266,
+      "stars": 38560,
+      "stars7dDelta": 7075,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 6489,
-      "stars7dDelta": 737,
+      "stars": 6575,
+      "stars7dDelta": 758,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 20661,
-      "stars7dDelta": 1302,
+      "stars": 20716,
+      "stars7dDelta": 1266,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5234,
-      "stars7dDelta": 517,
+      "stars": 5255,
+      "stars7dDelta": 502,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 3792,
-      "stars7dDelta": 363,
+      "stars": 3821,
+      "stars7dDelta": 366,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 31311,
-      "stars7dDelta": 3254,
+      "stars": 31378,
+      "stars7dDelta": 3246,
       "hnPoints": null
     },
     {
@@ -104703,8 +104703,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 18284,
-      "stars7dDelta": 2979,
+      "stars": 18389,
+      "stars7dDelta": 2980,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 135604,
-      "stars7dDelta": 9150,
+      "stars": 135961,
+      "stars7dDelta": 8521,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 26396,
-      "stars7dDelta": 8791,
+      "stars": 27428,
+      "stars7dDelta": 9561,
       "hnPoints": null
     },
     {
@@ -110901,7 +110901,7 @@
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
       "stars": 33207,
-      "stars7dDelta": 1624,
+      "stars7dDelta": 1397,
       "hnPoints": null
     },
     {
@@ -111232,7 +111232,7 @@
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
       "stars": 8558,
-      "stars7dDelta": 1170,
+      "stars7dDelta": 1105,
       "hnPoints": null
     },
     {
@@ -112986,7 +112986,7 @@
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
       "stars": 32966,
-      "stars7dDelta": 364,
+      "stars7dDelta": 289,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 22494,
-      "stars7dDelta": 4267,
+      "stars": 22645,
+      "stars7dDelta": 3937,
       "hnPoints": null
     },
     {
@@ -113096,7 +113096,7 @@
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
       "stars": 2222,
-      "stars7dDelta": 165,
+      "stars7dDelta": 147,
       "hnPoints": null
     },
     {
@@ -115510,7 +115510,7 @@
       "topics": [],
       "rationale": "Internal AI productivity product for employees to create docs, build apps, and run agents with company systems.",
       "stars": 9655,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -115535,7 +115535,7 @@
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
       "stars": 4088,
-      "stars7dDelta": 1475,
+      "stars7dDelta": 1131,
       "hnPoints": null
     },
     {
@@ -116651,7 +116651,7 @@
       "topics": [],
       "rationale": "Archive of exploit PoCs and vuln research, aimed at technical security practitioners rather than a shipped product.",
       "stars": 4734,
-      "stars7dDelta": 179,
+      "stars7dDelta": 100,
       "hnPoints": null
     },
     {
@@ -117595,8 +117595,8 @@
       ],
       "topics": [],
       "rationale": "Repo of Claude Code skills and agent workflows for developers, not a standalone AI product.",
-      "stars": 3751,
-      "stars7dDelta": 1185,
+      "stars": 3806,
+      "stars7dDelta": 1240,
       "hnPoints": null
     },
     {
@@ -121084,7 +121084,7 @@
       "rationale": "A developer-focused programming language design analysis, relevant to concurrency ergonomics rather than an AI startup category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 4
+      "hnPoints": 211
     },
     {
       "id": 4903,
@@ -121817,8 +121817,8 @@
       ],
       "topics": [],
       "rationale": "A consumer-facing desktop app that turns documents into a persistent, traceable AI-generated wiki rather than one-off RAG answers.",
-      "stars": 18584,
-      "stars7dDelta": 649,
+      "stars": 18835,
+      "stars7dDelta": 900,
       "hnPoints": null
     },
     {
@@ -121843,7 +121843,7 @@
       "rationale": "A specialized coding model upgrade for autonomous software engineering, representing a push toward stronger agent backends.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 433
+      "hnPoints": 441
     },
     {
       "id": 4934,
@@ -121868,7 +121868,7 @@
       "rationale": "A discussion about researchers’ confidentiality concerns when sharing unpublished mathematical work with OpenAI, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 850
+      "hnPoints": 857
     },
     {
       "id": 4935,
@@ -121916,7 +121916,7 @@
       "rationale": "An open model release enabling developers to build and run AI systems, representing continued demand for capable, efficient inference.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 981
+      "hnPoints": 996
     },
     {
       "id": 4937,
@@ -122014,7 +122014,7 @@
       "rationale": "A consumer privacy complaint about OpenAI’s training-data opt-out setting, not a software project or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 466
+      "hnPoints": 475
     },
     {
       "id": 4941,
@@ -122160,7 +122160,7 @@
       "rationale": "A social-media claim about OpenAI research, not a usable software project or infrastructure product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 259
+      "hnPoints": 261
     },
     {
       "id": 4947,
@@ -122674,7 +122674,7 @@
       "rationale": "A developer-facing API for building autonomous, tool-using agents, representing hosted agent orchestration infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 323
+      "hnPoints": 338
     },
     {
       "id": 4968,
@@ -122724,7 +122724,7 @@
       "rationale": "A high-memory Linux AI workstation for developers and researchers, not an AI software product or infrastructure platform.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 116
+      "hnPoints": 119
     },
     {
       "id": 4970,
@@ -122748,7 +122748,7 @@
       "rationale": "Threat-intelligence research on detecting and countering malicious AI use, highlighting demand for AI abuse monitoring and defense.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 159
+      "hnPoints": 173
     },
     {
       "id": 4971,
@@ -122797,7 +122797,7 @@
       "rationale": "Formal theorem-proving tooling for verifying mathematical results, closer to developer tooling than an AI product or infrastructure.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 172
+      "hnPoints": 176
     },
     {
       "id": 4973,
@@ -122846,7 +122846,7 @@
       "rationale": "A commentary piece on AI’s impact on trust, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 105
+      "hnPoints": 114
     },
     {
       "id": 4975,
@@ -123065,8 +123065,8 @@
       ],
       "topics": [],
       "rationale": "A local product for autonomous, parallel literature review and experiment agents, aimed at research workflows rather than raw infrastructure.",
-      "stars": 1144,
-      "stars7dDelta": 0,
+      "stars": 1383,
+      "stars7dDelta": 239,
       "hnPoints": null
     },
     {
@@ -123090,8 +123090,8 @@
       ],
       "topics": [],
       "rationale": "Reusable UI/design skills for coding agents point to a growing market for domain-specific agent capability packs.",
-      "stars": 6183,
-      "stars7dDelta": 0,
+      "stars": 6327,
+      "stars7dDelta": 144,
       "hnPoints": null
     },
     {
@@ -123121,8 +123121,8 @@
         "deep-research-agent"
       ],
       "rationale": "Multi-step research agent harness that turns prompts into sourced reports and a persistent searchable wiki.",
-      "stars": 2387,
-      "stars7dDelta": 0,
+      "stars": 2739,
+      "stars7dDelta": 352,
       "hnPoints": null
     },
     {
@@ -123167,8 +123167,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 1197,
-      "stars7dDelta": 0,
+      "stars": 1439,
+      "stars7dDelta": 242,
       "hnPoints": null
     },
     {
@@ -123192,8 +123192,8 @@
       ],
       "topics": [],
       "rationale": "A developer-focused networking research tool for TCP tunneling, not an AI, web, data, or security product.",
-      "stars": 998,
-      "stars7dDelta": 0,
+      "stars": 1198,
+      "stars7dDelta": 200,
       "hnPoints": null
     },
     {
@@ -123243,7 +123243,7 @@
       "rationale": "A vulnerability disclosure and security contact policy file, not a standalone software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 124
+      "hnPoints": 254
     },
     {
       "id": 4990,
@@ -123267,7 +123267,7 @@
       "rationale": "A Claude product policy page representing a general-purpose AI chatbot serving both individual and business users.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 337
+      "hnPoints": 607
     },
     {
       "id": 4991,
@@ -123291,7 +123291,7 @@
       "rationale": "A niche HN browsing/filtering site that removes AI-related posts, not an AI product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 92
+      "hnPoints": 179
     },
     {
       "id": 4992,
@@ -123364,7 +123364,7 @@
       "rationale": "An analysis article about AI’s impact on research collaboration, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 306
+      "hnPoints": 322
     },
     {
       "id": 4995,
@@ -123412,7 +123412,7 @@
       "rationale": "A community discussion about AI-heavy news coverage and declining visibility for broader hacker topics, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 646
+      "hnPoints": 765
     },
     {
       "id": 4997,
@@ -123437,7 +123437,7 @@
       "rationale": "A coding-focused autonomous LLM agent, representing another entrant in the crowded AI programming-assistant space.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 405
+      "hnPoints": 429
     },
     {
       "id": 4998,
@@ -123910,7 +123910,7 @@
       "url": "https://www.producthunt.com/products/moji-2",
       "owner": null,
       "language": null,
-      "description": "Open Markdown files like PDFs Discussion | Link",
+      "description": "Open Markdown files like PDFs. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-11T16:53:38+00:00",
       "bucket": "other",
@@ -123949,6 +123949,373 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5019,
+      "source": "hn",
+      "sourceId": "49662371",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "owner": "meredydd",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignment-of-ai-in-mathematics&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...</a><p><a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:25:13+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-mathematics",
+        "alignment",
+        "research"
+      ],
+      "topics": [],
+      "rationale": "A public critique of AI research practices in mathematics, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 781
+    },
+    {
+      "id": 5020,
+      "source": "hn",
+      "sourceId": "49666735",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "owner": "chao-",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:25:31+00:00",
+      "bucket": "security",
+      "audience": "dev",
+      "tags": [
+        "agentic-security",
+        "rubygems",
+        "supply-chain",
+        "autonomous-attack"
+      ],
+      "topics": [],
+      "rationale": "Security research showing autonomous agents attacking a package ecosystem, highlighting new AI-driven software supply-chain risks.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 524
+    },
+    {
+      "id": 5021,
+      "source": "hn",
+      "sourceId": "49665711",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "owner": "artninja1988",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:25:51+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "ai-research",
+        "recursive-self-improvement",
+        "ai-forecasting"
+      ],
+      "topics": [],
+      "rationale": "An AI research discussion article, not a software product or infrastructure project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 83
+    },
+    {
+      "id": 5022,
+      "source": "hn",
+      "sourceId": "49662767",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "owner": "kennethwolters",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:25:58+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-proxy",
+        "model-routing",
+        "self-hosted"
+      ],
+      "topics": [],
+      "rationale": "A lightweight developer-facing LLM gateway for routing model calls without the complexity of full LiteLLM.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 113
+    },
+    {
+      "id": 5023,
+      "source": "hn",
+      "sourceId": "49667188",
+      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+      "url": "https://github.com/zachsaw/graphify-csharp",
+      "owner": "zachsaw",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:26:18+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "code-intelligence",
+        "csharp",
+        "find-usages",
+        "coding-agents"
+      ],
+      "topics": [],
+      "rationale": "Compiler-accurate C# code navigation gives coding agents and devs reliable symbol context.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 5024,
+      "source": "hn",
+      "sourceId": "49663054",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+      "owner": "stmw",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.cia.gov&#x2F;stories&#x2F;story&#x2F;cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11&#x2F;seventy-one-declassified-presidents-daily-brief-products&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cia.gov&#x2F;stories&#x2F;story&#x2F;cia-releases-presidents-da...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:26:33+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "declassified-documents",
+        "historical-archives",
+        "presidents-daily-briefs"
+      ],
+      "topics": [],
+      "rationale": "A public release of declassified historical intelligence documents, not a software product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 129
+    },
+    {
+      "id": 5025,
+      "source": "hn",
+      "sourceId": "49660676",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "url": "https://github.com/godot-pty/gpty",
+      "owner": "1nv1n",
+      "language": null,
+      "description": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spawning multiple PTYs and then let the user grid&#x2F;tile them how they see fit.<p>But since we have the Godot game engine at our disposal, we can do some more interesting things, like add an FPS counter, and then subsequently also let people set their preferred FPS (the idea being the potential lowe",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:26:50+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "terminal-multiplexer",
+        "godot",
+        "rust",
+        "ai-agents"
+      ],
+      "topics": [],
+      "rationale": "A developer terminal workspace inspired by tmux, with Rust/Godot UI and emerging support for orchestrating autonomous agents.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 85
+    },
+    {
+      "id": 5026,
+      "source": "hn",
+      "sourceId": "49668196",
+      "title": "Ask HN: Did Google kill its enterprise workhorse model?",
+      "url": "https://news.ycombinator.com/item?id=49668196",
+      "owner": "waldrews",
+      "language": null,
+      "description": "Is anyone else in a panic over the Gemini 2.5 model generation (Pro, Flash) being sunset in October before there&#x27;s even any Pro class model in general availability (with geo restrictions etc.)?   Google wants everyone to migrate to 3.x Flash, which beats the older Pro models on the benchmarked tasks, but isn&#x27;t the same thing as the Pro class on reasoning-heavy tasks like complex reasoning on very large documents (my big use case).<p>The Gemini family had a distinct niche in document co",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:26:57+00:00",
+      "bucket": "ai-infra",
+      "audience": "B",
+      "tags": [
+        "gemini",
+        "model-lifecycle",
+        "long-context",
+        "vendor-lock-in"
+      ],
+      "topics": [],
+      "rationale": "Enterprise AI teams face model deprecation risk and long-context capability gaps, highlighting demand for portability and stable inference infrastructure.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 5027,
+      "source": "hn",
+      "sourceId": "49667253",
+      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
+      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "owner": "bilsbie",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:27:06+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "ai-legislation",
+        "developer-liability",
+        "policy"
+      ],
+      "topics": [],
+      "rationale": "A policy proposal about criminal liability for AI developers, not a software product or usable AI system.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
+    },
+    {
+      "id": 5028,
+      "source": "hn",
+      "sourceId": "49666425",
+      "title": "Houthis used Anthropic to develop guided weapons",
+      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "owner": "Alien1Being",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:27:27+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "ai-misuse",
+        "chatbot",
+        "weapons",
+        "policy"
+      ],
+      "topics": [],
+      "rationale": "A general AI chatbot used as a product, highlighting misuse risk and safety gaps around dual-use guidance.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 33
+    },
+    {
+      "id": 5029,
+      "source": "hn",
+      "sourceId": "49667846",
+      "title": "OpenAI: \"We use ... de-identified data to improve ChatGPT\"",
+      "url": "https://twitter.com/markchen90/status/2097400166554993041",
+      "owner": "nycdatasci",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:27:37+00:00",
+      "bucket": "ai-app",
+      "audience": "both",
+      "tags": [
+        "chatgpt",
+        "data-usage",
+        "privacy"
+      ],
+      "topics": [],
+      "rationale": "OpenAI’s ChatGPT is a packaged AI product; the trend highlights data-sharing and privacy tensions for users.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 13
+    },
+    {
+      "id": 5030,
+      "source": "hn",
+      "sourceId": "49668224",
+      "title": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+      "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
+      "owner": "ajay-higgs",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:27:49+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "local-llm",
+        "m1-mac",
+        "inference",
+        "deepseek"
+      ],
+      "topics": [],
+      "rationale": "A local LLM inference performance report, representing demand for faster and more efficient on-device model serving.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 5031,
+      "source": "hn",
+      "sourceId": "49660783",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "owner": "otherayden",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:28:26+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "hacker-news",
+        "ai-filter",
+        "news-reader",
+        "curation"
+      ],
+      "topics": [],
+      "rationale": "A consumer news-reading alternative that filters AI-generated content from Hacker News, not an AI product or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 179
+    },
+    {
+      "id": 5032,
+      "source": "hn",
+      "sourceId": "49661506",
+      "title": "Feeling Sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "owner": "encyclopedism",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:28:38+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "ai-opinion",
+        "personal-essay",
+        "ai-ethics"
+      ],
+      "topics": [],
+      "rationale": "A personal essay about emotional concerns around AI, not a software product or technical tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 170
+    },
+    {
+      "id": 5033,
+      "source": "hn",
+      "sourceId": "49662116",
+      "title": "A Misalignment of AI in Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "owner": "Iuz",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-12T05:28:46+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "mathematics",
+        "ai-alignment",
+        "research"
+      ],
+      "topics": [],
+      "rationale": "A mathematics blog essay about AI misalignment, not a product, tool, or deployable software.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 145
     }
   ]
 }
