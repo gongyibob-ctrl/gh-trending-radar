@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-12T16:00:20.733354+00:00",
+  "generatedAt": "2026-09-13T05:43:20.213815+00:00",
   "totals": {
-    "items": 5060,
+    "items": 5071,
     "byBucket": {
       "data": 139,
-      "ai-agent": 708,
+      "ai-agent": 709,
       "ai-app": 1135,
-      "ai-infra": 655,
-      "devtool": 451,
-      "other": 1677,
-      "security": 270,
+      "ai-infra": 657,
+      "devtool": 452,
+      "other": 1683,
+      "security": 271,
       "web-framework": 25
     },
     "byAudience": {
-      "B": 1073,
-      "dev": 1905,
-      "both": 1058,
-      "C": 1016,
+      "B": 1077,
+      "dev": 1909,
+      "both": 1059,
+      "C": 1018,
       "?": 7,
       "other": 1
     },
     "bySource": {
       "github_trending": 229,
-      "hn": 2609,
+      "hn": 2620,
       "product_hunt": 2222
     }
   },
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 59335,
-      "stars7dDelta": 9648,
+      "stars": 59912,
+      "stars7dDelta": 9499,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 43105,
-      "stars7dDelta": 14009,
+      "stars": 43584,
+      "stars7dDelta": 14488,
       "hnPoints": null
     },
     {
@@ -68391,8 +68391,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 15413,
-      "stars7dDelta": 476,
+      "stars": 15473,
+      "stars7dDelta": 536,
       "hnPoints": null
     },
     {
@@ -88054,7 +88054,7 @@
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
       "stars": 20206,
-      "stars7dDelta": 219,
+      "stars7dDelta": 184,
       "hnPoints": null
     },
     {
@@ -92614,8 +92614,8 @@
       ],
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
-      "stars": 2932,
-      "stars7dDelta": 110,
+      "stars": 2976,
+      "stars7dDelta": 154,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 38740,
-      "stars7dDelta": 6921,
+      "stars": 38939,
+      "stars7dDelta": 6827,
       "hnPoints": null
     },
     {
@@ -96836,7 +96836,7 @@
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
       "stars": 6613,
-      "stars7dDelta": 796,
+      "stars7dDelta": 757,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 20776,
-      "stars7dDelta": 1204,
+      "stars": 20835,
+      "stars7dDelta": 1187,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5270,
-      "stars7dDelta": 480,
+      "stars": 5300,
+      "stars7dDelta": 486,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 3841,
-      "stars7dDelta": 351,
+      "stars": 3883,
+      "stars7dDelta": 372,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 31469,
-      "stars7dDelta": 3274,
+      "stars": 31543,
+      "stars7dDelta": 3273,
       "hnPoints": null
     },
     {
@@ -104703,8 +104703,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 18488,
-      "stars7dDelta": 2960,
+      "stars": 18584,
+      "stars7dDelta": 2941,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 136384,
-      "stars7dDelta": 8173,
+      "stars": 136765,
+      "stars7dDelta": 7855,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 28837,
-      "stars7dDelta": 10751,
+      "stars": 30347,
+      "stars7dDelta": 11146,
       "hnPoints": null
     },
     {
@@ -110901,7 +110901,7 @@
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
       "stars": 33207,
-      "stars7dDelta": 1178,
+      "stars7dDelta": 911,
       "hnPoints": null
     },
     {
@@ -111232,7 +111232,7 @@
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
       "stars": 8558,
-      "stars7dDelta": 1062,
+      "stars7dDelta": 864,
       "hnPoints": null
     },
     {
@@ -112986,7 +112986,7 @@
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
       "stars": 32966,
-      "stars7dDelta": 232,
+      "stars7dDelta": 167,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 23444,
-      "stars7dDelta": 4338,
+      "stars": 24814,
+      "stars7dDelta": 5248,
       "hnPoints": null
     },
     {
@@ -113095,8 +113095,8 @@
         "speculative-sampling"
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
-      "stars": 2267,
-      "stars7dDelta": 173,
+      "stars": 2287,
+      "stars7dDelta": 150,
       "hnPoints": null
     },
     {
@@ -115535,7 +115535,7 @@
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
       "stars": 4088,
-      "stars7dDelta": 786,
+      "stars7dDelta": 561,
       "hnPoints": null
     },
     {
@@ -116651,7 +116651,7 @@
       "topics": [],
       "rationale": "Archive of exploit PoCs and vuln research, aimed at technical security practitioners rather than a shipped product.",
       "stars": 4734,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -117572,7 +117572,7 @@
       "topics": [],
       "rationale": "Curated no-signup browser tools directory; a consumer-friendly catalog, not an AI or dev infra project.",
       "stars": 3922,
-      "stars7dDelta": 966,
+      "stars7dDelta": 770,
       "hnPoints": null
     },
     {
@@ -117595,8 +117595,8 @@
       ],
       "topics": [],
       "rationale": "Repo of Claude Code skills and agent workflows for developers, not a standalone AI product.",
-      "stars": 3867,
-      "stars7dDelta": 1068,
+      "stars": 3923,
+      "stars7dDelta": 912,
       "hnPoints": null
     },
     {
@@ -120551,8 +120551,8 @@
       ],
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
-      "stars": 8559,
-      "stars7dDelta": 797,
+      "stars": 8753,
+      "stars7dDelta": 991,
       "hnPoints": null
     },
     {
@@ -121084,7 +121084,7 @@
       "rationale": "A developer-focused programming language design analysis, relevant to concurrency ergonomics rather than an AI startup category.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 371
+      "hnPoints": 431
     },
     {
       "id": 4903,
@@ -123167,8 +123167,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 1656,
-      "stars7dDelta": 459,
+      "stars": 1890,
+      "stars7dDelta": 693,
       "hnPoints": null
     },
     {
@@ -123192,8 +123192,8 @@
       ],
       "topics": [],
       "rationale": "A developer-focused networking research tool for TCP tunneling, not an AI, web, data, or security product.",
-      "stars": 1333,
-      "stars7dDelta": 335,
+      "stars": 1430,
+      "stars7dDelta": 432,
       "hnPoints": null
     },
     {
@@ -123243,7 +123243,7 @@
       "rationale": "A vulnerability disclosure and security contact policy file, not a standalone software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 266
+      "hnPoints": 272
     },
     {
       "id": 4990,
@@ -123267,7 +123267,7 @@
       "rationale": "A Claude product policy page representing a general-purpose AI chatbot serving both individual and business users.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 660
+      "hnPoints": 666
     },
     {
       "id": 4991,
@@ -123291,7 +123291,7 @@
       "rationale": "A niche HN browsing/filtering site that removes AI-related posts, not an AI product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 195
+      "hnPoints": 199
     },
     {
       "id": 4992,
@@ -123364,7 +123364,7 @@
       "rationale": "An analysis article about AI’s impact on research collaboration, not a software project or tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 327
+      "hnPoints": 331
     },
     {
       "id": 4995,
@@ -123412,7 +123412,7 @@
       "rationale": "A community discussion about AI-heavy news coverage and declining visibility for broader hacker topics, not a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 807
+      "hnPoints": 823
     },
     {
       "id": 4997,
@@ -123437,7 +123437,7 @@
       "rationale": "A coding-focused autonomous LLM agent, representing another entrant in the crowded AI programming-assistant space.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 436
+      "hnPoints": 443
     },
     {
       "id": 4998,
@@ -123972,7 +123972,7 @@
       "rationale": "A public critique of AI research practices in mathematics, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1096
+      "hnPoints": 1186
     },
     {
       "id": 5020,
@@ -123997,7 +123997,7 @@
       "rationale": "Security research showing autonomous agents attacking a package ecosystem, highlighting new AI-driven software supply-chain risks.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 855
+      "hnPoints": 929
     },
     {
       "id": 5021,
@@ -124021,7 +124021,7 @@
       "rationale": "An AI research discussion article, not a software product or infrastructure project.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 83
+      "hnPoints": 117
     },
     {
       "id": 5022,
@@ -124045,7 +124045,7 @@
       "rationale": "A lightweight developer-facing LLM gateway for routing model calls without the complexity of full LiteLLM.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 162
+      "hnPoints": 174
     },
     {
       "id": 5023,
@@ -124094,7 +124094,7 @@
       "rationale": "A public release of declassified historical intelligence documents, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 144
+      "hnPoints": 151
     },
     {
       "id": 5025,
@@ -124267,7 +124267,7 @@
       "rationale": "A consumer news-reading alternative that filters AI-generated content from Hacker News, not an AI product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 191
+      "hnPoints": 192
     },
     {
       "id": 5032,
@@ -124291,7 +124291,7 @@
       "rationale": "A personal essay about emotional concerns around AI, not a software product or technical tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 176
+      "hnPoints": 177
     },
     {
       "id": 5033,
@@ -124315,7 +124315,7 @@
       "rationale": "A mathematics blog essay about AI misalignment, not a product, tool, or deployable software.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 147
+      "hnPoints": 148
     },
     {
       "id": 5034,
@@ -124325,7 +124325,7 @@
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "owner": "tolugenius",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;kt50V\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;kt50V</a>",
       "createdAt": null,
       "firstSeenAt": "2026-09-12T15:55:32+00:00",
       "bucket": "other",
@@ -124339,7 +124339,7 @@
       "rationale": "Business analysis of Nvidia’s role in AI compute and capital markets, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 43
+      "hnPoints": 437
     },
     {
       "id": 5035,
@@ -124363,13 +124363,13 @@
       "rationale": "A theoretical framework for analyzing Transformer internals, not a shipped product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 31
+      "hnPoints": 93
     },
     {
       "id": 5036,
       "source": "hn",
       "sourceId": "49671159",
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "title": "The worst spam emails: iLands AI agent hustle",
       "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
       "owner": "ColinWright",
       "language": null,
@@ -124388,7 +124388,7 @@
       "rationale": "An AI-agent venture focused on automated email outreach, exposing the spammy edge of agent-led sales and marketing.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 65
+      "hnPoints": 111
     },
     {
       "id": 5037,
@@ -124975,6 +124975,272 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5061,
+      "source": "hn",
+      "sourceId": "49676820",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "owner": "theanonymousone",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:40:36+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "llm-evaluation",
+        "software-engineering",
+        "enterprise-code",
+        "benchmark"
+      ],
+      "topics": [],
+      "rationale": "An evaluation benchmark for measuring AI coding models on realistic private enterprise repositories.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 185
+    },
+    {
+      "id": 5062,
+      "source": "hn",
+      "sourceId": "49678969",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "owner": "jonifico",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:40:45+00:00",
+      "bucket": "other",
+      "audience": "both",
+      "tags": [
+        "ai-safety",
+        "agent-alignment",
+        "multi-agent"
+      ],
+      "topics": [],
+      "rationale": "Research commentary on deceptive and coordinated AI-agent behavior, not a deployable software product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 5063,
+      "source": "hn",
+      "sourceId": "49678683",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "owner": "xena",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:40:56+00:00",
+      "bucket": "other",
+      "audience": "dev",
+      "tags": [
+        "ai-policy",
+        "ai-development",
+        "opinion"
+      ],
+      "topics": [],
+      "rationale": "An opinion essay on AI development speed, not a usable software product or infrastructure project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 314
+    },
+    {
+      "id": 5064,
+      "source": "hn",
+      "sourceId": "49645480",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "owner": "datakan",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement-understanding-privacy-on-lg-smart-tvs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:41:16+00:00",
+      "bucket": "other",
+      "audience": "C",
+      "tags": [
+        "smart-tv",
+        "privacy",
+        "surveillance"
+      ],
+      "topics": [],
+      "rationale": "Consumer tech privacy dispute about alleged smart-TV tracking and audio collection, not a software project or developer tool.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 479
+    },
+    {
+      "id": 5065,
+      "source": "hn",
+      "sourceId": "49678435",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "owner": "ZihuiGeorgia",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:41:26+00:00",
+      "bucket": "devtool",
+      "audience": "dev",
+      "tags": [
+        "agentic-ai",
+        "ide",
+        "research-tool"
+      ],
+      "topics": [],
+      "rationale": "An IDE for building and researching agentic systems, primarily serving developers rather than shipping an end-user AI product.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 27
+    },
+    {
+      "id": 5066,
+      "source": "hn",
+      "sourceId": "49658672",
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "owner": "sbulaev",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;i-fixed-a-tractor-john-deere-self-repair-service&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired...</a><p><a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:41:38+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "right-to-repair",
+        "tractor-repair",
+        "farmer-tools"
+      ],
+      "topics": [],
+      "rationale": "A report on farmers repairing connected tractors, highlighting equipment ownership and right-to-repair barriers rather than software.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 117
+    },
+    {
+      "id": 5067,
+      "source": "hn",
+      "sourceId": "49671237",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "owner": "dgroshev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:41:58+00:00",
+      "bucket": "security",
+      "audience": "C",
+      "tags": [
+        "signal",
+        "chat-integrity",
+        "cryptographic-verification"
+      ],
+      "topics": [],
+      "rationale": "Security tooling helps Signal users verify chat integrity and detect tampering in privacy-sensitive communications.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 68
+    },
+    {
+      "id": 5068,
+      "source": "hn",
+      "sourceId": "49679685",
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+      "owner": "pseudolus",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:42:10+00:00",
+      "bucket": "ai-agent",
+      "audience": "B",
+      "tags": [
+        "ai-swarm",
+        "autonomous-agent",
+        "computer-use"
+      ],
+      "topics": [],
+      "rationale": "Signals rapid growth of autonomous multi-agent systems acting across the web, creating enterprise control and safety gaps.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 5069,
+      "source": "hn",
+      "sourceId": "49679971",
+      "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+      "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870",
+      "owner": "1vuio0pswjnm7",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:42:20+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "banking",
+        "lending",
+        "ai-losses"
+      ],
+      "topics": [],
+      "rationale": "A business-finance news item about JPMorgan lending decisions, not a software product or technology project.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 5070,
+      "source": "hn",
+      "sourceId": "49676849",
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "owner": "humanlion87",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:42:38+00:00",
+      "bucket": "other",
+      "audience": "B",
+      "tags": [
+        "openai",
+        "ipo",
+        "ai-industry"
+      ],
+      "topics": [],
+      "rationale": "News about OpenAI’s IPO timing, not a software product or startup opportunity.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 80
+    },
+    {
+      "id": 5071,
+      "source": "hn",
+      "sourceId": "49677519",
+      "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
+      "url": "https://www.siliconcodesign.com/p/an-advanced-system-architecture-breakdown",
+      "owner": "porridgeraisin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-13T05:42:47+00:00",
+      "bucket": "ai-infra",
+      "audience": "dev",
+      "tags": [
+        "ai-accelerator",
+        "inference-hardware",
+        "openai",
+        "system-architecture"
+      ],
+      "topics": [],
+      "rationale": "Technical analysis of OpenAI’s custom AI accelerator architecture, representing specialized infrastructure for model training and inference.",
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
     }
   ]
 }
