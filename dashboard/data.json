@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-14T18:20:10.152545+00:00",
+  "generatedAt": "2026-09-15T05:56:18.887698+00:00",
   "totals": {
-    "items": 5148,
+    "items": 5156,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 1746,
+      "other": 1754,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 52,
+      "?": 60,
       "other": 1
     },
     "bySource": {
       "github_trending": 231,
-      "hn": 2664,
+      "hn": 2672,
       "product_hunt": 2253
     }
   },
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 61966,
-      "stars7dDelta": 8524,
+      "stars": 62596,
+      "stars7dDelta": 8216,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 45240,
-      "stars7dDelta": 16144,
+      "stars": 45623,
+      "stars7dDelta": 16527,
       "hnPoints": null
     },
     {
@@ -68391,8 +68391,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 15750,
-      "stars7dDelta": 813,
+      "stars": 15805,
+      "stars7dDelta": 868,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 25243,
-      "stars7dDelta": 2150,
+      "stars": 26323,
+      "stars7dDelta": 3230,
       "hnPoints": null
     },
     {
@@ -88054,7 +88054,7 @@
       "topics": [],
       "rationale": "A persistent autonomous coding agent with subagents and memory for long-running developer workflows.",
       "stars": 20206,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -92301,8 +92301,8 @@
       ],
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
-      "stars": 5905,
-      "stars7dDelta": 248,
+      "stars": 5983,
+      "stars7dDelta": 326,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 39700,
-      "stars7dDelta": 6287,
+      "stars": 39927,
+      "stars7dDelta": 5682,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 6787,
-      "stars7dDelta": 685,
+      "stars": 6843,
+      "stars7dDelta": 741,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21057,
-      "stars7dDelta": 1061,
+      "stars": 21109,
+      "stars7dDelta": 1001,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5391,
-      "stars7dDelta": 414,
+      "stars": 5421,
+      "stars7dDelta": 382,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 4002,
-      "stars7dDelta": 407,
+      "stars": 4045,
+      "stars7dDelta": 425,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 31850,
-      "stars7dDelta": 3138,
+      "stars": 31946,
+      "stars7dDelta": 2795,
       "hnPoints": null
     },
     {
@@ -104703,8 +104703,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 18952,
-      "stars7dDelta": 2155,
+      "stars": 19056,
+      "stars7dDelta": 2025,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 138213,
-      "stars7dDelta": 6975,
+      "stars": 138662,
+      "stars7dDelta": 6738,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 33280,
-      "stars7dDelta": 14079,
+      "stars": 33856,
+      "stars7dDelta": 14655,
       "hnPoints": null
     },
     {
@@ -110901,7 +110901,7 @@
       "topics": [],
       "rationale": "Agent-powered course builder/classroom app for learners and educators, more product than infra.",
       "stars": 33207,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -111232,7 +111232,7 @@
       ],
       "rationale": "AI assistant for patent point mining, disclosure drafting, and patent reading; a practical end-user workflow tool for practitioners.",
       "stars": 8558,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -112986,7 +112986,7 @@
       ],
       "rationale": "Developer CLI for multi-step coding agents across many model backends and MCP tools.",
       "stars": 32966,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 28799,
-      "stars7dDelta": 7974,
+      "stars": 29700,
+      "stars7dDelta": 8517,
       "hnPoints": null
     },
     {
@@ -113096,7 +113096,7 @@
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
       "stars": 2287,
-      "stars7dDelta": 129,
+      "stars7dDelta": 87,
       "hnPoints": null
     },
     {
@@ -115535,7 +115535,7 @@
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
       "stars": 4088,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -117572,7 +117572,7 @@
       "topics": [],
       "rationale": "Curated no-signup browser tools directory; a consumer-friendly catalog, not an AI or dev infra project.",
       "stars": 3922,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -118827,7 +118827,7 @@
       "topics": [],
       "rationale": "An open-source autonomous research agent with multi-step LLM workflows, fitting the agent category more than infra.",
       "stars": 9093,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -120551,8 +120551,8 @@
       ],
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
-      "stars": 9463,
-      "stars7dDelta": 1701,
+      "stars": 9650,
+      "stars7dDelta": 1888,
       "hnPoints": null
     },
     {
@@ -121792,8 +121792,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 31639,
-      "stars7dDelta": 4291,
+      "stars": 32456,
+      "stars7dDelta": 5108,
       "hnPoints": null
     },
     {
@@ -125289,7 +125289,7 @@
       "rationale": "Concerns distilling frontier models into open-weight systems, an AI model-development and infrastructure pattern rather than an end-user app.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 402
+      "hnPoints": 408
     },
     {
       "id": 5074,
@@ -125777,7 +125777,7 @@
       "rationale": "Curated educational content on open AI models, not a software product or infrastructure tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 145
+      "hnPoints": 154
     },
     {
       "id": 5094,
@@ -125801,7 +125801,7 @@
       "rationale": "Technical critique of JPEG XL adoption and tradeoffs, useful to developers evaluating image formats rather than a software product.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 245
+      "hnPoints": 264
     },
     {
       "id": 5095,
@@ -125971,7 +125971,7 @@
       "rationale": "An opinion post about frontier AI regulation, not a software product or developer tool.",
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 317
+      "hnPoints": 323
     },
     {
       "id": 5102,
@@ -126050,8 +126050,8 @@
         "virtual-display"
       ],
       "rationale": null,
-      "stars": 3473,
-      "stars7dDelta": 0,
+      "stars": 3698,
+      "stars7dDelta": 225,
       "hnPoints": null
     },
     {
@@ -126080,8 +126080,8 @@
         "skills"
       ],
       "rationale": null,
-      "stars": 1925,
-      "stars7dDelta": 0,
+      "stars": 2200,
+      "stars7dDelta": 275,
       "hnPoints": null
     },
     {
@@ -126102,7 +126102,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 40
+      "hnPoints": 118
     },
     {
       "id": 5107,
@@ -126122,7 +126122,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 189
+      "hnPoints": 421
     },
     {
       "id": 5108,
@@ -126142,7 +126142,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 86
+      "hnPoints": 129
     },
     {
       "id": 5109,
@@ -126162,7 +126162,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 10
+      "hnPoints": 74
     },
     {
       "id": 5110,
@@ -126182,7 +126182,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 50
+      "hnPoints": 353
     },
     {
       "id": 5111,
@@ -126202,7 +126202,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 55
+      "hnPoints": 101
     },
     {
       "id": 5112,
@@ -126262,7 +126262,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 31
+      "hnPoints": 76
     },
     {
       "id": 5115,
@@ -126302,7 +126302,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 62
+      "hnPoints": 115
     },
     {
       "id": 5117,
@@ -126322,7 +126322,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 103
+      "hnPoints": 112
     },
     {
       "id": 5118,
@@ -126362,7 +126362,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 205
+      "hnPoints": 221
     },
     {
       "id": 5120,
@@ -126382,7 +126382,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 123
+      "hnPoints": 135
     },
     {
       "id": 5121,
@@ -126522,7 +126522,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 30
+      "hnPoints": 53
     },
     {
       "id": 5128,
@@ -126542,7 +126542,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 113
+      "hnPoints": 126
     },
     {
       "id": 5129,
@@ -126943,6 +126943,166 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5149,
+      "source": "hn",
+      "sourceId": "49697477",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "owner": "nathannaveen",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:51:09+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 82
+    },
+    {
+      "id": 5150,
+      "source": "hn",
+      "sourceId": "49701182",
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm/",
+      "owner": "guld",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2605.31022\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2605.31022</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;SakanaAI&#x2F;pc-alm\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;SakanaAI&#x2F;pc-alm</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:51:24+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 72
+    },
+    {
+      "id": 5151,
+      "source": "hn",
+      "sourceId": "49706223",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "owner": "throwworhtthrow",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:51:39+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 115
+    },
+    {
+      "id": 5152,
+      "source": "hn",
+      "sourceId": "49703003",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "owner": "theanonymousone",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:51:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 137
+    },
+    {
+      "id": 5153,
+      "source": "hn",
+      "sourceId": "49705630",
+      "title": "Anthropic is in regulatory-capture financial loop",
+      "url": "https://twitter.com/kevinnbass/status/2099626156660043891",
+      "owner": "762236",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:52:40+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 48
+    },
+    {
+      "id": 5154,
+      "source": "hn",
+      "sourceId": "49706941",
+      "title": "I worked at Google DeepMind. You should listen to the warnings about AI",
+      "url": "https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings",
+      "owner": "gibspaulding",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:52:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 5155,
+      "source": "hn",
+      "sourceId": "49706829",
+      "title": "Israeli Effective Altruism Firm Behind OpenAI, Anthropic, and Meta Cyberattacks",
+      "url": "https://twitter.com/brianchau57/status/2099580981271318606",
+      "owner": "MrBuddyCasino",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:53:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 30
+    },
+    {
+      "id": 5156,
+      "source": "hn",
+      "sourceId": "49702239",
+      "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
+      "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "owner": "akis33",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-15T05:53:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 172
     }
   ]
 }
