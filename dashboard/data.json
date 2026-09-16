@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-15T17:29:58.093461+00:00",
+  "generatedAt": "2026-09-16T05:48:45.553275+00:00",
   "totals": {
-    "items": 5203,
+    "items": 5211,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 1801,
+      "other": 1809,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 107,
+      "?": 115,
       "other": 1
     },
     "bySource": {
       "github_trending": 232,
-      "hn": 2689,
+      "hn": 2697,
       "product_hunt": 2282
     }
   },
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 63280,
-      "stars7dDelta": 8209,
+      "stars": 63896,
+      "stars7dDelta": 8069,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 46088,
-      "stars7dDelta": 14739,
+      "stars": 46405,
+      "stars7dDelta": 12702,
       "hnPoints": null
     },
     {
@@ -68391,8 +68391,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 15874,
-      "stars7dDelta": 937,
+      "stars": 15924,
+      "stars7dDelta": 987,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 27892,
-      "stars7dDelta": 4799,
+      "stars": 29225,
+      "stars7dDelta": 6132,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 40148,
-      "stars7dDelta": 4814,
+      "stars": 40289,
+      "stars7dDelta": 3987,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 6894,
-      "stars7dDelta": 742,
+      "stars": 6952,
+      "stars7dDelta": 740,
       "hnPoints": null
     },
     {
@@ -100923,8 +100923,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21176,
-      "stars7dDelta": 959,
+      "stars": 21234,
+      "stars7dDelta": 921,
       "hnPoints": null
     },
     {
@@ -102712,8 +102712,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5450,
-      "stars7dDelta": 367,
+      "stars": 5478,
+      "stars7dDelta": 356,
       "hnPoints": null
     },
     {
@@ -103753,8 +103753,8 @@
       ],
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
-      "stars": 4072,
-      "stars7dDelta": 425,
+      "stars": 4105,
+      "stars7dDelta": 432,
       "hnPoints": null
     },
     {
@@ -103789,8 +103789,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 32071,
-      "stars7dDelta": 2651,
+      "stars": 32155,
+      "stars7dDelta": 2264,
       "hnPoints": null
     },
     {
@@ -104703,8 +104703,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 19185,
-      "stars7dDelta": 1899,
+      "stars": 19289,
+      "stars7dDelta": 1600,
       "hnPoints": null
     },
     {
@@ -105858,8 +105858,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 139189,
-      "stars7dDelta": 6713,
+      "stars": 139585,
+      "stars7dDelta": 6418,
       "hnPoints": null
     },
     {
@@ -108860,8 +108860,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 34473,
-      "stars7dDelta": 14680,
+      "stars": 35050,
+      "stars7dDelta": 11934,
       "hnPoints": null
     },
     {
@@ -113056,8 +113056,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 30589,
-      "stars7dDelta": 9120,
+      "stars": 31262,
+      "stars7dDelta": 9539,
       "hnPoints": null
     },
     {
@@ -114225,8 +114225,8 @@
         "skills"
       ],
       "rationale": "Dev tooling for managing agent runs and commits, not a user-facing AI product.",
-      "stars": 4531,
-      "stars7dDelta": 0,
+      "stars": 4717,
+      "stars7dDelta": 186,
       "hnPoints": null
     },
     {
@@ -119460,7 +119460,7 @@
       "topics": [],
       "rationale": "Model-serving recipe for DeepSeek on DGX Sparks with vLLM, speculative decoding, and multimodal inference.",
       "stars": 1304,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -120551,8 +120551,8 @@
       ],
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
-      "stars": 9797,
-      "stars7dDelta": 2035,
+      "stars": 9931,
+      "stars7dDelta": 2169,
       "hnPoints": null
     },
     {
@@ -121792,8 +121792,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 33391,
-      "stars7dDelta": 6043,
+      "stars": 34127,
+      "stars7dDelta": 6779,
       "hnPoints": null
     },
     {
@@ -123065,8 +123065,8 @@
       ],
       "topics": [],
       "rationale": "A local product for autonomous, parallel literature review and experiment agents, aimed at research workflows rather than raw infrastructure.",
-      "stars": 3130,
-      "stars7dDelta": 1986,
+      "stars": 3576,
+      "stars7dDelta": 2432,
       "hnPoints": null
     },
     {
@@ -123167,8 +123167,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 2696,
-      "stars7dDelta": 1499,
+      "stars": 2947,
+      "stars7dDelta": 1750,
       "hnPoints": null
     },
     {
@@ -126122,7 +126122,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 499
+      "hnPoints": 507
     },
     {
       "id": 5108,
@@ -126182,7 +126182,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 471
+      "hnPoints": 483
     },
     {
       "id": 5111,
@@ -126962,7 +126962,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 148
+      "hnPoints": 150
     },
     {
       "id": 5150,
@@ -127002,7 +127002,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 207
+      "hnPoints": 223
     },
     {
       "id": 5152,
@@ -127022,7 +127022,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 160
     },
     {
       "id": 5153,
@@ -127102,7 +127102,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 194
+      "hnPoints": 197
     },
     {
       "id": 5157,
@@ -127130,8 +127130,8 @@
         "reverse-engineering"
       ],
       "rationale": null,
-      "stars": 1079,
-      "stars7dDelta": 0,
+      "stars": 1288,
+      "stars7dDelta": 209,
       "hnPoints": null
     },
     {
@@ -127152,7 +127152,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 43
+      "hnPoints": 104
     },
     {
       "id": 5159,
@@ -127172,7 +127172,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 157
+      "hnPoints": 312
     },
     {
       "id": 5160,
@@ -127192,7 +127192,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 131
+      "hnPoints": 354
     },
     {
       "id": 5161,
@@ -127212,7 +127212,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 64
+      "hnPoints": 216
     },
     {
       "id": 5162,
@@ -127252,7 +127252,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 13
+      "hnPoints": 132
     },
     {
       "id": 5164,
@@ -127272,7 +127272,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 559
     },
     {
       "id": 5165,
@@ -127352,7 +127352,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 84
+      "hnPoints": 128
     },
     {
       "id": 5169,
@@ -127372,7 +127372,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 352
+      "hnPoints": 461
     },
     {
       "id": 5170,
@@ -127452,7 +127452,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 131
+      "hnPoints": 158
     },
     {
       "id": 5174,
@@ -128053,6 +128053,166 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5204,
+      "source": "hn",
+      "sourceId": "49693971",
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "owner": "rkotcher",
+      "language": null,
+      "description": "Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger, from takeoff to touchdown. Terrain, weather, and realtime sun position included. Don&#x27;t worry, the latest release now features legs, so you can get up and go to the bathroom on longer flights. Enjoy!",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:39:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 77
+    },
+    {
+      "id": 5205,
+      "source": "hn",
+      "sourceId": "49722276",
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "owner": "ake2l",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:39:24+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 5206,
+      "source": "hn",
+      "sourceId": "49717280",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "owner": "natolambert",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:39:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 69
+    },
+    {
+      "id": 5207,
+      "source": "hn",
+      "sourceId": "49721435",
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "owner": "djfergus",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:39:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 44
+    },
+    {
+      "id": 5208,
+      "source": "hn",
+      "sourceId": "49713894",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "owner": "jd_",
+      "language": null,
+      "description": "Hi HN - long-time lurker (since 2012!), first time poster.<p>Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It&#x27;s Apache 2.0-licensed, there&#x27;s no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through O",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:40:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
+    },
+    {
+      "id": 5209,
+      "source": "hn",
+      "sourceId": "49712409",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "owner": "Betelbuddy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:40:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 52
+    },
+    {
+      "id": 5210,
+      "source": "hn",
+      "sourceId": "49715927",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "owner": "jaykru",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:41:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 164
+    },
+    {
+      "id": 5211,
+      "source": "hn",
+      "sourceId": "49716241",
+      "title": "Hugging Face is billing OpenAI $100M for hacking it",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+      "owner": "cwwc",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-16T05:42:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 142
     }
   ]
 }
