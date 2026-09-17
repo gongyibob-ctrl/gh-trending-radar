@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16T17:30:36.725905+00:00",
+  "generatedAt": "2026-09-17T05:57:00.138313+00:00",
   "totals": {
-    "items": 5240,
+    "items": 5257,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 1838,
+      "other": 1855,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 144,
+      "?": 161,
       "other": 1
     },
     "bySource": {
       "github_trending": 234,
-      "hn": 2708,
-      "product_hunt": 2298
+      "hn": 2724,
+      "product_hunt": 2299
     }
   },
   "items": [
@@ -5489,7 +5489,7 @@
       ],
       "rationale": "Open-source AI engineering curriculum for developers, not a deployable agent, infra layer, or product.",
       "stars": 53840,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 26635,
-      "stars7dDelta": 0,
+      "stars": 26729,
+      "stars7dDelta": 94,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 64597,
-      "stars7dDelta": 8212,
+      "stars": 65136,
+      "stars7dDelta": 8050,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 46772,
-      "stars7dDelta": 11399,
+      "stars": 47032,
+      "stars7dDelta": 9636,
       "hnPoints": null
     },
     {
@@ -68392,7 +68392,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 15924,
-      "stars7dDelta": 772,
+      "stars7dDelta": 511,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 31157,
-      "stars7dDelta": 8064,
+      "stars": 32605,
+      "stars7dDelta": 9512,
       "hnPoints": null
     },
     {
@@ -92301,8 +92301,8 @@
       ],
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
-      "stars": 6155,
-      "stars7dDelta": 498,
+      "stars": 6218,
+      "stars7dDelta": 561,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 40457,
-      "stars7dDelta": 3578,
+      "stars": 40578,
+      "stars7dDelta": 3098,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 6995,
-      "stars7dDelta": 653,
+      "stars": 7034,
+      "stars7dDelta": 545,
       "hnPoints": null
     },
     {
@@ -98788,8 +98788,8 @@
         "typescript"
       ],
       "rationale": "Local multi-agent harness that orchestrates coding agents and CLIs on a developer machine.",
-      "stars": 7381,
-      "stars7dDelta": 0,
+      "stars": 7455,
+      "stars7dDelta": 74,
       "hnPoints": null
     },
     {
@@ -100935,8 +100935,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21320,
-      "stars7dDelta": 932,
+      "stars": 21364,
+      "stars7dDelta": 883,
       "hnPoints": null
     },
     {
@@ -102724,8 +102724,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5502,
-      "stars7dDelta": 351,
+      "stars": 5521,
+      "stars7dDelta": 326,
       "hnPoints": null
     },
     {
@@ -103766,7 +103766,7 @@
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
       "stars": 4138,
-      "stars7dDelta": 431,
+      "stars7dDelta": 406,
       "hnPoints": null
     },
     {
@@ -103801,8 +103801,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 32247,
-      "stars7dDelta": 1976,
+      "stars": 32311,
+      "stars7dDelta": 1573,
       "hnPoints": null
     },
     {
@@ -104715,8 +104715,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 19427,
-      "stars7dDelta": 1558,
+      "stars": 19512,
+      "stars7dDelta": 1495,
       "hnPoints": null
     },
     {
@@ -105870,8 +105870,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 140145,
-      "stars7dDelta": 6427,
+      "stars": 140595,
+      "stars7dDelta": 6133,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 35561,
-      "stars7dDelta": 12445,
+      "stars": 36230,
+      "stars7dDelta": 13114,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 31873,
-      "stars7dDelta": 9935,
+      "stars": 32173,
+      "stars7dDelta": 10044,
       "hnPoints": null
     },
     {
@@ -120539,7 +120539,7 @@
       "topics": [],
       "rationale": "CLI for centrally sharing skills, rules, MCP tools, and knowledge across coding agents, representing team-wide agent governance.",
       "stars": 3933,
-      "stars7dDelta": 706,
+      "stars7dDelta": 290,
       "hnPoints": null
     },
     {
@@ -120563,8 +120563,8 @@
       ],
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
-      "stars": 10063,
-      "stars7dDelta": 2152,
+      "stars": 10188,
+      "stars7dDelta": 1629,
       "hnPoints": null
     },
     {
@@ -120609,7 +120609,7 @@
       ],
       "rationale": "Turns human work habits and voice into reusable agent skills, fitting the emerging market for portable agent memory/personas.",
       "stars": 24555,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -121804,8 +121804,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 34798,
-      "stars7dDelta": 7450,
+      "stars": 35181,
+      "stars7dDelta": 7833,
       "hnPoints": null
     },
     {
@@ -123077,8 +123077,8 @@
       ],
       "topics": [],
       "rationale": "A local product for autonomous, parallel literature review and experiment agents, aimed at research workflows rather than raw infrastructure.",
-      "stars": 4155,
-      "stars7dDelta": 3011,
+      "stars": 4582,
+      "stars7dDelta": 3438,
       "hnPoints": null
     },
     {
@@ -126092,8 +126092,8 @@
         "skills"
       ],
       "rationale": null,
-      "stars": 2469,
-      "stars7dDelta": 544,
+      "stars": 2617,
+      "stars7dDelta": 692,
       "hnPoints": null
     },
     {
@@ -127184,7 +127184,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 361
+      "hnPoints": 367
     },
     {
       "id": 5160,
@@ -127204,7 +127204,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 446
+      "hnPoints": 450
     },
     {
       "id": 5161,
@@ -127224,7 +127224,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 225
+      "hnPoints": 229
     },
     {
       "id": 5162,
@@ -127264,7 +127264,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 156
+      "hnPoints": 158
     },
     {
       "id": 5164,
@@ -127384,7 +127384,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 510
+      "hnPoints": 519
     },
     {
       "id": 5170,
@@ -127464,7 +127464,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 164
+      "hnPoints": 165
     },
     {
       "id": 5174,
@@ -128204,7 +128204,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 394
+      "hnPoints": 465
     },
     {
       "id": 5211,
@@ -128242,8 +128242,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 5424,
-      "stars7dDelta": 0,
+      "stars": 5744,
+      "stars7dDelta": 320,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 6370,
-      "stars7dDelta": 0,
+      "stars": 7817,
+      "stars7dDelta": 1447,
       "hnPoints": null
     },
     {
@@ -128284,7 +128284,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 374
+      "hnPoints": 554
     },
     {
       "id": 5215,
@@ -128304,7 +128304,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 44
+      "hnPoints": 214
     },
     {
       "id": 5216,
@@ -128324,7 +128324,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 36
+      "hnPoints": 71
     },
     {
       "id": 5217,
@@ -128344,7 +128344,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 129
+      "hnPoints": 162
     },
     {
       "id": 5218,
@@ -128364,7 +128364,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 128
+      "hnPoints": 153
     },
     {
       "id": 5219,
@@ -128384,7 +128384,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 113
+      "hnPoints": 162
     },
     {
       "id": 5220,
@@ -128444,7 +128444,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 170
+      "hnPoints": 236
     },
     {
       "id": 5223,
@@ -128464,7 +128464,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 261
+      "hnPoints": 311
     },
     {
       "id": 5224,
@@ -128494,7 +128494,7 @@
       "url": "https://www.producthunt.com/products/weave",
       "owner": null,
       "language": null,
-      "description": "Subscription aware coding agent router (GPT-6 Intelligence) Discussion | Link",
+      "description": "Subscription aware coding agent router Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-16T17:25:46+00:00",
       "bucket": "other",
@@ -128797,6 +128797,346 @@
       "description": "Real-time network monitor for Mac w/ detailed WiFi insights Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-16T17:27:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5241,
+      "source": "hn",
+      "sourceId": "49731285",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "owner": "polyphilz",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:46:20+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 481
+    },
+    {
+      "id": 5242,
+      "source": "hn",
+      "sourceId": "49732270",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "owner": "krackers",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:46:27+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 360
+    },
+    {
+      "id": 5243,
+      "source": "hn",
+      "sourceId": "49732931",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "owner": "matt_d",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:46:35+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 175
+    },
+    {
+      "id": 5244,
+      "source": "hn",
+      "sourceId": "49734929",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "owner": "gumby",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:46:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 57
+    },
+    {
+      "id": 5245,
+      "source": "hn",
+      "sourceId": "49734264",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "owner": "etoxin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:46:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 112
+    },
+    {
+      "id": 5246,
+      "source": "hn",
+      "sourceId": "49733726",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "owner": "matt_d",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:46:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 87
+    },
+    {
+      "id": 5247,
+      "source": "hn",
+      "sourceId": "49735367",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "owner": "marc__1",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:08+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 21
+    },
+    {
+      "id": 5248,
+      "source": "hn",
+      "sourceId": "49735410",
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "owner": "mfiguiere",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 91
+    },
+    {
+      "id": 5249,
+      "source": "hn",
+      "sourceId": "49735979",
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "owner": "rahimnathwani",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 5250,
+      "source": "hn",
+      "sourceId": "49729816",
+      "title": "Training Text-to-Image Models 3.6× Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "owner": "schopra909",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 5251,
+      "source": "hn",
+      "sourceId": "49731054",
+      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "owner": "mococa",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 166
+    },
+    {
+      "id": 5252,
+      "source": "hn",
+      "sourceId": "49699477",
+      "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
+      "url": "https://attalambda.com",
+      "owner": "kserrec",
+      "language": null,
+      "description": "I made a programming language!<p>I call it AttaLambda.<p>The idea is this: a usable Lisp-shaped language where all the meaningful computation is done in untyped lambda calculus. Logic, arithmetic, data structures, control flow, even the types — all untyped lambdas. A small, explicit Racket layer sits at the boundary to handle the outside world, plus some macros for syntactic sugar.<p>This is its story:<p>A couple years ago, I wanted to play with untyped lambda calculus and go beyond where tutori",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
+    },
+    {
+      "id": 5253,
+      "source": "hn",
+      "sourceId": "49717298",
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "owner": "NaOH",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:47:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 5254,
+      "source": "hn",
+      "sourceId": "49735241",
+      "title": "Pangram – AI detector for text and images",
+      "url": "https://www.pangram.com",
+      "owner": "doodlesdev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:48:02+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 5255,
+      "source": "hn",
+      "sourceId": "49734409",
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "owner": "higginsniggins",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:48:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 5256,
+      "source": "hn",
+      "sourceId": "49710968",
+      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
+      "url": "https://restarted.io/",
+      "owner": "zxcvbn4038",
+      "language": null,
+      "description": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=9427856\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=9427856</a>) and has been one of my favorite little novelties of that era ever since. It perfectly captures the saturated colors, cliché hero shots, gimmicky names, buzzword-heavy slogans, and proudly hirsute team photos of the time.<p>A lot has changed since then, so I ",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:48:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 5257,
+      "source": "product_hunt",
+      "sourceId": "1251841",
+      "title": "ZeroClick",
+      "url": "https://www.producthunt.com/products/zeroclick",
+      "owner": null,
+      "language": null,
+      "description": "Sell your product to AI agents Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-17T05:51:11+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
