@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17T17:31:16.787118+00:00",
+  "generatedAt": "2026-09-18T05:45:34.887516+00:00",
   "totals": {
-    "items": 5304,
+    "items": 5314,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 1902,
+      "other": 1912,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 208,
+      "?": 218,
       "other": 1
     },
     "bySource": {
       "github_trending": 236,
-      "hn": 2741,
+      "hn": 2751,
       "product_hunt": 2327
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 26867,
-      "stars7dDelta": 232,
+      "stars": 26978,
+      "stars7dDelta": 343,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 65706,
-      "stars7dDelta": 8034,
+      "stars": 66090,
+      "stars7dDelta": 7793,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 47335,
-      "stars7dDelta": 8385,
+      "stars": 47591,
+      "stars7dDelta": 6788,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 34283,
-      "stars7dDelta": 11190,
+      "stars": 35392,
+      "stars7dDelta": 12299,
       "hnPoints": null
     },
     {
@@ -92301,8 +92301,8 @@
       ],
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
-      "stars": 6326,
-      "stars7dDelta": 669,
+      "stars": 6442,
+      "stars7dDelta": 785,
       "hnPoints": null
     },
     {
@@ -92615,7 +92615,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2976,
-      "stars7dDelta": 134,
+      "stars7dDelta": 97,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 40740,
-      "stars7dDelta": 2765,
+      "stars": 40876,
+      "stars7dDelta": 2520,
       "hnPoints": null
     },
     {
@@ -96836,7 +96836,7 @@
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
       "stars": 7034,
-      "stars7dDelta": 545,
+      "stars7dDelta": 459,
       "hnPoints": null
     },
     {
@@ -98788,8 +98788,8 @@
         "typescript"
       ],
       "rationale": "Local multi-agent harness that orchestrates coding agents and CLIs on a developer machine.",
-      "stars": 7507,
-      "stars7dDelta": 126,
+      "stars": 7554,
+      "stars7dDelta": 173,
       "hnPoints": null
     },
     {
@@ -100935,8 +100935,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21424,
-      "stars7dDelta": 852,
+      "stars": 21466,
+      "stars7dDelta": 805,
       "hnPoints": null
     },
     {
@@ -102724,8 +102724,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5538,
-      "stars7dDelta": 330,
+      "stars": 5551,
+      "stars7dDelta": 317,
       "hnPoints": null
     },
     {
@@ -103766,7 +103766,7 @@
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
       "stars": 4138,
-      "stars7dDelta": 378,
+      "stars7dDelta": 346,
       "hnPoints": null
     },
     {
@@ -103801,8 +103801,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 32451,
-      "stars7dDelta": 1415,
+      "stars": 32547,
+      "stars7dDelta": 1236,
       "hnPoints": null
     },
     {
@@ -104715,8 +104715,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 19617,
-      "stars7dDelta": 1480,
+      "stars": 19693,
+      "stars7dDelta": 1409,
       "hnPoints": null
     },
     {
@@ -105871,7 +105871,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 140595,
-      "stars7dDelta": 5593,
+      "stars7dDelta": 4991,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 36849,
-      "stars7dDelta": 11931,
+      "stars": 37243,
+      "stars7dDelta": 10847,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 32472,
-      "stars7dDelta": 10140,
+      "stars": 32565,
+      "stars7dDelta": 10071,
       "hnPoints": null
     },
     {
@@ -113108,7 +113108,7 @@
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
       "stars": 2287,
-      "stars7dDelta": 65,
+      "stars7dDelta": 20,
       "hnPoints": null
     },
     {
@@ -120539,7 +120539,7 @@
       "topics": [],
       "rationale": "CLI for centrally sharing skills, rules, MCP tools, and knowledge across coding agents, representing team-wide agent governance.",
       "stars": 3933,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -120563,8 +120563,8 @@
       ],
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
-      "stars": 10344,
-      "stars7dDelta": 1785,
+      "stars": 10415,
+      "stars7dDelta": 1856,
       "hnPoints": null
     },
     {
@@ -121804,8 +121804,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 35584,
-      "stars7dDelta": 8044,
+      "stars": 35849,
+      "stars7dDelta": 6593,
       "hnPoints": null
     },
     {
@@ -121830,7 +121830,7 @@
       "topics": [],
       "rationale": "A consumer-facing desktop app that turns documents into a persistent, traceable AI-generated wiki rather than one-off RAG answers.",
       "stars": 18835,
-      "stars7dDelta": 586,
+      "stars7dDelta": 251,
       "hnPoints": null
     },
     {
@@ -123077,8 +123077,8 @@
       ],
       "topics": [],
       "rationale": "A local product for autonomous, parallel literature review and experiment agents, aimed at research workflows rather than raw infrastructure.",
-      "stars": 5005,
-      "stars7dDelta": 3861,
+      "stars": 5080,
+      "stars7dDelta": 3936,
       "hnPoints": null
     },
     {
@@ -123179,8 +123179,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 3137,
-      "stars7dDelta": 1940,
+      "stars": 3098,
+      "stars7dDelta": 1901,
       "hnPoints": null
     },
     {
@@ -127414,7 +127414,7 @@
       "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
       "owner": "osnium123",
       "language": null,
-      "description": null,
+      "description": "Abstract at IEDM website below<p>ABSTRACT<p>A14 NanoFlexTM Pro platform technology features the world’s smallest SRAM with a cell size &lt;0.017μm2 and highest SRAM macro density to date through dimensional ground rule scaling. Coupled with standard cell innovations, it delivers a full-node PPA improvement over the predecessor N2 technology for a 10~15% speed enhancement, a 25~30% power reduction and a chip density increase by ~20% driven by logic and SRAM scaling. Key features, such as TSV, inn",
       "createdAt": null,
       "firstSeenAt": "2026-09-15T17:23:57+00:00",
       "bucket": "other",
@@ -127424,7 +127424,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 3
+      "hnPoints": 104
     },
     {
       "id": 5172,
@@ -128242,8 +128242,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 6034,
-      "stars7dDelta": 610,
+      "stars": 6228,
+      "stars7dDelta": 804,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 10109,
-      "stars7dDelta": 3739,
+      "stars": 11080,
+      "stars7dDelta": 4710,
       "hnPoints": null
     },
     {
@@ -128284,7 +128284,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 577
+      "hnPoints": 582
     },
     {
       "id": 5215,
@@ -128304,7 +128304,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 227
+      "hnPoints": 230
     },
     {
       "id": 5216,
@@ -128444,7 +128444,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 250
+      "hnPoints": 252
     },
     {
       "id": 5223,
@@ -128464,7 +128464,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 322
+      "hnPoints": 325
     },
     {
       "id": 5224,
@@ -128824,7 +128824,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 653
+      "hnPoints": 673
     },
     {
       "id": 5242,
@@ -128844,7 +128844,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 525
+      "hnPoints": 542
     },
     {
       "id": 5243,
@@ -128864,7 +128864,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 239
     },
     {
       "id": 5244,
@@ -128884,7 +128884,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 57
+      "hnPoints": 181
     },
     {
       "id": 5245,
@@ -128904,7 +128904,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 182
+      "hnPoints": 193
     },
     {
       "id": 5246,
@@ -128924,7 +128924,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 209
+      "hnPoints": 216
     },
     {
       "id": 5247,
@@ -128964,7 +128964,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 125
+      "hnPoints": 127
     },
     {
       "id": 5249,
@@ -129166,8 +129166,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 3958,
-      "stars7dDelta": 0,
+      "stars": 4478,
+      "stars7dDelta": 520,
       "hnPoints": null
     },
     {
@@ -129194,8 +129194,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 3332,
-      "stars7dDelta": 0,
+      "stars": 3600,
+      "stars7dDelta": 268,
       "hnPoints": null
     },
     {
@@ -129216,7 +129216,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 7
+      "hnPoints": 55
     },
     {
       "id": 5261,
@@ -129236,7 +129236,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 73
+      "hnPoints": 206
     },
     {
       "id": 5262,
@@ -129276,7 +129276,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 37
+      "hnPoints": 96
     },
     {
       "id": 5264,
@@ -129322,7 +129322,7 @@
       "id": 5266,
       "source": "hn",
       "sourceId": "49737922",
-      "title": "GLM Built Its Own Inference Infrastructure",
+      "title": "How GLM built its own inference infrastructure",
       "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
       "owner": "whiteros_e",
       "language": null,
@@ -129336,7 +129336,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 254
+      "hnPoints": 384
     },
     {
       "id": 5267,
@@ -129376,7 +129376,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 118
+      "hnPoints": 210
     },
     {
       "id": 5269,
@@ -129516,13 +129516,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 288
+      "hnPoints": 302
     },
     {
       "id": 5276,
       "source": "hn",
       "sourceId": "49737985",
-      "title": "AI Safety Is Mostly a Sex Cult",
+      "title": "AI safety is mostly a sex cult",
       "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
       "owner": "Tomte",
       "language": null,
@@ -129536,7 +129536,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 286
     },
     {
       "id": 5277,
@@ -129746,7 +129746,7 @@
       "url": "https://www.producthunt.com/products/creem",
       "owner": null,
       "language": null,
-      "description": "Build with AI. Sell and Grow with CREEM. Discussion | Link",
+      "description": "Sell and grow your AI built products Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-17T17:26:45+00:00",
       "bucket": "other",
@@ -130097,6 +130097,206 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5305,
+      "source": "hn",
+      "sourceId": "49749656",
+      "title": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "owner": "Handy-Man",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:34:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 172
+    },
+    {
+      "id": 5306,
+      "source": "hn",
+      "sourceId": "49746618",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "owner": "JonSchneider",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:34:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 332
+    },
+    {
+      "id": 5307,
+      "source": "hn",
+      "sourceId": "49746163",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "owner": "nicolas-siplis",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:34:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 382
+    },
+    {
+      "id": 5308,
+      "source": "hn",
+      "sourceId": "49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "owner": "joeriddles",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:35:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 80
+    },
+    {
+      "id": 5309,
+      "source": "hn",
+      "sourceId": "49710447",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+      "owner": "embedding-shape",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:35:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 49
+    },
+    {
+      "id": 5310,
+      "source": "hn",
+      "sourceId": "49746628",
+      "title": "How Uber Protects Against Retry Storms",
+      "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "owner": "iscmt",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:35:20+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 76
+    },
+    {
+      "id": 5311,
+      "source": "hn",
+      "sourceId": "49743483",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "owner": "Betelbuddy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:35:27+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 131
+    },
+    {
+      "id": 5312,
+      "source": "hn",
+      "sourceId": "49740260",
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "owner": "pseudolus",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;F77tj\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;F77tj</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:35:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 221
+    },
+    {
+      "id": 5313,
+      "source": "hn",
+      "sourceId": "49746654",
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "owner": "Anon84",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:38:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 177
+    },
+    {
+      "id": 5314,
+      "source": "hn",
+      "sourceId": "49743756",
+      "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
+      "url": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
+      "owner": "B1FF_PSUVM",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-18T05:38:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 139
     }
   ]
 }
