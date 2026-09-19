@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-18T16:59:38.282815+00:00",
+  "generatedAt": "2026-09-19T05:43:38.491283+00:00",
   "totals": {
-    "items": 5378,
+    "items": 5421,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 1976,
+      "other": 2019,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 282,
+      "?": 325,
       "other": 1
     },
     "bySource": {
       "github_trending": 236,
-      "hn": 2765,
-      "product_hunt": 2377
+      "hn": 2782,
+      "product_hunt": 2403
     }
   },
   "items": [
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 27108,
-      "stars7dDelta": 473,
+      "stars": 27217,
+      "stars7dDelta": 582,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 66631,
-      "stars7dDelta": 7863,
+      "stars": 66945,
+      "stars7dDelta": 7610,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 47897,
-      "stars7dDelta": 5635,
+      "stars": 48206,
+      "stars7dDelta": 5101,
       "hnPoints": null
     },
     {
@@ -68416,8 +68416,8 @@
       ],
       "topics": [],
       "rationale": "MCP bridge lets Claude operate TradingView via CDP for chart analysis and Pine Script workflow automation.",
-      "stars": 6392,
-      "stars7dDelta": 0,
+      "stars": 6509,
+      "stars7dDelta": 117,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 36411,
-      "stars7dDelta": 13318,
+      "stars": 36864,
+      "stars7dDelta": 13771,
       "hnPoints": null
     },
     {
@@ -92301,8 +92301,8 @@
       ],
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
-      "stars": 6512,
-      "stars7dDelta": 855,
+      "stars": 6580,
+      "stars7dDelta": 923,
       "hnPoints": null
     },
     {
@@ -92615,7 +92615,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2976,
-      "stars7dDelta": 69,
+      "stars7dDelta": 44,
       "hnPoints": null
     },
     {
@@ -92657,7 +92657,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
       "language": "HTML",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "createdAt": "2026-04-16T18:01:16Z",
       "firstSeenAt": "2026-08-12T14:11:56+00:00",
       "bucket": "devtool",
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 41072,
-      "stars7dDelta": 2512,
+      "stars": 41204,
+      "stars7dDelta": 2464,
       "hnPoints": null
     },
     {
@@ -96836,7 +96836,7 @@
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
       "stars": 7034,
-      "stars7dDelta": 459,
+      "stars7dDelta": 421,
       "hnPoints": null
     },
     {
@@ -100935,8 +100935,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21524,
-      "stars7dDelta": 808,
+      "stars": 21577,
+      "stars7dDelta": 801,
       "hnPoints": null
     },
     {
@@ -102724,8 +102724,8 @@
         "typescript"
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
-      "stars": 5572,
-      "stars7dDelta": 317,
+      "stars": 5586,
+      "stars7dDelta": 316,
       "hnPoints": null
     },
     {
@@ -103766,7 +103766,7 @@
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
       "stars": 4138,
-      "stars7dDelta": 317,
+      "stars7dDelta": 297,
       "hnPoints": null
     },
     {
@@ -103801,8 +103801,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 32651,
-      "stars7dDelta": 1273,
+      "stars": 32717,
+      "stars7dDelta": 1248,
       "hnPoints": null
     },
     {
@@ -104715,8 +104715,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 19773,
-      "stars7dDelta": 1384,
+      "stars": 19843,
+      "stars7dDelta": 1355,
       "hnPoints": null
     },
     {
@@ -105871,7 +105871,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 140595,
-      "stars7dDelta": 4634,
+      "stars7dDelta": 4211,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 37576,
-      "stars7dDelta": 10148,
+      "stars": 37969,
+      "stars7dDelta": 9132,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 32766,
-      "stars7dDelta": 10121,
+      "stars": 32952,
+      "stars7dDelta": 9508,
       "hnPoints": null
     },
     {
@@ -117608,7 +117608,7 @@
       "topics": [],
       "rationale": "Repo of Claude Code skills and agent workflows for developers, not a standalone AI product.",
       "stars": 4020,
-      "stars7dDelta": 214,
+      "stars7dDelta": 153,
       "hnPoints": null
     },
     {
@@ -120563,8 +120563,8 @@
       ],
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
-      "stars": 10517,
-      "stars7dDelta": 1958,
+      "stars": 10592,
+      "stars7dDelta": 2033,
       "hnPoints": null
     },
     {
@@ -121830,7 +121830,7 @@
       "topics": [],
       "rationale": "A consumer-facing desktop app that turns documents into a persistent, traceable AI-generated wiki rather than one-off RAG answers.",
       "stars": 18835,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -123078,7 +123078,7 @@
       "topics": [],
       "rationale": "A local product for autonomous, parallel literature review and experiment agents, aimed at research workflows rather than raw infrastructure.",
       "stars": 5080,
-      "stars7dDelta": 3697,
+      "stars7dDelta": 3179,
       "hnPoints": null
     },
     {
@@ -123103,7 +123103,7 @@
       "topics": [],
       "rationale": "Reusable UI/design skills for coding agents point to a growing market for domain-specific agent capability packs.",
       "stars": 6327,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -123134,7 +123134,7 @@
       ],
       "rationale": "Multi-step research agent harness that turns prompts into sourced reports and a persistent searchable wiki.",
       "stars": 2739,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -123179,8 +123179,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 3158,
-      "stars7dDelta": 1719,
+      "stars": 3231,
+      "stars7dDelta": 1575,
       "hnPoints": null
     },
     {
@@ -123205,7 +123205,7 @@
       "topics": [],
       "rationale": "A developer-focused networking research tool for TCP tunneling, not an AI, web, data, or security product.",
       "stars": 1430,
-      "stars7dDelta": 232,
+      "stars7dDelta": 97,
       "hnPoints": null
     },
     {
@@ -128242,8 +128242,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 6388,
-      "stars7dDelta": 964,
+      "stars": 6498,
+      "stars7dDelta": 1074,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 12737,
-      "stars7dDelta": 6367,
+      "stars": 14159,
+      "stars7dDelta": 7789,
       "hnPoints": null
     },
     {
@@ -129166,8 +129166,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 5094,
-      "stars7dDelta": 1136,
+      "stars": 5433,
+      "stars7dDelta": 1475,
       "hnPoints": null
     },
     {
@@ -129194,8 +129194,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 3863,
-      "stars7dDelta": 531,
+      "stars": 4027,
+      "stars7dDelta": 695,
       "hnPoints": null
     },
     {
@@ -129236,7 +129236,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 229
+      "hnPoints": 232
     },
     {
       "id": 5262,
@@ -129336,7 +129336,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 399
+      "hnPoints": 401
     },
     {
       "id": 5267,
@@ -129376,7 +129376,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 227
+      "hnPoints": 232
     },
     {
       "id": 5269,
@@ -129516,7 +129516,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 309
+      "hnPoints": 310
     },
     {
       "id": 5276,
@@ -129536,7 +129536,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 309
+      "hnPoints": 312
     },
     {
       "id": 5277,
@@ -130116,7 +130116,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 418
+      "hnPoints": 475
     },
     {
       "id": 5306,
@@ -130136,7 +130136,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 534
+      "hnPoints": 566
     },
     {
       "id": 5307,
@@ -130156,7 +130156,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 572
+      "hnPoints": 594
     },
     {
       "id": 5308,
@@ -130176,7 +130176,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 268
+      "hnPoints": 450
     },
     {
       "id": 5309,
@@ -130236,7 +130236,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 155
     },
     {
       "id": 5312,
@@ -130256,7 +130256,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 246
+      "hnPoints": 259
     },
     {
       "id": 5313,
@@ -130276,7 +130276,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 216
+      "hnPoints": 220
     },
     {
       "id": 5314,
@@ -130296,13 +130296,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 148
+      "hnPoints": 152
     },
     {
       "id": 5315,
       "source": "hn",
       "sourceId": "49753878",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "title": "An empirical study of harness design for coding agents",
       "url": "https://arxiv.org/abs/2609.20804",
       "owner": "wek",
       "language": null,
@@ -130316,7 +130316,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 155
+      "hnPoints": 207
     },
     {
       "id": 5316,
@@ -130356,7 +130356,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 16
+      "hnPoints": 187
     },
     {
       "id": 5318,
@@ -130366,7 +130366,7 @@
       "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
       "owner": "ibobev",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765</a>",
       "createdAt": null,
       "firstSeenAt": "2026-09-18T16:47:36+00:00",
       "bucket": "other",
@@ -130376,7 +130376,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 20
+      "hnPoints": 74
     },
     {
       "id": 5319,
@@ -130436,7 +130436,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 213
+      "hnPoints": 297
     },
     {
       "id": 5322,
@@ -130456,7 +130456,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 7
+      "hnPoints": 48
     },
     {
       "id": 5323,
@@ -130476,7 +130476,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 696
+      "hnPoints": 876
     },
     {
       "id": 5324,
@@ -130522,11 +130522,11 @@
       "id": 5326,
       "source": "hn",
       "sourceId": "49755533",
-      "title": "Human brain is two separate organs, research finds",
-      "url": "https://medicalxpress.com/news/2026-09-human-brain.html",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
       "owner": "Jimmc414",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;1CFX9\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;1CFX9</a><p><a href=\"https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-brains.html\" rel=\"nofollow\">https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...</a><p>Preprint of paper: <a href=\"https:&#x2F;&#x2F;www.biorxiv.org&#x2F;content&#x2F;10.1101&#x2F;2025.07.02.662771v1\" rel=\"nofollow\">https:&#x2F;&#x2F;www.b",
       "createdAt": null,
       "firstSeenAt": "2026-09-18T16:49:34+00:00",
       "bucket": "other",
@@ -130536,7 +130536,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 13
+      "hnPoints": 111
     },
     {
       "id": 5327,
@@ -130576,7 +130576,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 249
+      "hnPoints": 258
     },
     {
       "id": 5329,
@@ -131569,6 +131569,866 @@
       "description": "Know what to ask before you join Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-18T16:59:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5379,
+      "source": "hn",
+      "sourceId": "49761432",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "owner": "maxall4",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:30:54+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 94
+    },
+    {
+      "id": 5380,
+      "source": "hn",
+      "sourceId": "49763379",
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "owner": "noobplus",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:31:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 5381,
+      "source": "hn",
+      "sourceId": "49763234",
+      "title": "Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than",
+      "url": "https://arxiv.org/abs/2609.20779",
+      "owner": "sbulaev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:31:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 5382,
+      "source": "hn",
+      "sourceId": "49730069",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "owner": "evacchi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:31:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 5383,
+      "source": "hn",
+      "sourceId": "49758615",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "owner": "rochansinha",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:31:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 77
+    },
+    {
+      "id": 5384,
+      "source": "hn",
+      "sourceId": "49760187",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "owner": "datadrivenangel",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:31:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 596
+    },
+    {
+      "id": 5385,
+      "source": "hn",
+      "sourceId": "49761840",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "owner": "yogthos",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:32:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 86
+    },
+    {
+      "id": 5386,
+      "source": "hn",
+      "sourceId": "49758689",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "owner": "tomjakubowski",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:32:19+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 61
+    },
+    {
+      "id": 5387,
+      "source": "hn",
+      "sourceId": "49714157",
+      "title": "A search-and-inference database from scratch in pure Zig",
+      "url": "https://antfly.io/research/antfly-zig",
+      "owner": "kingcauchy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:32:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 56
+    },
+    {
+      "id": 5388,
+      "source": "hn",
+      "sourceId": "49757520",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "owner": "realsarm",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:32:39+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 433
+    },
+    {
+      "id": 5389,
+      "source": "hn",
+      "sourceId": "49740371",
+      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
+      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "owner": "surprisetalk",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:32:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 31
+    },
+    {
+      "id": 5390,
+      "source": "hn",
+      "sourceId": "49754250",
+      "title": "AI chatbots are becoming experts at changing people's minds",
+      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+      "owner": "rbanffy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:33:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
+    },
+    {
+      "id": 5391,
+      "source": "hn",
+      "sourceId": "49759733",
+      "title": "Human brain is two separate organs",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "owner": "amirmc",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:33:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 5392,
+      "source": "hn",
+      "sourceId": "49744416",
+      "title": "Show HN: Ax-check.com – Can agents use your product?",
+      "url": "https://www.ax-check.com/",
+      "owner": "0x63_Problems",
+      "language": null,
+      "description": "I&#x27;m the co-founder of Gauge, and I built ax-check.com to quickly test how well coding agents can onboard to your product.<p>You&#x27;ll get a scorecard, specific suggested fixes, and three full coding sessions that show how agents read your site and use your product.<p>I built this because similar checks were too noisy. Most suggested obscure technical changes that don&#x27;t actually make a difference in agent experience (or AX, hence ax-check.com).<p>This check starts by using DeepSeek 4.",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:33:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 30
+    },
+    {
+      "id": 5393,
+      "source": "hn",
+      "sourceId": "49759466",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "owner": "throw7",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:33:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 297
+    },
+    {
+      "id": 5394,
+      "source": "hn",
+      "sourceId": "49758028",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "owner": "mmh0000",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:35:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 199
+    },
+    {
+      "id": 5395,
+      "source": "hn",
+      "sourceId": "49757178",
+      "title": "There's no point at which turning your brain off will work",
+      "url": "https://danluu.com/brain-off/",
+      "owner": "robin_reala",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:36:04+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 180
+    },
+    {
+      "id": 5396,
+      "source": "product_hunt",
+      "sourceId": "1253553",
+      "title": "ProductBridge",
+      "url": "https://www.producthunt.com/products/productbridge",
+      "owner": null,
+      "language": null,
+      "description": "AI-native customer support and feedback agent Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:36:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5397,
+      "source": "product_hunt",
+      "sourceId": "1247899",
+      "title": "AtlasAlign",
+      "url": "https://www.producthunt.com/products/atlasalign",
+      "owner": null,
+      "language": null,
+      "description": "Align brain microscopy to an atlas, review and export ROIs Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:36:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5398,
+      "source": "product_hunt",
+      "sourceId": "1242849",
+      "title": "AINA",
+      "url": "https://www.producthunt.com/products/aina",
+      "owner": null,
+      "language": null,
+      "description": "Find your job search blind spots with an AI coach Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:36:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5399,
+      "source": "product_hunt",
+      "sourceId": "1248947",
+      "title": "Nina's Little Universe",
+      "url": "https://www.producthunt.com/products/nina-s-little-universe",
+      "owner": null,
+      "language": null,
+      "description": "Interactive 3D space science for curious little minds Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:36:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5400,
+      "source": "product_hunt",
+      "sourceId": "1252242",
+      "title": "Sider Omni Sidebar",
+      "url": "https://www.producthunt.com/products/sider-omni",
+      "owner": null,
+      "language": null,
+      "description": "Give every Mac app an Agent Sidebar Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:37:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5401,
+      "source": "product_hunt",
+      "sourceId": "1252961",
+      "title": "cubicles.lol",
+      "url": "https://www.producthunt.com/products/cubicles-lol",
+      "owner": null,
+      "language": null,
+      "description": "A metaverse for builders, side projects, and bad driving Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:37:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5402,
+      "source": "product_hunt",
+      "sourceId": "1253923",
+      "title": "Slurp",
+      "url": "https://www.producthunt.com/products/slurp-2",
+      "owner": null,
+      "language": null,
+      "description": "Download and record video from thousands of sites Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:37:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5403,
+      "source": "product_hunt",
+      "sourceId": "1253414",
+      "title": "Wingman",
+      "url": "https://www.producthunt.com/products/wingman-8",
+      "owner": null,
+      "language": null,
+      "description": "A little nudge to text your girlfriend Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:37:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5404,
+      "source": "product_hunt",
+      "sourceId": "1250743",
+      "title": "Ari by Ariso",
+      "url": "https://www.producthunt.com/products/ariso",
+      "owner": null,
+      "language": null,
+      "description": "AI bar raiser for the most ambitious teams Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:37:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5405,
+      "source": "product_hunt",
+      "sourceId": "1250894",
+      "title": "illusions",
+      "url": "https://www.producthunt.com/products/illusions-2",
+      "owner": null,
+      "language": null,
+      "description": "A Japanese-first writing editor for focused fiction Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:38:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5406,
+      "source": "product_hunt",
+      "sourceId": "1252325",
+      "title": "Ami AI",
+      "url": "https://www.producthunt.com/products/ami-ai",
+      "owner": null,
+      "language": null,
+      "description": "Lovable for getting customers Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:38:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5407,
+      "source": "product_hunt",
+      "sourceId": "1250045",
+      "title": "Sweep",
+      "url": "https://www.producthunt.com/products/sweep-9",
+      "owner": null,
+      "language": null,
+      "description": "Your floor turns green where you've vacuumed Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:38:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5408,
+      "source": "product_hunt",
+      "sourceId": "1249619",
+      "title": "Snooze Files",
+      "url": "https://www.producthunt.com/products/snooze-files",
+      "owner": null,
+      "language": null,
+      "description": "Shelve messy files and restore them in one click Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:38:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5409,
+      "source": "product_hunt",
+      "sourceId": "1251122",
+      "title": "MosMos",
+      "url": "https://www.producthunt.com/products/mosmos",
+      "owner": null,
+      "language": null,
+      "description": "Voice writing that works before, during, and after meetings Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:39:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5410,
+      "source": "product_hunt",
+      "sourceId": "1247855",
+      "title": "Mola",
+      "url": "https://www.producthunt.com/products/mola",
+      "owner": null,
+      "language": null,
+      "description": "Build your café, hire a team, and grow a coffee chain Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:40:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5411,
+      "source": "product_hunt",
+      "sourceId": "1254102",
+      "title": "Verity Score",
+      "url": "https://www.producthunt.com/products/verity-score-geo-ai-visibility",
+      "owner": null,
+      "language": null,
+      "description": "Track what AI says about your store, fix it, generate blog Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:40:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5412,
+      "source": "product_hunt",
+      "sourceId": "1254162",
+      "title": "Stile.iD",
+      "url": "https://www.producthunt.com/products/stile-id",
+      "owner": null,
+      "language": null,
+      "description": "A private identity verification API to verify real users Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:41:03+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5413,
+      "source": "product_hunt",
+      "sourceId": "1251829",
+      "title": "omadesign",
+      "url": "https://www.producthunt.com/products/omadesign",
+      "owner": null,
+      "language": null,
+      "description": "Linux creative suite for design, layout, paint & motion Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:41:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5414,
+      "source": "product_hunt",
+      "sourceId": "1252672",
+      "title": "CodaBridge",
+      "url": "https://www.producthunt.com/products/codabridge",
+      "owner": null,
+      "language": null,
+      "description": "Hear, shape, and investigate sperm whale codas with Astra Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:41:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5415,
+      "source": "product_hunt",
+      "sourceId": "1247835",
+      "title": "Banana Keyboard",
+      "url": "https://www.producthunt.com/products/banana-keyboard",
+      "owner": null,
+      "language": null,
+      "description": "Insert AI prompts from your Android keyboard Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:42:02+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5416,
+      "source": "product_hunt",
+      "sourceId": "1252237",
+      "title": "Makersclaw 2.0",
+      "url": "https://www.producthunt.com/products/makersclaw",
+      "owner": null,
+      "language": null,
+      "description": "The operating system for a company run by agents Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:42:09+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5417,
+      "source": "product_hunt",
+      "sourceId": "1252047",
+      "title": "Infinomni",
+      "url": "https://www.producthunt.com/products/infinomni",
+      "owner": null,
+      "language": null,
+      "description": "Turn drawings into 3D creations you can play with and print Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:42:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5418,
+      "source": "product_hunt",
+      "sourceId": "1252271",
+      "title": "ReviewMix",
+      "url": "https://www.producthunt.com/products/reviewmix",
+      "owner": null,
+      "language": null,
+      "description": "Google reviews and testimonials, together on your site Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:42:23+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5419,
+      "source": "product_hunt",
+      "sourceId": "1252071",
+      "title": "Loci",
+      "url": "https://www.producthunt.com/products/loci-4",
+      "owner": null,
+      "language": null,
+      "description": "Open-source biomedical image analysis for every lab Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:42:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5420,
+      "source": "product_hunt",
+      "sourceId": "1249235",
+      "title": "Second Eyes",
+      "url": "https://www.producthunt.com/products/second-eyes",
+      "owner": null,
+      "language": null,
+      "description": "Automatically shortlist photos for faster publishing Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:43:02+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5421,
+      "source": "product_hunt",
+      "sourceId": "1250083",
+      "title": "Unfetch.com",
+      "url": "https://www.producthunt.com/products/unfetch-com",
+      "owner": null,
+      "language": null,
+      "description": "Let ChatGPT and Claude manage your ads. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-19T05:43:11+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
