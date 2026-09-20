@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-19T16:19:12.559960+00:00",
+  "generatedAt": "2026-09-20T05:54:32.504415+00:00",
   "totals": {
-    "items": 5447,
+    "items": 5456,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2045,
+      "other": 2054,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 351,
+      "?": 360,
       "other": 1
     },
     "bySource": {
       "github_trending": 237,
-      "hn": 2788,
-      "product_hunt": 2422
+      "hn": 2793,
+      "product_hunt": 2426
     }
   },
   "items": [
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 27331,
-      "stars7dDelta": 696,
+      "stars": 27484,
+      "stars7dDelta": 849,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 67252,
-      "stars7dDelta": 7340,
+      "stars": 67654,
+      "stars7dDelta": 7185,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 48543,
-      "stars7dDelta": 4959,
+      "stars": 48818,
+      "stars7dDelta": 4781,
       "hnPoints": null
     },
     {
@@ -68392,7 +68392,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 15924,
-      "stars7dDelta": 451,
+      "stars7dDelta": 376,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 37337,
-      "stars7dDelta": 14244,
+      "stars": 37809,
+      "stars7dDelta": 14716,
       "hnPoints": null
     },
     {
@@ -92301,8 +92301,8 @@
       ],
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
-      "stars": 6649,
-      "stars7dDelta": 992,
+      "stars": 6764,
+      "stars7dDelta": 1107,
       "hnPoints": null
     },
     {
@@ -92615,7 +92615,7 @@
       "topics": [],
       "rationale": "LLM traffic proxy/library that translates APIs and routes models across providers for developers.",
       "stars": 2976,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -92678,8 +92678,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 41294,
-      "stars7dDelta": 2355,
+      "stars": 41384,
+      "stars7dDelta": 2271,
       "hnPoints": null
     },
     {
@@ -100935,8 +100935,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21607,
-      "stars7dDelta": 772,
+      "stars": 21671,
+      "stars7dDelta": 776,
       "hnPoints": null
     },
     {
@@ -102725,7 +102725,7 @@
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
       "stars": 5586,
-      "stars7dDelta": 286,
+      "stars7dDelta": 259,
       "hnPoints": null
     },
     {
@@ -103766,7 +103766,7 @@
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
       "stars": 4138,
-      "stars7dDelta": 255,
+      "stars7dDelta": 221,
       "hnPoints": null
     },
     {
@@ -103801,8 +103801,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 32782,
-      "stars7dDelta": 1239,
+      "stars": 32856,
+      "stars7dDelta": 1232,
       "hnPoints": null
     },
     {
@@ -104715,8 +104715,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 19933,
-      "stars7dDelta": 1349,
+      "stars": 20070,
+      "stars7dDelta": 1367,
       "hnPoints": null
     },
     {
@@ -105871,7 +105871,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 140595,
-      "stars7dDelta": 3830,
+      "stars7dDelta": 3464,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 38369,
-      "stars7dDelta": 8022,
+      "stars": 38759,
+      "stars7dDelta": 7433,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 33087,
-      "stars7dDelta": 8273,
+      "stars": 33262,
+      "stars7dDelta": 7238,
       "hnPoints": null
     },
     {
@@ -113108,7 +113108,7 @@
       ],
       "rationale": "Local LLM runtime for Apple Silicon that speeds inference with native multi-token prediction.",
       "stars": 2287,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -117608,7 +117608,7 @@
       "topics": [],
       "rationale": "Repo of Claude Code skills and agent workflows for developers, not a standalone AI product.",
       "stars": 4020,
-      "stars7dDelta": 97,
+      "stars7dDelta": 47,
       "hnPoints": null
     },
     {
@@ -120564,7 +120564,7 @@
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
       "stars": 10592,
-      "stars7dDelta": 1839,
+      "stars7dDelta": 1541,
       "hnPoints": null
     },
     {
@@ -123179,8 +123179,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 3273,
-      "stars7dDelta": 1383,
+      "stars": 3330,
+      "stars7dDelta": 1249,
       "hnPoints": null
     },
     {
@@ -123205,7 +123205,7 @@
       "topics": [],
       "rationale": "A developer-focused networking research tool for TCP tunneling, not an AI, web, data, or security product.",
       "stars": 1430,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -128242,8 +128242,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 6604,
-      "stars7dDelta": 1180,
+      "stars": 6707,
+      "stars7dDelta": 1283,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 15586,
-      "stars7dDelta": 9216,
+      "stars": 16766,
+      "stars7dDelta": 10396,
       "hnPoints": null
     },
     {
@@ -130176,7 +130176,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 551
+      "hnPoints": 652
     },
     {
       "id": 5309,
@@ -130316,7 +130316,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 215
+      "hnPoints": 217
     },
     {
       "id": 5316,
@@ -130376,7 +130376,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 74
+      "hnPoints": 82
     },
     {
       "id": 5319,
@@ -130416,7 +130416,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 57
+      "hnPoints": 120
     },
     {
       "id": 5321,
@@ -130436,7 +130436,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 309
+      "hnPoints": 314
     },
     {
       "id": 5322,
@@ -130476,7 +130476,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 907
+      "hnPoints": 922
     },
     {
       "id": 5324,
@@ -130536,7 +130536,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 122
+      "hnPoints": 127
     },
     {
       "id": 5327,
@@ -131596,7 +131596,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 199
     },
     {
       "id": 5380,
@@ -131676,7 +131676,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 101
+      "hnPoints": 103
     },
     {
       "id": 5384,
@@ -131696,7 +131696,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 696
+      "hnPoints": 717
     },
     {
       "id": 5385,
@@ -131716,7 +131716,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 139
+      "hnPoints": 145
     },
     {
       "id": 5386,
@@ -131736,7 +131736,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 74
+      "hnPoints": 77
     },
     {
       "id": 5387,
@@ -131776,7 +131776,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 481
+      "hnPoints": 500
     },
     {
       "id": 5389,
@@ -131816,7 +131816,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 124
     },
     {
       "id": 5391,
@@ -131876,7 +131876,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 315
+      "hnPoints": 328
     },
     {
       "id": 5394,
@@ -131896,7 +131896,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 217
+      "hnPoints": 227
     },
     {
       "id": 5395,
@@ -131916,7 +131916,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 192
+      "hnPoints": 196
     },
     {
       "id": 5396,
@@ -132454,8 +132454,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 3353,
-      "stars7dDelta": 0,
+      "stars": 3460,
+      "stars7dDelta": 107,
       "hnPoints": null
     },
     {
@@ -132476,17 +132476,17 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 686
+      "hnPoints": 1486
     },
     {
       "id": 5424,
       "source": "hn",
       "sourceId": "49763697",
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "owner": "emigre",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41593-026-02433-7\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41593-026-02433-7</a>",
       "createdAt": null,
       "firstSeenAt": "2026-09-19T16:09:14+00:00",
       "bucket": "other",
@@ -132496,7 +132496,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 463
+      "hnPoints": 617
     },
     {
       "id": 5425,
@@ -132516,13 +132516,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 239
+      "hnPoints": 377
     },
     {
       "id": 5426,
       "source": "hn",
       "sourceId": "49766821",
-      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
       "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
       "owner": "nativeit",
       "language": null,
@@ -132536,7 +132536,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 35
+      "hnPoints": 73
     },
     {
       "id": 5427,
@@ -132949,6 +132949,186 @@
       "description": "Virtual rehearsal studio with instant performance feedback Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-09-19T16:18:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5448,
+      "source": "hn",
+      "sourceId": "49770847",
+      "title": "Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+      "owner": "hckr78",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:44:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 72
+    },
+    {
+      "id": 5449,
+      "source": "hn",
+      "sourceId": "49767564",
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "owner": "frabonacci",
+      "language": null,
+      "description": "Hello HN! We&#x27;re Dillon and Francesco from Cua.<p>We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all their decisions and steps. Some tasks require thinking about a plan, exploring different paths, recovering from failure. Other tasks are a question of making local decisions, like this value should go in this box, or should I check this box, or this element should be ignored.<p>We wondered how far ",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:45:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 72
+    },
+    {
+      "id": 5450,
+      "source": "hn",
+      "sourceId": "49767937",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "owner": "erwald",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:45:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 272
+    },
+    {
+      "id": 5451,
+      "source": "hn",
+      "sourceId": "49768921",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "owner": "jonbaer",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:45:39+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 151
+    },
+    {
+      "id": 5452,
+      "source": "hn",
+      "sourceId": "49762493",
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "owner": "usernomdeguerre",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:48:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
+    },
+    {
+      "id": 5453,
+      "source": "product_hunt",
+      "sourceId": "1252718",
+      "title": "ApplySeed",
+      "url": "https://www.producthunt.com/products/applyseed",
+      "owner": null,
+      "language": null,
+      "description": "Raise your seed from accelerators Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:51:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5454,
+      "source": "product_hunt",
+      "sourceId": "1250399",
+      "title": "Shall We Talk",
+      "url": "https://www.producthunt.com/products/shall-we-talk",
+      "owner": null,
+      "language": null,
+      "description": "Voice dictation that saves transcriptions on iPhone and Mac Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:52:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5455,
+      "source": "product_hunt",
+      "sourceId": "1254282",
+      "title": "Wombo",
+      "url": "https://www.producthunt.com/products/wombo-the-ai-game-studio",
+      "owner": null,
+      "language": null,
+      "description": "AI game studio for 2D graphics assets, sounds, and sfx Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:53:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5456,
+      "source": "product_hunt",
+      "sourceId": "1254394",
+      "title": "citizen404",
+      "url": "https://www.producthunt.com/products/citizen404",
+      "owner": null,
+      "language": null,
+      "description": "The AGI runs the world with GPT-6 Astra. Hunt citizen404! Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-20T05:53:47+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
