@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T18:29:43.060522+00:00",
+  "generatedAt": "2026-09-22T06:04:47.410275+00:00",
   "totals": {
-    "items": 5530,
+    "items": 5544,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2128,
+      "other": 2142,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 434,
+      "?": 448,
       "other": 1
     },
     "bySource": {
       "github_trending": 238,
-      "hn": 2823,
+      "hn": 2837,
       "product_hunt": 2469
     }
   },
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 68985,
-      "stars7dDelta": 6389,
+      "stars": 69295,
+      "stars7dDelta": 6015,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 49702,
-      "stars7dDelta": 4079,
+      "stars": 49925,
+      "stars7dDelta": 3837,
       "hnPoints": null
     },
     {
@@ -68392,7 +68392,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 15924,
-      "stars7dDelta": 119,
+      "stars7dDelta": 50,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 39082,
-      "stars7dDelta": 12759,
+      "stars": 39347,
+      "stars7dDelta": 11455,
       "hnPoints": null
     },
     {
@@ -92302,7 +92302,7 @@
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
       "stars": 6764,
-      "stars7dDelta": 781,
+      "stars7dDelta": 609,
       "hnPoints": null
     },
     {
@@ -92679,7 +92679,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 41649,
-      "stars7dDelta": 1722,
+      "stars7dDelta": 1501,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 7570,
-      "stars7dDelta": 727,
+      "stars": 7821,
+      "stars7dDelta": 927,
       "hnPoints": null
     },
     {
@@ -100935,8 +100935,8 @@
         "smartshift"
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
-      "stars": 21849,
-      "stars7dDelta": 740,
+      "stars": 21882,
+      "stars7dDelta": 706,
       "hnPoints": null
     },
     {
@@ -102725,7 +102725,7 @@
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
       "stars": 5586,
-      "stars7dDelta": 165,
+      "stars7dDelta": 136,
       "hnPoints": null
     },
     {
@@ -103766,7 +103766,7 @@
       "topics": [],
       "rationale": "Marketplace mirror for Claude Code/Cowork plugins, aimed at developers extending their workflow.",
       "stars": 4138,
-      "stars7dDelta": 93,
+      "stars7dDelta": 66,
       "hnPoints": null
     },
     {
@@ -103801,8 +103801,8 @@
         "workflow-automation"
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
-      "stars": 33145,
-      "stars7dDelta": 1199,
+      "stars": 33193,
+      "stars7dDelta": 1122,
       "hnPoints": null
     },
     {
@@ -104715,8 +104715,8 @@
         "window-switcher"
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
-      "stars": 20376,
-      "stars7dDelta": 1320,
+      "stars": 20437,
+      "stars7dDelta": 1252,
       "hnPoints": null
     },
     {
@@ -105871,7 +105871,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 140595,
-      "stars7dDelta": 1933,
+      "stars7dDelta": 1406,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 40385,
-      "stars7dDelta": 6529,
+      "stars": 40777,
+      "stars7dDelta": 6304,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 33843,
-      "stars7dDelta": 4143,
+      "stars": 33980,
+      "stars7dDelta": 3391,
       "hnPoints": null
     },
     {
@@ -115546,8 +115546,8 @@
       ],
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
-      "stars": 4753,
-      "stars7dDelta": 0,
+      "stars": 4781,
+      "stars7dDelta": 28,
       "hnPoints": null
     },
     {
@@ -120564,7 +120564,7 @@
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
       "stars": 10870,
-      "stars7dDelta": 1220,
+      "stars7dDelta": 1073,
       "hnPoints": null
     },
     {
@@ -121804,8 +121804,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 36785,
-      "stars7dDelta": 4329,
+      "stars": 36920,
+      "stars7dDelta": 3529,
       "hnPoints": null
     },
     {
@@ -126063,7 +126063,7 @@
       ],
       "rationale": null,
       "stars": 3698,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -126093,7 +126093,7 @@
       ],
       "rationale": null,
       "stars": 2617,
-      "stars7dDelta": 417,
+      "stars7dDelta": 148,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 18812,
-      "stars7dDelta": 12442,
+      "stars": 19220,
+      "stars7dDelta": 12850,
       "hnPoints": null
     },
     {
@@ -129166,8 +129166,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 6301,
-      "stars7dDelta": 2343,
+      "stars": 6400,
+      "stars7dDelta": 2442,
       "hnPoints": null
     },
     {
@@ -132454,8 +132454,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 3642,
-      "stars7dDelta": 289,
+      "stars": 3756,
+      "stars7dDelta": 403,
       "hnPoints": null
     },
     {
@@ -133156,7 +133156,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 544
+      "hnPoints": 548
     },
     {
       "id": 5458,
@@ -133196,7 +133196,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 235
     },
     {
       "id": 5460,
@@ -133216,7 +133216,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 519
+      "hnPoints": 534
     },
     {
       "id": 5461,
@@ -133536,7 +133536,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 611
+      "hnPoints": 640
     },
     {
       "id": 5477,
@@ -133556,7 +133556,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 144
+      "hnPoints": 152
     },
     {
       "id": 5478,
@@ -133576,7 +133576,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 138
+      "hnPoints": 141
     },
     {
       "id": 5479,
@@ -133596,7 +133596,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 304
+      "hnPoints": 321
     },
     {
       "id": 5480,
@@ -133616,7 +133616,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 218
+      "hnPoints": 224
     },
     {
       "id": 5481,
@@ -133636,7 +133636,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 153
+      "hnPoints": 160
     },
     {
       "id": 5482,
@@ -133776,7 +133776,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 741
+      "hnPoints": 754
     },
     {
       "id": 5489,
@@ -133843,8 +133843,8 @@
         "transformer"
       ],
       "rationale": null,
-      "stars": 13439,
-      "stars7dDelta": 0,
+      "stars": 13502,
+      "stars7dDelta": 63,
       "hnPoints": null
     },
     {
@@ -133865,7 +133865,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 88
+      "hnPoints": 203
     },
     {
       "id": 5493,
@@ -133885,7 +133885,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 47
+      "hnPoints": 94
     },
     {
       "id": 5494,
@@ -133905,7 +133905,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 65
+      "hnPoints": 145
     },
     {
       "id": 5495,
@@ -133945,7 +133945,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 131
+      "hnPoints": 220
     },
     {
       "id": 5497,
@@ -133965,7 +133965,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 229
+      "hnPoints": 257
     },
     {
       "id": 5498,
@@ -134005,7 +134005,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 126
+      "hnPoints": 143
     },
     {
       "id": 5500,
@@ -134025,7 +134025,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 15
+      "hnPoints": 46
     },
     {
       "id": 5501,
@@ -134065,7 +134065,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 119
+      "hnPoints": 138
     },
     {
       "id": 5503,
@@ -134085,7 +134085,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 125
+      "hnPoints": 135
     },
     {
       "id": 5504,
@@ -134626,6 +134626,286 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5531,
+      "source": "hn",
+      "sourceId": "49792342",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "owner": "aray07",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:52:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 300
+    },
+    {
+      "id": 5532,
+      "source": "hn",
+      "sourceId": "49792067",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "owner": "julian_digital",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:53:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 192
+    },
+    {
+      "id": 5533,
+      "source": "hn",
+      "sourceId": "49778467",
+      "title": "Epoll and Kqueue: How Operating Systems Learned to Wait Efficiently",
+      "url": "https://thecodinggopher.substack.com/p/epoll-and-kqueue-how-operating-systems",
+      "owner": "adletbalzhanov",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:53:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 5534,
+      "source": "hn",
+      "sourceId": "49795579",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "owner": "corvad",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:53:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 89
+    },
+    {
+      "id": 5535,
+      "source": "hn",
+      "sourceId": "49791647",
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "owner": "pretext",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:53:27+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 135
+    },
+    {
+      "id": 5536,
+      "source": "hn",
+      "sourceId": "49791378",
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "owner": "abhisek",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:53:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 122
+    },
+    {
+      "id": 5537,
+      "source": "hn",
+      "sourceId": "49791509",
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "owner": "allanbreyes",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:53:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 218
+    },
+    {
+      "id": 5538,
+      "source": "hn",
+      "sourceId": "49797034",
+      "title": "Nearly half of young people trust AI over a human for fact-checking, report says",
+      "url": "https://news.sky.com/story/nearly-half-of-young-people-trust-ai-over-a-human-for-fact-checking-report-says-13590558",
+      "owner": "austinallegro",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:54:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 5539,
+      "source": "hn",
+      "sourceId": "49789356",
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "owner": "naw103",
+      "language": null,
+      "description": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are when multiple plans or tickets cause architecture changes that cannot both be true. Ex. one agent replaces a class while another one is in the process of extending it. Git only notices if the resulting patches happen to touch the same lines and the review only catches it if they are familiar with both ",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:54:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 40
+    },
+    {
+      "id": 5540,
+      "source": "hn",
+      "sourceId": "49795834",
+      "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+      "url": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday",
+      "owner": "teleforce",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:54:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 5541,
+      "source": "hn",
+      "sourceId": "49789361",
+      "title": "The agents, they just want to talk",
+      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+      "owner": "snats",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:54:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 21
+    },
+    {
+      "id": 5542,
+      "source": "hn",
+      "sourceId": "49796843",
+      "title": "Jev introduces a new shape of LLM",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "owner": "benwerd",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:54:54+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 5543,
+      "source": "hn",
+      "sourceId": "49795533",
+      "title": "ECB will invest in tokenised securities, and settle trades on its own new rail",
+      "url": "https://thenextweb.com/news/ecb-tokenised-securities-pontes-own-funds",
+      "owner": "rguiscard",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:55:55+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 5544,
+      "source": "hn",
+      "sourceId": "49793322",
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "url": "https://www.personalimportation.org/advocacy",
+      "owner": "burnt-resistor",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.federalregister.gov&#x2F;documents&#x2F;2026&#x2F;06&#x2F;24&#x2F;2026-12669&#x2F;indefinite-suspension-of-the-de-minimis-exemption-for-mail-shipments-and-new-postal-informal-entry\" rel=\"nofollow\">https:&#x2F;&#x2F;www.federalregister.gov&#x2F;documents&#x2F;2026&#x2F;06&#x2F;24&#x2F;2026-12...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-22T05:57:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 153
     }
   ]
 }
