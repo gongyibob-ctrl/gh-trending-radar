@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-24T17:48:01.236694+00:00",
+  "generatedAt": "2026-09-25T06:01:46.690509+00:00",
   "totals": {
-    "items": 5697,
+    "items": 5709,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2295,
+      "other": 2307,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 601,
+      "?": 613,
       "other": 1
     },
     "bySource": {
       "github_trending": 241,
-      "hn": 2909,
+      "hn": 2921,
       "product_hunt": 2547
     }
   },
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 28139,
-      "stars7dDelta": 1161,
+      "stars7dDelta": 1031,
       "hnPoints": null
     },
     {
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 71113,
-      "stars7dDelta": 5023,
+      "stars": 71322,
+      "stars7dDelta": 4691,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 50904,
-      "stars7dDelta": 3313,
+      "stars": 51026,
+      "stars7dDelta": 3129,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 40642,
-      "stars7dDelta": 5250,
+      "stars": 40926,
+      "stars7dDelta": 4515,
       "hnPoints": null
     },
     {
@@ -92302,7 +92302,7 @@
       "topics": [],
       "rationale": "Orchestrates autonomous coding agents in worktrees, aimed at developers shipping parallel tasks.",
       "stars": 6764,
-      "stars7dDelta": 322,
+      "stars7dDelta": 252,
       "hnPoints": null
     },
     {
@@ -92679,7 +92679,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 41649,
-      "stars7dDelta": 773,
+      "stars7dDelta": 577,
       "hnPoints": null
     },
     {
@@ -96835,8 +96835,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 8301,
-      "stars7dDelta": 731,
+      "stars": 8366,
+      "stars7dDelta": 796,
       "hnPoints": null
     },
     {
@@ -98789,7 +98789,7 @@
       ],
       "rationale": "Local multi-agent harness that orchestrates coding agents and CLIs on a developer machine.",
       "stars": 7554,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -100936,7 +100936,7 @@
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
       "stars": 21882,
-      "stars7dDelta": 416,
+      "stars7dDelta": 358,
       "hnPoints": null
     },
     {
@@ -102725,7 +102725,7 @@
       ],
       "rationale": "Local-first agent workspace with permissioned tool execution and append-only logs for recoverable agent runs.",
       "stars": 5586,
-      "stars7dDelta": 35,
+      "stars7dDelta": 14,
       "hnPoints": null
     },
     {
@@ -103802,7 +103802,7 @@
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
       "stars": 33436,
-      "stars7dDelta": 889,
+      "stars7dDelta": 785,
       "hnPoints": null
     },
     {
@@ -104716,7 +104716,7 @@
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
       "stars": 20437,
-      "stars7dDelta": 744,
+      "stars7dDelta": 664,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 42307,
-      "stars7dDelta": 5064,
+      "stars": 42579,
+      "stars7dDelta": 5003,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 35156,
-      "stars7dDelta": 2591,
+      "stars": 35303,
+      "stars7dDelta": 2537,
       "hnPoints": null
     },
     {
@@ -115546,8 +115546,8 @@
       ],
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
-      "stars": 5001,
-      "stars7dDelta": 248,
+      "stars": 5046,
+      "stars7dDelta": 293,
       "hnPoints": null
     },
     {
@@ -120564,7 +120564,7 @@
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
       "stars": 10870,
-      "stars7dDelta": 455,
+      "stars7dDelta": 353,
       "hnPoints": null
     },
     {
@@ -121804,8 +121804,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 37493,
-      "stars7dDelta": 1644,
+      "stars": 37571,
+      "stars7dDelta": 786,
       "hnPoints": null
     },
     {
@@ -123078,7 +123078,7 @@
       "topics": [],
       "rationale": "A local product for autonomous, parallel literature review and experiment agents, aimed at research workflows rather than raw infrastructure.",
       "stars": 5080,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -123179,8 +123179,8 @@
         "whatsapp-api"
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
-      "stars": 3686,
-      "stars7dDelta": 588,
+      "stars": 3730,
+      "stars7dDelta": 572,
       "hnPoints": null
     },
     {
@@ -128243,7 +128243,7 @@
       "topics": [],
       "rationale": null,
       "stars": 6707,
-      "stars7dDelta": 479,
+      "stars7dDelta": 319,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 21224,
-      "stars7dDelta": 10144,
+      "stars": 21376,
+      "stars7dDelta": 8639,
       "hnPoints": null
     },
     {
@@ -129166,8 +129166,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 7090,
-      "stars7dDelta": 2612,
+      "stars": 7155,
+      "stars7dDelta": 2061,
       "hnPoints": null
     },
     {
@@ -129194,8 +129194,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 4845,
-      "stars7dDelta": 1245,
+      "stars": 4890,
+      "stars7dDelta": 1027,
       "hnPoints": null
     },
     {
@@ -134923,8 +134923,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 10010,
-      "stars7dDelta": 2757,
+      "stars": 10709,
+      "stars7dDelta": 3456,
       "hnPoints": null
     },
     {
@@ -134996,8 +134996,8 @@
         "secrets"
       ],
       "rationale": null,
-      "stars": 3055,
-      "stars7dDelta": 963,
+      "stars": 3226,
+      "stars7dDelta": 1134,
       "hnPoints": null
     },
     {
@@ -136458,7 +136458,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 183
+      "hnPoints": 184
     },
     {
       "id": 5621,
@@ -136478,7 +136478,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 476
+      "hnPoints": 480
     },
     {
       "id": 5622,
@@ -136498,7 +136498,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 431
+      "hnPoints": 451
     },
     {
       "id": 5623,
@@ -136618,7 +136618,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 213
+      "hnPoints": 216
     },
     {
       "id": 5629,
@@ -136638,7 +136638,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 215
+      "hnPoints": 216
     },
     {
       "id": 5630,
@@ -136978,7 +136978,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 574
+      "hnPoints": 595
     },
     {
       "id": 5647,
@@ -136998,7 +136998,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 745
+      "hnPoints": 761
     },
     {
       "id": 5648,
@@ -137018,7 +137018,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 354
+      "hnPoints": 377
     },
     {
       "id": 5649,
@@ -137038,7 +137038,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 293
+      "hnPoints": 302
     },
     {
       "id": 5650,
@@ -137058,7 +137058,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 142
+      "hnPoints": 148
     },
     {
       "id": 5651,
@@ -137078,7 +137078,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 223
+      "hnPoints": 239
     },
     {
       "id": 5652,
@@ -137158,7 +137158,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 218
+      "hnPoints": 223
     },
     {
       "id": 5656,
@@ -137218,7 +137218,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 241
+      "hnPoints": 251
     },
     {
       "id": 5659,
@@ -137248,7 +137248,7 @@
       "url": "https://github.com/devdotfast/whiteboard",
       "owner": "sidharthkmenon",
       "language": null,
-      "description": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard, an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a> and our homepage: <a href=\"https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;\">https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;</a><p>We were missing the feeling of a “w",
+      "description": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (<a href=\"https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;\">https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;</a>), an open-source desktop app where humans and agents can architect software together in a common workspace. Here’s our repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;devdotfast&#x2F;whiteboard</a>.<p>We were missing the feeling of a “whiteboard sessi",
       "createdAt": null,
       "firstSeenAt": "2026-09-24T17:37:46+00:00",
       "bucket": "other",
@@ -137258,7 +137258,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 13
+      "hnPoints": 255
     },
     {
       "id": 5661,
@@ -137378,7 +137378,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 202
+      "hnPoints": 256
     },
     {
       "id": 5667,
@@ -137398,7 +137398,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 133
+      "hnPoints": 169
     },
     {
       "id": 5668,
@@ -137498,7 +137498,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 123
+      "hnPoints": 153
     },
     {
       "id": 5673,
@@ -137518,7 +137518,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 562
+      "hnPoints": 606
     },
     {
       "id": 5674,
@@ -137578,7 +137578,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 243
+      "hnPoints": 252
     },
     {
       "id": 5677,
@@ -137999,6 +137999,246 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 5698,
+      "source": "hn",
+      "sourceId": "49817680",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "owner": "an0malous",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:51:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 294
+    },
+    {
+      "id": 5699,
+      "source": "hn",
+      "sourceId": "49835531",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "owner": "benbreen",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:51:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 103
+    },
+    {
+      "id": 5700,
+      "source": "hn",
+      "sourceId": "49830606",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "owner": "xnx",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;google-suncatcher-ai-data-center-space.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;google-suncatc...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP</a>)",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:51:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 156
+    },
+    {
+      "id": 5701,
+      "source": "hn",
+      "sourceId": "49827375",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "owner": "emurlin",
+      "language": null,
+      "description": "Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfx\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfx</a><p>I was inspired by self-extracting archives. I wanted to share files with basically no dependencies. The goal was:<p><pre><code>  1. Something that didn&#x27;t require any installation (assuming a web browser)\n  2. Have a single file with no network that could sel",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:03+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 55
+    },
+    {
+      "id": 5702,
+      "source": "hn",
+      "sourceId": "49793957",
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "owner": "aray07",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:10+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 82
+    },
+    {
+      "id": 5703,
+      "source": "hn",
+      "sourceId": "49837006",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "owner": "hxii",
+      "language": null,
+      "description": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.<p>This last part, along with everything else this past year, has caused me a great deal of stress.<p>While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use.<p>It&#x27;s an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know Java",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:19+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 159
+    },
+    {
+      "id": 5704,
+      "source": "hn",
+      "sourceId": "49836374",
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "owner": "iacguy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 191
+    },
+    {
+      "id": 5705,
+      "source": "hn",
+      "sourceId": "49831690",
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "owner": "theanonymousone",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:32+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 101
+    },
+    {
+      "id": 5706,
+      "source": "hn",
+      "sourceId": "49829650",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "owner": "YeGoblynQueenne",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:40+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 136
+    },
+    {
+      "id": 5707,
+      "source": "hn",
+      "sourceId": "49821438",
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "owner": "miguelrios",
+      "language": null,
+      "description": "Hi HN,<p>I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation.<p>Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full a",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:52:48+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 41
+    },
+    {
+      "id": 5708,
+      "source": "hn",
+      "sourceId": "49837567",
+      "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
+      "url": "https://www.docker.com/c/sbx-promo/",
+      "owner": "pheonixblade9",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:53:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 5709,
+      "source": "hn",
+      "sourceId": "49834098",
+      "title": "Show HN: Critic – Review code with the agent that wrote it",
+      "url": "https://www.critic.run/",
+      "owner": "snyy",
+      "language": null,
+      "description": "Hey HN, I&#x27;m Shreyash from Feyn. We help companies build custom models from their data. Today we&#x27;re releasing Critic, a change review platform that lets you engage directly with the AI that wrote the code.<p>Agents write most of our code. While that has made us more productive, understanding a change and its consequences has become incredibly difficult. As our company adopted more agentic tools, we found it harder to loop people in on the impact of a PR and the state of a project. We bu",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-25T05:53:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
     }
   ]
 }
