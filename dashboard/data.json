@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-27T06:25:28.495073+00:00",
+  "generatedAt": "2026-09-27T17:30:06.146169+00:00",
   "totals": {
-    "items": 5833,
+    "items": 5856,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2431,
+      "other": 2454,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 737,
+      "?": 760,
       "other": 1
     },
     "bySource": {
-      "github_trending": 244,
-      "hn": 2970,
-      "product_hunt": 2619
+      "github_trending": 247,
+      "hn": 2981,
+      "product_hunt": 2628
     }
   },
   "items": [
@@ -57917,8 +57917,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 72369,
-      "stars7dDelta": 4284,
+      "stars": 72653,
+      "stars7dDelta": 4173,
       "hnPoints": null
     },
     {
@@ -68356,8 +68356,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 51425,
-      "stars7dDelta": 2322,
+      "stars": 51543,
+      "stars7dDelta": 2173,
       "hnPoints": null
     },
     {
@@ -70786,8 +70786,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 41676,
-      "stars7dDelta": 3432,
+      "stars": 41847,
+      "stars7dDelta": 3247,
       "hnPoints": null
     },
     {
@@ -92679,7 +92679,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 41649,
-      "stars7dDelta": 146,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -100936,7 +100936,7 @@
       ],
       "rationale": "Local-first utility replacing Logitech Options+ for privacy-conscious peripheral customization.",
       "stars": 21882,
-      "stars7dDelta": 166,
+      "stars7dDelta": 105,
       "hnPoints": null
     },
     {
@@ -103802,7 +103802,7 @@
       ],
       "rationale": "A usable GPT-Image prompt/template product and gallery for creators and teams, not core model infrastructure.",
       "stars": 33436,
-      "stars7dDelta": 465,
+      "stars7dDelta": 390,
       "hnPoints": null
     },
     {
@@ -104716,7 +104716,7 @@
       ],
       "rationale": "Consumer macOS utility bundle replacing many paid menu bar apps with local, no-subscription tools.",
       "stars": 20437,
-      "stars7dDelta": 255,
+      "stars7dDelta": 157,
       "hnPoints": null
     },
     {
@@ -108872,8 +108872,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 43660,
-      "stars7dDelta": 4449,
+      "stars": 43916,
+      "stars7dDelta": 4065,
       "hnPoints": null
     },
     {
@@ -113068,8 +113068,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 37633,
-      "stars7dDelta": 4223,
+      "stars": 39309,
+      "stars7dDelta": 5687,
       "hnPoints": null
     },
     {
@@ -115546,8 +115546,8 @@
       ],
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
-      "stars": 5190,
-      "stars7dDelta": 437,
+      "stars": 5234,
+      "stars7dDelta": 481,
       "hnPoints": null
     },
     {
@@ -120564,7 +120564,7 @@
       "topics": [],
       "rationale": "Usable writing cleanup tool targeting AI-generated clichés while preserving personal voice.",
       "stars": 10870,
-      "stars7dDelta": 112,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -128262,8 +128262,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 22086,
-      "stars7dDelta": 4386,
+      "stars": 22248,
+      "stars7dDelta": 3978,
       "hnPoints": null
     },
     {
@@ -129166,8 +129166,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 7399,
-      "stars7dDelta": 1413,
+      "stars": 7480,
+      "stars7dDelta": 1349,
       "hnPoints": null
     },
     {
@@ -129194,8 +129194,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 5155,
-      "stars7dDelta": 547,
+      "stars": 5233,
+      "stars7dDelta": 625,
       "hnPoints": null
     },
     {
@@ -134996,8 +134996,8 @@
         "secrets"
       ],
       "rationale": null,
-      "stars": 3523,
-      "stars7dDelta": 1431,
+      "stars": 3571,
+      "stars7dDelta": 1479,
       "hnPoints": null
     },
     {
@@ -139538,7 +139538,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 708
+      "hnPoints": 733
     },
     {
       "id": 5773,
@@ -139558,7 +139558,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 136
+      "hnPoints": 148
     },
     {
       "id": 5774,
@@ -139578,7 +139578,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 589
+      "hnPoints": 598
     },
     {
       "id": 5775,
@@ -139598,7 +139598,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 246
+      "hnPoints": 254
     },
     {
       "id": 5776,
@@ -139618,7 +139618,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 173
+      "hnPoints": 271
     },
     {
       "id": 5777,
@@ -139678,7 +139678,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 144
+      "hnPoints": 146
     },
     {
       "id": 5780,
@@ -139718,7 +139718,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 249
+      "hnPoints": 263
     },
     {
       "id": 5782,
@@ -140038,7 +140038,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 18
+      "hnPoints": 75
     },
     {
       "id": 5798,
@@ -140058,7 +140058,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 130
+      "hnPoints": 142
     },
     {
       "id": 5799,
@@ -140138,7 +140138,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 113
+      "hnPoints": 120
     },
     {
       "id": 5803,
@@ -140178,7 +140178,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 178
     },
     {
       "id": 5805,
@@ -140238,7 +140238,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 99
+      "hnPoints": 100
     },
     {
       "id": 5808,
@@ -140538,7 +140538,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 57
+      "hnPoints": 82
     },
     {
       "id": 5823,
@@ -140558,7 +140558,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 217
+      "hnPoints": 306
     },
     {
       "id": 5824,
@@ -140578,7 +140578,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 258
+      "hnPoints": 367
     },
     {
       "id": 5825,
@@ -140598,7 +140598,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 78
+      "hnPoints": 128
     },
     {
       "id": 5826,
@@ -140618,7 +140618,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 148
+      "hnPoints": 201
     },
     {
       "id": 5827,
@@ -140638,7 +140638,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 65
+      "hnPoints": 145
     },
     {
       "id": 5828,
@@ -140658,7 +140658,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 139
+      "hnPoints": 170
     },
     {
       "id": 5829,
@@ -140678,7 +140678,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 74
+      "hnPoints": 122
     },
     {
       "id": 5830,
@@ -140698,7 +140698,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 194
+      "hnPoints": 301
     },
     {
       "id": 5831,
@@ -140718,7 +140718,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 48
+      "hnPoints": 82
     },
     {
       "id": 5832,
@@ -140738,7 +140738,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 124
     },
     {
       "id": 5833,
@@ -140759,6 +140759,489 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": 10
+    },
+    {
+      "id": 5834,
+      "source": "github_trending",
+      "sourceId": "miuuyy/codex-chatgpt-web",
+      "title": "miuuyy/codex-chatgpt-web",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "owner": "miuuyy",
+      "language": "TypeScript",
+      "description": "Use ChatGPT Web (including Pro) as a native model in Codex — with context, tools, streaming and images, without using Codex quota.",
+      "createdAt": "2026-07-26T13:04:44Z",
+      "firstSeenAt": "2026-09-27T17:20:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "chatgpt",
+        "chatgpt-pro",
+        "codex",
+        "free-ai",
+        "mcp",
+        "openai",
+        "playwright",
+        "quickstart",
+        "responses-api",
+        "typescript"
+      ],
+      "rationale": null,
+      "stars": 11984,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 5835,
+      "source": "github_trending",
+      "sourceId": "mvschwarz/openrig",
+      "title": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "owner": "mvschwarz",
+      "language": "TypeScript",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "createdAt": "2026-04-01T06:22:40Z",
+      "firstSeenAt": "2026-09-27T17:20:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "agent-harness",
+        "agent-orchestration",
+        "agent-skills",
+        "ai-coding",
+        "claude-code",
+        "cli",
+        "codex-cli",
+        "multi-agent",
+        "multi-agent-systems",
+        "tmux",
+        "typescript"
+      ],
+      "rationale": null,
+      "stars": 782,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 5836,
+      "source": "github_trending",
+      "sourceId": "vercel-labs/scriptc",
+      "title": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "owner": "vercel-labs",
+      "language": "TypeScript",
+      "description": "TypeScript-to-Native Compiler",
+      "createdAt": "2026-07-22T23:04:54Z",
+      "firstSeenAt": "2026-09-27T17:21:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": 5303,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 5837,
+      "source": "hn",
+      "sourceId": "49867486",
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "owner": "pxx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:21:24+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 102
+    },
+    {
+      "id": 5838,
+      "source": "hn",
+      "sourceId": "49867775",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "owner": "hp6",
+      "language": null,
+      "description": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win!<p>Click on any of the matches to spectate them.<p>Code: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;hp6&#x2F;ai-arena</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:21:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 30
+    },
+    {
+      "id": 5839,
+      "source": "hn",
+      "sourceId": "49868083",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "owner": "zzzeek",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:21:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 55
+    },
+    {
+      "id": 5840,
+      "source": "hn",
+      "sourceId": "49868202",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "owner": "smb06",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:21:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 26
+    },
+    {
+      "id": 5841,
+      "source": "hn",
+      "sourceId": "49863864",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "owner": "papergirl",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:21:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 559
+    },
+    {
+      "id": 5842,
+      "source": "hn",
+      "sourceId": "49866597",
+      "title": "Show HN: I spent 10 months building a Markdown editor for Mac, iOS and web",
+      "url": "https://www.markdown.beauty/",
+      "owner": "thiagoperes",
+      "language": null,
+      "description": "I&#x27;ve spent the last 10 months building Beauty: a local, powerful greco-roman Markdown editor where the page looks finished while you type. It runs on the Mac, iPhone and in the browser, and the browser version opens without an account: <a href=\"https:&#x2F;&#x2F;app.markdown.beauty\" rel=\"nofollow\">https:&#x2F;&#x2F;app.markdown.beauty</a><p>I was frustrated with writing apps, and like most I used Apple Notes. After 2+ years immersed in Cursor, Codex and CC, I wished some interactions existe",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:22:09+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 5843,
+      "source": "hn",
+      "sourceId": "49865343",
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "owner": "yu3zhou4",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:22:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 88
+    },
+    {
+      "id": 5844,
+      "source": "hn",
+      "sourceId": "49864642",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "owner": "rbanffy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:22:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 373
+    },
+    {
+      "id": 5845,
+      "source": "hn",
+      "sourceId": "49866988",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:23:10+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 5846,
+      "source": "hn",
+      "sourceId": "49856034",
+      "title": "CEO of Mistral: AI is software. It can be controlled",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "owner": "thibaut_barrere",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:24:48+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
+    },
+    {
+      "id": 5847,
+      "source": "hn",
+      "sourceId": "49861047",
+      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
+      "url": "https://news.ycombinator.com/item?id=49861047",
+      "owner": "lorenzomassaro",
+      "language": null,
+      "description": "My OpenAI CODEX account went rogue and from a simple request took the autonomous decision to launch 826 parallel agents &#x2F; threads without any authorization on my side and without reporting any result of any sort but consuming nearly 2,146 trillions tokens, consuming a total of roughly USD 78,000 and deleting all records of what was done: I have a ticket open with OpenAI since 2 weeks but it is impossible to get an hold of a human operator.<p>On July 10, 2026 I opened a normal Codex task fro",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 77
+    },
+    {
+      "id": 5848,
+      "source": "product_hunt",
+      "sourceId": "1256758",
+      "title": "Clicks Communicator",
+      "url": "https://www.producthunt.com/products/clicks",
+      "owner": null,
+      "language": null,
+      "description": "A new kind of mobile communicator designed for doing Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5849,
+      "source": "product_hunt",
+      "sourceId": "1249438",
+      "title": "KiwiDesk",
+      "url": "https://www.producthunt.com/products/kiwidesk",
+      "owner": null,
+      "language": null,
+      "description": "Tiling that feels like it shipped with macOS. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:19+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5850,
+      "source": "product_hunt",
+      "sourceId": "1203994",
+      "title": "Cuey",
+      "url": "https://www.producthunt.com/products/cuey-2",
+      "owner": null,
+      "language": null,
+      "description": "Compare ChatGPT, Claude & Gemini answers in one tab. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:24+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5851,
+      "source": "product_hunt",
+      "sourceId": "1238671",
+      "title": "Humalike x GTA RP",
+      "url": "https://www.producthunt.com/products/humalike-2",
+      "owner": null,
+      "language": null,
+      "description": "AI NPCs that talk, remember & act on their own Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5852,
+      "source": "product_hunt",
+      "sourceId": "1255507",
+      "title": "Harmony",
+      "url": "https://www.producthunt.com/products/harmony-it",
+      "owner": null,
+      "language": null,
+      "description": "AI agents that resolve IT/HR tickets inside Slack and Teams Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5853,
+      "source": "product_hunt",
+      "sourceId": "1258630",
+      "title": "GPT-6 Sol & Luna",
+      "url": "https://www.producthunt.com/products/openai",
+      "owner": null,
+      "language": null,
+      "description": "Frontier AI intelligence, now at half the price Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5854,
+      "source": "product_hunt",
+      "sourceId": "1257863",
+      "title": "Superhuman Go",
+      "url": "https://www.producthunt.com/products/superhuman-go",
+      "owner": null,
+      "language": null,
+      "description": "The AI assistant that works where you do Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:25:48+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5855,
+      "source": "product_hunt",
+      "sourceId": "1256549",
+      "title": "OmniNotch",
+      "url": "https://www.producthunt.com/products/omninotch",
+      "owner": null,
+      "language": null,
+      "description": "The notch that does it all! Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:28:16+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 5856,
+      "source": "product_hunt",
+      "sourceId": "1260153",
+      "title": "Perfect Slice",
+      "url": "https://www.producthunt.com/products/perfect-slice",
+      "owner": null,
+      "language": null,
+      "description": "You have one cut to get a perfect slice Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-09-27T17:29:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
     }
   ]
 }
