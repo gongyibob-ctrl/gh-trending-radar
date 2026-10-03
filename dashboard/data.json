@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-02T18:14:33.661236+00:00",
+  "generatedAt": "2026-10-03T06:12:19.992492+00:00",
   "totals": {
-    "items": 6134,
+    "items": 6143,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2732,
+      "other": 2741,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1038,
+      "?": 1047,
       "other": 1
     },
     "bySource": {
       "github_trending": 249,
-      "hn": 3087,
+      "hn": 3096,
       "product_hunt": 2798
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 30122,
-      "stars7dDelta": 191,
+      "stars": 30212,
+      "stars7dDelta": 281,
       "hnPoints": null
     },
     {
@@ -57921,8 +57921,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 76178,
-      "stars7dDelta": 4301,
+      "stars": 76364,
+      "stars7dDelta": 4242,
       "hnPoints": null
     },
     {
@@ -68360,8 +68360,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 52883,
-      "stars7dDelta": 1632,
+      "stars": 52999,
+      "stars7dDelta": 1661,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 43318,
-      "stars7dDelta": 1910,
+      "stars": 43394,
+      "stars7dDelta": 1853,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 151445,
-      "stars7dDelta": 5370,
+      "stars": 152032,
+      "stars7dDelta": 5699,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 46473,
-      "stars7dDelta": 3307,
+      "stars": 46668,
+      "stars7dDelta": 3276,
       "hnPoints": null
     },
     {
@@ -113072,8 +113072,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 51766,
-      "stars7dDelta": 16209,
+      "stars": 52036,
+      "stars7dDelta": 16345,
       "hnPoints": null
     },
     {
@@ -115551,7 +115551,7 @@
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
       "stars": 5432,
-      "stars7dDelta": 310,
+      "stars7dDelta": 277,
       "hnPoints": null
     },
     {
@@ -123184,7 +123184,7 @@
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
       "stars": 4055,
-      "stars7dDelta": 149,
+      "stars7dDelta": 75,
       "hnPoints": null
     },
     {
@@ -128247,7 +128247,7 @@
       "topics": [],
       "rationale": null,
       "stars": 7562,
-      "stars7dDelta": 76,
+      "stars7dDelta": 35,
       "hnPoints": null
     },
     {
@@ -128267,7 +128267,7 @@
       "topics": [],
       "rationale": null,
       "stars": 23255,
-      "stars7dDelta": 1543,
+      "stars7dDelta": 1325,
       "hnPoints": null
     },
     {
@@ -129171,7 +129171,7 @@
       ],
       "rationale": null,
       "stars": 7817,
-      "stars7dDelta": 542,
+      "stars7dDelta": 481,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 6359,
-      "stars7dDelta": 1377,
+      "stars": 6431,
+      "stars7dDelta": 1360,
       "hnPoints": null
     },
     {
@@ -134928,7 +134928,7 @@
       "topics": [],
       "rationale": null,
       "stars": 11620,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -135000,8 +135000,8 @@
         "secrets"
       ],
       "rationale": null,
-      "stars": 4030,
-      "stars7dDelta": 615,
+      "stars": 4062,
+      "stars7dDelta": 601,
       "hnPoints": null
     },
     {
@@ -138274,7 +138274,7 @@
       ],
       "rationale": null,
       "stars": 924,
-      "stars7dDelta": 387,
+      "stars7dDelta": 90,
       "hnPoints": null
     },
     {
@@ -138300,7 +138300,7 @@
       ],
       "rationale": null,
       "stars": 1010,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -138341,7 +138341,7 @@
       ],
       "rationale": null,
       "stars": 5179,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -144783,8 +144783,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 3371,
-      "stars7dDelta": 569,
+      "stars": 3602,
+      "stars7dDelta": 800,
       "hnPoints": null
     },
     {
@@ -144805,7 +144805,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 603
+      "hnPoints": 621
     },
     {
       "id": 6035,
@@ -144825,7 +144825,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 373
+      "hnPoints": 376
     },
     {
       "id": 6036,
@@ -144845,7 +144845,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 254
+      "hnPoints": 261
     },
     {
       "id": 6037,
@@ -144865,7 +144865,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 193
+      "hnPoints": 196
     },
     {
       "id": 6038,
@@ -144925,7 +144925,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 186
+      "hnPoints": 187
     },
     {
       "id": 6041,
@@ -144965,7 +144965,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 184
+      "hnPoints": 186
     },
     {
       "id": 6043,
@@ -145005,7 +145005,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 206
+      "hnPoints": 209
     },
     {
       "id": 6045,
@@ -145845,7 +145845,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 374
+      "hnPoints": 386
     },
     {
       "id": 6087,
@@ -145925,7 +145925,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 95
+      "hnPoints": 242
     },
     {
       "id": 6091,
@@ -145985,7 +145985,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 5
+      "hnPoints": 36
     },
     {
       "id": 6094,
@@ -146125,7 +146125,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 45
+      "hnPoints": 247
     },
     {
       "id": 6101,
@@ -146145,7 +146145,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 161
+      "hnPoints": 181
     },
     {
       "id": 6102,
@@ -146806,6 +146806,186 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6135,
+      "source": "hn",
+      "sourceId": "49933740",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "owner": "PaulHoule",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y</a><p><a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:03:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 204
+    },
+    {
+      "id": 6136,
+      "source": "hn",
+      "sourceId": "49936575",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "owner": "fibo",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:03:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 202
+    },
+    {
+      "id": 6137,
+      "source": "hn",
+      "sourceId": "49941327",
+      "title": "What if AI worked at 1.000.000 tokens per seconds?",
+      "url": "https://www.echohive.ai/one-million-tokens-per-second",
+      "owner": "echohive42",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:03:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 6138,
+      "source": "hn",
+      "sourceId": "49929391",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "owner": "usernomdeguerre",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:03:48+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 214
+    },
+    {
+      "id": 6139,
+      "source": "hn",
+      "sourceId": "49940467",
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "owner": "sdko",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:04:08+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 33
+    },
+    {
+      "id": 6140,
+      "source": "hn",
+      "sourceId": "49933230",
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "owner": "RickJWagner",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:04:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
+    },
+    {
+      "id": 6141,
+      "source": "hn",
+      "sourceId": "49937916",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "owner": "antelocnova",
+      "language": null,
+      "description": "Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an &quot;assembly&quot; language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.<p>When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:04:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 94
+    },
+    {
+      "id": 6142,
+      "source": "hn",
+      "sourceId": "49939513",
+      "title": "Debian Inference Portal",
+      "url": "https://inference.debian.net/",
+      "owner": "ColinWright",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:04:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 13
+    },
+    {
+      "id": 6143,
+      "source": "hn",
+      "sourceId": "49940317",
+      "title": "Show HN: Timeline of the Far Future",
+      "url": "https://rivendell.dmitrybrant.com/farfuture/",
+      "owner": "dmitrybrant",
+      "language": null,
+      "description": "One of my favorite articles on Wikipedia is called &quot;Timeline of the far future&quot;.[0]<p>The only problem with this article is the presentation: it&#x27;s a gigantic wall-of-text table that does very little justice to the profound, awe-inspiring insights contained in it. This article deserves so much better!<p>So here&#x27;s my attempt to dress it up a bit. Being a visual learner myself, and wanting an opportunity to improve my skills with three.js and typescript, I made a &quot;reimagine",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-03T06:04:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
     }
   ]
 }
