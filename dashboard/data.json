@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T16:59:25.240820+00:00",
+  "generatedAt": "2026-10-04T06:46:49.641426+00:00",
   "totals": {
-    "items": 6171,
+    "items": 6187,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2769,
+      "other": 2785,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1075,
+      "?": 1091,
       "other": 1
     },
     "bySource": {
-      "github_trending": 249,
-      "hn": 3099,
-      "product_hunt": 2823
+      "github_trending": 250,
+      "hn": 3113,
+      "product_hunt": 2824
     }
   },
   "items": [
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 30326,
-      "stars7dDelta": 395,
+      "stars": 30443,
+      "stars7dDelta": 512,
       "hnPoints": null
     },
     {
@@ -57921,8 +57921,8 @@
         "text-to-diagram"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 76607,
-      "stars7dDelta": 4238,
+      "stars": 76838,
+      "stars7dDelta": 4185,
       "hnPoints": null
     },
     {
@@ -68360,8 +68360,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 53115,
-      "stars7dDelta": 1690,
+      "stars": 53225,
+      "stars7dDelta": 1682,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 43474,
-      "stars7dDelta": 1798,
+      "stars": 43573,
+      "stars7dDelta": 1726,
       "hnPoints": null
     },
     {
@@ -80857,7 +80857,7 @@
       "topics": [],
       "rationale": "AI routes reverse-engineering and pentest workflows into repeatable agentic toolchains.",
       "stars": 38114,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4181,
-      "stars7dDelta": 98,
+      "stars": 4230,
+      "stars7dDelta": 147,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 152859,
-      "stars7dDelta": 6250,
+      "stars": 153772,
+      "stars7dDelta": 6302,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 46895,
-      "stars7dDelta": 3235,
+      "stars": 47161,
+      "stars7dDelta": 3245,
       "hnPoints": null
     },
     {
@@ -113072,8 +113072,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 52388,
-      "stars7dDelta": 14755,
+      "stars": 52743,
+      "stars7dDelta": 13434,
       "hnPoints": null
     },
     {
@@ -115525,8 +115525,8 @@
       ],
       "topics": [],
       "rationale": "Internal AI productivity product for employees to create docs, build apps, and run agents with company systems.",
-      "stars": 10476,
-      "stars7dDelta": 0,
+      "stars": 10641,
+      "stars7dDelta": 165,
       "hnPoints": null
     },
     {
@@ -115551,7 +115551,7 @@
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
       "stars": 5432,
-      "stars7dDelta": 242,
+      "stars7dDelta": 198,
       "hnPoints": null
     },
     {
@@ -123184,7 +123184,7 @@
       ],
       "rationale": "Self-hosted CRM product with AI agents for WhatsApp sales/support, an open alternative to chat-driven CRMs.",
       "stars": 4055,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -128247,7 +128247,7 @@
       "topics": [],
       "rationale": null,
       "stars": 7562,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -128267,7 +128267,7 @@
       "topics": [],
       "rationale": null,
       "stars": 23255,
-      "stars7dDelta": 1169,
+      "stars7dDelta": 1007,
       "hnPoints": null
     },
     {
@@ -129171,7 +129171,7 @@
       ],
       "rationale": null,
       "stars": 7817,
-      "stars7dDelta": 418,
+      "stars7dDelta": 337,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 6535,
-      "stars7dDelta": 1380,
+      "stars": 6625,
+      "stars7dDelta": 1392,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4062,
-      "stars7dDelta": 539,
+      "stars7dDelta": 491,
       "hnPoints": null
     },
     {
@@ -144783,8 +144783,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 3752,
-      "stars7dDelta": 950,
+      "stars": 4016,
+      "stars7dDelta": 1214,
       "hnPoints": null
     },
     {
@@ -146085,7 +146085,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 86
+      "hnPoints": 111
     },
     {
       "id": 6099,
@@ -146145,7 +146145,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 189
+      "hnPoints": 192
     },
     {
       "id": 6102,
@@ -146825,7 +146825,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 255
+      "hnPoints": 280
     },
     {
       "id": 6136,
@@ -146845,7 +146845,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 303
+      "hnPoints": 345
     },
     {
       "id": 6137,
@@ -146925,7 +146925,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 157
+      "hnPoints": 166
     },
     {
       "id": 6141,
@@ -146945,7 +146945,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 130
+      "hnPoints": 145
     },
     {
       "id": 6142,
@@ -146991,11 +146991,11 @@
       "id": 6144,
       "source": "hn",
       "sourceId": "49943034",
-      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
       "owner": "tejaskumar__",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;aleph-alpha.com&#x2F;en&#x2F;blog&#x2F;kolibri-has-landed-a-sovereign-open-weight-model&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;aleph-alpha.com&#x2F;en&#x2F;blog&#x2F;kolibri-has-landed-a-soverei...</a>",
       "createdAt": null,
       "firstSeenAt": "2026-10-03T16:50:24+00:00",
       "bucket": "other",
@@ -147005,7 +147005,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 325
+      "hnPoints": 410
     },
     {
       "id": 6145,
@@ -147538,6 +147538,334 @@
       "description": "Browser multiplexer for the agentic era Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-03T16:56:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6172,
+      "source": "github_trending",
+      "sourceId": "boykopovar/AnyPS5",
+      "title": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "owner": "boykopovar",
+      "language": "C++",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "createdAt": "2026-08-03T21:30:25Z",
+      "firstSeenAt": "2026-10-04T06:37:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "anyps5",
+        "dynamic-library",
+        "game-porting",
+        "ps5",
+        "ps5-tools",
+        "spir-v",
+        "vulkan"
+      ],
+      "rationale": null,
+      "stars": 3323,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 6173,
+      "source": "hn",
+      "sourceId": "49945933",
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "owner": "kmeh",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:37:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 131
+    },
+    {
+      "id": 6174,
+      "source": "hn",
+      "sourceId": "49938326",
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "owner": "effects",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 6175,
+      "source": "hn",
+      "sourceId": "49942103",
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "owner": "Gorsefound",
+      "language": null,
+      "description": "Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like:<p><pre><code>  DIM A%(12000000000)\n</code></pre>\n…and have it actually work. Then I kept adding things. The result is Thoreau BASIC, a free x64 BASIC interpreter inspired by GW-BASIC, running both as a normal Windows program and directly on bare-metal UEFI without an operating system.<p>Version 3.2 has become considerably more ambitious than the little interpreter I originally intended to write. The l",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 48
+    },
+    {
+      "id": 6176,
+      "source": "hn",
+      "sourceId": "49937304",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "owner": "edverma2",
+      "language": null,
+      "description": "pi pod runs sessions of the pi coding agent in isolated sandboxes (&quot;pods&quot;) on a server you run, in composable environments.<p>----<p>Since moving my company towards AI-native work, I have been really frustrated by the state of &quot;agentic engineering&quot; environments. Products by the labs (claude code, codex) lock you into a single provider for your tokens. Agnostic solutions (factory, devin, arguably cursor) make you pay per-token costs. None of these products allow you to fully c",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 89
+    },
+    {
+      "id": 6177,
+      "source": "hn",
+      "sourceId": "49944227",
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "owner": "Brajeshwar",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-safety-leader-quits-warning-ai-companys-culture-is-broken\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 163
+    },
+    {
+      "id": 6178,
+      "source": "hn",
+      "sourceId": "49946567",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "owner": "saikatsg",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 206
+    },
+    {
+      "id": 6179,
+      "source": "hn",
+      "sourceId": "49931993",
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "owner": "nor-and-or-not",
+      "language": null,
+      "description": "(Edit: original URL was <a href=\"https:&#x2F;&#x2F;againstallodds.games&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;againstallodds.games&#x2F;</a>, but we&#x27;ve switched it to <a href=\"https:&#x2F;&#x2F;againstallodds.games&#x2F;blog&#x2F;2026&#x2F;10&#x2F;03&#x2F;our-risc-v-emulator-pasriscv&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;againstallodds.games&#x2F;blog&#x2F;2026&#x2F;10&#x2F;03&#x2F;our-risc-v-emul...</a> in response to user requests for explanation.)<p>We&#x27;re a tiny indie studio, al",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 75
+    },
+    {
+      "id": 6180,
+      "source": "hn",
+      "sourceId": "49950052",
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "owner": "bookofjoe",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;y8FW0\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;y8FW0</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:38:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 56
+    },
+    {
+      "id": 6181,
+      "source": "hn",
+      "sourceId": "49927295",
+      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+      "url": "https://github.com/graphene-data/graphene",
+      "owner": "kcmarr",
+      "language": null,
+      "description": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now?<p>Almost. They just need a context&#x2F;semantic layer to ensure query correctness and some kind of artifact for publishing findings and visualizations.<p>We built an open source project called Graphene that provides these tools:<p>- Semantic layer that’s more token-efficient than YAML, more deterministic than Markdown (eg, composable, callable metric macros), with a query API that’s we",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:39:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 29
+    },
+    {
+      "id": 6182,
+      "source": "hn",
+      "sourceId": "49950288",
+      "title": "AI can clone your indie game, but not its soul",
+      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+      "owner": "robertvaradan",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:39:08+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 6183,
+      "source": "hn",
+      "sourceId": "49948332",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "owner": "jethronethro",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:39:40+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 259
+    },
+    {
+      "id": 6184,
+      "source": "hn",
+      "sourceId": "49936725",
+      "title": "Crypto Capture of Foreign Aid",
+      "url": "https://www.nber.org/papers/w35655",
+      "owner": "bko",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:40:19+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 100
+    },
+    {
+      "id": 6185,
+      "source": "hn",
+      "sourceId": "49946321",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "owner": "bundie",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:40:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 98
+    },
+    {
+      "id": 6186,
+      "source": "hn",
+      "sourceId": "49946228",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "owner": "Anon84",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:40:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 91
+    },
+    {
+      "id": 6187,
+      "source": "product_hunt",
+      "sourceId": "1268072",
+      "title": "Reassign",
+      "url": "https://www.producthunt.com/products/reassign",
+      "owner": null,
+      "language": null,
+      "description": "Your day, shaped into a story. The planner for makers Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-04T06:40:58+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
