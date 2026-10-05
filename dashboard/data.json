@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-04T17:18:54.758232+00:00",
+  "generatedAt": "2026-10-05T06:44:14.246880+00:00",
   "totals": {
-    "items": 6229,
+    "items": 6237,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2827,
+      "other": 2835,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1133,
+      "?": 1141,
       "other": 1
     },
     "bySource": {
-      "github_trending": 251,
-      "hn": 3117,
+      "github_trending": 252,
+      "hn": 3124,
       "product_hunt": 2861
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 30548,
-      "stars7dDelta": 617,
+      "stars": 30717,
+      "stars7dDelta": 786,
       "hnPoints": null
     },
     {
@@ -57921,8 +57921,8 @@
         "visualization"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 77162,
-      "stars7dDelta": 4509,
+      "stars": 77648,
+      "stars7dDelta": 4192,
       "hnPoints": null
     },
     {
@@ -68360,8 +68360,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 53475,
-      "stars7dDelta": 1932,
+      "stars": 53689,
+      "stars7dDelta": 1835,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 16743,
-      "stars7dDelta": 0,
+      "stars": 16988,
+      "stars7dDelta": 245,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 43664,
-      "stars7dDelta": 1817,
+      "stars": 43754,
+      "stars7dDelta": 1508,
       "hnPoints": null
     },
     {
@@ -82397,8 +82397,8 @@
       ],
       "topics": [],
       "rationale": "Native DeepSeek-focused inference engine with serving, KV state, and tool-call support for local AI stacks.",
-      "stars": 23348,
-      "stars7dDelta": 0,
+      "stars": 23493,
+      "stars7dDelta": 145,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4262,
-      "stars7dDelta": 179,
+      "stars": 4307,
+      "stars7dDelta": 224,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 154497,
-      "stars7dDelta": 7027,
+      "stars": 155187,
+      "stars7dDelta": 7717,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 47385,
-      "stars7dDelta": 3469,
+      "stars": 47624,
+      "stars7dDelta": 3134,
       "hnPoints": null
     },
     {
@@ -113072,8 +113072,8 @@
         "workflow"
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
-      "stars": 53008,
-      "stars7dDelta": 13699,
+      "stars": 53307,
+      "stars7dDelta": 9867,
       "hnPoints": null
     },
     {
@@ -115551,7 +115551,7 @@
       "topics": [],
       "rationale": "Local inference server that profiles hardware and serves models to coding agents.",
       "stars": 5432,
-      "stars7dDelta": 198,
+      "stars7dDelta": 52,
       "hnPoints": null
     },
     {
@@ -128267,7 +128267,7 @@
       "topics": [],
       "rationale": null,
       "stars": 23255,
-      "stars7dDelta": 1007,
+      "stars7dDelta": 580,
       "hnPoints": null
     },
     {
@@ -129171,7 +129171,7 @@
       ],
       "rationale": null,
       "stars": 7817,
-      "stars7dDelta": 337,
+      "stars7dDelta": 99,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 6705,
-      "stars7dDelta": 1472,
+      "stars": 6789,
+      "stars7dDelta": 1295,
       "hnPoints": null
     },
     {
@@ -135000,8 +135000,8 @@
         "secrets"
       ],
       "rationale": null,
-      "stars": 4118,
-      "stars7dDelta": 547,
+      "stars": 4152,
+      "stars7dDelta": 442,
       "hnPoints": null
     },
     {
@@ -140792,7 +140792,7 @@
       ],
       "rationale": null,
       "stars": 12667,
-      "stars7dDelta": 683,
+      "stars7dDelta": 194,
       "hnPoints": null
     },
     {
@@ -140824,7 +140824,7 @@
       ],
       "rationale": null,
       "stars": 1593,
-      "stars7dDelta": 811,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -140844,7 +140844,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5494,
-      "stars7dDelta": 191,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -144783,8 +144783,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 4249,
-      "stars7dDelta": 1447,
+      "stars": 4450,
+      "stars7dDelta": 1648,
       "hnPoints": null
     },
     {
@@ -147005,7 +147005,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 416
+      "hnPoints": 418
     },
     {
       "id": 6145,
@@ -147025,7 +147025,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 52
+      "hnPoints": 76
     },
     {
       "id": 6146,
@@ -147045,7 +147045,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 47
+      "hnPoints": 75
     },
     {
       "id": 6147,
@@ -147593,7 +147593,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 291
+      "hnPoints": 359
     },
     {
       "id": 6174,
@@ -147633,7 +147633,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 83
+      "hnPoints": 92
     },
     {
       "id": 6176,
@@ -147673,7 +147673,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 379
+      "hnPoints": 469
     },
     {
       "id": 6178,
@@ -147693,7 +147693,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 226
+      "hnPoints": 233
     },
     {
       "id": 6179,
@@ -147733,7 +147733,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 142
+      "hnPoints": 159
     },
     {
       "id": 6181,
@@ -147793,7 +147793,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 266
+      "hnPoints": 267
     },
     {
       "id": 6184,
@@ -147833,7 +147833,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 113
+      "hnPoints": 116
     },
     {
       "id": 6186,
@@ -147853,7 +147853,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 285
+      "hnPoints": 398
     },
     {
       "id": 6187,
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 2741,
-      "stars7dDelta": 0,
+      "stars": 3460,
+      "stars7dDelta": 719,
       "hnPoints": null
     },
     {
@@ -147921,13 +147921,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 72
+      "hnPoints": 149
     },
     {
       "id": 6190,
       "source": "hn",
       "sourceId": "49951641",
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "title": "What's the future for pure math research in the age of AI?",
       "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
       "owner": "6bitquant",
       "language": null,
@@ -147941,7 +147941,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 34
+      "hnPoints": 59
     },
     {
       "id": 6191,
@@ -147981,7 +147981,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 152
+      "hnPoints": 167
     },
     {
       "id": 6193,
@@ -148722,6 +148722,187 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6230,
+      "source": "github_trending",
+      "sourceId": "michael-denyer/pstack-claude",
+      "title": "michael-denyer/pstack-claude",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "owner": "michael-denyer",
+      "language": "JavaScript",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "createdAt": "2026-05-26T13:26:00Z",
+      "firstSeenAt": "2026-10-05T06:33:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "agent-plugin",
+        "agent-skills",
+        "agentic-ai",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skills",
+        "claude-skills",
+        "code-review",
+        "codex",
+        "codex-cli",
+        "codex-plugin",
+        "codex-skills",
+        "coding-agent",
+        "developer-tools",
+        "gemini-cli",
+        "opencode",
+        "pstack"
+      ],
+      "rationale": null,
+      "stars": 1216,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 6231,
+      "source": "hn",
+      "sourceId": "49957812",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "owner": "rdmuser",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:34:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 105
+    },
+    {
+      "id": 6232,
+      "source": "hn",
+      "sourceId": "49959869",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "owner": "llm_nerd",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:34:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 174
+    },
+    {
+      "id": 6233,
+      "source": "hn",
+      "sourceId": "49961057",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "owner": "emptybits",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:34:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 20
+    },
+    {
+      "id": 6234,
+      "source": "hn",
+      "sourceId": "49939308",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "owner": "veqq",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:35:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 29
+    },
+    {
+      "id": 6235,
+      "source": "hn",
+      "sourceId": "49957117",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "owner": "signa11",
+      "language": null,
+      "description": "Paper: \n<a href=\"https:&#x2F;&#x2F;www.usenix.org&#x2F;system&#x2F;files&#x2F;atc21-ousterhout.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.usenix.org&#x2F;system&#x2F;files&#x2F;atc21-ousterhout.pdf</a><p>Related: <a href=\"https:&#x2F;&#x2F;lwn.net&#x2F;Articles&#x2F;1003059&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;lwn.net&#x2F;Articles&#x2F;1003059&#x2F;</a>, <a href=\"https:&#x2F;&#x2F;www.theregister.com&#x2F;networks&#x2F;2026&#x2F;10&#x2F;01&#x2F;stanford-prof-is-beating-the-drum-for-a-new-prot",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:35:10+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 68
+    },
+    {
+      "id": 6236,
+      "source": "hn",
+      "sourceId": "49956092",
+      "title": "All I wanted was a custom domain email",
+      "url": "https://jacobg.co/emails-at-jacobg-co/",
+      "owner": "jgx0",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:35:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 52
+    },
+    {
+      "id": 6237,
+      "source": "hn",
+      "sourceId": "49951891",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "owner": "simonjgreen",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-05T06:35:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 74
     }
   ]
 }
