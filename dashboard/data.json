@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-06T07:22:57.597414+00:00",
+  "generatedAt": "2026-10-06T18:48:45.697028+00:00",
   "totals": {
-    "items": 6322,
+    "items": 6329,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2920,
+      "other": 2927,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1226,
+      "?": 1233,
       "other": 1
     },
     "bySource": {
-      "github_trending": 254,
-      "hn": 3141,
+      "github_trending": 255,
+      "hn": 3147,
       "product_hunt": 2927
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 31039,
-      "stars7dDelta": 1108,
+      "stars": 31197,
+      "stars7dDelta": 1266,
       "hnPoints": null
     },
     {
@@ -49362,7 +49362,7 @@
       ],
       "rationale": "Lightweight multi-database GUI with AI SQL assistance points to demand for faster, safer DB admin tools.",
       "stars": 23408,
-      "stars7dDelta": 1582,
+      "stars7dDelta": 991,
       "hnPoints": null
     },
     {
@@ -57921,8 +57921,8 @@
         "visualization"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 78288,
-      "stars7dDelta": 4163,
+      "stars": 78585,
+      "stars7dDelta": 4111,
       "hnPoints": null
     },
     {
@@ -68360,8 +68360,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 54011,
-      "stars7dDelta": 1906,
+      "stars": 54272,
+      "stars7dDelta": 2040,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 17570,
-      "stars7dDelta": 827,
+      "stars": 17854,
+      "stars7dDelta": 1111,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 43915,
-      "stars7dDelta": 1366,
+      "stars": 44011,
+      "stars7dDelta": 1335,
       "hnPoints": null
     },
     {
@@ -92661,7 +92661,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
       "language": "HTML",
-      "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "createdAt": "2026-04-16T18:01:16Z",
       "firstSeenAt": "2026-08-12T14:11:56+00:00",
       "bucket": "devtool",
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 41649,
-      "stars7dDelta": null,
+      "stars": 43876,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4381,
-      "stars7dDelta": 298,
+      "stars": 4416,
+      "stars7dDelta": 333,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 156199,
-      "stars7dDelta": 8134,
+      "stars": 156658,
+      "stars7dDelta": 8274,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 48072,
-      "stars7dDelta": 3101,
+      "stars": 48287,
+      "stars7dDelta": 3084,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 6543,
+      "stars7dDelta": 5098,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 37571,
-      "stars7dDelta": null,
+      "stars": 39968,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -128267,7 +128267,7 @@
       "topics": [],
       "rationale": null,
       "stars": 23255,
-      "stars7dDelta": 164,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 7064,
-      "stars7dDelta": 1301,
+      "stars": 7371,
+      "stars7dDelta": 1456,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 386,
+      "stars7dDelta": 333,
       "hnPoints": null
     },
     {
@@ -144783,8 +144783,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 4690,
-      "stars7dDelta": 1888,
+      "stars": 4815,
+      "stars7dDelta": 2013,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 5151,
-      "stars7dDelta": 1828,
+      "stars": 5996,
+      "stars7dDelta": 2673,
       "hnPoints": null
     },
     {
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 5186,
-      "stars7dDelta": 2445,
+      "stars": 6030,
+      "stars7dDelta": 3289,
       "hnPoints": null
     },
     {
@@ -148782,7 +148782,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 246
+      "hnPoints": 247
     },
     {
       "id": 6232,
@@ -148802,7 +148802,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 284
+      "hnPoints": 288
     },
     {
       "id": 6233,
@@ -148822,7 +148822,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 682
+      "hnPoints": 785
     },
     {
       "id": 6234,
@@ -148882,7 +148882,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 102
+      "hnPoints": 113
     },
     {
       "id": 6237,
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 4557,
-      "stars7dDelta": 495,
+      "stars": 5401,
+      "stars7dDelta": 1339,
       "hnPoints": null
     },
     {
@@ -148991,7 +148991,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 189
+      "hnPoints": 202
     },
     {
       "id": 6241,
@@ -149011,7 +149011,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 311
+      "hnPoints": 457
     },
     {
       "id": 6242,
@@ -149031,7 +149031,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 77
+      "hnPoints": 84
     },
     {
       "id": 6243,
@@ -149051,7 +149051,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 119
+      "hnPoints": 137
     },
     {
       "id": 6244,
@@ -149071,7 +149071,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 272
+      "hnPoints": 299
     },
     {
       "id": 6245,
@@ -149091,7 +149091,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 103
+      "hnPoints": 113
     },
     {
       "id": 6246,
@@ -149751,7 +149751,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 255
     },
     {
       "id": 6279,
@@ -149771,7 +149771,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 69
+      "hnPoints": 103
     },
     {
       "id": 6280,
@@ -149791,7 +149791,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 391
+      "hnPoints": 528
     },
     {
       "id": 6281,
@@ -149941,7 +149941,7 @@
       "url": "https://www.producthunt.com/products/incredible",
       "owner": null,
       "language": null,
-      "description": "The AI that does the clicking and typing for you Discussion | Link",
+      "description": "Vibe computing. Control your computer with your voice. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-06T07:16:57+00:00",
       "bucket": "other",
@@ -150421,7 +150421,7 @@
       "url": "https://www.producthunt.com/products/staycharted",
       "owner": null,
       "language": null,
-      "description": "Train AI on your own categories Discussion | Link",
+      "description": "Train AI on your own categories. Text and pictures. No code Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-06T07:20:15+00:00",
       "bucket": "other",
@@ -150632,6 +150632,167 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6323,
+      "source": "github_trending",
+      "sourceId": "morluto/rea",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "owner": "morluto",
+      "language": "TypeScript",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "createdAt": "2026-04-14T00:51:32Z",
+      "firstSeenAt": "2026-10-06T18:41:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "agent-skills",
+        "ai-agent-tools",
+        "ai-agents",
+        "binary-analysis",
+        "cli",
+        "coding-agents",
+        "cordis",
+        "ctf",
+        "decompiler",
+        "disassembler",
+        "dsh",
+        "dsh-plugin",
+        "ghidra",
+        "hopper",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "reverse-engineering",
+        "reverse-engineering-tools",
+        "static-analysis"
+      ],
+      "rationale": null,
+      "stars": 8182,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 6324,
+      "source": "hn",
+      "sourceId": "49977979",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "owner": "Philpax",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-06T18:41:34+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 1112
+    },
+    {
+      "id": 6325,
+      "source": "hn",
+      "sourceId": "49977072",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "owner": "thw_9a83c",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-06T18:41:40+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 538
+    },
+    {
+      "id": 6326,
+      "source": "hn",
+      "sourceId": "49980715",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "owner": "fsbonetto",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-06T18:41:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 134
+    },
+    {
+      "id": 6327,
+      "source": "hn",
+      "sourceId": "49978595",
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "owner": "pentakkusu",
+      "language": null,
+      "description": "I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figured my phone was already perfectly capable of doing the timing, it just needed a way to switch the enlarger.<p>So I built Darkplug around a cheap smart plug. The app controls the enlarger over the local network and does regular timing, f-stop timing, test strips, has an intuitive dodge&#x2F;burn work",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-06T18:41:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 26
+    },
+    {
+      "id": 6328,
+      "source": "hn",
+      "sourceId": "49977689",
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "owner": "pfdietz",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-06T18:42:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 6329,
+      "source": "hn",
+      "sourceId": "49981197",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "owner": "healsdata",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-06T18:42:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
     }
   ]
 }
