@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-06T18:48:45.697028+00:00",
+  "generatedAt": "2026-10-07T07:02:43.933547+00:00",
   "totals": {
-    "items": 6329,
+    "items": 6342,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 2927,
+      "other": 2940,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1233,
+      "?": 1246,
       "other": 1
     },
     "bySource": {
       "github_trending": 255,
-      "hn": 3147,
+      "hn": 3160,
       "product_hunt": 2927
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 31197,
-      "stars7dDelta": 1266,
+      "stars": 31359,
+      "stars7dDelta": 1428,
       "hnPoints": null
     },
     {
@@ -49362,7 +49362,7 @@
       ],
       "rationale": "Lightweight multi-database GUI with AI SQL assistance points to demand for faster, safer DB admin tools.",
       "stars": 23408,
-      "stars7dDelta": 991,
+      "stars7dDelta": 386,
       "hnPoints": null
     },
     {
@@ -57921,8 +57921,8 @@
         "visualization"
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
-      "stars": 78585,
-      "stars7dDelta": 4111,
+      "stars": 78812,
+      "stars7dDelta": 3729,
       "hnPoints": null
     },
     {
@@ -68360,8 +68360,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 54272,
-      "stars7dDelta": 2040,
+      "stars": 54566,
+      "stars7dDelta": 2223,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 17854,
-      "stars7dDelta": 1111,
+      "stars": 18116,
+      "stars7dDelta": 1373,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 44011,
-      "stars7dDelta": 1335,
+      "stars": 44097,
+      "stars7dDelta": 1240,
       "hnPoints": null
     },
     {
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 43876,
-      "stars7dDelta": 0,
+      "stars": 44232,
+      "stars7dDelta": 356,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4416,
-      "stars7dDelta": 333,
+      "stars": 4453,
+      "stars7dDelta": 370,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 156658,
-      "stars7dDelta": 8274,
+      "stars": 157019,
+      "stars7dDelta": 8088,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 48287,
-      "stars7dDelta": 3084,
+      "stars": 48458,
+      "stars7dDelta": 2904,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 5098,
+      "stars7dDelta": 3823,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 39968,
-      "stars7dDelta": 0,
+      "stars": 40109,
+      "stars7dDelta": 141,
       "hnPoints": null
     },
     {
@@ -128267,7 +128267,7 @@
       "topics": [],
       "rationale": null,
       "stars": 23255,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 7371,
-      "stars7dDelta": 1456,
+      "stars": 7525,
+      "stars7dDelta": 1478,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 333,
+      "stars7dDelta": 277,
       "hnPoints": null
     },
     {
@@ -144783,8 +144783,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 4815,
-      "stars7dDelta": 2013,
+      "stars": 4937,
+      "stars7dDelta": 2135,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 5996,
-      "stars7dDelta": 2673,
+      "stars": 7069,
+      "stars7dDelta": 3746,
       "hnPoints": null
     },
     {
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 6030,
-      "stars7dDelta": 3289,
+      "stars": 6622,
+      "stars7dDelta": 3881,
       "hnPoints": null
     },
     {
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 5401,
-      "stars7dDelta": 1339,
+      "stars": 6012,
+      "stars7dDelta": 1950,
       "hnPoints": null
     },
     {
@@ -148991,7 +148991,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 202
+      "hnPoints": 207
     },
     {
       "id": 6241,
@@ -149011,7 +149011,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 457
+      "hnPoints": 482
     },
     {
       "id": 6242,
@@ -149051,7 +149051,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 137
+      "hnPoints": 143
     },
     {
       "id": 6244,
@@ -149751,7 +149751,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 255
+      "hnPoints": 276
     },
     {
       "id": 6279,
@@ -149791,7 +149791,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 528
+      "hnPoints": 546
     },
     {
       "id": 6281,
@@ -150541,7 +150541,7 @@
       "url": "https://www.producthunt.com/products/lecta",
       "owner": null,
       "language": null,
-      "description": "Turn your class notes into games with friends Discussion | Link",
+      "description": "Doomscroll your study material with short videos & games Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-06T07:21:02+00:00",
       "bucket": "other",
@@ -150670,8 +150670,8 @@
         "static-analysis"
       ],
       "rationale": null,
-      "stars": 8182,
-      "stars7dDelta": 0,
+      "stars": 10592,
+      "stars7dDelta": 2410,
       "hnPoints": null
     },
     {
@@ -150692,13 +150692,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1112
+      "hnPoints": 1717
     },
     {
       "id": 6325,
       "source": "hn",
       "sourceId": "49977072",
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "title": "JetBrains reports revenue growth, net financial loss for 2025",
       "url": "https://www.helgilibrary.com/companies/jetbrains",
       "owner": "thw_9a83c",
       "language": null,
@@ -150712,13 +150712,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 538
+      "hnPoints": 579
     },
     {
       "id": 6326,
       "source": "hn",
       "sourceId": "49980715",
-      "title": "AI is now capable of developing its own inference hardware",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "owner": "fsbonetto",
       "language": null,
@@ -150732,7 +150732,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 134
+      "hnPoints": 274
     },
     {
       "id": 6327,
@@ -150752,7 +150752,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 26
+      "hnPoints": 78
     },
     {
       "id": 6328,
@@ -150772,7 +150772,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 7
+      "hnPoints": 99
     },
     {
       "id": 6329,
@@ -150792,7 +150792,267 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 39
+      "hnPoints": 121
+    },
+    {
+      "id": 6330,
+      "source": "hn",
+      "sourceId": "49984923",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "owner": "OfficialTurkey",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:52:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 759
+    },
+    {
+      "id": 6331,
+      "source": "hn",
+      "sourceId": "49984716",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "owner": "kavourias",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:52:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 147
+    },
+    {
+      "id": 6332,
+      "source": "hn",
+      "sourceId": "49980487",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "owner": "ilreb",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:04+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 293
+    },
+    {
+      "id": 6333,
+      "source": "hn",
+      "sourceId": "49981905",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "owner": "zed_labs_dev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 171
+    },
+    {
+      "id": 6334,
+      "source": "hn",
+      "sourceId": "49986765",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "owner": "matt_d",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:19+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 6335,
+      "source": "hn",
+      "sourceId": "49982498",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "owner": "IvanK_net",
+      "language": null,
+      "description": "I am a developer of https:&#x2F;&#x2F;www.photopea.com, a popular photo editor that runs in a web browser.<p>Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a &quot;new product&quot; on Github for everyone to download.<p>There exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Phot",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 131
+    },
+    {
+      "id": 6336,
+      "source": "hn",
+      "sourceId": "49988230",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "owner": "colinprince",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 31
+    },
+    {
+      "id": 6337,
+      "source": "hn",
+      "sourceId": "49973644",
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "owner": "vaughands",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 81
+    },
+    {
+      "id": 6338,
+      "source": "hn",
+      "sourceId": "49987765",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "owner": "ilreb",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:53:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 6339,
+      "source": "hn",
+      "sourceId": "49985861",
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "owner": "thoughtpeddler",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:54:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 66
+    },
+    {
+      "id": 6340,
+      "source": "hn",
+      "sourceId": "49985292",
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.38721",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:54:16+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 15
+    },
+    {
+      "id": 6341,
+      "source": "hn",
+      "sourceId": "49972125",
+      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+      "url": "https://news.ycombinator.com/item?id=49972125",
+      "owner": "onemiketwelve",
+      "language": null,
+      "description": "I&#x27;ve been having a hard time finding a solution. Is there really no commercialized model that I can feed in a reference sound and text instruction and get another sound out?<p>Right now having a multimodal inputs to image or text output is a commodotized, solved problem. IE you can put a prompt for some image and use a reference image to guide the model on what you want. After all, a picture is worth a thousand words right?<p>Ive also used a text and audio input in order to get a text descr",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:54:39+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 6342,
+      "source": "hn",
+      "sourceId": "49984736",
+      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+      "url": "https://agentability.org/",
+      "owner": "khalidsaidi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-07T06:54:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
     }
   ]
 }
