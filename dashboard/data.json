@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-08T07:12:04.294407+00:00",
+  "generatedAt": "2026-10-08T19:12:04.307296+00:00",
   "totals": {
-    "items": 6457,
+    "items": 6471,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3055,
+      "other": 3069,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1361,
+      "?": 1375,
       "other": 1
     },
     "bySource": {
       "github_trending": 256,
-      "hn": 3182,
+      "hn": 3196,
       "product_hunt": 3019
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 31833,
-      "stars7dDelta": 1902,
+      "stars": 32069,
+      "stars7dDelta": 2039,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 3717,
+      "stars7dDelta": 3467,
       "hnPoints": null
     },
     {
@@ -68360,8 +68360,8 @@
         "productivity"
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
-      "stars": 55395,
-      "stars7dDelta": 2743,
+      "stars": 55725,
+      "stars7dDelta": 2958,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 18116,
-      "stars7dDelta": 1373,
+      "stars": 18436,
+      "stars7dDelta": 1693,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 44363,
-      "stars7dDelta": 1220,
+      "stars": 44551,
+      "stars7dDelta": 1311,
       "hnPoints": null
     },
     {
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 45314,
-      "stars7dDelta": 1438,
+      "stars": 46047,
+      "stars7dDelta": 2171,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4549,
-      "stars7dDelta": 466,
+      "stars": 4590,
+      "stars7dDelta": 454,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 157864,
-      "stars7dDelta": 7660,
+      "stars": 158265,
+      "stars7dDelta": 7420,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 48880,
-      "stars7dDelta": 2799,
+      "stars": 49099,
+      "stars7dDelta": 2809,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 2696,
+      "stars7dDelta": 2406,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 40396,
-      "stars7dDelta": 428,
+      "stars": 40525,
+      "stars7dDelta": 557,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 7844,
-      "stars7dDelta": 1629,
+      "stars": 7979,
+      "stars7dDelta": 1693,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 218,
+      "stars7dDelta": 200,
       "hnPoints": null
     },
     {
@@ -138274,7 +138274,7 @@
       ],
       "rationale": null,
       "stars": 924,
-      "stars7dDelta": 90,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -144764,7 +144764,7 @@
       "topics": [],
       "rationale": null,
       "stars": 1131,
-      "stars7dDelta": 114,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -144783,8 +144783,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 5200,
-      "stars7dDelta": 2398,
+      "stars": 5331,
+      "stars7dDelta": 2262,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 11633,
-      "stars7dDelta": 8310,
+      "stars": 14589,
+      "stars7dDelta": 11266,
       "hnPoints": null
     },
     {
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 7369,
-      "stars7dDelta": 3307,
+      "stars": 7855,
+      "stars7dDelta": 3793,
       "hnPoints": null
     },
     {
@@ -150649,29 +150649,29 @@
       "tags": [],
       "topics": [
         "agent-skills",
-        "ai-agent-tools",
         "ai-agents",
         "binary-analysis",
+        "claude-code",
         "cli",
-        "coding-agents",
+        "codex",
         "cordis",
         "ctf",
         "decompiler",
+        "developer-tools",
         "disassembler",
         "dsh",
         "dsh-plugin",
         "ghidra",
         "hopper",
+        "llm",
         "mcp",
-        "mcp-server",
         "model-context-protocol",
         "reverse-engineering",
-        "reverse-engineering-tools",
         "static-analysis"
       ],
       "rationale": null,
-      "stars": 17477,
-      "stars7dDelta": 9295,
+      "stars": 22431,
+      "stars7dDelta": 14249,
       "hnPoints": null
     },
     {
@@ -150812,7 +150812,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1272
+      "hnPoints": 1314
     },
     {
       "id": 6331,
@@ -150832,7 +150832,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 238
     },
     {
       "id": 6332,
@@ -150912,7 +150912,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 532
+      "hnPoints": 557
     },
     {
       "id": 6336,
@@ -150932,7 +150932,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 137
+      "hnPoints": 139
     },
     {
       "id": 6337,
@@ -151070,8 +151070,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 2425,
-      "stars7dDelta": 16,
+      "stars": 2439,
+      "stars7dDelta": 30,
       "hnPoints": null
     },
     {
@@ -151092,7 +151092,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 816
+      "hnPoints": 1026
     },
     {
       "id": 6345,
@@ -151112,7 +151112,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 590
+      "hnPoints": 739
     },
     {
       "id": 6346,
@@ -151132,7 +151132,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 216
+      "hnPoints": 291
     },
     {
       "id": 6347,
@@ -151152,7 +151152,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 296
+      "hnPoints": 297
     },
     {
       "id": 6348,
@@ -151172,7 +151172,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 115
+      "hnPoints": 116
     },
     {
       "id": 6349,
@@ -151292,7 +151292,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 24
+      "hnPoints": 50
     },
     {
       "id": 6355,
@@ -152372,7 +152372,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 111
+      "hnPoints": 123
     },
     {
       "id": 6409,
@@ -152392,7 +152392,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 334
+      "hnPoints": 362
     },
     {
       "id": 6410,
@@ -152622,7 +152622,7 @@
       "url": "https://www.producthunt.com/products/polylane",
       "owner": null,
       "language": null,
-      "description": "Wake up to fixes for your Vercel apps Discussion | Link",
+      "description": "An AI on-call engineer for your Vercel apps Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-08T07:06:04+00:00",
       "bucket": "other",
@@ -153353,6 +153353,286 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6458,
+      "source": "hn",
+      "sourceId": "50007519",
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+      "owner": "01-_-",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 166
+    },
+    {
+      "id": 6459,
+      "source": "hn",
+      "sourceId": "50008685",
+      "title": "The Deeply Impersonal Personalized Recruiter Mail",
+      "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+      "owner": "speckx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 19
+    },
+    {
+      "id": 6460,
+      "source": "hn",
+      "sourceId": "50008187",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+      "owner": "mfiguiere",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 148
+    },
+    {
+      "id": 6461,
+      "source": "hn",
+      "sourceId": "50004790",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "owner": "stared",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 281
+    },
+    {
+      "id": 6462,
+      "source": "hn",
+      "sourceId": "50005608",
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "owner": "brainless",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 67
+    },
+    {
+      "id": 6463,
+      "source": "hn",
+      "sourceId": "50002650",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "owner": "sashank_1509",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 194
+    },
+    {
+      "id": 6464,
+      "source": "hn",
+      "sourceId": "49958194",
+      "title": "Time Travel in Braid (2015)",
+      "url": "https://qntm.org/braid",
+      "owner": "Ariarule",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:04:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 92
+    },
+    {
+      "id": 6465,
+      "source": "hn",
+      "sourceId": "50008642",
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "url": "https://github.com/edgedelta/project-arena",
+      "owner": "emrahsamdan",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:05:03+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 13
+    },
+    {
+      "id": 6466,
+      "source": "hn",
+      "sourceId": "50008977",
+      "title": "Frontier AI models outperform analysts on earnings prediction",
+      "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction",
+      "owner": "ashwinpp",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:05:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 11
+    },
+    {
+      "id": 6467,
+      "source": "hn",
+      "sourceId": "50000676",
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "owner": "jcbhmr",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:05:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 106
+    },
+    {
+      "id": 6468,
+      "source": "hn",
+      "sourceId": "50006211",
+      "title": "Facebook fbclid URL parameters contain extractable info, including timestamps",
+      "url": "https://hindsig.ht/blog/decoding-facebook-fbclid/",
+      "owner": "RyanDFIR",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:05:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 6469,
+      "source": "hn",
+      "sourceId": "50003107",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "owner": "theemathas",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:06:10+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 337
+    },
+    {
+      "id": 6470,
+      "source": "hn",
+      "sourceId": "49990763",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "owner": "password54321",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:06:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 123
+    },
+    {
+      "id": 6471,
+      "source": "hn",
+      "sourceId": "49983226",
+      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+      "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
+      "owner": "awoodbeck",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-08T19:06:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 102
     }
   ]
 }
