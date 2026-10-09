@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-09T07:19:26.717667+00:00",
+  "generatedAt": "2026-10-09T18:42:39.935157+00:00",
   "totals": {
-    "items": 6517,
+    "items": 6527,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3115,
+      "other": 3125,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1421,
+      "?": 1431,
       "other": 1
     },
     "bySource": {
       "github_trending": 256,
-      "hn": 3207,
-      "product_hunt": 3054
+      "hn": 3216,
+      "product_hunt": 3055
     }
   },
   "items": [
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 32276,
-      "stars7dDelta": 2154,
+      "stars": 32460,
+      "stars7dDelta": 2248,
       "hnPoints": null
     },
     {
@@ -46879,7 +46879,7 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "owner": "Robbyant",
       "language": "Python",
-      "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
       "createdAt": "2026-04-15T17:59:48Z",
       "firstSeenAt": "2026-06-28T14:30:38+00:00",
       "bucket": "ai-infra",
@@ -46892,8 +46892,8 @@
       ],
       "topics": [],
       "rationale": "Provides a model architecture for real-time 3D scene reconstruction, useful infrastructure for robotics and spatial AI systems.",
-      "stars": 15959,
-      "stars7dDelta": null,
+      "stars": 17629,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 3257,
+      "stars7dDelta": 3071,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 3013,
+      "stars7dDelta": 2897,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 18555,
-      "stars7dDelta": 1812,
+      "stars": 18697,
+      "stars7dDelta": 1954,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 44701,
-      "stars7dDelta": 1383,
+      "stars": 45020,
+      "stars7dDelta": 1626,
       "hnPoints": null
     },
     {
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 46885,
-      "stars7dDelta": 3009,
+      "stars": 47647,
+      "stars7dDelta": 3771,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4644,
-      "stars7dDelta": 463,
+      "stars": 4681,
+      "stars7dDelta": 500,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 158865,
-      "stars7dDelta": 7420,
+      "stars": 159421,
+      "stars7dDelta": 7389,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 49314,
-      "stars7dDelta": 2841,
+      "stars": 49532,
+      "stars7dDelta": 2864,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 2164,
+      "stars7dDelta": 1894,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 40631,
-      "stars7dDelta": 663,
+      "stars": 40761,
+      "stars7dDelta": 793,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 8094,
-      "stars7dDelta": 1735,
+      "stars": 8218,
+      "stars7dDelta": 1787,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 171,
+      "stars7dDelta": 139,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 2127,
+      "stars7dDelta": 1896,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 17139,
-      "stars7dDelta": 13816,
+      "stars": 20898,
+      "stars7dDelta": 17575,
       "hnPoints": null
     },
     {
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 8195,
-      "stars7dDelta": 4133,
+      "stars": 8503,
+      "stars7dDelta": 4441,
       "hnPoints": null
     },
     {
@@ -150670,8 +150670,8 @@
         "static-analysis"
       ],
       "rationale": null,
-      "stars": 31142,
-      "stars7dDelta": 22960,
+      "stars": 40979,
+      "stars7dDelta": 32797,
       "hnPoints": null
     },
     {
@@ -150812,7 +150812,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1325
+      "hnPoints": 1333
     },
     {
       "id": 6331,
@@ -151092,7 +151092,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1037
+      "hnPoints": 1041
     },
     {
       "id": 6345,
@@ -151112,7 +151112,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 747
+      "hnPoints": 752
     },
     {
       "id": 6346,
@@ -151132,7 +151132,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 299
+      "hnPoints": 301
     },
     {
       "id": 6347,
@@ -152392,7 +152392,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 369
+      "hnPoints": 373
     },
     {
       "id": 6410,
@@ -153372,7 +153372,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 239
+      "hnPoints": 253
     },
     {
       "id": 6459,
@@ -153412,7 +153412,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 386
+      "hnPoints": 414
     },
     {
       "id": 6461,
@@ -153432,7 +153432,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 385
+      "hnPoints": 398
     },
     {
       "id": 6462,
@@ -153472,7 +153472,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 289
+      "hnPoints": 365
     },
     {
       "id": 6464,
@@ -153552,7 +153552,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 106
+      "hnPoints": 112
     },
     {
       "id": 6468,
@@ -153592,7 +153592,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 339
+      "hnPoints": 341
     },
     {
       "id": 6470,
@@ -153652,7 +153652,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 621
+      "hnPoints": 1010
     },
     {
       "id": 6473,
@@ -153672,7 +153672,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 95
+      "hnPoints": 184
     },
     {
       "id": 6474,
@@ -153692,7 +153692,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 141
     },
     {
       "id": 6475,
@@ -153712,7 +153712,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 202
+      "hnPoints": 359
     },
     {
       "id": 6476,
@@ -153752,7 +153752,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 149
+      "hnPoints": 250
     },
     {
       "id": 6478,
@@ -153942,7 +153942,7 @@
       "url": "https://www.producthunt.com/products/porch-6",
       "owner": null,
       "language": null,
-      "description": "ocal project summaries and cost tracking for AI coding Discussion | Link",
+      "description": "local project summaries and cost tracking for AI coding Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-09T07:13:31+00:00",
       "bucket": "other",
@@ -154002,7 +154002,7 @@
       "url": "https://www.producthunt.com/products/refs",
       "owner": null,
       "language": null,
-      "description": "Give Claude better references for your launch film Discussion | Link",
+      "description": "Give Claude better references for your videos Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-09T07:13:51+00:00",
       "bucket": "other",
@@ -154545,6 +154545,206 @@
       "description": "The work agent that runs on both Gemini and Claude Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-09T07:17:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6518,
+      "source": "hn",
+      "sourceId": "50018817",
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "owner": "franze",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:34:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 314
+    },
+    {
+      "id": 6519,
+      "source": "hn",
+      "sourceId": "50023450",
+      "title": "TypeSafe a Raises $870M at a $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "owner": "tosh",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:34:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 21
+    },
+    {
+      "id": 6520,
+      "source": "hn",
+      "sourceId": "50019056",
+      "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "owner": "piratebroadcast",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:34:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 6521,
+      "source": "hn",
+      "sourceId": "49983582",
+      "title": "Training Text-to-Image Models Without a VAE",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "owner": "schopra909",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:34:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 6522,
+      "source": "hn",
+      "sourceId": "50018350",
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "owner": "trakkstar",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:35:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 239
+    },
+    {
+      "id": 6523,
+      "source": "hn",
+      "sourceId": "50019455",
+      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
+      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "owner": "cainxinth",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;EFOhL\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;EFOhL</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:35:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 163
+    },
+    {
+      "id": 6524,
+      "source": "hn",
+      "sourceId": "50023260",
+      "title": "'Breathtaking,' 'Devastating': Mathematics Reels After New OpenAI Release",
+      "url": "https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html",
+      "owner": "marojejian",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:35:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 6525,
+      "source": "hn",
+      "sourceId": "50020947",
+      "title": "Why Are Coding Agents So Dumb?",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+      "owner": "mtlynch",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:35:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 6526,
+      "source": "hn",
+      "sourceId": "50021794",
+      "title": "ChatGPT for Teens is not necessarily 'safer than the previous version,'",
+      "url": "https://www.cnbc.com/make-it/2026/10/09/chatgpt-for-teens-safety-common-sense-media.html",
+      "owner": "cramer4next",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:36:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 6527,
+      "source": "product_hunt",
+      "sourceId": "1272323",
+      "title": "Ambiguous Workspace",
+      "url": "https://www.producthunt.com/products/ambiguous-workspace",
+      "owner": null,
+      "language": null,
+      "description": "18 productivity apps built for AI agents and humans Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-09T18:38:25+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
