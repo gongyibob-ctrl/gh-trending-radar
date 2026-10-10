@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-09T18:42:39.935157+00:00",
+  "generatedAt": "2026-10-10T06:52:35.323235+00:00",
   "totals": {
-    "items": 6527,
+    "items": 6536,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3125,
+      "other": 3134,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1431,
+      "?": 1440,
       "other": 1
     },
     "bySource": {
       "github_trending": 256,
-      "hn": 3216,
+      "hn": 3225,
       "product_hunt": 3055
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 32460,
-      "stars7dDelta": 2248,
+      "stars": 32633,
+      "stars7dDelta": 2307,
       "hnPoints": null
     },
     {
@@ -46892,8 +46892,8 @@
       ],
       "topics": [],
       "rationale": "Provides a model architecture for real-time 3D scene reconstruction, useful infrastructure for robotics and spatial AI systems.",
-      "stars": 17629,
-      "stars7dDelta": 0,
+      "stars": 17804,
+      "stars7dDelta": 175,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 3071,
+      "stars7dDelta": 2828,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 2897,
+      "stars7dDelta": 2781,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 18697,
-      "stars7dDelta": 1954,
+      "stars": 18828,
+      "stars7dDelta": 2085,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 45020,
-      "stars7dDelta": 1626,
+      "stars": 45503,
+      "stars7dDelta": 2029,
       "hnPoints": null
     },
     {
@@ -92661,7 +92661,7 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "owner": "cathrynlavery",
       "language": "HTML",
-      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "createdAt": "2026-04-16T18:01:16Z",
       "firstSeenAt": "2026-08-12T14:11:56+00:00",
       "bucket": "devtool",
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 47647,
-      "stars7dDelta": 3771,
+      "stars": 48194,
+      "stars7dDelta": 4318,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4681,
-      "stars7dDelta": 500,
+      "stars": 4725,
+      "stars7dDelta": 544,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 159421,
-      "stars7dDelta": 7389,
+      "stars": 159839,
+      "stars7dDelta": 6980,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 49532,
-      "stars7dDelta": 2864,
+      "stars": 49740,
+      "stars7dDelta": 2845,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 1894,
+      "stars7dDelta": 1542,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 40761,
-      "stars7dDelta": 793,
+      "stars": 40862,
+      "stars7dDelta": 894,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 8218,
-      "stars7dDelta": 1787,
+      "stars": 8343,
+      "stars7dDelta": 1808,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 139,
+      "stars7dDelta": 83,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 1896,
+      "stars7dDelta": 1746,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 20898,
-      "stars7dDelta": 17575,
+      "stars": 23301,
+      "stars7dDelta": 19978,
       "hnPoints": null
     },
     {
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 8503,
-      "stars7dDelta": 4441,
+      "stars": 8819,
+      "stars7dDelta": 4757,
       "hnPoints": null
     },
     {
@@ -150670,8 +150670,8 @@
         "static-analysis"
       ],
       "rationale": null,
-      "stars": 40979,
-      "stars7dDelta": 32797,
+      "stars": 53802,
+      "stars7dDelta": 45620,
       "hnPoints": null
     },
     {
@@ -150812,7 +150812,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1333
+      "hnPoints": 1342
     },
     {
       "id": 6331,
@@ -153372,7 +153372,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 253
+      "hnPoints": 257
     },
     {
       "id": 6459,
@@ -153412,7 +153412,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 414
+      "hnPoints": 424
     },
     {
       "id": 6461,
@@ -153432,7 +153432,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 398
+      "hnPoints": 406
     },
     {
       "id": 6462,
@@ -153472,7 +153472,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 365
+      "hnPoints": 375
     },
     {
       "id": 6464,
@@ -153592,7 +153592,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 341
+      "hnPoints": 342
     },
     {
       "id": 6470,
@@ -153652,7 +153652,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1010
+      "hnPoints": 1093
     },
     {
       "id": 6473,
@@ -153672,7 +153672,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 184
+      "hnPoints": 201
     },
     {
       "id": 6474,
@@ -153692,7 +153692,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 141
+      "hnPoints": 143
     },
     {
       "id": 6475,
@@ -153752,7 +153752,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 250
+      "hnPoints": 273
     },
     {
       "id": 6478,
@@ -154572,13 +154572,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 314
+      "hnPoints": 392
     },
     {
       "id": 6519,
       "source": "hn",
       "sourceId": "50023450",
-      "title": "TypeSafe a Raises $870M at a $7.5B",
+      "title": "Typesafe AI raises $870M at $7.5B",
       "url": "https://typesafe.ai/blog/series-ai",
       "owner": "tosh",
       "language": null,
@@ -154592,13 +154592,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 21
+      "hnPoints": 337
     },
     {
       "id": 6520,
       "source": "hn",
       "sourceId": "50019056",
-      "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
       "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
       "owner": "piratebroadcast",
       "language": null,
@@ -154612,7 +154612,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 8
+      "hnPoints": 134
     },
     {
       "id": 6521,
@@ -154632,7 +154632,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 23
+      "hnPoints": 49
     },
     {
       "id": 6522,
@@ -154642,7 +154642,7 @@
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
       "owner": "trakkstar",
       "language": null,
-      "description": null,
+      "description": "Later: <a href=\"https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-concerns.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-...</a>",
       "createdAt": null,
       "firstSeenAt": "2026-10-09T18:35:06+00:00",
       "bucket": "other",
@@ -154652,7 +154652,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 239
+      "hnPoints": 327
     },
     {
       "id": 6523,
@@ -154672,7 +154672,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 163
+      "hnPoints": 184
     },
     {
       "id": 6524,
@@ -154698,7 +154698,7 @@
       "id": 6525,
       "source": "hn",
       "sourceId": "50020947",
-      "title": "Why Are Coding Agents So Dumb?",
+      "title": "Why are coding agents so dumb?",
       "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
       "owner": "mtlynch",
       "language": null,
@@ -154712,7 +154712,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 6
+      "hnPoints": 86
     },
     {
       "id": 6526,
@@ -154753,6 +154753,186 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6528,
+      "source": "hn",
+      "sourceId": "50024499",
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "owner": "simplyalec",
+      "language": null,
+      "description": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.<p>carrier-explode also contains decoders and explanations for all the common baseband configurations, etc.<p>There’s still quite a bit of work to be done in checking my assumptions, but the tool has already been proven useful for a few enthusiast groups.",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:42:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 274
+    },
+    {
+      "id": 6529,
+      "source": "hn",
+      "sourceId": "50021410",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "owner": "jsomers",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:42:34+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 58
+    },
+    {
+      "id": 6530,
+      "source": "hn",
+      "sourceId": "50029607",
+      "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+      "url": "https://ilia.page/writing/introducing-nagare",
+      "owner": "shmilia",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:42:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 6531,
+      "source": "hn",
+      "sourceId": "50003545",
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "owner": "khaosdoctor",
+      "language": null,
+      "description": "Hello everyone, I wanted to share this small project that I have.\nIt&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t ship a Linux version of the drive yet (it&#x27;s apparently coming out later this year but who knows?) and all the current solutions are hacky and wonky at best. But for the time being I really needed to mount my Proton drive on my Linux machine the way I mounted it on my Mac, so I (and my faithful AI slave) did this small utility that allows you to mount yo",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:42:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 62
+    },
+    {
+      "id": 6532,
+      "source": "hn",
+      "sourceId": "50027118",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "owner": "Zambyte",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:43:03+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 143
+    },
+    {
+      "id": 6533,
+      "source": "hn",
+      "sourceId": "50024090",
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "owner": "matt_d",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:43:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 84
+    },
+    {
+      "id": 6534,
+      "source": "hn",
+      "sourceId": "50027694",
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "owner": "piotrgrabowski",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:43:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 6535,
+      "source": "hn",
+      "sourceId": "50029330",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "owner": "reaperducer",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:43:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 20
+    },
+    {
+      "id": 6536,
+      "source": "hn",
+      "sourceId": "50026509",
+      "title": "Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil",
+      "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+      "owner": "MilnerRoute",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-10T06:45:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
     }
   ]
 }
