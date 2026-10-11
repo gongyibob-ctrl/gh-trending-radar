@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-11T10:41:29.672360+00:00",
+  "generatedAt": "2026-10-11T17:57:48.356759+00:00",
   "totals": {
-    "items": 6616,
+    "items": 6622,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3214,
+      "other": 3220,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1520,
+      "?": 1526,
       "other": 1
     },
     "bySource": {
-      "github_trending": 257,
-      "hn": 3239,
+      "github_trending": 258,
+      "hn": 3244,
       "product_hunt": 3120
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 33019,
-      "stars7dDelta": 2471,
+      "stars": 33231,
+      "stars7dDelta": 2514,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 2273,
+      "stars7dDelta": 1787,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 2421,
+      "stars7dDelta": 2207,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 19046,
-      "stars7dDelta": 2303,
+      "stars": 19190,
+      "stars7dDelta": 2202,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 45940,
-      "stars7dDelta": 2276,
+      "stars": 46112,
+      "stars7dDelta": 2358,
       "hnPoints": null
     },
     {
@@ -82398,7 +82398,7 @@
       "topics": [],
       "rationale": "Native DeepSeek-focused inference engine with serving, KV state, and tool-call support for local AI stacks.",
       "stars": 23493,
-      "stars7dDelta": 145,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 49245,
-      "stars7dDelta": 5369,
+      "stars": 49969,
+      "stars7dDelta": 6093,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4806,
-      "stars7dDelta": 544,
+      "stars": 4838,
+      "stars7dDelta": 531,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 6129,
+      "stars7dDelta": 5439,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 50540,
-      "stars7dDelta": 3155,
+      "stars": 51181,
+      "stars7dDelta": 3557,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 922,
+      "stars7dDelta": 623,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 41077,
-      "stars7dDelta": 1109,
+      "stars": 41185,
+      "stars7dDelta": 1217,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 8561,
-      "stars7dDelta": 1856,
+      "stars": 8638,
+      "stars7dDelta": 1849,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 83,
+      "stars7dDelta": 49,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 1249,
+      "stars7dDelta": 1048,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 27548,
-      "stars7dDelta": 22709,
+      "stars": 29165,
+      "stars7dDelta": 24326,
       "hnPoints": null
     },
     {
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 8793,
-      "stars7dDelta": 6052,
+      "stars": 8943,
+      "stars7dDelta": 5483,
       "hnPoints": null
     },
     {
@@ -150670,8 +150670,8 @@
         "static-analysis"
       ],
       "rationale": null,
-      "stars": 79375,
-      "stars7dDelta": 71193,
+      "stars": 95705,
+      "stars7dDelta": 87523,
       "hnPoints": null
     },
     {
@@ -154592,7 +154592,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 436
+      "hnPoints": 442
     },
     {
       "id": 6520,
@@ -154772,7 +154772,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 413
+      "hnPoints": 420
     },
     {
       "id": 6529,
@@ -154852,7 +154852,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 208
+      "hnPoints": 211
     },
     {
       "id": 6533,
@@ -154872,7 +154872,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 198
+      "hnPoints": 200
     },
     {
       "id": 6534,
@@ -154952,8 +154952,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 804,
-      "stars7dDelta": 47,
+      "stars": 873,
+      "stars7dDelta": 116,
       "hnPoints": null
     },
     {
@@ -154974,7 +154974,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 416
+      "hnPoints": 479
     },
     {
       "id": 6539,
@@ -154994,7 +154994,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 279
+      "hnPoints": 316
     },
     {
       "id": 6540,
@@ -155014,7 +155014,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 182
+      "hnPoints": 218
     },
     {
       "id": 6541,
@@ -155054,7 +155054,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 137
+      "hnPoints": 180
     },
     {
       "id": 6543,
@@ -155914,7 +155914,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 77
+      "hnPoints": 123
     },
     {
       "id": 6586,
@@ -155934,7 +155934,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 158
+      "hnPoints": 173
     },
     {
       "id": 6587,
@@ -155954,7 +155954,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 112
+      "hnPoints": 197
     },
     {
       "id": 6588,
@@ -155974,7 +155974,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 240
+      "hnPoints": 264
     },
     {
       "id": 6589,
@@ -155994,7 +155994,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 87
+      "hnPoints": 89
     },
     {
       "id": 6590,
@@ -156384,7 +156384,7 @@
       "url": "https://www.producthunt.com/products/agibot",
       "owner": null,
       "language": null,
-      "description": "Personal AI agent for your Mac using your own keys Discussion | Link",
+      "description": "The always-on personal AI agent for your Mac. $0 forever Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-11T09:06:39+00:00",
       "bucket": "other",
@@ -156535,6 +156535,126 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6617,
+      "source": "github_trending",
+      "sourceId": "danyuchn/asd-ste100-skill",
+      "title": "danyuchn/asd-ste100-skill",
+      "url": "https://github.com/danyuchn/asd-ste100-skill",
+      "owner": "danyuchn",
+      "language": "Python",
+      "description": "ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+      "createdAt": "2026-07-20T15:10:41Z",
+      "firstSeenAt": "2026-10-11T17:50:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": 4407,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 6618,
+      "source": "hn",
+      "sourceId": "50042219",
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "owner": "edent",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-11T17:50:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 280
+    },
+    {
+      "id": 6619,
+      "source": "hn",
+      "sourceId": "50043682",
+      "title": "Documents add to evidence in climate deception case against ExxonMobil",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "owner": "gumby",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-11T17:51:04+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 326
+    },
+    {
+      "id": 6620,
+      "source": "hn",
+      "sourceId": "50018929",
+      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+      "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+      "owner": "sinnsro",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-11T17:51:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 33
+    },
+    {
+      "id": 6621,
+      "source": "hn",
+      "sourceId": "50041873",
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "owner": "Bluestein",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-11T17:51:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 56
+    },
+    {
+      "id": 6622,
+      "source": "hn",
+      "sourceId": "50044634",
+      "title": "Ukrainian Drones Strike Russia's Lukoil Refinery 1,700 Km Away",
+      "url": "https://united24media.com/war-in-ukraine/ukrainian-drones-reach-russias-komi-republic-striking-lukoil-refinery-1700-km-away-23276",
+      "owner": "paaloeye",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-11T17:51:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 15
     }
   ]
 }
