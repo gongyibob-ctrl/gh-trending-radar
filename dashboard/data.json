@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-12T07:08:46.111740+00:00",
+  "generatedAt": "2026-10-12T21:34:33.841810+00:00",
   "totals": {
-    "items": 6650,
+    "items": 6665,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3248,
+      "other": 3263,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1554,
+      "?": 1569,
       "other": 1
     },
     "bySource": {
       "github_trending": 258,
-      "hn": 3251,
+      "hn": 3266,
       "product_hunt": 3141
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 33462,
-      "stars7dDelta": 2539,
+      "stars": 33997,
+      "stars7dDelta": 2958,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 1375,
+      "stars7dDelta": 1147,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 1996,
+      "stars7dDelta": 1885,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 19395,
-      "stars7dDelta": 2054,
+      "stars": 19609,
+      "stars7dDelta": 2039,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 46310,
-      "stars7dDelta": 2460,
+      "stars": 46520,
+      "stars7dDelta": 2605,
       "hnPoints": null
     },
     {
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 51003,
-      "stars7dDelta": 7127,
+      "stars": 52421,
+      "stars7dDelta": 8545,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4897,
-      "stars7dDelta": 546,
+      "stars": 4957,
+      "stars7dDelta": 576,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 52194,
-      "stars7dDelta": 4279,
+      "stars": 53439,
+      "stars7dDelta": 5367,
       "hnPoints": null
     },
     {
@@ -113073,7 +113073,7 @@
       ],
       "rationale": "A packaged local ElevenLabs alternative for cloning, dubbing, transcription, and audiobook workflows.",
       "stars": 53930,
-      "stars7dDelta": 242,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -115526,7 +115526,7 @@
       "topics": [],
       "rationale": "Internal AI productivity product for employees to create docs, build apps, and run agents with company systems.",
       "stars": 11107,
-      "stars7dDelta": 146,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 41325,
-      "stars7dDelta": 1357,
+      "stars": 41504,
+      "stars7dDelta": 1536,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 8763,
-      "stars7dDelta": 1777,
+      "stars": 8885,
+      "stars7dDelta": 1821,
       "hnPoints": null
     },
     {
@@ -135001,7 +135001,7 @@
       ],
       "rationale": null,
       "stars": 4201,
-      "stars7dDelta": 24,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 880,
+      "stars7dDelta": 808,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 30931,
-      "stars7dDelta": 26092,
+      "stars": 32644,
+      "stars7dDelta": 27493,
       "hnPoints": null
     },
     {
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 9207,
-      "stars7dDelta": 4649,
+      "stars": 9511,
+      "stars7dDelta": 4325,
       "hnPoints": null
     },
     {
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 9370,
-      "stars7dDelta": 5308,
+      "stars": 10407,
+      "stars7dDelta": 5850,
       "hnPoints": null
     },
     {
@@ -148970,7 +148970,7 @@
       ],
       "rationale": null,
       "stars": 1516,
-      "stars7dDelta": 224,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -155914,7 +155914,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 191
+      "hnPoints": 207
     },
     {
       "id": 6586,
@@ -155974,7 +155974,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 273
+      "hnPoints": 281
     },
     {
       "id": 6589,
@@ -156574,7 +156574,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 385
+      "hnPoints": 413
     },
     {
       "id": 6619,
@@ -156594,7 +156594,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 394
+      "hnPoints": 402
     },
     {
       "id": 6620,
@@ -156694,7 +156694,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 404
+      "hnPoints": 669
     },
     {
       "id": 6625,
@@ -156754,7 +156754,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 98
+      "hnPoints": 162
     },
     {
       "id": 6628,
@@ -156844,7 +156844,7 @@
       "url": "https://www.producthunt.com/products/guilds-run",
       "owner": null,
       "language": null,
-      "description": "The open-source Grok Bot alternative Discussion | Link",
+      "description": "Create multi-agent workflows that you can trust Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-12T07:02:02+00:00",
       "bucket": "other",
@@ -156864,7 +156864,7 @@
       "url": "https://www.producthunt.com/products/understory-notes",
       "owner": null,
       "language": null,
-      "description": "Notes that tell thet ale Discussion | Link",
+      "description": "Notes that tell the tale Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-12T07:02:10+00:00",
       "bucket": "other",
@@ -157215,6 +157215,306 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6651,
+      "source": "hn",
+      "sourceId": "50055304",
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "owner": "Zeekaas",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe...</a>, <a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo</a>, <a href=\"https:&#x2F;&#x2F;www.lemond",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:27:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 290
+    },
+    {
+      "id": 6652,
+      "source": "hn",
+      "sourceId": "50059096",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096",
+      "owner": "vishnukool",
+      "language": null,
+      "description": "Hey HN, I’m Vishnu from Agent37 (<a href=\"https:&#x2F;&#x2F;agent37.com\">https:&#x2F;&#x2F;agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&#x2F;month per sandbox.<p>You can view a video walkthrough of the product here: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back ",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:27:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 67
+    },
+    {
+      "id": 6653,
+      "source": "hn",
+      "sourceId": "50059523",
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "owner": "gumby",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:27:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 241
+    },
+    {
+      "id": 6654,
+      "source": "hn",
+      "sourceId": "50057668",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "owner": "surprisetalk",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:27:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 97
+    },
+    {
+      "id": 6655,
+      "source": "hn",
+      "sourceId": "50062237",
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "owner": "pavel_lishin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:02+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 37
+    },
+    {
+      "id": 6656,
+      "source": "hn",
+      "sourceId": "50054751",
+      "title": "QGIS enacts moratorium on AI contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "owner": "bwnkl",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-September&#x2F;068576.html\" rel=\"nofollow\">https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:08+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 351
+    },
+    {
+      "id": 6657,
+      "source": "hn",
+      "sourceId": "50058850",
+      "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
+      "url": "https://github.com/morluto/rea",
+      "owner": "taytus",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 67
+    },
+    {
+      "id": 6658,
+      "source": "hn",
+      "sourceId": "50039291",
+      "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+      "url": "https://news.ycombinator.com/item?id=50039291",
+      "owner": "Ixander",
+      "language": null,
+      "description": "I sometimes run across comments where someone says they want an open-source router. I wonder if this is a viable idea for someone to start as a small company. What makes me hesitant is that, first, it looks like this already exists in several wireless and non-wireless routers (like the GL.iNet Flint or OpenWrt One), and second, I assume hackers would just make their own.<p>I have been flashing DD-WRT to my routers for many years. My current setup is an Archer C9 that connects via cable to an Arc",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 129
+    },
+    {
+      "id": 6659,
+      "source": "hn",
+      "sourceId": "50061411",
+      "title": "EC users should be afraid of a US kill switch – not some new software",
+      "url": "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875",
+      "owner": "CrankyBear",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:34+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 6660,
+      "source": "hn",
+      "sourceId": "50062076",
+      "title": "\"Today we're laying off a large part of the Airtable team \"",
+      "url": "https://twitter.com/fedesimio/status/2109713695165329511",
+      "owner": "tortilla",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:40+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 6661,
+      "source": "hn",
+      "sourceId": "50057725",
+      "title": "Free and Open-Source Facebook Scraper – Lightweight, No Headless Browser",
+      "url": "https://news.ycombinator.com/item?id=50057725",
+      "owner": "mhloo",
+      "language": null,
+      "description": "Recently I created a Facebook scraper that can scrape profiles, posts, comments, reactions, groups, Marketplace and search engine.<p>It&#x27;s free and open source. It&#x27;s lightweight, doesn&#x27;t use a headless browser and doesn&#x27;t rely on fragile HTML parsing.<p>If anyone is interested, feel free to try it out and contribute if possible. And don&#x27;t forget to star the repo if you find it useful! :)<p>https:&#x2F;&#x2F;github.com&#x2F;XD-MHLOO&#x2F;facebook-gql-scraper",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:28:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 12
+    },
+    {
+      "id": 6662,
+      "source": "hn",
+      "sourceId": "50057278",
+      "title": "Why aren't AI companies being charged for hacking?",
+      "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+      "owner": "ingve",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:29:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 298
+    },
+    {
+      "id": 6663,
+      "source": "hn",
+      "sourceId": "50051583",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "owner": "m463",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:29:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 235
+    },
+    {
+      "id": 6664,
+      "source": "hn",
+      "sourceId": "50052163",
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "owner": "saisrirampur",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:29:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 166
+    },
+    {
+      "id": 6665,
+      "source": "hn",
+      "sourceId": "50060500",
+      "title": "Just say no to OpenAI and Anthropic",
+      "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+      "owner": "DeepLogin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-12T21:29:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 146
     }
   ]
 }
