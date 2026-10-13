@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-13T07:33:48.319969+00:00",
+  "generatedAt": "2026-10-13T19:44:56.222423+00:00",
   "totals": {
-    "items": 6706,
+    "items": 6721,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3304,
+      "other": 3319,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1610,
+      "?": 1625,
       "other": 1
     },
     "bySource": {
-      "github_trending": 258,
-      "hn": 3278,
+      "github_trending": 259,
+      "hn": 3292,
       "product_hunt": 3170
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 34276,
-      "stars7dDelta": 3079,
+      "stars": 34594,
+      "stars7dDelta": 3235,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 850,
+      "stars7dDelta": 623,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 1624,
+      "stars7dDelta": 1330,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 19746,
-      "stars7dDelta": 1892,
+      "stars": 19931,
+      "stars7dDelta": 1815,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 46667,
-      "stars7dDelta": 2656,
+      "stars": 46865,
+      "stars7dDelta": 2768,
       "hnPoints": null
     },
     {
@@ -92682,8 +92682,8 @@
         "svg"
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
-      "stars": 53096,
-      "stars7dDelta": 9220,
+      "stars": 53881,
+      "stars7dDelta": 9649,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 4985,
-      "stars7dDelta": 569,
+      "stars": 5036,
+      "stars7dDelta": 583,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 3968,
+      "stars7dDelta": 3607,
       "hnPoints": null
     },
     {
@@ -108876,8 +108876,8 @@
         "worldview"
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
-      "stars": 54200,
-      "stars7dDelta": 5913,
+      "stars": 55082,
+      "stars7dDelta": 6624,
       "hnPoints": null
     },
     {
@@ -121808,8 +121808,8 @@
       ],
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
-      "stars": 41589,
-      "stars7dDelta": 1621,
+      "stars": 41715,
+      "stars7dDelta": 1606,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 8999,
-      "stars7dDelta": 1628,
+      "stars": 9127,
+      "stars7dDelta": 1602,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 683,
+      "stars7dDelta": 561,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 33437,
-      "stars7dDelta": 27441,
+      "stars": 34836,
+      "stars7dDelta": 27767,
       "hnPoints": null
     },
     {
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 9742,
-      "stars7dDelta": 3712,
+      "stars": 10025,
+      "stars7dDelta": 3403,
       "hnPoints": null
     },
     {
@@ -148940,7 +148940,7 @@
       ],
       "rationale": null,
       "stars": 10719,
-      "stars7dDelta": 5318,
+      "stars7dDelta": 4707,
       "hnPoints": null
     },
     {
@@ -150671,7 +150671,7 @@
       ],
       "rationale": null,
       "stars": 95705,
-      "stars7dDelta": 87523,
+      "stars7dDelta": 85113,
       "hnPoints": null
     },
     {
@@ -156694,7 +156694,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 692
+      "hnPoints": 713
     },
     {
       "id": 6625,
@@ -157234,7 +157234,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 618
+      "hnPoints": 872
     },
     {
       "id": 6652,
@@ -157254,7 +157254,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 128
+      "hnPoints": 152
     },
     {
       "id": 6653,
@@ -157274,7 +157274,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 331
+      "hnPoints": 356
     },
     {
       "id": 6654,
@@ -157294,7 +157294,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 177
+      "hnPoints": 211
     },
     {
       "id": 6655,
@@ -157334,7 +157334,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 372
+      "hnPoints": 384
     },
     {
       "id": 6657,
@@ -157454,7 +157454,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 320
+      "hnPoints": 329
     },
     {
       "id": 6663,
@@ -157474,7 +157474,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 240
+      "hnPoints": 242
     },
     {
       "id": 6664,
@@ -157494,7 +157494,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 174
+      "hnPoints": 175
     },
     {
       "id": 6665,
@@ -157514,13 +157514,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 158
+      "hnPoints": 168
     },
     {
       "id": 6666,
       "source": "hn",
       "sourceId": "50065692",
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "title": "AI models can provably hide arbitrary capabilities",
       "url": "https://arxiv.org/abs/2610.13928",
       "owner": "sbulaev",
       "language": null,
@@ -157534,7 +157534,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 167
+      "hnPoints": 268
     },
     {
       "id": 6667,
@@ -157554,7 +157554,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 166
+      "hnPoints": 299
     },
     {
       "id": 6668,
@@ -157574,7 +157574,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 108
+      "hnPoints": 211
     },
     {
       "id": 6669,
@@ -157594,7 +157594,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 366
+      "hnPoints": 617
     },
     {
       "id": 6670,
@@ -157634,7 +157634,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 42
+      "hnPoints": 127
     },
     {
       "id": 6672,
@@ -157680,7 +157680,7 @@
       "id": 6674,
       "source": "hn",
       "sourceId": "50065932",
-      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
       "url": "https://www.argmin.net/p/faster-fourier-transforms",
       "owner": "mochomocha",
       "language": null,
@@ -157694,7 +157694,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 101
+      "hnPoints": 232
     },
     {
       "id": 6675,
@@ -157734,7 +157734,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 260
+      "hnPoints": 299
     },
     {
       "id": 6677,
@@ -157884,7 +157884,7 @@
       "url": "https://www.producthunt.com/products/gotemail",
       "owner": null,
       "language": null,
-      "description": "Native Mac mail with one-click sign-in codes and AI Discussion | Link",
+      "description": "Native macOS mail app with one-click sign-in codes and AI Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-13T07:28:08+00:00",
       "bucket": "other",
@@ -158335,6 +158335,312 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6707,
+      "source": "github_trending",
+      "sourceId": "google/artemis",
+      "title": "google/artemis",
+      "url": "https://github.com/google/artemis",
+      "owner": "google",
+      "language": "Python",
+      "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
+      "createdAt": "2026-08-13T17:59:37Z",
+      "firstSeenAt": "2026-10-13T19:35:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "ai-agents",
+        "android",
+        "google",
+        "test-automation",
+        "testing"
+      ],
+      "rationale": null,
+      "stars": 11506,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 6708,
+      "source": "hn",
+      "sourceId": "50073633",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "owner": "Philpax",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 225
+    },
+    {
+      "id": 6709,
+      "source": "hn",
+      "sourceId": "50073221",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "owner": "sammy0910",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:19+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 152
+    },
+    {
+      "id": 6710,
+      "source": "hn",
+      "sourceId": "50069971",
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "url": "https://eg2.haku.sh/",
+      "owner": "amrrs",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 339
+    },
+    {
+      "id": 6711,
+      "source": "hn",
+      "sourceId": "50074869",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "owner": "xnx",
+      "language": null,
+      "description": "Main thread: <i>Gemini 4 Argon</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 116
+    },
+    {
+      "id": 6712,
+      "source": "hn",
+      "sourceId": "50072286",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "owner": "ivell",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:40+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 74
+    },
+    {
+      "id": 6713,
+      "source": "hn",
+      "sourceId": "50073471",
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "owner": "ericmags",
+      "language": null,
+      "description": "Hey Hacker News! I&#x27;m Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.\nConsus itself satisfies ITAR restrictions, and we recently completed our FedRAMP equivalency audit against the 410 FedRAMP High controls. FedRAMP High is the U.S. government’s strictest security baseline for cloud services handling sensitive unclassified data. A breach of this data could cause severe or catastrophic harm. Achie",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 27
+    },
+    {
+      "id": 6714,
+      "source": "hn",
+      "sourceId": "50076503",
+      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+      "owner": "ollin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 6715,
+      "source": "hn",
+      "sourceId": "50072120",
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "owner": "kkukshtel",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:36:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 67
+    },
+    {
+      "id": 6716,
+      "source": "hn",
+      "sourceId": "50068036",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "owner": "nryoo",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;character-ai-files-for-bankruptcy-disney\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;...</a> <a href=\"https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-in",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:37:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 209
+    },
+    {
+      "id": 6717,
+      "source": "hn",
+      "sourceId": "50069337",
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "owner": "janpmz",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:37:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 143
+    },
+    {
+      "id": 6718,
+      "source": "hn",
+      "sourceId": "50075809",
+      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+      "url": "https://github.com/maharshi365/deslop",
+      "owner": "maharshi365",
+      "language": null,
+      "description": "Catches unsafe types, duplicate code, and low-value tests.",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:37:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 6719,
+      "source": "hn",
+      "sourceId": "50073926",
+      "title": "Scientists wonder: Is my AI stealing my ideas?",
+      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "owner": "geox",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:37:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 29
+    },
+    {
+      "id": 6720,
+      "source": "hn",
+      "sourceId": "50076605",
+      "title": "AI 3D Prints: Are Claude's Defaults Enough?",
+      "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg",
+      "owner": "e2e4",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:38:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 6721,
+      "source": "hn",
+      "sourceId": "50070835",
+      "title": "How 94 internet-famous engineers use coding agents",
+      "url": "https://www.prehistoriq.com/stacks/",
+      "owner": "virpo",
+      "language": null,
+      "description": "Hey HN, I&#x27;m Peter. We are building a code review tool and I wanted to know how the well-known engineers actually work with coding agents now (and how they review code) and not necessarily just what they say.<p>So I went through their repos, blogs, talks, tweets of 94 of them and made a card for each of them. Things like agents, models, harness, rules, skills, hooks and how they review whta their agent wrote. Agents did a lot of the digging, so every claim links to its source and you can che",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-13T19:38:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
     }
   ]
 }
