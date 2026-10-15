@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14T17:48:43.144056+00:00",
+  "generatedAt": "2026-10-15T05:44:25.350207+00:00",
   "totals": {
-    "items": 6789,
+    "items": 6803,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3387,
+      "other": 3401,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1693,
+      "?": 1707,
       "other": 1
     },
     "bySource": {
       "github_trending": 260,
-      "hn": 3313,
-      "product_hunt": 3216
+      "hn": 3326,
+      "product_hunt": 3217
     }
   },
   "items": [
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 35158,
-      "stars7dDelta": 3597,
+      "stars": 35411,
+      "stars7dDelta": 3578,
       "hnPoints": null
     },
     {
@@ -57922,7 +57922,7 @@
       ],
       "rationale": "Agent skill turns plain English into polished system diagrams, showing demand for workflow-specific dev artifacts.",
       "stars": 79435,
-      "stars7dDelta": 308,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 935,
+      "stars7dDelta": 501,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 20277,
-      "stars7dDelta": 1841,
+      "stars": 20456,
+      "stars7dDelta": 2020,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 47144,
-      "stars7dDelta": 2933,
+      "stars": 47230,
+      "stars7dDelta": 2867,
       "hnPoints": null
     },
     {
@@ -92683,7 +92683,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 55193,
-      "stars7dDelta": 10403,
+      "stars7dDelta": 9879,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 5137,
-      "stars7dDelta": 637,
+      "stars": 5174,
+      "stars7dDelta": 625,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 3164,
+      "stars7dDelta": 2762,
       "hnPoints": null
     },
     {
@@ -108877,7 +108877,7 @@
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
       "stars": 55761,
-      "stars7dDelta": 7079,
+      "stars7dDelta": 6881,
       "hnPoints": null
     },
     {
@@ -121809,7 +121809,7 @@
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
       "stars": 41794,
-      "stars7dDelta": 1522,
+      "stars7dDelta": 1398,
       "hnPoints": null
     },
     {
@@ -128267,7 +128267,7 @@
       "topics": [],
       "rationale": null,
       "stars": 26248,
-      "stars7dDelta": 380,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 9314,
-      "stars7dDelta": 1628,
+      "stars": 9364,
+      "stars7dDelta": 1520,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 447,
+      "stars7dDelta": 298,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 36712,
-      "stars7dDelta": 27083,
+      "stars": 37421,
+      "stars7dDelta": 25788,
       "hnPoints": null
     },
     {
@@ -147899,8 +147899,8 @@
         "web"
       ],
       "rationale": null,
-      "stars": 10426,
-      "stars7dDelta": 3203,
+      "stars": 10576,
+      "stars7dDelta": 2790,
       "hnPoints": null
     },
     {
@@ -148940,7 +148940,7 @@
       ],
       "rationale": null,
       "stars": 10719,
-      "stars7dDelta": 4041,
+      "stars7dDelta": 3350,
       "hnPoints": null
     },
     {
@@ -150671,7 +150671,7 @@
       ],
       "rationale": null,
       "stars": 95705,
-      "stars7dDelta": 81941,
+      "stars7dDelta": 78228,
       "hnPoints": null
     },
     {
@@ -151071,7 +151071,7 @@
       "topics": [],
       "rationale": null,
       "stars": 2465,
-      "stars7dDelta": 56,
+      "stars7dDelta": 40,
       "hnPoints": null
     },
     {
@@ -157594,7 +157594,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 749
+      "hnPoints": 767
     },
     {
       "id": 6670,
@@ -158380,7 +158380,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 846
+      "hnPoints": 875
     },
     {
       "id": 6709,
@@ -158400,7 +158400,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 336
+      "hnPoints": 344
     },
     {
       "id": 6710,
@@ -158420,7 +158420,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 423
+      "hnPoints": 427
     },
     {
       "id": 6711,
@@ -158440,7 +158440,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 227
+      "hnPoints": 231
     },
     {
       "id": 6712,
@@ -158460,7 +158460,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 286
+      "hnPoints": 289
     },
     {
       "id": 6713,
@@ -158520,7 +158520,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 161
+      "hnPoints": 168
     },
     {
       "id": 6716,
@@ -158540,7 +158540,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 329
+      "hnPoints": 331
     },
     {
       "id": 6717,
@@ -158560,7 +158560,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 168
+      "hnPoints": 170
     },
     {
       "id": 6718,
@@ -158700,7 +158700,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 628
+      "hnPoints": 646
     },
     {
       "id": 6725,
@@ -158839,8 +158839,8 @@
         "risk-management"
       ],
       "rationale": null,
-      "stars": 27015,
-      "stars7dDelta": 0,
+      "stars": 27737,
+      "stars7dDelta": 722,
       "hnPoints": null
     },
     {
@@ -158861,7 +158861,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 143
+      "hnPoints": 198
     },
     {
       "id": 6732,
@@ -158881,13 +158881,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 18
+      "hnPoints": 44
     },
     {
       "id": 6733,
       "source": "hn",
       "sourceId": "50090799",
-      "title": "Has AI Tells",
+      "title": "Has AI tells",
       "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
       "owner": "7777777phil",
       "language": null,
@@ -158901,7 +158901,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 24
+      "hnPoints": 99
     },
     {
       "id": 6734,
@@ -158961,7 +158961,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 133
+      "hnPoints": 168
     },
     {
       "id": 6737,
@@ -158981,7 +158981,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 110
+      "hnPoints": 158
     },
     {
       "id": 6738,
@@ -159021,7 +159021,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 107
+      "hnPoints": 145
     },
     {
       "id": 6740,
@@ -159247,7 +159247,7 @@
       "id": 6751,
       "source": "product_hunt",
       "sourceId": "1278154",
-      "title": "daily.dev",
+      "title": "daily.dev for agents",
       "url": "https://www.producthunt.com/products/daily-dev",
       "owner": null,
       "language": null,
@@ -160014,6 +160014,286 @@
       "description": "See every shortcut of the app you're in Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-14T17:48:24+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6790,
+      "source": "hn",
+      "sourceId": "50097369",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 139
+    },
+    {
+      "id": 6791,
+      "source": "hn",
+      "sourceId": "50091788",
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "owner": "latexr",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 860
+    },
+    {
+      "id": 6792,
+      "source": "hn",
+      "sourceId": "50092470",
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "owner": "thedracle",
+      "language": null,
+      "description": "Hi HN!<p>I’m Jason Thomas, one of the founders of CoScreen.<p>As some of you may know, Datadog sunset the CoScreen service on July 31st.<p>Four of us from the original CoScreen team have spent the last couple months building a free and open source pair programming tool inspired by those that came before us: It’s called Petal (<a href=\"https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;kiruna-labs&#x2F;petal</a>)<p>Some history first, becaus",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 145
+    },
+    {
+      "id": 6793,
+      "source": "hn",
+      "sourceId": "50067325",
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "owner": "reacharavindh",
+      "language": null,
+      "description": "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model design using AI.. Anybody tried using AI to model wood projects? Any tools to recommend?",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 48
+    },
+    {
+      "id": 6794,
+      "source": "hn",
+      "sourceId": "50094694",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "owner": "sunshowers",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 331
+    },
+    {
+      "id": 6795,
+      "source": "hn",
+      "sourceId": "50098454",
+      "title": "Show HN: My Terminal Themes Web App",
+      "url": "https://news.ycombinator.com/item?id=50098454",
+      "owner": "bado",
+      "language": null,
+      "description": "Well, after 15 years of saying &quot;Someday I&#x27;ll turn this into a web app,&quot; I finally did it!<p>I&#x27;ve been maintaining a popular repo of terminal themes at <a href=\"https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mbadolato&#x2F;iTerm2-Color-Schemes</a>, and it was finally time to build the app with all the features I wanted!<p>So, the next-gen version is live at <a href=\"https:&#x2F;&#x2F;terminalthemes.com\" r",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 11
+    },
+    {
+      "id": 6796,
+      "source": "hn",
+      "sourceId": "50090932",
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "owner": "edpin2000",
+      "language": null,
+      "description": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.<p>Three types of inboxes:\n- One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else.\n- Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice.\n- Prefix. The most powerful. Declare a prefix like &qu",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:35:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 97
+    },
+    {
+      "id": 6797,
+      "source": "hn",
+      "sourceId": "50048193",
+      "title": "How I manage persistent Claude Code loops: Spool",
+      "url": "https://github.com/enes-alatas/spool",
+      "owner": "enesalatas",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:36:10+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 16
+    },
+    {
+      "id": 6798,
+      "source": "hn",
+      "sourceId": "50092664",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "owner": "smartmic",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:36:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 354
+    },
+    {
+      "id": 6799,
+      "source": "hn",
+      "sourceId": "50096513",
+      "title": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
+      "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
+      "owner": "shadaba",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:36:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 6800,
+      "source": "hn",
+      "sourceId": "50091794",
+      "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+      "url": "https://github.com/bealesh/neckbeard",
+      "owner": "bealesh",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:36:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 64
+    },
+    {
+      "id": 6801,
+      "source": "hn",
+      "sourceId": "50098423",
+      "title": "Asia chip stocks fall, AI funding worries",
+      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+      "owner": "kristianp",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:37:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 6802,
+      "source": "hn",
+      "sourceId": "50084622",
+      "title": "Starlink limit hits Ukraine's drones",
+      "url": "https://defence24.com/geopolitics/starlink-limit-hits-ukraines-drones-the-battlefield-depends-on-spacex",
+      "owner": "uxhacker",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:38:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 165
+    },
+    {
+      "id": 6803,
+      "source": "product_hunt",
+      "sourceId": "1274375",
+      "title": "FutureMail",
+      "url": "https://www.producthunt.com/products/futuremail-2",
+      "owner": null,
+      "language": null,
+      "description": "Email on your domain, built for people and their AI agents Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-15T05:44:11+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
