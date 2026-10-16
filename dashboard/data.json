@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-15T17:36:05.670603+00:00",
+  "generatedAt": "2026-10-16T05:38:29.177016+00:00",
   "totals": {
-    "items": 6850,
+    "items": 6859,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3448,
+      "other": 3457,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1754,
+      "?": 1763,
       "other": 1
     },
     "bySource": {
       "github_trending": 262,
-      "hn": 3336,
+      "hn": 3345,
       "product_hunt": 3252
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 35658,
-      "stars7dDelta": 3589,
+      "stars": 35856,
+      "stars7dDelta": 3580,
       "hnPoints": null
     },
     {
@@ -68361,7 +68361,7 @@
       ],
       "rationale": "A coding-agent skill that reformats assistant output for clearer developer workflows.",
       "stars": 55896,
-      "stars7dDelta": 171,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 20635,
-      "stars7dDelta": 2199,
+      "stars": 20769,
+      "stars7dDelta": 2214,
       "hnPoints": null
     },
     {
@@ -70790,8 +70790,8 @@
         "repository-level-context"
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
-      "stars": 47332,
-      "stars7dDelta": 2781,
+      "stars": 47422,
+      "stars7dDelta": 2721,
       "hnPoints": null
     },
     {
@@ -92683,7 +92683,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 55193,
-      "stars7dDelta": 9146,
+      "stars7dDelta": 8308,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 5212,
-      "stars7dDelta": 622,
+      "stars": 5247,
+      "stars7dDelta": 603,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 2361,
+      "stars7dDelta": 1761,
       "hnPoints": null
     },
     {
@@ -108877,7 +108877,7 @@
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
       "stars": 55761,
-      "stars7dDelta": 6662,
+      "stars7dDelta": 6447,
       "hnPoints": null
     },
     {
@@ -121809,7 +121809,7 @@
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
       "stars": 41794,
-      "stars7dDelta": 1269,
+      "stars7dDelta": 1163,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 9511,
-      "stars7dDelta": 1532,
+      "stars": 9592,
+      "stars7dDelta": 1498,
       "hnPoints": null
     },
     {
@@ -144784,7 +144784,7 @@
       "topics": [],
       "rationale": null,
       "stars": 5498,
-      "stars7dDelta": 167,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 38194,
-      "stars7dDelta": 23605,
+      "stars": 38925,
+      "stars7dDelta": 21786,
       "hnPoints": null
     },
     {
@@ -148939,8 +148939,8 @@
         "workout-tracker"
       ],
       "rationale": null,
-      "stars": 12227,
-      "stars7dDelta": 4372,
+      "stars": 12475,
+      "stars7dDelta": 4280,
       "hnPoints": null
     },
     {
@@ -150671,7 +150671,7 @@
       ],
       "rationale": null,
       "stars": 95705,
-      "stars7dDelta": 73274,
+      "stars7dDelta": 64563,
       "hnPoints": null
     },
     {
@@ -151071,7 +151071,7 @@
       "topics": [],
       "rationale": null,
       "stars": 2465,
-      "stars7dDelta": 26,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -154952,8 +154952,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 1346,
-      "stars7dDelta": 589,
+      "stars": 1417,
+      "stars7dDelta": 660,
       "hnPoints": null
     },
     {
@@ -158861,7 +158861,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 206
+      "hnPoints": 207
     },
     {
       "id": 6732,
@@ -159021,7 +159021,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 153
+      "hnPoints": 154
     },
     {
       "id": 6740,
@@ -160041,7 +160041,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 273
+      "hnPoints": 284
     },
     {
       "id": 6791,
@@ -160061,7 +160061,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 933
+      "hnPoints": 940
     },
     {
       "id": 6792,
@@ -160081,7 +160081,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 205
+      "hnPoints": 215
     },
     {
       "id": 6793,
@@ -160121,7 +160121,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 400
+      "hnPoints": 420
     },
     {
       "id": 6795,
@@ -160201,7 +160201,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 376
+      "hnPoints": 378
     },
     {
       "id": 6799,
@@ -160281,7 +160281,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 173
+      "hnPoints": 174
     },
     {
       "id": 6803,
@@ -160340,8 +160340,8 @@
         "vlm"
       ],
       "rationale": null,
-      "stars": 2388,
-      "stars7dDelta": 0,
+      "stars": 2555,
+      "stars7dDelta": 167,
       "hnPoints": null
     },
     {
@@ -160381,8 +160381,8 @@
         "vector-search"
       ],
       "rationale": null,
-      "stars": 5393,
-      "stars7dDelta": 0,
+      "stars": 5902,
+      "stars7dDelta": 509,
       "hnPoints": null
     },
     {
@@ -160403,7 +160403,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 145
+      "hnPoints": 236
     },
     {
       "id": 6807,
@@ -160423,7 +160423,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 47
+      "hnPoints": 84
     },
     {
       "id": 6808,
@@ -160443,7 +160443,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 282
+      "hnPoints": 364
     },
     {
       "id": 6809,
@@ -160453,7 +160453,7 @@
       "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
       "owner": "sunshowers",
       "language": null,
-      "description": null,
+      "description": "<i>Redesigning source control at Anthropic</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073633\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073633</a> (996 comments)<p><i>Anthropic&#x27;s Scion is heavily inspired by Mononoke</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50094694\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50094694</a> (149 comments)",
       "createdAt": null,
       "firstSeenAt": "2026-10-15T17:27:51+00:00",
       "bucket": "other",
@@ -160463,7 +160463,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 8
+      "hnPoints": 236
     },
     {
       "id": 6810,
@@ -160523,7 +160523,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 98
+      "hnPoints": 109
     },
     {
       "id": 6813,
@@ -161284,6 +161284,186 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6851,
+      "source": "hn",
+      "sourceId": "50107379",
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "owner": "bigwheels",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-open\" rel=\"nofollow\">https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-ope...</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42B\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42B</a><p><a href=\"https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;10&#x2F;15&#x2F;meta-launches-new-muse-spark-o",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:28:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 719
+    },
+    {
+      "id": 6852,
+      "source": "hn",
+      "sourceId": "50111742",
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "url": "https://github.com/johnrash/bebox",
+      "owner": "rguiscard",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:28:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 39
+    },
+    {
+      "id": 6853,
+      "source": "hn",
+      "sourceId": "50108229",
+      "title": "E Ink Kaleido 4",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "owner": "Perroboc",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20261015180401&#x2F;https:&#x2F;&#x2F;www.eink.com&#x2F;news&#x2F;detail&#x2F;EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20261015180401&#x2F;https:&#x2F;&#x2F;www.eink....</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:28:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 159
+    },
+    {
+      "id": 6854,
+      "source": "hn",
+      "sourceId": "50104299",
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "owner": "ErenayDev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:29:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 152
+    },
+    {
+      "id": 6855,
+      "source": "hn",
+      "sourceId": "50100387",
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "owner": "pramodbiligiri",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:29:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 22
+    },
+    {
+      "id": 6856,
+      "source": "hn",
+      "sourceId": "50082637",
+      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+      "owner": "elsewhen",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:29:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 64
+    },
+    {
+      "id": 6857,
+      "source": "hn",
+      "sourceId": "50113841",
+      "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+      "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+      "owner": "ryan_j_naughton",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:29:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 6858,
+      "source": "hn",
+      "sourceId": "50105791",
+      "title": "Frontier Pre-Training at Microsoft AI",
+      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "owner": "psoulos",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:29:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 40
+    },
+    {
+      "id": 6859,
+      "source": "hn",
+      "sourceId": "50108131",
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "owner": "vinyl7",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-16T05:31:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 231
     }
   ]
 }
