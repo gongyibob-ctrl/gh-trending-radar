@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T05:29:34.638719+00:00",
+  "generatedAt": "2026-10-17T16:11:32.621239+00:00",
   "totals": {
-    "items": 6922,
+    "items": 6943,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3520,
+      "other": 3541,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1826,
+      "?": 1847,
       "other": 1
     },
     "bySource": {
       "github_trending": 262,
-      "hn": 3369,
-      "product_hunt": 3291
+      "hn": 3372,
+      "product_hunt": 3309
     }
   },
   "items": [
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 36291,
-      "stars7dDelta": 3658,
+      "stars": 36474,
+      "stars7dDelta": 3637,
       "hnPoints": null
     },
     {
@@ -46893,7 +46893,7 @@
       "topics": [],
       "rationale": "Provides a model architecture for real-time 3D scene reconstruction, useful infrastructure for robotics and spatial AI systems.",
       "stars": 17804,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -68396,7 +68396,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 21052,
-      "stars7dDelta": 2224,
+      "stars7dDelta": 2109,
       "hnPoints": null
     },
     {
@@ -70791,7 +70791,7 @@
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
       "stars": 47422,
-      "stars7dDelta": 1919,
+      "stars7dDelta": 1612,
       "hnPoints": null
     },
     {
@@ -92683,7 +92683,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 55193,
-      "stars7dDelta": 6999,
+      "stars7dDelta": 6503,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 8595,
-      "stars7dDelta": null,
+      "stars": 9779,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 5338,
-      "stars7dDelta": 613,
+      "stars": 5381,
+      "stars7dDelta": 621,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 787,
+      "stars7dDelta": 351,
       "hnPoints": null
     },
     {
@@ -108877,7 +108877,7 @@
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
       "stars": 55761,
-      "stars7dDelta": 6021,
+      "stars7dDelta": 5799,
       "hnPoints": null
     },
     {
@@ -121809,7 +121809,7 @@
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
       "stars": 41794,
-      "stars7dDelta": 932,
+      "stars7dDelta": 836,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 30315,
-      "stars7dDelta": 187,
+      "stars": 30512,
+      "stars7dDelta": 384,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 9704,
-      "stars7dDelta": 1361,
+      "stars": 9744,
+      "stars7dDelta": 1256,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 40069,
-      "stars7dDelta": 16768,
+      "stars": 40943,
+      "stars7dDelta": 15284,
       "hnPoints": null
     },
     {
@@ -148940,7 +148940,7 @@
       ],
       "rationale": null,
       "stars": 12475,
-      "stars7dDelta": 3656,
+      "stars7dDelta": 3383,
       "hnPoints": null
     },
     {
@@ -150671,7 +150671,7 @@
       ],
       "rationale": null,
       "stars": 95705,
-      "stars7dDelta": 41903,
+      "stars7dDelta": 29079,
       "hnPoints": null
     },
     {
@@ -154952,8 +154952,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 1571,
-      "stars7dDelta": 814,
+      "stars": 1657,
+      "stars7dDelta": 900,
       "hnPoints": null
     },
     {
@@ -160381,8 +160381,8 @@
         "vector-search"
       ],
       "rationale": null,
-      "stars": 7093,
-      "stars7dDelta": 1700,
+      "stars": 7517,
+      "stars7dDelta": 2124,
       "hnPoints": null
     },
     {
@@ -161303,7 +161303,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 902
+      "hnPoints": 912
     },
     {
       "id": 6852,
@@ -161323,7 +161323,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 81
+      "hnPoints": 92
     },
     {
       "id": 6853,
@@ -161343,7 +161343,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 183
+      "hnPoints": 186
     },
     {
       "id": 6854,
@@ -161463,13 +161463,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 255
+      "hnPoints": 256
     },
     {
       "id": 6860,
       "source": "hn",
       "sourceId": "50120010",
-      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+      "title": "Inside Polymarket's paid quote-retweet esports program",
       "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
       "owner": "paimapi",
       "language": null,
@@ -161483,7 +161483,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 47
+      "hnPoints": 96
     },
     {
       "id": 6861,
@@ -161503,7 +161503,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 113
+      "hnPoints": 135
     },
     {
       "id": 6862,
@@ -161523,7 +161523,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 206
+      "hnPoints": 233
     },
     {
       "id": 6863,
@@ -161583,7 +161583,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 193
+      "hnPoints": 203
     },
     {
       "id": 6866,
@@ -161603,7 +161603,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 128
+      "hnPoints": 136
     },
     {
       "id": 6867,
@@ -161643,7 +161643,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 80
+      "hnPoints": 103
     },
     {
       "id": 6869,
@@ -162503,7 +162503,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 239
+      "hnPoints": 334
     },
     {
       "id": 6912,
@@ -162523,7 +162523,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 780
+      "hnPoints": 964
     },
     {
       "id": 6913,
@@ -162543,7 +162543,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 208
+      "hnPoints": 396
     },
     {
       "id": 6914,
@@ -162583,7 +162583,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 119
+      "hnPoints": 161
     },
     {
       "id": 6916,
@@ -162603,7 +162603,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 450
+      "hnPoints": 560
     },
     {
       "id": 6917,
@@ -162623,7 +162623,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 287
+      "hnPoints": 425
     },
     {
       "id": 6918,
@@ -162643,7 +162643,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 43
+      "hnPoints": 104
     },
     {
       "id": 6919,
@@ -162683,7 +162683,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 235
+      "hnPoints": 273
     },
     {
       "id": 6921,
@@ -162724,6 +162724,426 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": 121
+    },
+    {
+      "id": 6923,
+      "source": "hn",
+      "sourceId": "50129121",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "owner": "theanonymousone",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:01:02+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 494
+    },
+    {
+      "id": 6924,
+      "source": "hn",
+      "sourceId": "50127979",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "owner": "albinstman",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:01:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 178
+    },
+    {
+      "id": 6925,
+      "source": "hn",
+      "sourceId": "50129045",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "owner": "theykk",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:01:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 329
+    },
+    {
+      "id": 6926,
+      "source": "product_hunt",
+      "sourceId": "1278219",
+      "title": "Caldera",
+      "url": "https://www.producthunt.com/products/caldera",
+      "owner": null,
+      "language": null,
+      "description": "Your Obsidian vault as a living profile and linked garden Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:04:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6927,
+      "source": "product_hunt",
+      "sourceId": "1273961",
+      "title": "NitroStack",
+      "url": "https://www.producthunt.com/products/nitrostack",
+      "owner": null,
+      "language": null,
+      "description": "Build, test, and deploy MCP servers in one place Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:04:35+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6928,
+      "source": "product_hunt",
+      "sourceId": "1279510",
+      "title": "Unfenced",
+      "url": "https://www.producthunt.com/products/unfenced",
+      "owner": null,
+      "language": null,
+      "description": "Land for sale that actually borders public land Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:04:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6929,
+      "source": "product_hunt",
+      "sourceId": "1278278",
+      "title": "Ultracite v8",
+      "url": "https://www.producthunt.com/products/ultracite",
+      "owner": null,
+      "language": null,
+      "description": "The linter and formatter for agentic development Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:04:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6930,
+      "source": "product_hunt",
+      "sourceId": "1273909",
+      "title": "Earnote",
+      "url": "https://www.producthunt.com/products/earnote",
+      "owner": null,
+      "language": null,
+      "description": "Lecture & meeting notes, written on your device Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:04:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6931,
+      "source": "product_hunt",
+      "sourceId": "1282248",
+      "title": "Emochi",
+      "url": "https://www.producthunt.com/products/emochi-2",
+      "owner": null,
+      "language": null,
+      "description": "Voice journal to understand yourself through art and science Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6932,
+      "source": "product_hunt",
+      "sourceId": "1279257",
+      "title": "Train with Pasta",
+      "url": "https://www.producthunt.com/products/train-with-pasta",
+      "owner": null,
+      "language": null,
+      "description": "A personal trainer powered by Apple Intelligence Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6933,
+      "source": "product_hunt",
+      "sourceId": "1276839",
+      "title": "LooGo",
+      "url": "https://www.producthunt.com/products/loogo",
+      "owner": null,
+      "language": null,
+      "description": "Find public restrooms fast Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:20+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6934,
+      "source": "product_hunt",
+      "sourceId": "1280962",
+      "title": "Craft Agents",
+      "url": "https://www.producthunt.com/products/craft-agents",
+      "owner": null,
+      "language": null,
+      "description": "The world's most powerful agents, with the UX they deserve Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6935,
+      "source": "product_hunt",
+      "sourceId": "1279890",
+      "title": "Notion: Context for your agents",
+      "url": "https://www.producthunt.com/products/notion",
+      "owner": null,
+      "language": null,
+      "description": "Switch AI agents without re-explaining your work Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6936,
+      "source": "product_hunt",
+      "sourceId": "1260394",
+      "title": "Parrot",
+      "url": "https://www.producthunt.com/products/parrot-10",
+      "owner": null,
+      "language": null,
+      "description": "Smart Meeting Assistant for Mac that helps during the call Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:46+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6937,
+      "source": "product_hunt",
+      "sourceId": "1282623",
+      "title": "Step 5 Preview",
+      "url": "https://www.producthunt.com/products/step-3-5-flash",
+      "owner": null,
+      "language": null,
+      "description": "600B open weights, trained for long-running agents Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:05:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6938,
+      "source": "product_hunt",
+      "sourceId": "1278738",
+      "title": "Spiralens",
+      "url": "https://www.producthunt.com/products/spiralens",
+      "owner": null,
+      "language": null,
+      "description": "Golden ratio camera that tells you where to move your phone Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:06:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6939,
+      "source": "product_hunt",
+      "sourceId": "1280692",
+      "title": "CrewTower Mod for Claude Code",
+      "url": "https://www.producthunt.com/products/crew-tower",
+      "owner": null,
+      "language": null,
+      "description": "Talk to Claude Code right from your MacBook notch Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:06:16+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6940,
+      "source": "product_hunt",
+      "sourceId": "1283017",
+      "title": "GPU Terminal by Context.dev",
+      "url": "https://www.producthunt.com/products/context-dev",
+      "owner": null,
+      "language": null,
+      "description": "Compare GPU rental prices across cloud providers Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:06:26+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6941,
+      "source": "product_hunt",
+      "sourceId": "1282082",
+      "title": "Draper",
+      "url": "https://www.producthunt.com/products/draper",
+      "owner": null,
+      "language": null,
+      "description": "Validate, plan, and launch a business, one step at a time. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:06:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6942,
+      "source": "product_hunt",
+      "sourceId": "1276945",
+      "title": "Korinotch",
+      "url": "https://www.producthunt.com/products/korinotch",
+      "owner": null,
+      "language": null,
+      "description": "Your MacBook notch, turned into a command center Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:06:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 6943,
+      "source": "product_hunt",
+      "sourceId": "1283097",
+      "title": "Salience",
+      "url": "https://www.producthunt.com/products/salience",
+      "owner": null,
+      "language": null,
+      "description": "See every request to your website and how it responds. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T16:06:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
     }
   ]
 }
