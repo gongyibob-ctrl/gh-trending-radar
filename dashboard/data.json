@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16T17:10:22.444850+00:00",
+  "generatedAt": "2026-10-17T05:29:34.638719+00:00",
   "totals": {
-    "items": 6910,
+    "items": 6922,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3508,
+      "other": 3520,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1814,
+      "?": 1826,
       "other": 1
     },
     "bySource": {
       "github_trending": 262,
-      "hn": 3357,
+      "hn": 3369,
       "product_hunt": 3291
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 36106,
-      "stars7dDelta": 3646,
+      "stars": 36291,
+      "stars7dDelta": 3658,
       "hnPoints": null
     },
     {
@@ -46893,7 +46893,7 @@
       "topics": [],
       "rationale": "Provides a model architecture for real-time 3D scene reconstruction, useful infrastructure for robotics and spatial AI systems.",
       "stars": 17804,
-      "stars7dDelta": 175,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -68395,8 +68395,8 @@
         "text-to-cad"
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
-      "stars": 20915,
-      "stars7dDelta": 2218,
+      "stars": 21052,
+      "stars7dDelta": 2224,
       "hnPoints": null
     },
     {
@@ -70791,7 +70791,7 @@
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
       "stars": 47422,
-      "stars7dDelta": 2402,
+      "stars7dDelta": 1919,
       "hnPoints": null
     },
     {
@@ -92683,7 +92683,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 55193,
-      "stars7dDelta": 7546,
+      "stars7dDelta": 6999,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 5285,
-      "stars7dDelta": 604,
+      "stars": 5338,
+      "stars7dDelta": 613,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 1205,
+      "stars7dDelta": 787,
       "hnPoints": null
     },
     {
@@ -108877,7 +108877,7 @@
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
       "stars": 55761,
-      "stars7dDelta": 6229,
+      "stars7dDelta": 6021,
       "hnPoints": null
     },
     {
@@ -121809,7 +121809,7 @@
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
       "stars": 41794,
-      "stars7dDelta": 1033,
+      "stars7dDelta": 932,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 30128,
-      "stars7dDelta": 0,
+      "stars": 30315,
+      "stars7dDelta": 187,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 9677,
-      "stars7dDelta": 1459,
+      "stars": 9704,
+      "stars7dDelta": 1361,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 39577,
-      "stars7dDelta": 18679,
+      "stars": 40069,
+      "stars7dDelta": 16768,
       "hnPoints": null
     },
     {
@@ -148940,7 +148940,7 @@
       ],
       "rationale": null,
       "stars": 12475,
-      "stars7dDelta": 3972,
+      "stars7dDelta": 3656,
       "hnPoints": null
     },
     {
@@ -150671,7 +150671,7 @@
       ],
       "rationale": null,
       "stars": 95705,
-      "stars7dDelta": 54726,
+      "stars7dDelta": 41903,
       "hnPoints": null
     },
     {
@@ -154952,8 +154952,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 1512,
-      "stars7dDelta": 755,
+      "stars": 1571,
+      "stars7dDelta": 814,
       "hnPoints": null
     },
     {
@@ -160381,8 +160381,8 @@
         "vector-search"
       ],
       "rationale": null,
-      "stars": 6677,
-      "stars7dDelta": 1284,
+      "stars": 7093,
+      "stars7dDelta": 1700,
       "hnPoints": null
     },
     {
@@ -160403,7 +160403,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 243
+      "hnPoints": 247
     },
     {
       "id": 6807,
@@ -160463,7 +160463,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 249
+      "hnPoints": 253
     },
     {
       "id": 6810,
@@ -161303,7 +161303,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 889
+      "hnPoints": 902
     },
     {
       "id": 6852,
@@ -161343,7 +161343,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 181
+      "hnPoints": 183
     },
     {
       "id": 6854,
@@ -161363,7 +161363,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 237
+      "hnPoints": 246
     },
     {
       "id": 6855,
@@ -161463,7 +161463,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 247
+      "hnPoints": 255
     },
     {
       "id": 6860,
@@ -161503,7 +161503,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 36
+      "hnPoints": 113
     },
     {
       "id": 6862,
@@ -161523,7 +161523,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 70
+      "hnPoints": 206
     },
     {
       "id": 6863,
@@ -161543,7 +161543,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 18
+      "hnPoints": 50
     },
     {
       "id": 6864,
@@ -161563,7 +161563,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 20
+      "hnPoints": 51
     },
     {
       "id": 6865,
@@ -161583,7 +161583,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 31
+      "hnPoints": 193
     },
     {
       "id": 6866,
@@ -161603,7 +161603,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 95
+      "hnPoints": 128
     },
     {
       "id": 6867,
@@ -161643,7 +161643,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 14
+      "hnPoints": 80
     },
     {
       "id": 6869,
@@ -162484,6 +162484,246 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6911,
+      "source": "hn",
+      "sourceId": "50122431",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "owner": "Anon84",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:20:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 239
+    },
+    {
+      "id": 6912,
+      "source": "hn",
+      "sourceId": "50122800",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "owner": "ahlCVA",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:20:34+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 780
+    },
+    {
+      "id": 6913,
+      "source": "hn",
+      "sourceId": "50122878",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "owner": "speckx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:20:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 208
+    },
+    {
+      "id": 6914,
+      "source": "hn",
+      "sourceId": "50126334",
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "url": "https://fakeipedia.org",
+      "owner": "darajava",
+      "language": null,
+      "description": "Hi HN!<p>Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.<p>I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn&#x27;t want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of ",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:20:50+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 16
+    },
+    {
+      "id": 6915,
+      "source": "hn",
+      "sourceId": "50121939",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "owner": "pretext",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:20:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 119
+    },
+    {
+      "id": 6916,
+      "source": "hn",
+      "sourceId": "50121179",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "owner": "speckx",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:21:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 450
+    },
+    {
+      "id": 6917,
+      "source": "hn",
+      "sourceId": "50122951",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "owner": "pretext",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:21:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 287
+    },
+    {
+      "id": 6918,
+      "source": "hn",
+      "sourceId": "50125545",
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "owner": "zdw",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:21:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 43
+    },
+    {
+      "id": 6919,
+      "source": "hn",
+      "sourceId": "50115703",
+      "title": "Coconuts in Medieval Britain (2015)",
+      "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
+      "owner": "wolfi1",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:21:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 11
+    },
+    {
+      "id": 6920,
+      "source": "hn",
+      "sourceId": "50122112",
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "owner": "JumpCrisscross",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-secured-highest-junk-credit-040018773.html\" rel=\"nofollow\">https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:21:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 235
+    },
+    {
+      "id": 6921,
+      "source": "hn",
+      "sourceId": "50127729",
+      "title": "AI is driving a boom in modestly successful software projects",
+      "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+      "owner": "gpi",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:22:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 6922,
+      "source": "hn",
+      "sourceId": "50100791",
+      "title": "AI was great until it was not",
+      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "owner": "JohnHammersley",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-17T05:23:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 121
     }
   ]
 }
