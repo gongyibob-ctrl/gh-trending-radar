@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-17T16:11:32.621239+00:00",
+  "generatedAt": "2026-10-18T05:36:33.715866+00:00",
   "totals": {
-    "items": 6943,
+    "items": 6951,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3541,
+      "other": 3549,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 1847,
+      "?": 1855,
       "other": 1
     },
     "bySource": {
       "github_trending": 262,
-      "hn": 3372,
+      "hn": 3380,
       "product_hunt": 3309
     }
   },
@@ -40378,8 +40378,8 @@
       ],
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
-      "stars": 36474,
-      "stars7dDelta": 3637,
+      "stars": 36703,
+      "stars7dDelta": 3684,
       "hnPoints": null
     },
     {
@@ -68396,7 +68396,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 21052,
-      "stars7dDelta": 2109,
+      "stars7dDelta": 2006,
       "hnPoints": null
     },
     {
@@ -70791,7 +70791,7 @@
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
       "stars": 47422,
-      "stars7dDelta": 1612,
+      "stars7dDelta": 1482,
       "hnPoints": null
     },
     {
@@ -92683,7 +92683,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 55193,
-      "stars7dDelta": 6503,
+      "stars7dDelta": 5948,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 9779,
-      "stars7dDelta": 0,
+      "stars": 10036,
+      "stars7dDelta": 257,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 5381,
-      "stars7dDelta": 621,
+      "stars": 5436,
+      "stars7dDelta": 630,
       "hnPoints": null
     },
     {
@@ -105875,7 +105875,7 @@
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
       "stars": 160626,
-      "stars7dDelta": 351,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -108877,7 +108877,7 @@
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
       "stars": 55761,
-      "stars7dDelta": 5799,
+      "stars7dDelta": 5221,
       "hnPoints": null
     },
     {
@@ -121809,7 +121809,7 @@
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
       "stars": 41794,
-      "stars7dDelta": 836,
+      "stars7dDelta": 717,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 30512,
-      "stars7dDelta": 384,
+      "stars": 30778,
+      "stars7dDelta": 650,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 9744,
-      "stars7dDelta": 1256,
+      "stars": 9804,
+      "stars7dDelta": 1243,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 40943,
-      "stars7dDelta": 15284,
+      "stars": 42022,
+      "stars7dDelta": 14474,
       "hnPoints": null
     },
     {
@@ -147900,7 +147900,7 @@
       ],
       "rationale": null,
       "stars": 10576,
-      "stars7dDelta": 1934,
+      "stars7dDelta": 1783,
       "hnPoints": null
     },
     {
@@ -148940,7 +148940,7 @@
       ],
       "rationale": null,
       "stars": 12475,
-      "stars7dDelta": 3383,
+      "stars7dDelta": 3105,
       "hnPoints": null
     },
     {
@@ -150671,7 +150671,7 @@
       ],
       "rationale": null,
       "stars": 95705,
-      "stars7dDelta": 29079,
+      "stars7dDelta": 16330,
       "hnPoints": null
     },
     {
@@ -154952,8 +154952,8 @@
         "dsh-plugin"
       ],
       "rationale": null,
-      "stars": 1657,
-      "stars7dDelta": 900,
+      "stars": 1766,
+      "stars7dDelta": 962,
       "hnPoints": null
     },
     {
@@ -160352,7 +160352,7 @@
       "url": "https://github.com/xerj-org/xerj",
       "owner": "xerj-org",
       "language": "Rust",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "createdAt": "2026-06-30T04:32:45Z",
       "firstSeenAt": "2026-10-15T17:27:22+00:00",
       "bucket": "other",
@@ -160381,8 +160381,8 @@
         "vector-search"
       ],
       "rationale": null,
-      "stars": 7517,
-      "stars7dDelta": 2124,
+      "stars": 7956,
+      "stars7dDelta": 2563,
       "hnPoints": null
     },
     {
@@ -161483,7 +161483,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 96
+      "hnPoints": 99
     },
     {
       "id": 6861,
@@ -161523,7 +161523,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 233
+      "hnPoints": 243
     },
     {
       "id": 6863,
@@ -161583,7 +161583,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 203
+      "hnPoints": 212
     },
     {
       "id": 6866,
@@ -162503,7 +162503,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 334
+      "hnPoints": 367
     },
     {
       "id": 6912,
@@ -162523,7 +162523,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 964
+      "hnPoints": 1028
     },
     {
       "id": 6913,
@@ -162533,7 +162533,7 @@
       "url": "https://alexwang.ai/posts/associative-memory/",
       "owner": "speckx",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932</a>",
       "createdAt": null,
       "firstSeenAt": "2026-10-17T05:20:41+00:00",
       "bucket": "other",
@@ -162543,7 +162543,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 396
+      "hnPoints": 534
     },
     {
       "id": 6914,
@@ -162583,7 +162583,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 161
+      "hnPoints": 172
     },
     {
       "id": 6916,
@@ -162603,7 +162603,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 560
+      "hnPoints": 600
     },
     {
       "id": 6917,
@@ -162623,7 +162623,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 425
+      "hnPoints": 457
     },
     {
       "id": 6918,
@@ -162643,7 +162643,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 104
+      "hnPoints": 116
     },
     {
       "id": 6919,
@@ -162683,7 +162683,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 273
+      "hnPoints": 288
     },
     {
       "id": 6921,
@@ -162743,7 +162743,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 494
+      "hnPoints": 513
     },
     {
       "id": 6924,
@@ -162763,7 +162763,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 178
+      "hnPoints": 269
     },
     {
       "id": 6925,
@@ -162773,7 +162773,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "owner": "theykk",
       "language": null,
-      "description": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017\" rel=\"nofollow\">https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017</a>",
       "createdAt": null,
       "firstSeenAt": "2026-10-17T16:01:22+00:00",
       "bucket": "other",
@@ -162783,7 +162783,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 329
+      "hnPoints": 778
     },
     {
       "id": 6926,
@@ -163144,6 +163144,166 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 6944,
+      "source": "hn",
+      "sourceId": "50137950",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "owner": "critiquebrowser",
+      "language": null,
+      "description": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works.",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:27:32+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 18
+    },
+    {
+      "id": 6945,
+      "source": "hn",
+      "sourceId": "50132193",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "owner": "dchest",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:27:48+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 337
+    },
+    {
+      "id": 6946,
+      "source": "hn",
+      "sourceId": "50126384",
+      "title": "Show HN: Things to Do API",
+      "url": "https://thingstodoapi.com/",
+      "owner": "invalidmonk",
+      "language": null,
+      "description": "I built an api&#x2F;mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.<p>I&#x27;ve been building a bunch of consumer apps lately around personalization and recommendation and have had a hard time finding this data in one spot. agents can find useful stuff through tool calls &#x2F; web search, but slow.<p>you can scrape on demand too, but i wanted a faster data set and couldn&#x27;t find an existing provider for the mix of event types I was searching",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:28:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 40
+    },
+    {
+      "id": 6947,
+      "source": "hn",
+      "sourceId": "50089577",
+      "title": "Tell HN: Remember to migrate away from .name domain",
+      "url": "https://news.ycombinator.com/item?id=50089577",
+      "owner": "nikanj",
+      "language": null,
+      "description": "If you have a third.level.name domain, it&#x27;ll get permanently expunged next year. Have you successfully taken steps to migrate away? Did you move to a standard .com domain, or are you taking your chances with another .tld?<p>Personally, I&#x27;m stuck in Microsoft hell because Azure admin emails cannot be changed and support is both uncaring and powerless.",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:28:20+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 144
+    },
+    {
+      "id": 6948,
+      "source": "hn",
+      "sourceId": "50134211",
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "owner": "dpaleka",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:28:27+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 28
+    },
+    {
+      "id": 6949,
+      "source": "hn",
+      "sourceId": "50133830",
+      "title": "Microsoft and CMU team up to train early career software engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "owner": "azhenley",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:28:39+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 64
+    },
+    {
+      "id": 6950,
+      "source": "hn",
+      "sourceId": "50132278",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "owner": "DeepLogin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:29:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 157
+    },
+    {
+      "id": 6951,
+      "source": "hn",
+      "sourceId": "50132502",
+      "title": "OpenAI discloses four more rogue incidents",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "owner": "DASD",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-18T05:29:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 123
     }
   ]
 }
