@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T17:46:17.566010+00:00",
+  "generatedAt": "2026-10-21T05:53:35.030026+00:00",
   "totals": {
-    "items": 7096,
+    "items": 7103,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3694,
+      "other": 3701,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 2000,
+      "?": 2007,
       "other": 1
     },
     "bySource": {
       "github_trending": 264,
-      "hn": 3446,
+      "hn": 3453,
       "product_hunt": 3386
     }
   },
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 37186,
-      "stars7dDelta": 2592,
+      "stars7dDelta": 2028,
       "hnPoints": null
     },
     {
@@ -68396,7 +68396,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 21690,
-      "stars7dDelta": 1759,
+      "stars7dDelta": 1413,
       "hnPoints": null
     },
     {
@@ -70791,7 +70791,7 @@
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
       "stars": 47422,
-      "stars7dDelta": 557,
+      "stars7dDelta": 278,
       "hnPoints": null
     },
     {
@@ -92683,7 +92683,7 @@
       ],
       "rationale": "Claude Code skill for generating branded SVG diagrams from Mermaid/draw.io, aimed at developers.",
       "stars": 55193,
-      "stars7dDelta": 1312,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -100964,8 +100964,8 @@
       ],
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
-      "stars": 5650,
-      "stars7dDelta": 614,
+      "stars": 5686,
+      "stars7dDelta": 549,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 169206,
-      "stars7dDelta": 0,
+      "stars": 170144,
+      "stars7dDelta": 938,
       "hnPoints": null
     },
     {
@@ -108877,7 +108877,7 @@
       ],
       "rationale": "A consumer-facing spatial-intelligence product with realtime AI voice control, not infra or dev tooling.",
       "stars": 55761,
-      "stars7dDelta": 679,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -121809,7 +121809,7 @@
       "topics": [],
       "rationale": "A zero-dependency C inference engine for streaming huge MoE models across disk, RAM, and VRAM on consumer hardware.",
       "stars": 41794,
-      "stars7dDelta": 79,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 33626,
-      "stars7dDelta": 3498,
+      "stars": 34615,
+      "stars7dDelta": 4487,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 10440,
-      "stars7dDelta": 1313,
+      "stars": 10518,
+      "stars7dDelta": 1204,
       "hnPoints": null
     },
     {
@@ -147571,8 +147571,8 @@
         "vulkan"
       ],
       "rationale": null,
-      "stars": 45266,
-      "stars7dDelta": 10430,
+      "stars": 45706,
+      "stars7dDelta": 8994,
       "hnPoints": null
     },
     {
@@ -147900,7 +147900,7 @@
       ],
       "rationale": null,
       "stars": 10576,
-      "stars7dDelta": 551,
+      "stars7dDelta": 150,
       "hnPoints": null
     },
     {
@@ -158359,7 +158359,7 @@
       ],
       "rationale": null,
       "stars": 11602,
-      "stars7dDelta": 96,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -164171,7 +164171,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 252
+      "hnPoints": 255
     },
     {
       "id": 6995,
@@ -164191,7 +164191,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 147
+      "hnPoints": 151
     },
     {
       "id": 6996,
@@ -164231,7 +164231,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 561
+      "hnPoints": 590
     },
     {
       "id": 6998,
@@ -164271,7 +164271,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 264
+      "hnPoints": 267
     },
     {
       "id": 7000,
@@ -164431,7 +164431,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 154
+      "hnPoints": 155
     },
     {
       "id": 7008,
@@ -164451,7 +164451,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 162
+      "hnPoints": 168
     },
     {
       "id": 7009,
@@ -164531,7 +164531,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 645
+      "hnPoints": 647
     },
     {
       "id": 7013,
@@ -165111,7 +165111,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 686
+      "hnPoints": 721
     },
     {
       "id": 7042,
@@ -165131,7 +165131,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 510
+      "hnPoints": 562
     },
     {
       "id": 7043,
@@ -165171,7 +165171,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 397
+      "hnPoints": 411
     },
     {
       "id": 7045,
@@ -165271,13 +165271,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 280
+      "hnPoints": 290
     },
     {
       "id": 7050,
       "source": "hn",
       "sourceId": "50163277",
-      "title": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "owner": "ggcr",
       "language": null,
@@ -165291,7 +165291,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1844
+      "hnPoints": 2196
     },
     {
       "id": 7051,
@@ -165311,7 +165311,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 202
+      "hnPoints": 330
     },
     {
       "id": 7052,
@@ -165351,7 +165351,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 23
+      "hnPoints": 48
     },
     {
       "id": 7054,
@@ -165391,7 +165391,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 309
+      "hnPoints": 429
     },
     {
       "id": 7056,
@@ -165411,7 +165411,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 56
+      "hnPoints": 175
     },
     {
       "id": 7057,
@@ -165451,7 +165451,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 102
+      "hnPoints": 150
     },
     {
       "id": 7059,
@@ -165511,7 +165511,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 117
+      "hnPoints": 176
     },
     {
       "id": 7062,
@@ -165551,7 +165551,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 344
+      "hnPoints": 376
     },
     {
       "id": 7064,
@@ -165561,7 +165561,7 @@
       "url": "https://www.producthunt.com/products/inflight-2",
       "owner": null,
       "language": null,
-      "description": "Capture design feedback directly inside your prototypes Discussion | Link",
+      "description": "The missing feedback layer for prototypes Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-20T17:40:47+00:00",
       "bucket": "other",
@@ -166212,6 +166212,146 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 7097,
+      "source": "hn",
+      "sourceId": "50175059",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "owner": "firloop",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:44:35+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 70
+    },
+    {
+      "id": 7098,
+      "source": "hn",
+      "sourceId": "50108717",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "owner": "dhorthy",
+      "language": null,
+      "description": "Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits in<p>Slop code bench is unique among benchmarks in that it makes a model work against a progressively disclosed list of features (checkpoints) that it doesn’t know it advance, inheriting the same codebase through the lifecycle of a single multi-checkpoint challenge<p>I like this because it much more mirrors how real software dev happens, rather than most benchmarks with one off tasks where slop code doe",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:44:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 227
+    },
+    {
+      "id": 7099,
+      "source": "hn",
+      "sourceId": "50176129",
+      "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+      "url": "https://github.com/xamrayev/nexus-cli",
+      "owner": "xamrayev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:44:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 7100,
+      "source": "hn",
+      "sourceId": "50175779",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "owner": "dnw",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:45:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 7101,
+      "source": "hn",
+      "sourceId": "50169506",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "owner": "mdahardy",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:45:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 38
+    },
+    {
+      "id": 7102,
+      "source": "hn",
+      "sourceId": "50156779",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com",
+      "owner": "nimitmehra",
+      "language": null,
+      "description": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points?<p>I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of ru",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:45:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 7103,
+      "source": "hn",
+      "sourceId": "50170021",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "owner": "artninja1988",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-21T05:45:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 102
     }
   ]
 }
