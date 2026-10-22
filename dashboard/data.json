@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-21T17:52:15.208766+00:00",
+  "generatedAt": "2026-10-22T05:55:21.499155+00:00",
   "totals": {
-    "items": 7150,
+    "items": 7166,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3748,
+      "other": 3764,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 2054,
+      "?": 2070,
       "other": 1
     },
     "bySource": {
       "github_trending": 265,
-      "hn": 3468,
-      "product_hunt": 3417
+      "hn": 3482,
+      "product_hunt": 3419
     }
   },
   "items": [
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 37186,
-      "stars7dDelta": 1775,
+      "stars7dDelta": 1528,
       "hnPoints": null
     },
     {
@@ -68396,7 +68396,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 21690,
-      "stars7dDelta": 1234,
+      "stars7dDelta": 1055,
       "hnPoints": null
     },
     {
@@ -70791,7 +70791,7 @@
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
       "stars": 47422,
-      "stars7dDelta": 192,
+      "stars7dDelta": 90,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 12173,
-      "stars7dDelta": 2394,
+      "stars": 12485,
+      "stars7dDelta": 2706,
       "hnPoints": null
     },
     {
@@ -100965,7 +100965,7 @@
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
       "stars": 5686,
-      "stars7dDelta": 512,
+      "stars7dDelta": 474,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 171167,
-      "stars7dDelta": 1961,
+      "stars": 172034,
+      "stars7dDelta": 2828,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 35483,
-      "stars7dDelta": 5355,
+      "stars": 37181,
+      "stars7dDelta": 7053,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 10602,
-      "stars7dDelta": 1238,
+      "stars": 10628,
+      "stars7dDelta": 1117,
       "hnPoints": null
     },
     {
@@ -147572,7 +147572,7 @@
       ],
       "rationale": null,
       "stars": 45706,
-      "stars7dDelta": 8285,
+      "stars7dDelta": 7512,
       "hnPoints": null
     },
     {
@@ -147900,7 +147900,7 @@
       ],
       "rationale": null,
       "stars": 10576,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -158840,7 +158840,7 @@
       ],
       "rationale": null,
       "stars": 27737,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -165291,7 +165291,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 2288
+      "hnPoints": 2308
     },
     {
       "id": 7051,
@@ -165311,7 +165311,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 354
+      "hnPoints": 363
     },
     {
       "id": 7052,
@@ -165391,7 +165391,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 456
+      "hnPoints": 460
     },
     {
       "id": 7056,
@@ -165451,7 +165451,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 187
+      "hnPoints": 188
     },
     {
       "id": 7059,
@@ -165511,7 +165511,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 191
+      "hnPoints": 193
     },
     {
       "id": 7062,
@@ -165551,7 +165551,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 382
+      "hnPoints": 383
     },
     {
       "id": 7064,
@@ -166231,7 +166231,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 187
+      "hnPoints": 198
     },
     {
       "id": 7098,
@@ -166412,7 +166412,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 171
+      "hnPoints": 473
     },
     {
       "id": 7106,
@@ -166452,7 +166452,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 153
+      "hnPoints": 247
     },
     {
       "id": 7108,
@@ -166472,7 +166472,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 71
+      "hnPoints": 139
     },
     {
       "id": 7109,
@@ -166492,7 +166492,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 68
+      "hnPoints": 274
     },
     {
       "id": 7110,
@@ -166512,7 +166512,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 16
+      "hnPoints": 58
     },
     {
       "id": 7111,
@@ -166552,7 +166552,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 389
+      "hnPoints": 440
     },
     {
       "id": 7113,
@@ -166652,7 +166652,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 89
+      "hnPoints": 103
     },
     {
       "id": 7118,
@@ -166692,7 +166692,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 178
+      "hnPoints": 187
     },
     {
       "id": 7120,
@@ -167305,6 +167305,326 @@
       "description": "Get paid to answer your DMs. Open source. Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-10-21T17:50:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7151,
+      "source": "hn",
+      "sourceId": "50190363",
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "owner": "alphax314",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 34
+    },
+    {
+      "id": 7152,
+      "source": "hn",
+      "sourceId": "50176082",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "owner": "jimauthors",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:16+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 40
+    },
+    {
+      "id": 7153,
+      "source": "hn",
+      "sourceId": "50154100",
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "owner": "ibobev",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 70
+    },
+    {
+      "id": 7154,
+      "source": "hn",
+      "sourceId": "50184820",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "owner": "cbg0",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 473
+    },
+    {
+      "id": 7155,
+      "source": "hn",
+      "sourceId": "50183892",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "owner": "kmansm27",
+      "language": null,
+      "description": "Hey all, Kartik from Omnara (<a href=\"https:&#x2F;&#x2F;omnara.com\">https:&#x2F;&#x2F;omnara.com</a>) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent&#x27;s state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API.<p>Y",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 51
+    },
+    {
+      "id": 7156,
+      "source": "hn",
+      "sourceId": "50190334",
+      "title": "LLM agents play Pokemon showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "owner": "grabnero",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 24
+    },
+    {
+      "id": 7157,
+      "source": "hn",
+      "sourceId": "50160988",
+      "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+      "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
+      "owner": "benbreen",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:46:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 7158,
+      "source": "hn",
+      "sourceId": "50190357",
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:47:24+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 8
+    },
+    {
+      "id": 7159,
+      "source": "hn",
+      "sourceId": "50186037",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "owner": "kuberwastaken",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:47:33+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 343
+    },
+    {
+      "id": 7160,
+      "source": "hn",
+      "sourceId": "50186455",
+      "title": "Claude Duet",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "owner": "zaevlad",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:47:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 68
+    },
+    {
+      "id": 7161,
+      "source": "hn",
+      "sourceId": "50183344",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "owner": "Klaster_1",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:47:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 59
+    },
+    {
+      "id": 7162,
+      "source": "hn",
+      "sourceId": "50168142",
+      "title": "Show HN: AI-built browser games, collected in one place",
+      "url": "https://playgroundarcade.com/",
+      "owner": "richleigh",
+      "language": null,
+      "description": "Hello, HN friends.<p>I spent many happy IT lessons messing around on Newgrounds when I was a kid. And, to further age me - Rotten and Maddox!<p>From that, I built my first site at about 12&#x2F;13 with a friend - essentially, a cheat code site-turned emulator and ROMs mirror link directory. It ended up, for a late 90s&#x2F;early 2000s Geocities site, becoming quite popular.<p>Fast forward to now and, I&#x27;m optimistically curious about what AI can do in and around gaming. I was trying to keep ",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:48:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 22
+    },
+    {
+      "id": 7163,
+      "source": "hn",
+      "sourceId": "50188612",
+      "title": "Qpack amplification attacks against HTTP/3 servers",
+      "url": "https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers",
+      "owner": "kozika",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:48:11+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 22
+    },
+    {
+      "id": 7164,
+      "source": "hn",
+      "sourceId": "50186129",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "owner": "funnym0nk3y",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:48:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 318
+    },
+    {
+      "id": 7165,
+      "source": "product_hunt",
+      "sourceId": "1286604",
+      "title": "SuperCMO AI",
+      "url": "https://www.producthunt.com/products/supercmo-ai",
+      "owner": null,
+      "language": null,
+      "description": "Open-source skills that turn your Claude into an AI CMO Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:49:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7166,
+      "source": "product_hunt",
+      "sourceId": "1285747",
+      "title": "Searchtok",
+      "url": "https://www.producthunt.com/products/searchtok",
+      "owner": null,
+      "language": null,
+      "description": "Make TikTok and Instagram searchable for your AI agent Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-22T05:51:24+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
