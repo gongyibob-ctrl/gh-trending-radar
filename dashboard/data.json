@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-22T17:51:55.315010+00:00",
+  "generatedAt": "2026-10-23T05:54:39.211913+00:00",
   "totals": {
-    "items": 7203,
+    "items": 7213,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3801,
+      "other": 3811,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 2107,
+      "?": 2117,
       "other": 1
     },
     "bySource": {
       "github_trending": 265,
-      "hn": 3491,
+      "hn": 3501,
       "product_hunt": 3447
     }
   },
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 37186,
-      "stars7dDelta": 1330,
+      "stars7dDelta": 1080,
       "hnPoints": null
     },
     {
@@ -68396,7 +68396,7 @@
       ],
       "rationale": "A developer library of CAD and robotics skills meant to equip agents for hardware design workflows.",
       "stars": 21690,
-      "stars7dDelta": 921,
+      "stars7dDelta": 775,
       "hnPoints": null
     },
     {
@@ -70791,7 +70791,7 @@
       ],
       "rationale": "AI-assisted code review CLI combines deterministic rules with LLM agent comments for repo diffs.",
       "stars": 47422,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 12699,
-      "stars7dDelta": 2920,
+      "stars": 12836,
+      "stars7dDelta": 3057,
       "hnPoints": null
     },
     {
@@ -100965,7 +100965,7 @@
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
       "stars": 5686,
-      "stars7dDelta": 439,
+      "stars7dDelta": 401,
       "hnPoints": null
     },
     {
@@ -105874,8 +105874,8 @@
         "yagni"
       ],
       "rationale": "Tooling that tunes coding agents' behavior, mainly for developers using Claude Code/Cursor.",
-      "stars": 173044,
-      "stars7dDelta": 3838,
+      "stars": 173836,
+      "stars7dDelta": 4630,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 38798,
-      "stars7dDelta": 8670,
+      "stars": 39998,
+      "stars7dDelta": 9870,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 10703,
-      "stars7dDelta": 1111,
+      "stars": 10761,
+      "stars7dDelta": 1084,
       "hnPoints": null
     },
     {
@@ -147572,7 +147572,7 @@
       ],
       "rationale": null,
       "stars": 45706,
-      "stars7dDelta": 6781,
+      "stars7dDelta": 6129,
       "hnPoints": null
     },
     {
@@ -148940,7 +148940,7 @@
       ],
       "rationale": null,
       "stars": 12475,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -154953,7 +154953,7 @@
       ],
       "rationale": null,
       "stars": 1766,
-      "stars7dDelta": 349,
+      "stars7dDelta": 254,
       "hnPoints": null
     },
     {
@@ -160341,7 +160341,7 @@
       ],
       "rationale": null,
       "stars": 2555,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -160382,7 +160382,7 @@
       ],
       "rationale": null,
       "stars": 7956,
-      "stars7dDelta": 2054,
+      "stars7dDelta": 1279,
       "hnPoints": null
     },
     {
@@ -166412,7 +166412,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 581
+      "hnPoints": 588
     },
     {
       "id": 7106,
@@ -166452,7 +166452,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 260
+      "hnPoints": 265
     },
     {
       "id": 7108,
@@ -166472,7 +166472,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 153
+      "hnPoints": 156
     },
     {
       "id": 7109,
@@ -166492,7 +166492,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 318
+      "hnPoints": 323
     },
     {
       "id": 7110,
@@ -166552,7 +166552,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 445
+      "hnPoints": 448
     },
     {
       "id": 7113,
@@ -166652,7 +166652,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 123
+      "hnPoints": 130
     },
     {
       "id": 7118,
@@ -167332,7 +167332,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 436
+      "hnPoints": 514
     },
     {
       "id": 7152,
@@ -167352,7 +167352,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 184
+      "hnPoints": 204
     },
     {
       "id": 7153,
@@ -167392,7 +167392,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 651
+      "hnPoints": 682
     },
     {
       "id": 7155,
@@ -167492,7 +167492,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 518
+      "hnPoints": 550
     },
     {
       "id": 7160,
@@ -167592,7 +167592,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 322
+      "hnPoints": 323
     },
     {
       "id": 7165,
@@ -167652,7 +167652,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 520
+      "hnPoints": 764
     },
     {
       "id": 7168,
@@ -167672,7 +167672,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 23
+      "hnPoints": 103
     },
     {
       "id": 7169,
@@ -167692,7 +167692,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 217
+      "hnPoints": 244
     },
     {
       "id": 7170,
@@ -167732,7 +167732,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 211
+      "hnPoints": 234
     },
     {
       "id": 7172,
@@ -167752,7 +167752,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 37
+      "hnPoints": 318
     },
     {
       "id": 7173,
@@ -167792,7 +167792,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 227
+      "hnPoints": 249
     },
     {
       "id": 7175,
@@ -167812,7 +167812,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 149
+      "hnPoints": 159
     },
     {
       "id": 7176,
@@ -168373,6 +168373,206 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 7204,
+      "source": "hn",
+      "sourceId": "50202217",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "owner": "johnbender",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:45:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 237
+    },
+    {
+      "id": 7205,
+      "source": "hn",
+      "sourceId": "50198675",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "owner": "niemandhier",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:45:20+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 349
+    },
+    {
+      "id": 7206,
+      "source": "hn",
+      "sourceId": "50201414",
+      "title": "Railpass",
+      "url": "https://train.samismith.com/",
+      "owner": "CharlesW",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:45:35+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 79
+    },
+    {
+      "id": 7207,
+      "source": "hn",
+      "sourceId": "50199230",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "owner": "jrepinc",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:45:43+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 129
+    },
+    {
+      "id": 7208,
+      "source": "hn",
+      "sourceId": "50202671",
+      "title": "AI compute is the new oil–and needs a new market",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "owner": "ijidak",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:46:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 42
+    },
+    {
+      "id": 7209,
+      "source": "hn",
+      "sourceId": "50198940",
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "owner": "brandonb",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:46:27+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 82
+    },
+    {
+      "id": 7210,
+      "source": "hn",
+      "sourceId": "50198936",
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "url": "https://github.com/rbartoli/agent-usage-guard",
+      "owner": "zzyyxx332211",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:46:34+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 7211,
+      "source": "hn",
+      "sourceId": "50199232",
+      "title": "Award-winning AI literature",
+      "url": "https://jamesyu.org/award-winning-ai-literature/",
+      "owner": "jamesjyu",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:46:41+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 59
+    },
+    {
+      "id": 7212,
+      "source": "hn",
+      "sourceId": "50200843",
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+      "owner": "karakoram",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:46:48+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 73
+    },
+    {
+      "id": 7213,
+      "source": "hn",
+      "sourceId": "50199290",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "url": "https://www.typeui.sh/micro-interactions",
+      "owner": "elwingo1",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-23T05:47:02+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 75
     }
   ]
 }
