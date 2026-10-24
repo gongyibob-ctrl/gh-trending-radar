@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-24T05:35:03.288972+00:00",
+  "generatedAt": "2026-10-24T16:30:53.324464+00:00",
   "totals": {
-    "items": 7262,
+    "items": 7283,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3860,
+      "other": 3881,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 2166,
+      "?": 2187,
       "other": 1
     },
     "bySource": {
-      "github_trending": 267,
-      "hn": 3524,
-      "product_hunt": 3471
+      "github_trending": 269,
+      "hn": 3529,
+      "product_hunt": 3485
     }
   },
   "items": [
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 37186,
-      "stars7dDelta": 712,
+      "stars7dDelta": 483,
       "hnPoints": null
     },
     {
@@ -59606,8 +59606,8 @@
       ],
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
-      "stars": 25573,
-      "stars7dDelta": null,
+      "stars": 31725,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 13097,
-      "stars7dDelta": 3318,
+      "stars": 13203,
+      "stars7dDelta": 3167,
       "hnPoints": null
     },
     {
@@ -100965,7 +100965,7 @@
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
       "stars": 5686,
-      "stars7dDelta": 305,
+      "stars7dDelta": 250,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 42487,
-      "stars7dDelta": 11975,
+      "stars": 43546,
+      "stars7dDelta": 12768,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 10880,
-      "stars7dDelta": 1136,
+      "stars": 10906,
+      "stars7dDelta": 1102,
       "hnPoints": null
     },
     {
@@ -147572,7 +147572,7 @@
       ],
       "rationale": null,
       "stars": 45706,
-      "stars7dDelta": 4763,
+      "stars7dDelta": 3684,
       "hnPoints": null
     },
     {
@@ -154953,7 +154953,7 @@
       ],
       "rationale": null,
       "stars": 1766,
-      "stars7dDelta": 109,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -160382,7 +160382,7 @@
       ],
       "rationale": null,
       "stars": 7956,
-      "stars7dDelta": 439,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -167332,7 +167332,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 618
+      "hnPoints": 630
     },
     {
       "id": 7152,
@@ -167752,7 +167752,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 622
+      "hnPoints": 642
     },
     {
       "id": 7173,
@@ -168392,7 +168392,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 443
+      "hnPoints": 454
     },
     {
       "id": 7205,
@@ -168412,7 +168412,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 490
+      "hnPoints": 496
     },
     {
       "id": 7206,
@@ -168432,7 +168432,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 130
+      "hnPoints": 137
     },
     {
       "id": 7207,
@@ -168452,7 +168452,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 137
+      "hnPoints": 139
     },
     {
       "id": 7208,
@@ -168653,7 +168653,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 75
+      "hnPoints": 78
     },
     {
       "id": 7217,
@@ -168673,7 +168673,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 68
+      "hnPoints": 72
     },
     {
       "id": 7218,
@@ -168733,7 +168733,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 603
+      "hnPoints": 632
     },
     {
       "id": 7221,
@@ -168833,7 +168833,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 423
+      "hnPoints": 439
     },
     {
       "id": 7226,
@@ -168873,7 +168873,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 316
+      "hnPoints": 321
     },
     {
       "id": 7228,
@@ -169373,7 +169373,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 811
+      "hnPoints": 1017
     },
     {
       "id": 7253,
@@ -169393,7 +169393,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 313
+      "hnPoints": 444
     },
     {
       "id": 7254,
@@ -169413,7 +169413,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 12
+      "hnPoints": 191
     },
     {
       "id": 7255,
@@ -169433,7 +169433,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 63
+      "hnPoints": 115
     },
     {
       "id": 7256,
@@ -169453,7 +169453,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 94
+      "hnPoints": 156
     },
     {
       "id": 7257,
@@ -169473,7 +169473,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 24
+      "hnPoints": 66
     },
     {
       "id": 7258,
@@ -169493,7 +169493,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 57
+      "hnPoints": 121
     },
     {
       "id": 7259,
@@ -169513,7 +169513,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 40
+      "hnPoints": 54
     },
     {
       "id": 7260,
@@ -169553,7 +169553,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 328
+      "hnPoints": 365
     },
     {
       "id": 7262,
@@ -169573,7 +169573,441 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 140
+      "hnPoints": 141
+    },
+    {
+      "id": 7263,
+      "source": "github_trending",
+      "sourceId": "makecindy/cindy",
+      "title": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "owner": "makecindy",
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "createdAt": "2026-07-22T17:49:34Z",
+      "firstSeenAt": "2026-10-24T16:19:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-assistant",
+        "android",
+        "claude-code",
+        "codex",
+        "electron",
+        "ios",
+        "llm",
+        "macos",
+        "react-native",
+        "typescript",
+        "windows"
+      ],
+      "rationale": null,
+      "stars": 3893,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 7264,
+      "source": "github_trending",
+      "sourceId": "pollen-robotics/microduck",
+      "title": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "owner": "pollen-robotics",
+      "language": "Rust",
+      "description": "A Tiny biped duck robot 🦆",
+      "createdAt": "2026-07-29T07:52:16Z",
+      "firstSeenAt": "2026-10-24T16:19:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": 10777,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 7265,
+      "source": "hn",
+      "sourceId": "50222525",
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "owner": "giuliomagnifico",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:20:04+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 10
+    },
+    {
+      "id": 7266,
+      "source": "hn",
+      "sourceId": "50220204",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "owner": "TangerineDream",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:20:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 74
+    },
+    {
+      "id": 7267,
+      "source": "hn",
+      "sourceId": "50191250",
+      "title": "The Chalk and the Airplane",
+      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+      "owner": "paulorlando",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:20:47+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 7268,
+      "source": "hn",
+      "sourceId": "50221213",
+      "title": "2k Boeing 737s Must Get Tail Inspections After Jets Pitched Up&Down Mid-Flight",
+      "url": "https://simpleflying.com/nearly-2000-boeing-737-tail-inspections-faa/",
+      "owner": "firesteelrain",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:21:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 6
+    },
+    {
+      "id": 7269,
+      "source": "hn",
+      "sourceId": "50185715",
+      "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
+      "url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
+      "owner": "NaOH",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:22:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 11
+    },
+    {
+      "id": 7270,
+      "source": "product_hunt",
+      "sourceId": "1281716",
+      "title": "myPip",
+      "url": "https://www.producthunt.com/products/mypip-2",
+      "owner": null,
+      "language": null,
+      "description": "Vibe code, publish, and monetize games with AI Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:23:54+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7271,
+      "source": "product_hunt",
+      "sourceId": "1289449",
+      "title": "1Password for Agents",
+      "url": "https://www.producthunt.com/products/1password",
+      "owner": null,
+      "language": null,
+      "description": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:01+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7272,
+      "source": "product_hunt",
+      "sourceId": "1281583",
+      "title": "zCAD AI",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "owner": null,
+      "language": null,
+      "description": "AI 3D that creates real parts, not just shapes Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:08+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7273,
+      "source": "product_hunt",
+      "sourceId": "1290061",
+      "title": "Canva Craft",
+      "url": "https://www.producthunt.com/products/canva",
+      "owner": null,
+      "language": null,
+      "description": "Turn prompts into design-ready images you can edit Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7274,
+      "source": "product_hunt",
+      "sourceId": "1289401",
+      "title": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "owner": null,
+      "language": null,
+      "description": "A quiet Mac app for screenplays, stage plays and novels Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:23+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7275,
+      "source": "product_hunt",
+      "sourceId": "1283491",
+      "title": "How It Went",
+      "url": "https://www.producthunt.com/products/how-it-went",
+      "owner": null,
+      "language": null,
+      "description": "Your route, photos and clips as a short film Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:30+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7276,
+      "source": "product_hunt",
+      "sourceId": "1290354",
+      "title": "sideOS.ai",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "owner": null,
+      "language": null,
+      "description": "Local AI for dictation, meetings, background tasks and more Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7277,
+      "source": "product_hunt",
+      "sourceId": "1288200",
+      "title": "Byter",
+      "url": "https://www.producthunt.com/products/byter",
+      "owner": null,
+      "language": null,
+      "description": "Know exactly how much data you use, on every network Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7278,
+      "source": "product_hunt",
+      "sourceId": "1290612",
+      "title": "Basedash Scheduled CSV Exports",
+      "url": "https://www.producthunt.com/products/basedash",
+      "owner": null,
+      "language": null,
+      "description": "Ask once. Get a fresh CSV in Slack or email every week. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:24:56+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7279,
+      "source": "product_hunt",
+      "sourceId": "1280293",
+      "title": "Many Displays",
+      "url": "https://www.producthunt.com/products/many-displays",
+      "owner": null,
+      "language": null,
+      "description": "Zero clicks: windows back after sleep, unlock or replugging Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:25:03+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7280,
+      "source": "product_hunt",
+      "sourceId": "1280718",
+      "title": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "owner": null,
+      "language": null,
+      "description": "Post insights delivered direct to your AI Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:25:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7281,
+      "source": "product_hunt",
+      "sourceId": "1288672",
+      "title": "Penta",
+      "url": "https://www.producthunt.com/products/penta-cd-player-changer",
+      "owner": null,
+      "language": null,
+      "description": "A ’90s 5-disc CD changer on iPhone Duo Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:25:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7282,
+      "source": "product_hunt",
+      "sourceId": "1286641",
+      "title": "AgentValley",
+      "url": "https://www.producthunt.com/products/agentvalley",
+      "owner": null,
+      "language": null,
+      "description": "Every Claude Code agent, at a glance, in your Mac's notch Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:25:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7283,
+      "source": "product_hunt",
+      "sourceId": "1287508",
+      "title": "Shedi",
+      "url": "https://www.producthunt.com/products/shedi",
+      "owner": null,
+      "language": null,
+      "description": "Get back the space Xcode, Docker and node_modules ate Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-24T16:25:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
     }
   ]
 }
