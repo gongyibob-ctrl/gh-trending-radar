@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-25T05:52:31.861336+00:00",
+  "generatedAt": "2026-10-25T17:02:13.789570+00:00",
   "totals": {
-    "items": 7292,
+    "items": 7314,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3890,
+      "other": 3912,
       "security": 272,
       "web-framework": 26
     },
@@ -17,13 +17,13 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 2196,
+      "?": 2218,
       "other": 1
     },
     "bySource": {
-      "github_trending": 269,
-      "hn": 3538,
-      "product_hunt": 3485
+      "github_trending": 270,
+      "hn": 3546,
+      "product_hunt": 3498
     }
   },
   "items": [
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 37186,
-      "stars7dDelta": 261,
+      "stars7dDelta": 0,
       "hnPoints": null
     },
     {
@@ -59606,8 +59606,8 @@
       ],
       "topics": [],
       "rationale": "A coding-assistant design skill that helps developers generate less generic AI-made UI.",
-      "stars": 32411,
-      "stars7dDelta": 686,
+      "stars": 33278,
+      "stars7dDelta": 1553,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 13326,
-      "stars7dDelta": 3023,
+      "stars": 13454,
+      "stars7dDelta": 2781,
       "hnPoints": null
     },
     {
@@ -100965,7 +100965,7 @@
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
       "stars": 5686,
-      "stars7dDelta": 216,
+      "stars7dDelta": 155,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 45075,
-      "stars7dDelta": 14083,
+      "stars": 46288,
+      "stars7dDelta": 15039,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 10948,
-      "stars7dDelta": 1090,
+      "stars": 10999,
+      "stars7dDelta": 1048,
       "hnPoints": null
     },
     {
@@ -147572,7 +147572,7 @@
       ],
       "rationale": null,
       "stars": 45706,
-      "stars7dDelta": 2958,
+      "stars7dDelta": 2281,
       "hnPoints": null
     },
     {
@@ -167332,7 +167332,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 641
+      "hnPoints": 645
     },
     {
       "id": 7152,
@@ -168601,8 +168601,8 @@
         "ziwei-doushu"
       ],
       "rationale": null,
-      "stars": 7002,
-      "stars7dDelta": 225,
+      "stars": 7483,
+      "stars7dDelta": 706,
       "hnPoints": null
     },
     {
@@ -169373,7 +169373,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 1063
+      "hnPoints": 1070
     },
     {
       "id": 7253,
@@ -169393,7 +169393,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 508
+      "hnPoints": 517
     },
     {
       "id": 7254,
@@ -169433,7 +169433,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 127
+      "hnPoints": 134
     },
     {
       "id": 7256,
@@ -169453,7 +169453,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 175
+      "hnPoints": 176
     },
     {
       "id": 7257,
@@ -169493,7 +169493,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 136
+      "hnPoints": 139
     },
     {
       "id": 7259,
@@ -169553,7 +169553,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 379
+      "hnPoints": 386
     },
     {
       "id": 7262,
@@ -169605,8 +169605,8 @@
         "windows"
       ],
       "rationale": null,
-      "stars": 4226,
-      "stars7dDelta": 333,
+      "stars": 4646,
+      "stars7dDelta": 753,
       "hnPoints": null
     },
     {
@@ -169625,8 +169625,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 11115,
-      "stars7dDelta": 338,
+      "stars": 11459,
+      "stars7dDelta": 682,
       "hnPoints": null
     },
     {
@@ -169647,7 +169647,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 98
+      "hnPoints": 129
     },
     {
       "id": 7266,
@@ -170027,7 +170027,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 71
+      "hnPoints": 289
     },
     {
       "id": 7285,
@@ -170047,7 +170047,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 275
+      "hnPoints": 456
     },
     {
       "id": 7286,
@@ -170067,7 +170067,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 14
+      "hnPoints": 30
     },
     {
       "id": 7287,
@@ -170087,7 +170087,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 7
+      "hnPoints": 26
     },
     {
       "id": 7288,
@@ -170147,7 +170147,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 178
+      "hnPoints": 227
     },
     {
       "id": 7291,
@@ -170167,7 +170167,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 10
+      "hnPoints": 28
     },
     {
       "id": 7292,
@@ -170187,7 +170187,461 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 522
+      "hnPoints": 588
+    },
+    {
+      "id": 7293,
+      "source": "github_trending",
+      "sourceId": "JetBrains/thinkrail",
+      "title": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "owner": "JetBrains",
+      "language": "TypeScript",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "createdAt": "2026-07-08T07:40:43Z",
+      "firstSeenAt": "2026-10-25T16:53:17+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [
+        "agent",
+        "agent-skills",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-coding",
+        "ai-tools",
+        "pi-agent",
+        "pi-agent-extension",
+        "spec-driven",
+        "spec-driven-coding",
+        "spec-driven-development",
+        "vibe-coding",
+        "vibecoding"
+      ],
+      "rationale": null,
+      "stars": 1254,
+      "stars7dDelta": 0,
+      "hnPoints": null
+    },
+    {
+      "id": 7294,
+      "source": "hn",
+      "sourceId": "50233304",
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "owner": "romanhn",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:54:23+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 16
+    },
+    {
+      "id": 7295,
+      "source": "hn",
+      "sourceId": "50232407",
+      "title": "Ask HN: Can we do something about this impending AI dystopia",
+      "url": "https://news.ycombinator.com/item?id=50232407",
+      "owner": "justforfunhere",
+      "language": null,
+      "description": "There have been, increasingly, a large number of posts [1] on HN in the past few weeks, where developers are slowly coming to terms with the breakneck speed with which Agentic Coding has advanced in the past few months.<p>We all agree that an average software developer today is closely resembling the horse-carriage just when automobiles were becoming mainstream around 120 years ago.<p>And coming to HN daily and finding at least one such lament from a software engineer is becoming quite tiresome.",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:54:29+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 7296,
+      "source": "hn",
+      "sourceId": "50229827",
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "owner": "thunderbong",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:54:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
+    },
+    {
+      "id": 7297,
+      "source": "hn",
+      "sourceId": "50219177",
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "url": "https://broccoli2shell.com/",
+      "owner": "theanonymousone",
+      "language": null,
+      "description": "<a href=\"https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2shell-brotli-cve-2026-111497\" rel=\"nofollow\">https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2...</a>",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:54:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 368
+    },
+    {
+      "id": 7298,
+      "source": "hn",
+      "sourceId": "50233347",
+      "title": "A Mathematician Reads the AI Future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "owner": "artninja1988",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:54:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 7299,
+      "source": "hn",
+      "sourceId": "50194645",
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "owner": "frading",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:55:07+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 63
+    },
+    {
+      "id": 7300,
+      "source": "hn",
+      "sourceId": "50232682",
+      "title": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers",
+      "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+      "owner": "tom2026hn",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:55:14+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 7301,
+      "source": "hn",
+      "sourceId": "50231282",
+      "title": "YousefAbdulHusain – The Dune Movies Erase Islam [video]",
+      "url": "https://www.youtube.com/watch?v=Vu2ARRBjEHY",
+      "owner": "abdelhousni",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:56:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 7302,
+      "source": "product_hunt",
+      "sourceId": "1273641",
+      "title": "Badgey",
+      "url": "https://www.producthunt.com/products/badgey",
+      "owner": null,
+      "language": null,
+      "description": "Your iPhone becomes a name badge that faces the room Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:56:53+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7303,
+      "source": "product_hunt",
+      "sourceId": "1289061",
+      "title": "MRRaudit",
+      "url": "https://www.producthunt.com/products/mrraudit",
+      "owner": null,
+      "language": null,
+      "description": "Understand why your MRR differs and get a number you trust Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:56:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7304,
+      "source": "product_hunt",
+      "sourceId": "1278600",
+      "title": "Moli by Lexmount",
+      "url": "https://www.producthunt.com/products/lexmount-browser",
+      "owner": null,
+      "language": null,
+      "description": "The fastest headless browser for agents and harnesses Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7305,
+      "source": "product_hunt",
+      "sourceId": "1291942",
+      "title": "AgentGrid.io",
+      "url": "https://www.producthunt.com/products/agentgrid-io",
+      "owner": null,
+      "language": null,
+      "description": "Shared workspace for humans and agents Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:12+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7306,
+      "source": "product_hunt",
+      "sourceId": "1284558",
+      "title": "Specsight",
+      "url": "https://www.producthunt.com/products/specsight",
+      "owner": null,
+      "language": null,
+      "description": "Product observability for teams shipping fast with AI Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7307,
+      "source": "product_hunt",
+      "sourceId": "1290875",
+      "title": "Llama Windows",
+      "url": "https://www.producthunt.com/products/llama-windows",
+      "owner": null,
+      "language": null,
+      "description": "One local AI server for all your Windows apps Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:25+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7308,
+      "source": "product_hunt",
+      "sourceId": "1287264",
+      "title": "pawl",
+      "url": "https://www.producthunt.com/products/pawl",
+      "owner": null,
+      "language": null,
+      "description": "a tiny mac focus timer you start by pulling a paw Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:32+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7309,
+      "source": "product_hunt",
+      "sourceId": "1283600",
+      "title": "Clips by Plastic",
+      "url": "https://www.producthunt.com/products/clips-by-plastic",
+      "owner": null,
+      "language": null,
+      "description": "Lyric video ads for every part of your song, on the beat Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7310,
+      "source": "product_hunt",
+      "sourceId": "1291438",
+      "title": "Yourcast 2.0",
+      "url": "https://www.producthunt.com/products/yourcast",
+      "owner": null,
+      "language": null,
+      "description": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7311,
+      "source": "product_hunt",
+      "sourceId": "1285452",
+      "title": "git-flow-next",
+      "url": "https://www.producthunt.com/products/tower",
+      "owner": null,
+      "language": null,
+      "description": "Your favorite Git workflow. Reimagined. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7312,
+      "source": "product_hunt",
+      "sourceId": "1286064",
+      "title": "How It Spread",
+      "url": "https://www.producthunt.com/products/how-it-spread",
+      "owner": null,
+      "language": null,
+      "description": "See how anything went viral, from the first post Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:57:57+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7313,
+      "source": "product_hunt",
+      "sourceId": "1283538",
+      "title": "Openstatus Incident Management",
+      "url": "https://www.producthunt.com/products/openstatus-2",
+      "owner": null,
+      "language": null,
+      "description": "Incident management for small teams Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:58:03+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
+    },
+    {
+      "id": 7314,
+      "source": "product_hunt",
+      "sourceId": "1291620",
+      "title": "Papermark Data Rooms",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "owner": null,
+      "language": null,
+      "description": "Secure data rooms your AI agents can run. Live in < 60 sec. Discussion | Link",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-25T16:58:09+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": null
     }
   ]
 }
