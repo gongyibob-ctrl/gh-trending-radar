@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-25T17:02:13.789570+00:00",
+  "generatedAt": "2026-10-26T05:57:32.587998+00:00",
   "totals": {
-    "items": 7314,
+    "items": 7331,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 3912,
+      "other": 3929,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 2218,
+      "?": 2235,
       "other": 1
     },
     "bySource": {
       "github_trending": 270,
-      "hn": 3546,
+      "hn": 3563,
       "product_hunt": 3498
     }
   },
@@ -40379,7 +40379,7 @@
       "topics": [],
       "rationale": "Aggregates free LLM provider tiers behind one API, highlighting demand for cheap resilient inference routing.",
       "stars": 37186,
-      "stars7dDelta": 0,
+      "stars7dDelta": null,
       "hnPoints": null
     },
     {
@@ -96839,8 +96839,8 @@
       ],
       "topics": [],
       "rationale": "Persistent memory layer for coding agents, letting different LLM tools resume work without re-briefing.",
-      "stars": 13454,
-      "stars7dDelta": 2781,
+      "stars": 13576,
+      "stars7dDelta": 2414,
       "hnPoints": null
     },
     {
@@ -100965,7 +100965,7 @@
       "topics": [],
       "rationale": "Runtime and control plane for dense sandboxed agent deployments, pointing to demand for agent ops infrastructure.",
       "stars": 5686,
-      "stars7dDelta": 155,
+      "stars7dDelta": 111,
       "hnPoints": null
     },
     {
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 46288,
-      "stars7dDelta": 15039,
+      "stars": 47287,
+      "stars7dDelta": 15105,
       "hnPoints": null
     },
     {
@@ -129198,8 +129198,8 @@
         "long-term-memory"
       ],
       "rationale": null,
-      "stars": 10999,
-      "stars7dDelta": 1048,
+      "stars": 11073,
+      "stars7dDelta": 814,
       "hnPoints": null
     },
     {
@@ -147572,7 +147572,7 @@
       ],
       "rationale": null,
       "stars": 45706,
-      "stars7dDelta": 2281,
+      "stars7dDelta": 1501,
       "hnPoints": null
     },
     {
@@ -168601,8 +168601,8 @@
         "ziwei-doushu"
       ],
       "rationale": null,
-      "stars": 7483,
-      "stars7dDelta": 706,
+      "stars": 7876,
+      "stars7dDelta": 1099,
       "hnPoints": null
     },
     {
@@ -169605,8 +169605,8 @@
         "windows"
       ],
       "rationale": null,
-      "stars": 4646,
-      "stars7dDelta": 753,
+      "stars": 5208,
+      "stars7dDelta": 1315,
       "hnPoints": null
     },
     {
@@ -169625,8 +169625,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 11459,
-      "stars7dDelta": 682,
+      "stars": 11864,
+      "stars7dDelta": 1087,
       "hnPoints": null
     },
     {
@@ -169647,7 +169647,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 129
+      "hnPoints": 138
     },
     {
       "id": 7266,
@@ -169667,7 +169667,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 74
+      "hnPoints": 97
     },
     {
       "id": 7267,
@@ -170027,7 +170027,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 289
+      "hnPoints": 355
     },
     {
       "id": 7285,
@@ -170047,7 +170047,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 456
+      "hnPoints": 515
     },
     {
       "id": 7286,
@@ -170147,7 +170147,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 227
+      "hnPoints": 244
     },
     {
       "id": 7291,
@@ -170187,7 +170187,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 588
+      "hnPoints": 616
     },
     {
       "id": 7293,
@@ -170219,8 +170219,8 @@
         "vibecoding"
       ],
       "rationale": null,
-      "stars": 1254,
-      "stars7dDelta": 0,
+      "stars": 2021,
+      "stars7dDelta": 767,
       "hnPoints": null
     },
     {
@@ -170241,7 +170241,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 16
+      "hnPoints": 211
     },
     {
       "id": 7295,
@@ -170281,7 +170281,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 96
+      "hnPoints": 138
     },
     {
       "id": 7297,
@@ -170301,13 +170301,13 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 368
+      "hnPoints": 394
     },
     {
       "id": 7298,
       "source": "hn",
       "sourceId": "50233347",
-      "title": "A Mathematician Reads the AI Future",
+      "title": "A mathematician reads the AI future",
       "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
       "owner": "artninja1988",
       "language": null,
@@ -170321,7 +170321,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 3
+      "hnPoints": 57
     },
     {
       "id": 7299,
@@ -170642,6 +170642,346 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 7315,
+      "source": "hn",
+      "sourceId": "50238739",
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "owner": "vardhan1237",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:47:42+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 44
+    },
+    {
+      "id": 7316,
+      "source": "hn",
+      "sourceId": "50238620",
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "owner": "gmays",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:47:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 24
+    },
+    {
+      "id": 7317,
+      "source": "hn",
+      "sourceId": "50227041",
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "owner": "lumbroso",
+      "language": null,
+      "description": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming:<p>(a) the first problem is how to do <i>oversight</i> and <i>what</i> do oversight <i>of</i> and this is solved through the ORRCF (for  Options, Recommendation, Rationale, Confidence, Falsifier) question format (in which models are supposed to surface all their doubts with fully fleshed out recommendations, with falsifier, to be approved or overridden)<p>(b) the second problem is how to scaffold sustai",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:47:59+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 22
+    },
+    {
+      "id": 7318,
+      "source": "hn",
+      "sourceId": "50239041",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
+      "owner": "yazeedaloyoun",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 7319,
+      "source": "hn",
+      "sourceId": "50210696",
+      "title": "Who Cares Whether Academics Use AI to Write?",
+      "url": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
+      "owner": "Anon84",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:15+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 7320,
+      "source": "hn",
+      "sourceId": "50233779",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "owner": "sungam",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:22+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 503
+    },
+    {
+      "id": 7321,
+      "source": "hn",
+      "sourceId": "50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "owner": "minimaxir",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 233
+    },
+    {
+      "id": 7322,
+      "source": "hn",
+      "sourceId": "50213610",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "owner": "laybak",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:36+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 34
+    },
+    {
+      "id": 7323,
+      "source": "hn",
+      "sourceId": "50227330",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "owner": "Gcarter08",
+      "language": null,
+      "description": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI.<p>Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, ",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:44+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 56
+    },
+    {
+      "id": 7324,
+      "source": "hn",
+      "sourceId": "50234699",
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "owner": "hacker_v_s",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:51+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 36
+    },
+    {
+      "id": 7325,
+      "source": "hn",
+      "sourceId": "50237813",
+      "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+      "url": "https://freehire.me/",
+      "owner": "i_strelov",
+      "language": null,
+      "description": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I&#x27;ve looked at a lot of these solutions over the years and found it really hard to find the right mix of tools in an open-source offering.<p>I&#x27;ve contributed to a few issues now and worked closely with the maintainer. I&#x27;ve watched this evolve over the last few months. I feel it&#x27;s rea",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:48:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 9
+    },
+    {
+      "id": 7326,
+      "source": "hn",
+      "sourceId": "50233294",
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "owner": "hmokiguess",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:49:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 198
+    },
+    {
+      "id": 7327,
+      "source": "hn",
+      "sourceId": "50237852",
+      "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
+      "url": "https://www.sazabi.com/blog/introducing-cve-now",
+      "owner": "shcallaway",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:49:28+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 7328,
+      "source": "hn",
+      "sourceId": "50237773",
+      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+      "url": "https://rainbowsay.ai/",
+      "owner": "gigapotential",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:49:37+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 5
+    },
+    {
+      "id": 7329,
+      "source": "hn",
+      "sourceId": "50236828",
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "owner": "levzettelin",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:49:45+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 47
+    },
+    {
+      "id": 7330,
+      "source": "hn",
+      "sourceId": "50237680",
+      "title": "Ask HN: Is it not possible to enroll for Apple Developer anymore?",
+      "url": "https://news.ycombinator.com/item?id=50237680",
+      "owner": "olalonde",
+      "language": null,
+      "description": "I&#x27;ve been trying to enroll for Apple Developer for over a month and nothing works.<p>The Apple Developer app won&#x27;t accept my Canadian passport for identity verification. The enrollment is for a Delaware LLC, so my Apple account region is set to US. I can&#x27;t switch the account region to Canada either, because I haven&#x27;t lived there in years and don&#x27;t have a Canadian bank card.<p>If I enroll through the website, the enrollment gets approved, I accept the term and, when it&#x",
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:49:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 17
+    },
+    {
+      "id": 7331,
+      "source": "hn",
+      "sourceId": "50230995",
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "owner": "MrBuddyCasino",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-10-26T05:51:09+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 96
     }
   ]
 }
