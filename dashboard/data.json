@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-26T09:20:36.768640+00:00",
+  "generatedAt": "2026-11-26T22:08:16.501002+00:00",
   "totals": {
-    "items": 9078,
+    "items": 9091,
     "byBucket": {
       "data": 140,
       "ai-agent": 711,
       "ai-app": 1140,
       "ai-infra": 660,
       "devtool": 453,
-      "other": 5676,
+      "other": 5689,
       "security": 272,
       "web-framework": 26
     },
@@ -17,12 +17,12 @@
       "dev": 1918,
       "both": 1068,
       "C": 1023,
-      "?": 3982,
+      "?": 3995,
       "other": 1
     },
     "bySource": {
       "github_trending": 296,
-      "hn": 4280,
+      "hn": 4293,
       "product_hunt": 4502
     }
   },
@@ -128266,8 +128266,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 78505,
-      "stars7dDelta": 2720,
+      "stars": 78814,
+      "stars7dDelta": 2833,
       "hnPoints": null
     },
     {
@@ -173688,8 +173688,8 @@
         "typescript"
       ],
       "rationale": null,
-      "stars": 27963,
-      "stars7dDelta": 2189,
+      "stars": 28141,
+      "stars7dDelta": 2180,
       "hnPoints": null
     },
     {
@@ -193284,8 +193284,8 @@
         "whisper"
       ],
       "rationale": null,
-      "stars": 11277,
-      "stars7dDelta": 2983,
+      "stars": 11482,
+      "stars7dDelta": 2961,
       "hnPoints": null
     },
     {
@@ -197944,8 +197944,8 @@
       "tags": [],
       "topics": [],
       "rationale": null,
-      "stars": 9404,
-      "stars7dDelta": 2089,
+      "stars": 9575,
+      "stars7dDelta": 2110,
       "hnPoints": null
     },
     {
@@ -197985,8 +197985,8 @@
         "privacy-manifest"
       ],
       "rationale": null,
-      "stars": 6697,
-      "stars7dDelta": 4948,
+      "stars": 6980,
+      "stars7dDelta": 4792,
       "hnPoints": null
     },
     {
@@ -202357,23 +202357,32 @@
       "url": "https://github.com/yetone/magpie",
       "owner": "yetone",
       "language": "Go",
-      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "description": "Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.",
       "createdAt": "2026-09-23T16:22:35Z",
       "firstSeenAt": "2026-11-24T00:28:06+00:00",
       "bucket": "other",
       "audience": "?",
       "tags": [],
       "topics": [
+        "ai-agents",
+        "chatgpt",
+        "claude",
         "claude-code",
         "codex",
         "deepseek",
         "gemini-cli",
+        "github-copilot",
+        "glm",
+        "kimi",
+        "linux",
         "llm",
-        "macos"
+        "llm-gateway",
+        "macos",
+        "windows"
       ],
       "rationale": null,
-      "stars": 41776,
-      "stars7dDelta": 1307,
+      "stars": 42001,
+      "stars7dDelta": 1532,
       "hnPoints": null
     },
     {
@@ -203723,8 +203732,8 @@
         "openai-compatible"
       ],
       "rationale": null,
-      "stars": 87605,
-      "stars7dDelta": 1619,
+      "stars": 88134,
+      "stars7dDelta": 2148,
       "hnPoints": null
     },
     {
@@ -204165,7 +204174,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 458
+      "hnPoints": 463
     },
     {
       "id": 8978,
@@ -204185,7 +204194,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 346
+      "hnPoints": 353
     },
     {
       "id": 8979,
@@ -204205,7 +204214,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 400
+      "hnPoints": 401
     },
     {
       "id": 8980,
@@ -204225,7 +204234,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 244
+      "hnPoints": 251
     },
     {
       "id": 8981,
@@ -204265,7 +204274,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 219
+      "hnPoints": 223
     },
     {
       "id": 8983,
@@ -204305,7 +204314,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 50
+      "hnPoints": 104
     },
     {
       "id": 8985,
@@ -205044,8 +205053,8 @@
         "whatsapp-bot"
       ],
       "rationale": null,
-      "stars": 3688,
-      "stars7dDelta": 146,
+      "stars": 3968,
+      "stars7dDelta": 426,
       "hnPoints": null
     },
     {
@@ -205086,7 +205095,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 121
+      "hnPoints": 128
     },
     {
       "id": 9023,
@@ -205106,7 +205115,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 254
+      "hnPoints": 269
     },
     {
       "id": 9024,
@@ -205146,7 +205155,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 444
+      "hnPoints": 542
     },
     {
       "id": 9026,
@@ -205346,7 +205355,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 370
+      "hnPoints": 638
     },
     {
       "id": 9036,
@@ -205366,7 +205375,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 253
+      "hnPoints": 391
     },
     {
       "id": 9037,
@@ -205386,7 +205395,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 30
+      "hnPoints": 125
     },
     {
       "id": 9038,
@@ -205426,7 +205435,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 222
+      "hnPoints": 448
     },
     {
       "id": 9040,
@@ -205446,7 +205455,7 @@
       "rationale": null,
       "stars": null,
       "stars7dDelta": null,
-      "hnPoints": 14
+      "hnPoints": 177
     },
     {
       "id": 9041,
@@ -206156,7 +206165,7 @@
       "url": "https://www.producthunt.com/products/ground-2",
       "owner": null,
       "language": null,
-      "description": "Related synthetic tables where every key and total holds Discussion | Link",
+      "description": "Generate high quality synthetic data for testing or training Discussion | Link",
       "createdAt": null,
       "firstSeenAt": "2026-11-26T09:18:54+00:00",
       "bucket": "other",
@@ -206207,6 +206216,266 @@
       "stars": null,
       "stars7dDelta": null,
       "hnPoints": null
+    },
+    {
+      "id": 9079,
+      "source": "hn",
+      "sourceId": "50660180",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "owner": "jlelse",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:00+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 3
+    },
+    {
+      "id": 9080,
+      "source": "hn",
+      "sourceId": "50652527",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "owner": "seizethecheese",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:06+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 153
+    },
+    {
+      "id": 9081,
+      "source": "hn",
+      "sourceId": "50658910",
+      "title": "Top-cited AI scientists at four US companies compared",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "owner": "kkk4seis",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:13+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 9082,
+      "source": "hn",
+      "sourceId": "50653477",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "owner": "ritzaco",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:23+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 165
+    },
+    {
+      "id": 9083,
+      "source": "hn",
+      "sourceId": "50657070",
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://github.com/rxliuli/sim-drop",
+      "owner": "rxliuli",
+      "language": null,
+      "description": "Hi HN, I made a small macOS utility for my own iOS simulator workflow.<p>I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID folders or running simctl), and on the iPhone Duo simulator I couldn&#x27;t even drag and drop images onto the window at all.<p>SimDrop puts every running iOS simulator in Finder&#x27;s sidebar (under Locations) with two folders:<p>- Downloads&#x2F; (Files app &gt; On My iPhone &gt; Downloads)\n- Phot",
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:31+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 25
+    },
+    {
+      "id": 9084,
+      "source": "hn",
+      "sourceId": "50655868",
+      "title": "Show HN: I wrote an entire Vim manual over 4 years",
+      "url": "http://themouseless.dev/vim/",
+      "owner": "thanato0s",
+      "language": null,
+      "description": "I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim.<p>When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features. Of course at the time I did the vimtutor, but it was too dense for me to remember much from it. I also read the entire Vim manual (`:help manual`), but I didn&#x27;t like it: it was too detailed in places (for",
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:52+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 23
+    },
+    {
+      "id": 9085,
+      "source": "hn",
+      "sourceId": "50658963",
+      "title": "DietPi released a new version v10.9",
+      "url": "https://news.ycombinator.com/item?id=50658963",
+      "owner": "stephanstsdietp",
+      "language": null,
+      "description": "DietPi is a lightweight Debian based Linux distribution for SBCs and server systems, with the option to install desktop environments, too. It ships as minimal image but allows to install complete and ready-to-use software stacks with a set of console based shell dialogs and scripts.<p>The source code is hosted on GitHub: https:&#x2F;&#x2F;github.com&#x2F;MichaIng&#x2F;DietPi\nThe main website can be found at: https:&#x2F;&#x2F;dietpi.com&#x2F;\nWikipedia: https:&#x2F;&#x2F;de.wikipedia.org&#x2F;wi",
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:01:58+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 7
+    },
+    {
+      "id": 9086,
+      "source": "hn",
+      "sourceId": "50658093",
+      "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+      "owner": "czottmann",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:02:05+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 31
+    },
+    {
+      "id": 9087,
+      "source": "hn",
+      "sourceId": "50658498",
+      "title": "An Introduction to Uncertainty in Machine Learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "owner": "chrhenning",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:02:16+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 4
+    },
+    {
+      "id": 9088,
+      "source": "hn",
+      "sourceId": "50655798",
+      "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+      "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+      "owner": "goatley",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:02:21+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 24
+    },
+    {
+      "id": 9089,
+      "source": "hn",
+      "sourceId": "50658549",
+      "title": "Poland to create no-fly zone at border after repeated airspace violations",
+      "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "owner": "vrganj",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:02:38+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 14
+    },
+    {
+      "id": 9090,
+      "source": "hn",
+      "sourceId": "50655243",
+      "title": "Back up your Claude Code sessions and use them on any machine",
+      "url": "https://session-vault.dev/",
+      "owner": "me2too",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:02:49+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 16
+    },
+    {
+      "id": 9091,
+      "source": "hn",
+      "sourceId": "50657307",
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "owner": "spoofyroot",
+      "language": null,
+      "description": null,
+      "createdAt": null,
+      "firstSeenAt": "2026-11-26T22:03:18+00:00",
+      "bucket": "other",
+      "audience": "?",
+      "tags": [],
+      "topics": [],
+      "rationale": null,
+      "stars": null,
+      "stars7dDelta": null,
+      "hnPoints": 287
     }
   ]
 }
